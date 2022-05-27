@@ -14,7 +14,7 @@ sections:
           url: /announcements
         - title: Useful Links
           description: Click here for useful links!
-          url: ""
+          url: /resources/resources-for-parents
         - title: Calender
           description: Click here for academic calender!
           url: ""
