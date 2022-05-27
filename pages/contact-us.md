@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Anchor Gree
+agency_name: Anchor Green
 locations:
   - address:
       - 31, Anchorvale Drive
@@ -32,13 +32,13 @@ locations:
     title: MOE Kindergarten @Anchor Green
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6886 1356
+      - email: anchorgreen_ps@moe.edu.sg
+      - other: 6315 9825 (Fax)
+    title: Anchor Green Primary School
   - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - phone: +65 6886 1356
+      - email: mk_anchorgreen@moe.edu.sg
+      - other: 6315 9825 (Fax)
+    title: MOE Kindergarten @Anchor Green
 ---
