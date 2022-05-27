@@ -93,4 +93,4 @@ School bags must be manageable as students might have to move between different 
 
 **Q3)    I did not receive the booklist. Where can I get the information?**
 
-A copy of the booklist has been uploaded to the school website. You can purchase books online. You can access the information [here](https://anchorgreenpri.moe.edu.sg/qql/slot/u530/Resources/2022%20Book%20Lists/AGPS%20P1%20Booklist%202022.pdf).
+A copy of the booklist has been uploaded to the school website. You can purchase books online. You can access the information [here](/files/AGPS%20P1%20Booklist%202022.pdf).
