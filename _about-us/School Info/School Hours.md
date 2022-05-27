@@ -108,3 +108,39 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
   </tr>
 </tbody>
 </table>
+
+### Lunch Time
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-51ln{background-color:#009901;border-color:#ffccc9;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-v8f3{background-color:#efefef;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-vhpo{background-color:#efefef;color:#000000;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-51ln">Levels</th>
+    <th class="tg-51ln">Day</th>
+    <th class="tg-51ln">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vhpo">P3  &amp; P4</td>
+    <td class="tg-vhpo" rowspan="2">Thursday</td>
+    <td class="tg-vhpo">12.15 p.m. to 1 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-v8f3">P5 &amp; P6</td>
+    <td class="tg-v8f3">1.15 p.m. to 2 p.m.</td>
+  </tr>
+</tbody>
+</table>
+
+### Gate Opening Hours
+
