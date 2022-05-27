@@ -131,3 +131,27 @@ Pupils are expected to:
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8wy3{background-color:#efefef;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-f5ug{background-color:#009901;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-hw1o{background-color:#009901;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f5ug"><span style="font-weight:bold;color:#FFF">Types of Major Offences</span></th>
+    <th class="tg-hw1o"><span style="font-weight:bold;color:#FFF">Recommended Actions</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8wy3">- Skipping class (present in school, however fails to attend lessons)<br>- Leaving school grounds without permission during school hours<br>- Truancy<br>- Cheating (tests / examinations)<br>- Forgery<br>- Disruptive Behaviour (causing distraction / hurt onto others)<br>- Open defiance and rudeness<br>- Bullying (in any form)<br>- Use of vulgar language / gestures<br>- Gangsterism<br>- Abuse of technology<br>- Arson<br>- Vandalism (causing permanent damage to property)<br>- Theft / Shoplifting<br>- Assault<br>- Fighting<br>- Smoking<br>- Gambling<br>- Pornography<br>- Possession of weapon</td>
+    <td class="tg-8wy3">- Stern warning<br>- Counselling<br>- Confiscating of materials<br>- Conferencing between teachers, parents and/or school leaders<br>- Behavioural Corrective Duty (BCD)<br>- Reflection Time (RT)<br>- Offence will be keyed in into School Cockpit Offence Module<br>- Caning, depending on the severity of the offences (Caning can be carried out either in the Principal's office or in the classroom or during assembly in the hall)<br>- Cleaning of school property or paying for any item damaged under proof of offence<br>- Any other actions deemed appropriate by the Principal or Vice Principal</td>
+  </tr>
+</tbody>
+</table>
