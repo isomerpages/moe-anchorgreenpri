@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - "Canteen Menu/Stall No 2: Chinese Rice Food Stall.md"
       - "Canteen Menu/Stall No 1: Cold Drinks & Fruits Stall.md"
       - Canteen Menu/.keep
       - Student Care Information.md
