@@ -81,7 +81,7 @@ Support and Transition to Primary School
 
 **Q1)    How can I learn the school song with my child?**  
 
-The school song has been uploaded to the school website. You can access the information [here](https://anchorgreenpri.moe.edu.sg/about-us/school-info/school-song).
+The school song has been uploaded to the school website. You can access the information [here](/about-us/school-info/school-song).
 
   
 
