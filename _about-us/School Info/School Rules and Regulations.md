@@ -68,24 +68,24 @@ Pupils are expected to:
 .tg .tg-2oxp{background-color:#efefef;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-xq07{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-8wy3{background-color:#efefef;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
-.tg .tg-azx3{background-color:#cd9934;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-f5ug{background-color:#009901;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-tdcm{background-color:#efefef;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-azx3" colspan="2"><span style="font-weight:bold">School Attire Guidelines</span></th>
+    <th class="tg-f5ug" colspan="2"><span style="font-weight:bold;color:#FFF">School Attire Guidelines</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-2oxp"><span style="font-weight:bold">Hair</span></td>
-    <td class="tg-8wy3"><span style="font-weight:bold">Fringe</span><br><br>- Fringe must be neat and kept above the eyebrows (for both and girls)<br>- Long fringe must be pinned up (for girls)<br><br><span style="font-weight:bold">Length</span><br><br>- Long hair (below the collar) must be tied up and plaited neatly (for girls)<br>- Hair must be kept short and neat (for boys)<br>- Fanciful hairstyle is not allowed<br><br><span style="font-weight:bold">Facial Hair</span><br><br>- Facial hair such as moustache and beard not allowed  <br><br><span style="font-weight:bold">Grooming</span><br><br>- Hair must not be tinted or dyed (for girls)<br>- Hair must not be tinted, dyed or spiked (for boys)<br><br><span style="font-weight:bold">Hair Accessories</span> <br><br>- All hair accessories must be black or navy-blue and no embellishments are not allowed</td>
+    <td class="tg-8wy3"><span style="font-weight:bold;text-decoration:underline">Fringe</span><br><br>- Fringe must be neat and kept above the eyebrows (for both and girls)<br>- Long fringe must be pinned up (for girls)<br><br><span style="font-weight:bold;text-decoration:underline">Length</span><br><br>- Long hair (below the collar) must be tied up and plaited neatly (for girls)<br>- Hair must be kept short and neat (for boys)<br>- Fanciful hairstyle is not allowed<br><br><span style="font-weight:bold;text-decoration:underline">Facial Hair</span><br><br>- Facial hair such as moustache and beard not allowed  <br><br><span style="font-weight:bold;text-decoration:underline">Grooming</span><br><br>- Hair must not be tinted or dyed (for girls)<br>- Hair must not be tinted, dyed or spiked (for boys)<br><br><span style="font-weight:bold;text-decoration:underline">Hair Accessories</span><span style="text-decoration:underline"> </span><br><br>- All hair accessories must be black or navy-blue and no embellishments are not allowed</td>
   </tr>
   <tr>
     <td class="tg-tdcm"><span style="font-weight:bold">Attire</span></td>
-    <td class="tg-y698"><span style="font-weight:bold;color:#000">Uniform / PE Attire</span><br><br><span style="color:#000">- School uniform must be of appropriate size </span><br><span style="color:#000">- Shorts and skirts must be of knee length </span><br><span style="color:#000">- School uniform must be tucked out at all times</span><br><span style="color:#000">- Pupils are not required to tuck-in their Polo PE T-shirt</span><br><br><span style="font-weight:bold;color:#000">Socks</span><br><br><span style="color:#000">- Ankle socks are not allowed</span><br><span style="color:#000">- Socks should be above ankle length </span><br><br><span style="font-weight:bold;color:#000">Shoes </span><br><br><span style="color:#000">- Only black canvas shoes are allowed </span><br><span style="color:#000">- No sports shoes except on CCA days or when pupil is participating in competitions</span><br><span style="color:#000">- Slip-ons are not allowed</span><br><br><span style="font-weight:bold;color:#000">Name Tag</span><br><br><span style="color:#000">- Name tag should be ironed / sewn on the left side of the school uniform and PE T-shirt and above the school logo</span><br><span style="color:#000"> </span></td>
+    <td class="tg-y698"><span style="font-weight:bold;text-decoration:underline;color:#000">Uniform / PE Attire</span><br><br><span style="color:#000">- School uniform must be of appropriate size </span><br><span style="color:#000">- Shorts and skirts must be of knee length </span><br><span style="color:#000">- School uniform must be tucked out at all times</span><br><span style="color:#000">- Pupils are not required to tuck-in their Polo PE T-shirt</span><br><br><span style="font-weight:bold;text-decoration:underline;color:#000">Socks</span><br><br><span style="color:#000">- Ankle socks are not allowed</span><br><span style="color:#000">- Socks should be above ankle length </span><br><br><span style="font-weight:bold;text-decoration:underline;color:#000">Shoes </span><br><br><span style="color:#000">- Only black canvas shoes are allowed </span><br><span style="color:#000">- No sports shoes except on CCA days or when pupil is participating in competitions</span><br><span style="color:#000">- Slip-ons are not allowed</span><br><br><span style="font-weight:bold;text-decoration:underline;color:#000">Name Tag</span><br><br><span style="color:#000">- Name tag should be ironed / sewn on the left side of the school uniform and PE T-shirt and above the school logo </span></td>
   </tr>
   <tr>
     <td class="tg-2oxp"><span style="font-weight:bold">Accessories</span></td>
@@ -103,3 +103,31 @@ Pupils are expected to:
 *   All pupils are not allowed to have in their possession any weapon.
 *   All pupils are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 *   All pupils are strictly not allowed to bring sharp objects to school such as paper cutters, knives and sharp-pointed scissors. Scissors brought to school must be round-headed.
+
+### Types of Minor and Major Offences
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8wy3{background-color:#efefef;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-f5ug{background-color:#009901;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-hw1o{background-color:#009901;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f5ug"><span style="font-weight:bold;color:#FFF">Types of Minor Offences</span></th>
+    <th class="tg-hw1o"><span style="font-weight:bold;color:#FFF">Recommended Actions</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8wy3">- Late-coming<br>- Failure to complete assignment<br>- Littering<br>- Improper attire and grooming<br>- Disruptive behaviour (creating disturbance in the classroom, school bus or on school grounds)<br>- Vandalism (minor defacing of school property such as writing on desks and walls)</td>
+    <td class="tg-8wy3">- Warning<br>- Counselling<br>- Confiscating of materials<br>- Conferencing between teachers and parents<br>- Cleaning of school property or paying for any item damaged upon proof of offence<br>- Any other actions deemed appropriate by Principal or Vice Principal</td>
+  </tr>
+</tbody>
+</table>
+
