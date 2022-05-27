@@ -59,81 +59,45 @@ Pupils are expected to:
 *   Pupils should be properly and neatly attired at all times. Pupils are to wear the prescribed school uniform and no modification to the uniform is allowed.
 *   Pupils are allowed to wear the PE attire (T-shirt & shorts) to school on days when they have PE lessons and Co-Curricular Activities. (Refer to the page 8 of the pupil’s handbook for examples.)
 
-| School Attire Guidelines |
-| --- |
-| Hair | **Fringe**  
-*   Fringe must be neat and kept above the eyebrows (for both boys and girls)
-*   Long fringe must be pinned up (for girls)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2oxp{background-color:#efefef;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-xq07{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-8wy3{background-color:#efefef;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-azx3{background-color:#cd9934;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-tdcm{background-color:#efefef;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-azx3" colspan="2"><span style="font-weight:bold">School Attire Guidelines</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2oxp"><span style="font-weight:bold">Hair</span></td>
+    <td class="tg-8wy3"><span style="font-weight:bold">Fringe</span><br><br>- Fringe must be neat and kept above the eyebrows (for both and girls)<br>- Long fringe must be pinned up (for girls)<br><br><span style="font-weight:bold">Length</span><br><br>- Long hair (below the collar) must be tied up and plaited neatly (for girls)<br>- Hair must be kept short and neat (for boys)<br>- Fanciful hairstyle is not allowed<br><br><span style="font-weight:bold">Facial Hair</span><br><br>- Facial hair such as moustache and beard not allowed  <br><br><span style="font-weight:bold">Grooming</span><br><br>- Hair must not be tinted or dyed (for girls)<br>- Hair must not be tinted, dyed or spiked (for boys)<br><br><span style="font-weight:bold">Hair Accessories</span> <br><br>- All hair accessories must be black or navy-blue and no embellishments are not allowed</td>
+  </tr>
+  <tr>
+    <td class="tg-tdcm"><span style="font-weight:bold">Attire</span></td>
+    <td class="tg-y698"><span style="font-weight:bold;color:#000">Uniform / PE Attire</span><br><br><span style="color:#000">- School uniform must be of appropriate size </span><br><span style="color:#000">- Shorts and skirts must be of knee length </span><br><span style="color:#000">- School uniform must be tucked out at all times</span><br><span style="color:#000">- Pupils are not required to tuck-in their Polo PE T-shirt</span><br><br><span style="font-weight:bold;color:#000">Socks</span><br><br><span style="color:#000">- Ankle socks are not allowed</span><br><span style="color:#000">- Socks should be above ankle length </span><br><br><span style="font-weight:bold;color:#000">Shoes </span><br><br><span style="color:#000">- Only black canvas shoes are allowed </span><br><span style="color:#000">- No sports shoes except on CCA days or when pupil is participating in competitions</span><br><span style="color:#000">- Slip-ons are not allowed</span><br><br><span style="font-weight:bold;color:#000">Name Tag</span><br><br><span style="color:#000">- Name tag should be ironed / sewn on the left side of the school uniform and PE T-shirt and above the school logo</span><br><span style="color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-2oxp"><span style="font-weight:bold">Accessories</span></td>
+    <td class="tg-xq07"><span style="color:#000">- Only a small pair of ear studs are allowed; no multiple ear studs should be worn at all times</span><br><span style="color:#000">- For safety reasons, any form of wrist bands, e.g. friendship band, jewellery or accessories are allowed to be worn</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tdcm"><span style="font-weight:bold">Nails</span></td>
+    <td class="tg-y698"><span style="color:#000">- Nails must be kept short and clean</span><br><span style="color:#000">- No nail polish is allowed</span> </td>
+  </tr>
+</tbody>
+</table>
 
-**Length**
-
-*   Long hair (below the collar) must be tied up and plaited neatly (for girls)
-*   Hair must be kept short and neat (for boys)
-*   Fanciful hairstyle is not allowed
-
-**Facial Hair**
-
-*   Facial hair such as moustache and beard are not allowed
-
-**Grooming**
-
-*   Hair must not be tinted or dyed (for girls)
-*   Hair must not be tinted, dyed or spiked (for boys)
-
-**Hair Accessories**
-
-*   All hair accessories must be black or navy-blue and no embellishments are allowed
-
-
-
- |
-| Attire  
- | 
-
-**Uniform / PE Attire**
-
-*   School uniform must be of appropriate size
-*   Shorts and skirts must be of knee length
-*   School uniform must be tucked out at all times
-*   Pupils are not required to tuck-in their Polo PE T-shirt
-
-**Socks**
-
-*   Ankle socks are not allowed
-*   Socks should be above ankle length
-
-**Shoes**
-
-*   Only black canvas shoes are allowed
-*   No sports shoes except on CCA Days or when pupil is participating in competitions
-*   Slip-ons are not allowed
-
-**Name Tag**
-
-*   Name tag should be ironed / sewn on the left side of the school uniform and PE T-shirt and above the school logo
-
-
-
- |
-| Accessories  
- | 
-
-*   Only a small pair of ear studs are allowed; no multiple ear studs should be worn at all times
-*   For safety reasons, any form of wrist band, e.g friendship band, jewellery or accessories are allowed to be worn
-
-
-
- |
-| Nails  
- | 
-
-*   Nails must be kept short and clean
-*   No nail polish is allowed
-
-
-
- |
- 
  6.  **Possession of Weapons**
 
 *   All pupils are not allowed to have in their possession any weapon.
