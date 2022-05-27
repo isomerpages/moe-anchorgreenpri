@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Info/School Hours.md
       - School Info/School Song.md
       - School Info/School Homework Policy.md
       - School Info/School Rules and Regulations.md
