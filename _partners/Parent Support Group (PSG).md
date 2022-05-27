@@ -48,6 +48,6 @@ Join our AGPS PSG Family now!
 1.  Please click on the [Google link](https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform) and fill in your details.
 2.  Scan the QR code and fill in your details.
 ![Parent Support Group Registration QR Code](/images/RegisterPSG%20QRcode.png)
-4.  Download the [Membership Form](https://anchorgreenpri.moe.edu.sg/qql/slot/u530/Partnership/PSG/PSG%20Membership%20Form%2025.9.18.pdf) and hand it over to any of our school staff.  
+4.  Download the  and hand it over to any of our school staff.  
 
 **_We look forward to a fulfilling partnership with you!_**
