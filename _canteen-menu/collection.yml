@@ -1,5 +1,4 @@
 collections:
   canteen-menu:
     output: true
-    order:
-      - "Stall No 8: Hot Drinks Food Stall.md"
+    order: []
