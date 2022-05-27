@@ -2,7 +2,6 @@ collections:
   canteen-menu:
     output: true
     order:
-      - "Stall No 2: Chinese Rice Food Stall.md"
       - "Stall No 3: Halal Western Food Stall.md"
       - "Stall No 4: Chinese Chicken Rice Food Stall.md"
       - "Stall No 5: Chinese Noodles Food Stall.md"
