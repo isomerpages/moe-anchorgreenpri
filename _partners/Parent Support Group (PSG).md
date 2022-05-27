@@ -3,6 +3,7 @@ title: Parent Support Group (PSG)
 permalink: /partners/parent-support-group-psg
 description: ""
 ---
+
 Parent Support Group (PSG)
 ==========================
 
@@ -32,3 +33,8 @@ Home, school and the community are three important aspects of a child’s growth
 | Contribute innovative ideas to enhance the quality of school programmes     | Provide advice and support to members on programmes / activities     |
 | Network with and support other parents and encourage them to be involved     | Involve in the planning of special events such as festive celebrations     |
 
+![Parent Support Group 2021 Logo](/images/PSG%202021_Logo.jpg)
+
+![Parent Support Group 2021 Exco Team](/images/PSG%202021_Exco.jpg)
+
+![Parent Support Group 2021 Exco Members](/images/PSG%202021.jpg)
