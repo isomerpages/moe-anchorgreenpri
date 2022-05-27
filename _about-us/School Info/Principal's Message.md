@@ -15,7 +15,7 @@ Our name well epitomizes our passion - a school **Anchored** in our nation's 
 
 Our Anchorlites enjoy rich learning experiences across 4 AGPS Domains - **Aesthetic, coGnitive, Physical, Socio-moral Emotional**. We desire that each child discovers and develops his or her unique blend of interests and aptitudes, and thrive as gracious contributors to the community. To illustrate, our **Aspire, Grow Passion, Serve through the ARTS** Learning for Life Programme (LLP) leverages a holistic Arts Education to build character and strong mastery of fundamentals. 
 
-We value our strong partnerships. They expand learning beyond the classroom and even beyond Singapore. We invite all our parents to join the [Parents Support Group](https://anchorgreenpri.moe.edu.sg/partners/parent-support-group-psg), as we endeavour to bring out the best in every child together.
+We value our strong partnerships. They expand learning beyond the classroom and even beyond Singapore. We invite all our parents to join the [Parents Support Group](/partners/parent-support-group-psg), as we endeavour to bring out the best in every child together.
 
 We invite you to join us, hoist Anchor, and set sail on an exciting journey of discovery and learning. Together, we **Aspire**, **Grow** and **Serve**!
 
