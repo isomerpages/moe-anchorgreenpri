@@ -11,7 +11,7 @@ Dear Parents,
 Kindly refer to the following resources for login issues with SLS.  
   
 [Change Password.pdf](/files/Change%20Password.pdf)  
-[Reset Password.pdf](/files/Reset%20Password.pdf)
+[Reset Password.pdf](/files/Reset%20Password.pdf)<br>
 [Set Password Reset Email Address.pdf](/files/Set%20Password%20Reset%20Email%20Address.pdf)  
   
 Please note that only the following platforms are working well with the platform. Do click on each link if you still have issues on how to troubleshoot.  
