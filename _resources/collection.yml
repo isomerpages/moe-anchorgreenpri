@@ -2,6 +2,11 @@ collections:
   resources:
     output: true
     order:
+      - Resources for Parents/.keep
+      - Resources for Parents/Resources for Parents.md
+      - Resources for Parents/Parents Gateway.md
+      - School Vendors.md
+      - Student Care Information.md
       - Canteen Menu/.keep
       - "Canteen Menu/Stall No 1: Cold Drinks & Fruits Stall.md"
       - "Canteen Menu/Stall No 2: Chinese Rice Food Stall.md"
@@ -10,8 +15,3 @@ collections:
       - "Canteen Menu/Stall No 5: Chinese Noodles Food Stall.md"
       - "Canteen Menu/Stall No 7: Malay Noodles Stall.md"
       - "Canteen Menu/Stall No 8: Hot Drinks Food Stall.md"
-      - Student Care Information.md
-      - School Vendors.md
-      - Resources for Parents/Resources for Parents.md
-      - Resources for Parents/Parents Gateway.md
-      - Resources for Parents/.keep
