@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Student Learning Space (SLS).md
       - Resources for Parents/.keep
       - Resources for Parents/Resources for Parents.md
       - Resources for Parents/Parents Gateway.md
@@ -17,3 +16,4 @@ collections:
       - "Canteen Menu/Stall No 7: Malay Noodles Stall.md"
       - "Canteen Menu/Stall No 8: Hot Drinks Food Stall.md"
       - 2022 Book Lists.md
+      - Student Learning Space (SLS).md
