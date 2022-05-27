@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Resources for Parents.md
+      - Resources for Parents/Parents Gateway.md
       - Resources for Parents/.keep
