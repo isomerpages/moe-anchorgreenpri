@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - School Info/School Hours.md
-      - School Info/School Song.md
-      - School Info/School Homework Policy.md
-      - School Info/School Rules and Regulations.md
-      - School Info/Our Core Values.md
-      - School Info/Our Crest and Motto.md
-      - School Info/Our Vision and Mission.md
-      - School Info/Our Milestones.md
-      - School Info/Principal's Message.md
       - School Info/.keep
+      - School Info/Principal's Message.md
+      - School Info/Our Milestones.md
+      - School Info/Our Vision and Mission.md
+      - School Info/Our Crest and Motto.md
+      - School Info/Our Core Values.md
+      - School Info/School Rules and Regulations.md
+      - School Info/School Homework Policy.md
+      - School Info/School Song.md
+      - School Info/School Hours.md
