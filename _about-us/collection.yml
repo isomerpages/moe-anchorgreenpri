@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Info/Our Core Values.md
       - School Info/Our Crest and Motto.md
       - School Info/Our Vision and Mission.md
       - School Info/Our Milestones.md
