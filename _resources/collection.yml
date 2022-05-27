@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - P1 Orientation 2022/Frequently Asked Questions.md
       - P1 Orientation 2022/.keep
       - Resources for Parents/.keep
       - Resources for Parents/Resources for Parents.md
