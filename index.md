@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for latest announcements
-          url: ""
+          url: /announcements
         - title: Useful Links
           description: Click here for useful links!
           url: ""
