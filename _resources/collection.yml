@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - "Canteen Menu/Stall No 7: Malay Noodles Stall.md"
       - "Canteen Menu/Stall No 5: Chinese Noodles Food Stall.md"
       - "Canteen Menu/Stall No 4: Chinese Chicken Rice Food Stall.md"
       - "Canteen Menu/Stall No 3: Halal Western Food Stall.md"
