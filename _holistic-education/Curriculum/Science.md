@@ -7,8 +7,6 @@ third_nav_title: Curriculum
 Science
 =======
 
-###   
-
 ### Focus
 
 The Science department’s focus is to nurture our pupils to become inquiry learners with the environment@heart.
