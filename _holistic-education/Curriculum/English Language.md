@@ -11,6 +11,7 @@ A Community of Confident and Competent English Learners
 ### Objectives
 *   To nurture confident and effective communicators with the love for reading
 *   The department strives to build a strong foundation of the pupils’ language through rich language learning and equipping them with the receptive skills (listening, reading and viewing), productive skills (speaking, writing and representing) and knowledge about language (grammar and vocabulary).
+
 ### Pedagogy Approaches
 The school adopts STELLAR (Strategies for English Language Learning And Reading) in the teaching of English Language from Primary 1 to Primary 6 and supplements it with our own school-based packages. STELLAR aims to strengthen children’s language and reading skills while promoting a positive attitude towards learning using strategies and age-appropriate materials to engage children in the learning of English.
 ### Key Programmes
@@ -27,7 +28,7 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">MOE Support Programmes</span></th>
+    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">MOE Support Programmes</span></th>
   </tr>
 </thead>
 <tbody>
@@ -53,7 +54,7 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">School-Wide Programmes</span></th>
+    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">School-Wide Programmes</span></th>
   </tr>
 </thead>
 <tbody>
@@ -75,7 +76,7 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Lower Primary Programmes</span></th>
+    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Lower Primary Programmes</span></th>
   </tr>
 </thead>
 <tbody>
