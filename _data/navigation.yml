@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Holistic Education
     collection: holistic-education
-  - title: Example Page
-    url: /example-page/
+  - title: Partners
+    collection: partners
   - title: Contact Us
     url: /contact-us/
