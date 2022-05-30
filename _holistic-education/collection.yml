@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - Curriculum/Mathematics.md
       - Curriculum/English Language.md
       - Curriculum/.keep
