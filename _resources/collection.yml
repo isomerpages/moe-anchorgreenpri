@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - P6 Parents' Briefing 2022.md
       - Resources for Parents/.keep
       - Resources for Parents/Resources for Parents.md
       - Resources for Parents/Parents Gateway.md
@@ -23,3 +22,4 @@ collections:
       - P1 Orientation 2022/AGPS Corporate Video.md
       - P1 Orientation 2022/A Day in AGPS by Kyler Seah, Primary 1.md
       - P1 Orientation 2022/Frequently Asked Questions.md
+      - P6 Parents' Briefing 2022.md
