@@ -2,14 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff/Primary 6 Teaching Staff.md
-      - Staff/Primary 5 Teaching Staff.md
-      - Staff/Primary 4 Teaching Staff.md
-      - Staff/Primary 3 Teaching Staff.md
-      - Staff/Primary 2 Teaching Staff.md
-      - Staff/Primary 1 Teaching Staff.md
-      - Staff/Key Personnel.md
-      - Staff/.keep
       - School Info/.keep
       - School Info/Principal's Message.md
       - School Info/Our Milestones.md
@@ -20,3 +12,11 @@ collections:
       - School Info/School Homework Policy.md
       - School Info/School Song.md
       - School Info/School Hours.md
+      - Staff/.keep
+      - Staff/Primary 6 Teaching Staff.md
+      - Staff/Primary 5 Teaching Staff.md
+      - Staff/Primary 4 Teaching Staff.md
+      - Staff/Primary 3 Teaching Staff.md
+      - Staff/Primary 2 Teaching Staff.md
+      - Staff/Primary 1 Teaching Staff.md
+      - Staff/Key Personnel.md
