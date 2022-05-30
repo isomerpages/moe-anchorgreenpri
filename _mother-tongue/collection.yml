@@ -2,6 +2,6 @@ collections:
   mother-tongue:
     output: true
     order:
-      - Tamil Language Teachers.md
-      - Malay Language Teachers.md
       - Chinese Language Teachers.md
+      - Malay Language Teachers.md
+      - Tamil Language Teachers.md
