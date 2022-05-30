@@ -2,12 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - HBL INFO/.keep
-      - HBL INFO/Setting Expectations.md
-      - HBL INFO/Portal Links.md
-      - HBL INFO/Timetable.md
-      - HBL INFO/Helpline Information.md
-      - HBL INFO/Important Updates.md
       - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
@@ -21,6 +15,12 @@ collections:
       - Curriculum/Information Technology.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
-      - Programmes/ALP (ELEA).md
       - Programmes/.keep
+      - Programmes/ALP (ELEA).md
       - Programmes/LLP (AGPS ARTS).md
+      - HBL INFO/.keep
+      - HBL INFO/Setting Expectations.md
+      - HBL INFO/Portal Links.md
+      - HBL INFO/Timetable.md
+      - HBL INFO/Helpline Information.md
+      - HBL INFO/Important Updates.md
