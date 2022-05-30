@@ -12,12 +12,6 @@ collections:
       - School Info/School Homework Policy.md
       - School Info/School Song.md
       - School Info/School Hours.md
-      - Staff/Allied Educators.md
-      - Staff/Executive and Administrative Staff (EAS).md
-      - Staff/LSM and LSP Teachers.md
-      - Staff/Senior and Lead Teachers.md
-      - Staff/PE Arts and Music Teachers.md
-      - Staff/Mother Tongue Teachers.md
       - Staff/.keep
       - Staff/Key Personnel.md
       - Staff/Primary 1 Teaching Staff.md
@@ -26,3 +20,9 @@ collections:
       - Staff/Primary 4 Teaching Staff.md
       - Staff/Primary 5 Teaching Staff.md
       - Staff/Primary 6 Teaching Staff.md
+      - Staff/Mother Tongue Teachers.md
+      - Staff/PE Arts and Music Teachers.md
+      - Staff/Senior and Lead Teachers.md
+      - Staff/LSM and LSP Teachers.md
+      - Staff/Executive and Administrative Staff (EAS).md
+      - Staff/Allied Educators.md
