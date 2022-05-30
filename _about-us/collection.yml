@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/.keep
       - School Info/.keep
       - School Info/Principal's Message.md
       - School Info/Our Milestones.md
