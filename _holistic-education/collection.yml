@@ -2,9 +2,9 @@ collections:
   holistic-education:
     output: true
     order:
-      - Curriculum/Character and Citizenship Education.md
       - Curriculum/.keep
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
       - Curriculum/Mother Tongue.md
+      - Curriculum/Character and Citizenship Education.md
