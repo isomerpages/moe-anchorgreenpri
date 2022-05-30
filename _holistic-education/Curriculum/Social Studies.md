@@ -7,7 +7,6 @@ third_nav_title: Curriculum
 Social Studies
 ==============
 
-###   
 
 ### Vision
 
