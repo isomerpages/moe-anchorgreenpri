@@ -2,4 +2,5 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - MK Staff.md
       - About MK.md
