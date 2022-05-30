@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - HBL INFO/Helpline Information.md
       - HBL INFO/Timetable.md
       - HBL INFO/Portal Links.md
       - HBL INFO/Setting Expectations.md
