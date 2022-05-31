@@ -2,4 +2,5 @@ collections:
   celebrations:
     output: true
     order:
+      - 2019/P1 Camp 2019.md
       - 2019/.keep
