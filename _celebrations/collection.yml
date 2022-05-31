@@ -2,6 +2,7 @@ collections:
   celebrations:
     output: true
     order:
+      - 2019/Children's Day Celebration.md
       - 2019/Teachers' Day Celebrations.md
       - 2019/Say It Art Loud.md
       - 2019/Music & Art Appreciation Week.md
