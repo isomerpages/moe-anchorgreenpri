@@ -2,6 +2,7 @@ collections:
   celebrations:
     output: true
     order:
+      - 2021/.keep
       - 2020/.keep
       - 2020/P1 Camp 2020.md
       - 2020/P6 I Cube Adventure Camp.md
