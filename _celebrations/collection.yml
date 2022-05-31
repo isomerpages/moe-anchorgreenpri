@@ -2,6 +2,7 @@ collections:
   celebrations:
     output: true
     order:
+      - 2019/Flower Planting @ ECO Garden.md
       - 2019/Cyber Wellness Day.md
       - 2019/Art Beat.md
       - 2019/Sportsman Oath.md
