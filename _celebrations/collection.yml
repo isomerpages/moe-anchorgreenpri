@@ -2,6 +2,7 @@ collections:
   celebrations:
     output: true
     order:
+      - 2019/Drama Skit.md
       - 2019/National Day Celebrations.md
       - 2019/Chucky Bird and Friends (Assembly Programme).md
       - 2019/Lower Primary Spell bound Final.md
