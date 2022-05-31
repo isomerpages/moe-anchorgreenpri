@@ -2,6 +2,7 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - MK Activities/Chinese New Year 2021.md
       - MK Activities/.keep
       - MK Staff.md
       - About MK.md
