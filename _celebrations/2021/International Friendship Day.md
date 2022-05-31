@@ -11,4 +11,3 @@ third_nav_title: "2021"
 ![Students engaged in the Friendship Dance](/images/ifd2021-3.jpg)
 
 ![Getting into the grove](/images/ifd2021-4.jpg)
-
