@@ -2,5 +2,6 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - MK Activities/.keep
       - MK Staff.md
       - About MK.md
