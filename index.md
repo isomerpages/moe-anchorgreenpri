@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Anchor Green Primary School
+description: Anchor Green Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -19,3 +19,4 @@ sections:
           description: Click here for academic calender!
           url: ""
 ---
+
