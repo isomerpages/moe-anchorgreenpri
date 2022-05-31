@@ -2,28 +2,6 @@ collections:
   celebrations:
     output: true
     order:
-      - 2022/.keep
-      - 2022/Chinese New Year 2022.md
-      - 2022/Total Defence Day 2022.md
-      - 2022/International Friendship Day 2022.md
-      - 2022/Prefect's Investiture 2022.md
-      - 2021/.keep
-      - 2021/P1 Camp 2021.md
-      - 2021/P1 P5 Buddy Programme.md
-      - 2021/Chinese New Year 2021.md
-      - 2021/Total Defence Day 2021.md
-      - 2021/International Friendship Day.md
-      - 2021/P6 I Cube Camp 2021.md
-      - 2021/P5 Adventure Camp 2021.md
-      - 2021/Racial Harmony Day 2021.md
-      - 2021/NDP 2021.md
-      - 2020/.keep
-      - 2020/P1 Camp 2020.md
-      - 2020/P6 I Cube Adventure Camp.md
-      - 2020/Pongal Festival.md
-      - 2020/National School Games 2020 Opening Ceremony.md
-      - 2020/Chinese New Year 2020.md
-      - 2020/Virtual Gift of Gratitude Wall.md
       - 2019/.keep
       - 2019/P1 Camp 2019.md
       - 2019/Ponggal Festival.md
@@ -44,3 +22,25 @@ collections:
       - 2019/Say It Art Loud.md
       - 2019/Teachers' Day Celebrations.md
       - 2019/Children's Day Celebration.md
+      - 2020/.keep
+      - 2020/P1 Camp 2020.md
+      - 2020/P6 I Cube Adventure Camp.md
+      - 2020/Pongal Festival.md
+      - 2020/National School Games 2020 Opening Ceremony.md
+      - 2020/Chinese New Year 2020.md
+      - 2020/Virtual Gift of Gratitude Wall.md
+      - 2021/.keep
+      - 2021/P1 Camp 2021.md
+      - 2021/P1 P5 Buddy Programme.md
+      - 2021/Chinese New Year 2021.md
+      - 2021/Total Defence Day 2021.md
+      - 2021/International Friendship Day.md
+      - 2021/P6 I Cube Camp 2021.md
+      - 2021/P5 Adventure Camp 2021.md
+      - 2021/Racial Harmony Day 2021.md
+      - 2021/NDP 2021.md
+      - 2022/.keep
+      - 2022/Chinese New Year 2022.md
+      - 2022/Total Defence Day 2022.md
+      - 2022/International Friendship Day 2022.md
+      - 2022/Prefect's Investiture 2022.md
