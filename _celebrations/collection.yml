@@ -2,6 +2,7 @@ collections:
   celebrations:
     output: true
     order:
+      - 2021/Racial Harmony Day 2021.md
       - 2021/P5 Adventure Camp 2021.md
       - 2021/P6 I Cube Camp 2021.md
       - 2021/International Friendship Day.md
