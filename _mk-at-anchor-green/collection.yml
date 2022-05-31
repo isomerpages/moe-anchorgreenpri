@@ -2,6 +2,7 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - MK Activities/Hari Raya 2021.md
       - MK Activities/Neighbourhood Walk 2021.md
       - MK Activities/Total Defence Day 2021.md
       - MK Activities/K1 Tea Session 2021.md
