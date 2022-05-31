@@ -2,11 +2,11 @@ collections:
   celebrations:
     output: true
     order:
-      - 2022/Prefect's Investiture 2022.md
-      - 2022/International Friendship Day 2022.md
-      - 2022/Total Defence Day 2022.md
-      - 2022/Chinese New Year 2022.md
       - 2022/.keep
+      - 2022/Chinese New Year 2022.md
+      - 2022/Total Defence Day 2022.md
+      - 2022/International Friendship Day 2022.md
+      - 2022/Prefect's Investiture 2022.md
       - 2021/.keep
       - 2021/P1 Camp 2021.md
       - 2021/P1 P5 Buddy Programme.md
