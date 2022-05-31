@@ -2,6 +2,8 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - About MK.md
+      - MK Staff.md
       - MK Activities/.keep
       - MK Activities/Chinese New Year 2021.md
       - MK Activities/Earth Day 2021.md
@@ -10,5 +12,3 @@ collections:
       - MK Activities/Total Defence Day 2021.md
       - MK Activities/Neighbourhood Walk 2021.md
       - MK Activities/Hari Raya 2021.md
-      - MK Staff.md
-      - About MK.md
