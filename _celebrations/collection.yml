@@ -2,6 +2,7 @@ collections:
   celebrations:
     output: true
     order:
+      - 2019/Sportsman Oath.md
       - 2019/Total Defence Day.md
       - 2019/Chinese New Year Celebrations.md
       - 2019/Ponggal Festival.md
