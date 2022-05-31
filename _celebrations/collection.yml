@@ -2,16 +2,16 @@ collections:
   celebrations:
     output: true
     order:
-      - 2021/NDP 2021.md
-      - 2021/Racial Harmony Day 2021.md
-      - 2021/P5 Adventure Camp 2021.md
-      - 2021/P6 I Cube Camp 2021.md
-      - 2021/International Friendship Day.md
-      - 2021/Total Defence Day 2021.md
-      - 2021/Chinese New Year 2021.md
-      - 2021/P1 P5 Buddy Programme.md
-      - 2021/P1 Camp 2021.md
       - 2021/.keep
+      - 2021/P1 Camp 2021.md
+      - 2021/P1 P5 Buddy Programme.md
+      - 2021/Chinese New Year 2021.md
+      - 2021/Total Defence Day 2021.md
+      - 2021/International Friendship Day.md
+      - 2021/P6 I Cube Camp 2021.md
+      - 2021/P5 Adventure Camp 2021.md
+      - 2021/Racial Harmony Day 2021.md
+      - 2021/NDP 2021.md
       - 2020/.keep
       - 2020/P1 Camp 2020.md
       - 2020/P6 I Cube Adventure Camp.md
