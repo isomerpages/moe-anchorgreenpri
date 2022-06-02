@@ -115,5 +115,3 @@ The Parents Gateway is a one-stop mobile app for parents that allows schools to 
     </div>
 	</li>  
 </ul>
-
-
