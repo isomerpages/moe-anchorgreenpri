@@ -16,33 +16,34 @@ The Science department’s focus is to nurture our pupils to become inquiry lear
 
 **In line with the aims of the Primary Science Syllabus, Anchor Green**
 
-*   provides pupils with experiences which build on their interest in and stimulate their curiosity about their environment
-*   provides pupils with basic scientific terms and concepts to help them understand themselves and the world around them
-*   provides pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry
-*   prepares pupils towards using scientific knowledge and methods in making personal decisions
-*   helps pupils appreciate how science influences people and the environment
+*   provides pupils with experiences which build on their interest in and stimulate their&nbsp;curiosity&nbsp;about their environment
+*   provides pupils&nbsp;with basic scientific terms and concepts&nbsp;to help them understand themselves and the world around them
+*   provides pupils with opportunities to&nbsp;develop skills, habits of mind and attitudes&nbsp;necessary for scientific inquiry
+*   prepares pupils towards&nbsp;using scientific knowledge and methods&nbsp;in making personal decisions
+*   helps pupils&nbsp;appreciate how science influences&nbsp;people and the environment
 
   
 
 ### Pedagogical Approaches
 
-![Pedagogical Approaches](/images/Pedagogical%20Approaches.png)
+<img style="width:40%" src="/images/Pedagogical%20Approaches.png">
 
-Central to the curriculum framework is the inculcation of the spirit of scientific inquiry.
+Central to the curriculum framework is the inculcation of the&nbsp;spirit of scientific inquiry.
 
 The conduct of inquiry is founded on three integral domains of
 
-a.    Knowledge, Understanding and Application
+a.&nbsp;&nbsp;&nbsp; Knowledge, Understanding and Application
 
-b.    Skills and Processes
+b.&nbsp;&nbsp;&nbsp; Skills and Processes
 
-c.    Ethics and Attitudes
+c.&nbsp;&nbsp;&nbsp; Ethics and Attitudes
 
 So, inquiry is grounded in knowledge, issues and questions that relate to the roles played by science in daily life, society and the environment.
 
-Anchor Green has adopted the 5-E inquiry approach where pupils go through a series of cognitive processes to learn, understand and apply a scientific concept. They are:
+Anchor Green has adopted the 5-E inquiry approach where pupils go through a series of cognitive processes to learn, understand and apply a scientific concept.&nbsp;They are:
 
 ![5-E inquiry approach](/images/5-E%20inquiry%20approach.png)
+
 
 **Engage:**
 
@@ -73,18 +74,21 @@ Pupils will assess their knowledge, skills and abilities. Activities are carried
 
 **Science Alive at Anchor Green:**
 
-![Science Alive at Anchor Green](/images/Science%20Alive%20at%20Anchor%20Green.jpg)
+<img style="width:50%" src="/images/Science%20Alive%20at%20Anchor%20Green.jpg">
+
 The Primary 6 Pupils explaining Science concepts to their schoolmates.
 
 **Science Challenge @ Anchor Green:**
 
-![Science Challenge @ Anchor Green](/images/Science%20Challenge%20@%20Anchor%20Green.jpg)
+<img style="width:50%" src="/images/Science%20Challenge%20@%20Anchor%20Green.jpg">
 
-The Tallest Tower challenge was organised for the P4 pupils.  The teamwork was excellent.
+The Tallest Tower challenge was organised for the P4 pupils. &nbsp;The teamwork was excellent.
 
 **Creative Science Innovators:**
 
 ![Creative Science Innovators](/images/Creative%20Science%20Innovators.jpg)
+
+<img style="width:50%" src="/images/Creative%20Science%20Innovators.jpg">
 
 Pupils playing with the toys created by their fellow schoolmates.
 
@@ -92,6 +96,7 @@ Pupils playing with the toys created by their fellow schoolmates.
 
 ![Sengkang Wetland Learning Trail](/images/Sengkang%20Wetland%20Learning%20Trail.jpg)
 
+
 Pupils were engaged in activities at the Active, Beautiful and Clean Stations at the Sengkang Wetlands.
 
-![Sengkang Wetland Learning Trail2](/images/Sengkang%20Wetland%20Learning%20Trail2.jpg)
+<img style="width:40%" src="/images/Sengkang%20Wetland%20Learning%20Trail2.jpg">
