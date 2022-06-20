@@ -8,7 +8,7 @@ Principal's Message
 ===================
 
 <img src="/images/Wesley%20Cheong.jpg"  
-style="width:65%">
+style="width:55%">
 
 Spend some time at Anchor Green, and you'll notice how deeply we care for our students. We believe **All** our children hold **Great** potential to make **Positive** impact on **Society**.
 
