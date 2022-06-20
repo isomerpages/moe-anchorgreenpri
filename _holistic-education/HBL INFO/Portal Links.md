@@ -121,3 +121,34 @@ Click on this [link](/files/How%20to%20Login%20to%20Google%20Classroom%20For%20
   
 
 _Do note that at this point, some users may face login issues to Google Classroom. We seek your patience and kind understanding in this matter as the ETD looks for a workaround solution._
+
+Zoom
+====
+
+### Etiquettes
+----------
+
+All Anchorlites are expected to observe the following etiquettes during Zoom lessons.
+
+*   Use your full name before attending a Zoom session
+*   Do not use virtual background
+*   Switch on your video
+*   Mute yourself
+*   Use the "Raise Hand" function to seek permission to speak
+*   Speak politely and respectfully when you are given permission to talk
+*   Do not interrupt others who are talking
+*   Do not use the Chat function to spam messages. Use it only when you are told to do so.
+
+  
+
+Before the start of Zoom lessons, all Anchorlites are to:
+
+*   find a quiet and conducive space to have the Zoom session
+*   use a headset/earpiece to listen to your teacher
+*   wear PE attire
+*   ensure that no food or drink is within reach
+
+### Zoom Links
+----------
+
+Zoom links will be put up in SLS Announcement page a day before the Zoom session. This is to ensure that confidentiality and safety of the meeting. Do not share the Zoom link to anyone else, especially through social media platforms.
