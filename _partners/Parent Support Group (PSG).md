@@ -47,7 +47,9 @@ Join our AGPS PSG Family now!
 
 1.  Please click on the [Google link](https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform) and fill in your details.
 2.  Scan the QR code and fill in your details.
-![Parent Support Group Registration QR Code](/images/RegisterPSG%20QRcode.png)
+<img src="/images/RegisterPSG%20QRcode.png"  
+style="width:40%">
+
 4.  Download the Membership Form and hand it over to any of our school staff.  
 
 **_We look forward to a fulfilling partnership with you!_**
