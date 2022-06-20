@@ -7,7 +7,8 @@ third_nav_title: School Info
 Principal's Message
 ===================
 
-![Principal of Ancho Green Primary School, Mr. Wesley Cheong](/images/Wesley%20Cheong.jpg)
+<img src="/images/Wesley%20Cheong.jpg"  
+style="width:65%">
 
 Spend some time at Anchor Green, and you'll notice how deeply we care for our students. We believe **All** our children hold **Great** potential to make **Positive** impact on **Society**.
 
