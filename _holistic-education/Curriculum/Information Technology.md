@@ -30,14 +30,18 @@ The ICT department aims to develop pupils:
 *   Cyberwellness Mobile Trails (P5 and P6)
 *   ICT Integrated Project Work (P3- P5)
 
-![Pupils collaborating in preparation for their Project Work Presentation](/images/Pupils%20collaborating%20in%20preparation%20for%20their%20Project%20Work%20Presentation.jpg)
+<img style="width:70%" src="/images/Pupils%20collaborating%20in%20preparation%20for%20their%20Project%20Work%20Presentation.jpg">
+
 Pupils collaborating in preparation for their Project Work Presentation.
 
-![Pupils in Action during the Project Work Exhibition Day](/images/Pupils%20in%20Action%20during%20the%20Project%20Work%20Exhibition%20Day.jpg)
+<img style="width:70%" src="/images/Pupils%20in%20Action%20during%20the%20Project%20Work%20Exhibition%20Day.jpg">
+
 Pupils in Action during the Project Work Exhibition Day!
 
-![Pupils are having fun during the Cyberwellness Trails.](/images/Pupils%20are%20having%20fun%20during%20the%20Cyberwellness%20Trails.jpg)
+<img style="width:70%" src="/images/Pupils%20are%20having%20fun%20during%20the%20Cyberwellness%20Trails.jpg">
+
 Pupils are having fun during the Cyberwellness Trails.
 
-![Learning can be anywhere, anytime](/images/Learning%20can%20be%20anywhere,%20anytime.jpg)
+<img style="width:70%" src="/images/Learning%20can%20be%20anywhere,%20anytime.jpg">
+
 Learning can be anywhere, anytime!
