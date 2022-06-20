@@ -53,3 +53,31 @@ MOE’s Desired Outcomes of Education, the 21st Century Core Competencies and CC
 
 	*   Function effectively as active citizens
 	*   Stay rooted to Singapore
+
+### School-wide Key Programmes
+
+*   Form Teacher Guidance Period (FTGP)  
+    
+*   School based Values Education  
+    
+*   Student Leadership Development  
+    
+*   Service to the community - Values in Action (VIA)  
+    
+*   Lifeskills  
+    
+*   Assembly Talks  
+    
+*   Education and Career Guidance (ECG)  
+    
+*   Growing Years Series (GYS)  
+    
+*   National Education infused in various NE core events and curriculum  
+    
+*   Award and Recognition Programme – Reinforce pupils’ display and upholding of positive values  
+    
+*   Counselling Service  
+    
+*   Learning and Behavioural Support (LBS) for special need students  
+    
+*   Life Circle and SEEDERS Programme - an intervention programme for at-risk students
