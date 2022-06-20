@@ -130,3 +130,9 @@ CCA plays an integral role in the holistic education of students. Through the AG
   </tr>
 </tbody>
 </table>
+
+Aesthetics
+
+Cognitive
+
+Physical
