@@ -20,7 +20,7 @@ To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&
 
 **Student Leadership Framework**
 
-![Student Leadership Framework](/images/Student%20Leadership%20Framework.png)
+<img style="width:40%" src="/images/Student%20Leadership%20Framework.png">
 
 <br>
 
