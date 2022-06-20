@@ -27,6 +27,4 @@ AGPS has partnered family central for this programme since 2013. This partnershi
 </html>
 
   
-
-  
 AGPS has partnered CNB for the first time to provide students with a look into this career. CNB gave an assembly presentation to our students on what role does a CNB officer play, as well as advice students on the harmful effects of drugs, etc. Students were also given a chance to head down to their headquarters to have a look into their day to day experience in the office.
