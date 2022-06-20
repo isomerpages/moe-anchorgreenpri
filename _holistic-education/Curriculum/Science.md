@@ -26,7 +26,7 @@ The Science department’s focus is to nurture our pupils to become inquiry lear
 
 ### Pedagogical Approaches
 
-<img style="width:40%" src="/images/Pedagogical%20Approaches.png">
+<img src="/images/Pedagogical%20Approaches.png" style="width:40%">
 
 Central to the curriculum framework is the inculcation of the&nbsp;spirit of scientific inquiry.
 
@@ -74,21 +74,19 @@ Pupils will assess their knowledge, skills and abilities. Activities are carried
 
 **Science Alive at Anchor Green:**
 
-<img style="width:50%" src="/images/Science%20Alive%20at%20Anchor%20Green.jpg">
+<img src="/images/Science%20Alive%20at%20Anchor%20Green.jpg" style="width:50%">
 
 The Primary 6 Pupils explaining Science concepts to their schoolmates.
 
 **Science Challenge @ Anchor Green:**
 
-<img style="width:50%" src="/images/Science%20Challenge%20@%20Anchor%20Green.jpg">
+<img src="/images/Science%20Challenge%20@%20Anchor%20Green.jpg" style="width:50%">
 
 The Tallest Tower challenge was organised for the P4 pupils. &nbsp;The teamwork was excellent.
 
 **Creative Science Innovators:**
 
-![Creative Science Innovators](/images/Creative%20Science%20Innovators.jpg)
-
-<img style="width:50%" src="/images/Creative%20Science%20Innovators.jpg">
+<img src="/images/Creative%20Science%20Innovators.jpg" style="width:50%">
 
 Pupils playing with the toys created by their fellow schoolmates.
 
@@ -99,4 +97,4 @@ Pupils playing with the toys created by their fellow schoolmates.
 
 Pupils were engaged in activities at the Active, Beautiful and Clean Stations at the Sengkang Wetlands.
 
-<img style="width:40%" src="/images/Sengkang%20Wetland%20Learning%20Trail2.jpg">
+<img src="/images/Sengkang%20Wetland%20Learning%20Trail2.jpg" style="width:40%">
