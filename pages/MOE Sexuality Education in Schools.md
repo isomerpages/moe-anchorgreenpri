@@ -174,3 +174,12 @@ c. Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
+**Information for Parents**
+
+8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Letter%20to%20Parents%20Sexuality%20Ed%2018%20Jan%2022%20page%2012.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to your child’s Form Teacher by 31th January 2022. The form will also be circulated to parents of the P5 cohort via Parents’ Gateway. 
+
+10\. Parents can contact the school at 68861356 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
