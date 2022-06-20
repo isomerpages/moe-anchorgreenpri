@@ -92,6 +92,7 @@ The password for GC follows this format:     Agps12542021p(level)     _e.g
 
 URL for the website is [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
 
+
 ### Browser Recommendations
 -----------------------
 
@@ -100,8 +101,8 @@ URL for the website is [https://workspace.google.com/dashboard](https://workspa
 | Operating System | Platform | 
 | -------- | -------- | 
 | Windows     | Google Chrom     | 
-| Android     | Download Google Classroom App via PlayStore     | 
-| iOS     | Download Google Classroom App via AppStore     | 
+| Android     | [Download Google Classroom App via PlayStore](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_SG&gl=US) | 
+| iOS     | [Download Google Classroom App via PlayStore](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_SG&gl=US)     | 
 
 
 
