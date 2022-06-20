@@ -34,21 +34,21 @@ The Concrete-Pictorial-Abstract (CPA) approach, based on Jerome Bruner's concept
 **Enhanced Learning Support Mathematics (LSM)**
 Programme designed for pupils who need extra support in acquiring basic numeracy skills when they are in Pri 1 and 2
 
-![Enhanced Learning Support Mathematics (LSM)](/images/Enhanced%20Learning%20Support%20Mathematics%20(LSM).png)
+<img style="width:30%" src="/images/Enhanced%20Learning%20Support%20Mathematics%20(LSM).png">
 
 <br>
 
 **Math Bridging Programme**  
 Programme designed to provide continual math support for Pri 3 pupils formerly from LSM
 
-![Math Bridging Programme](/images/Math%20Bridging%20Programme.png)
+<img style="width:30%" src="/images/Math%20Bridging%20Programme.png">
 
 <br>
 
 **ICAN (Improvement in Confidence and Achievement in Numeracy) Programme**  
 Programme designed to support teachers of low progress pupils to help them improve their confidence and achievement in math
 
-![ICAN (Improvement in Confidence and Achievement in Numeracy) Programme](/images/Improvement%20in%20Confidence%20and%20Achievement%20in%20Numeracy%20Programme.png)
+<img style="width:30%" src="/images/Improvement%20in%20Confidence%20and%20Achievement%20in%20Numeracy%20Programme.png">
 
 <br>
 
@@ -56,7 +56,7 @@ Programme designed to support teachers of low progress pupils to help them impro
 <br>
 Programme designed for P1, P2 and P3 pupils to stimulate interest in Mathematics through hands-on activities.
 
-![Math Trail](/images/Math%20Trail.png)
+<img style="width:30%" src="/images/Math%20Trail.png">
 
 <br>
 
@@ -64,10 +64,10 @@ Programme designed for P1, P2 and P3 pupils to stimulate interest in Mathematics
 <br>
 Programme designed for P4, P5 and P6 pupils to appreciate Mathematics beyond the classroom and textbooks.
 
-![Real-life Mathematics](/images/Real-life%20Mathematics.png)
+<img style="width:30%" src="/images/Real-life%20Mathematics.png">
 
 **Parents Learning Festival**
 <br>
 A workshop for parents to learn about guiding their child in the learning of math
 
-![Parents Learning Festival](/images/Parents%20Learning%20Festival.png)
+<img style="width:30%" src="/images/Parents%20Learning%20Festival.png">
