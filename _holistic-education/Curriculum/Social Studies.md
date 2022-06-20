@@ -72,16 +72,23 @@ The NE Learning Journeys at the different levels are listed in the table below:
 P4 to P6 Learning Journeys
 --------------------------
 
-![P4 to P6 Learning Journeys](/images/P4%20to%20P6%20Learning%20Journeys.jpg)
+<img src="/images/P4%20to%20P6%20Learning%20Journeys.jpg"  
+style="width:70%">
 
 Social Studies Lessons
 ----------------------
 
-![Engaged in collaborative discussion on a given topic](/images/Collaborative%20discussion%20on%20a%20given%20topic.jpg)
+<img src="/images/Collaborative%20discussion%20on%20a%20given%20topic.jpg"  
+style="width:70%">
+
 Engaged in collaborative discussion on a given topic
 
-![Map reading time](/images/Map%20reading%20time.jpg)
+<img src="/images/Map%20reading%20time.jpg"  
+style="width:70%">
+
 Map reading time!
 
-![We sequenced the timeline for Ancient Civilisation](/images/Sequenced%20the%20timeline%20for%20Ancient%20Civilisation.jpg)
+<img src="/images/Sequenced%20the%20timeline%20for%20Ancient%20Civilisation.jpg"  
+style="width:70%">
+
 We sequenced the timeline for Ancient Civilisation!
