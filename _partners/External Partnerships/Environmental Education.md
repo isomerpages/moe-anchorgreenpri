@@ -7,7 +7,8 @@ third_nav_title: External Partnerships
 Environmental Education
 =======================
 
-![Ministry of the Environment and Water Resources Logo](/images/MEWR-logo.jpg)
+<img src="/images/MEWR-logo.jpg"  
+style="width:80%">
 
 [**Ministry of the Environment and Water Resource (MEWR)**](https://www.mse.gov.sg/)
 
