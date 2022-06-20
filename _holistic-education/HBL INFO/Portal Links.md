@@ -74,3 +74,42 @@ URL for the website is [https://learning.moe.edu.sg](https://learning.moe.edu.s
 ----------
 
 You can access the user guide by clicking on this [link](https://mo.learning.moe.edu.sg/sls-user-guide/vle/student/index.html). You need to login to SLS first before accessing this user guide.
+
+Google Classroom (GC)
+=====================
+
+### Login Details
+-------------
+
+Your child has been issued the username and password for GC. The format for the username is as follows:  
+Your child's full name (as written in Birth Certificate) appended with students.edu.sg  
+_Example: Rabi'atul Adawiyah binte Ali_     **ICON Username: rabiatul_adawiyah_ali@students.edu.sg**  
+  
+
+The password for GC follows this format:     Agps12542021p(level)     _e.g. **Agps12542021p5**_
+
+  
+
+URL for the website is [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+
+### Browser Recommendations
+-----------------------
+
+
+
+| Operating System | Platform | 
+| -------- | -------- | 
+| Windows     | Google Chrom     | 
+| Android     | Download Google Classroom App via PlayStore     | 
+| iOS     | Download Google Classroom App via AppStore     | 
+
+
+
+### User Guide
+----------
+
+Click on this [link](https://anchorgreenpri.moe.edu.sg/qql/slot/u530/Home-Based%20Learning%20Information/How%20to%20Login%20to%20Google%20Classroom%20For%20Parents.pdf) to learn how to access Google Classroom from home.
+
+  
+
+_Do note that at this point, some users may face login issues to Google Classroom. We seek your patience and kind understanding in this matter as the ETD looks for a workaround solution._
