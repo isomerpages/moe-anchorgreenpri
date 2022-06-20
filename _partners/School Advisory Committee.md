@@ -6,8 +6,6 @@ description: ""
 School Advisory Committee
 =========================
 
-###   
-
 ### Our SAC Members (2022)
 
 *   Mr Albert Fong Say Kim - Chairman
@@ -19,4 +17,6 @@ School Advisory Committee
 *   Mr Chua Hian Yong - Member
 *   Mr Teo Chiang Chai - Member
 
-![Members of the School Advisory Committee ](/images/School%20Advisory%20Committee.jpg)
+
+<img src="/images/School%20Advisory%20Committee.jpg"  
+style="width:70%">
