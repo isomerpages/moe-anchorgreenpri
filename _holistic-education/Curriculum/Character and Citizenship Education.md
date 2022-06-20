@@ -34,7 +34,8 @@ Respect, Integrity, Confidence and Excellence
 
 MOE’s Desired Outcomes of Education, the 21st Century Core Competencies and CCE Learning Outcomes (LOs) are central to the actualisation of the CCE Curriculum. We believe that values are best ‘caught’ – transmitted via experiential learning experience, capitalising on teachable moments and infused across all platforms. Hence, we adopt a ‘whole-school-approach’ in the intentional teaching and reinforcement of these values and competencies throughout the Total Curriculum. Teachers are a key and essential component to our pupils’ values education journey. They capture these teachable moments, facilitate discussion amongst pupils to draw out and reinforce their understanding and acquisition of these values and competencies.
 
-![Framework for 21st Century Competencies and Student Outcomes](/images/CCE.png)
+<img src="/images/CCE.png"  
+style="width:50%">
 
 **To help pupils thrive in a rapidly-changing, volatile world, MOE has identified the above competencies that are increasingly important in the 21st Century. Schools are encouraged to imbue these competencies into a holistic education framework to better prepare our pupils for the future.**  
 **The Core Values and Competencies are:**  
