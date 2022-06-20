@@ -5,7 +5,8 @@ description: ""
 ---
 Cyberwellness refers to the well-being of Internet users and a healthy cyber culture for the Internet community. It involves an understanding of the risks of harmful online behaviour, an awareness of how to protect oneself and other Internet users from such behaviour, and a recognition of the power of the Internet to benefit oneself and the community at large.
 
-![MOE Cyberwellness Framework](/images/MOE%20Cyberwellness%20Framework.jpg)
+<img src="/images/MOE%20Cyberwellness%20Framework.jpg"  
+style="width:80%">
 
 ### Principles:
 
@@ -46,4 +47,6 @@ Anchor Green Cyberwellness programme aims to promote the positive well-being of 
 
 AGPS Cyberwellness Education comprises a) the CW lessons in the formal curriculum and b) the school-wide programmes (e.g. CW assembly talks, CW activities) to reinforce the importance of CW and its messages.
 
-![AGPS Cyberwellness Programme](/images/AGPS%20Cyberwellness%20Programme.jpg)
+
+<img src="/images/AGPS%20Cyberwellness%20Programme.jpg"  
+style="width:80%">
