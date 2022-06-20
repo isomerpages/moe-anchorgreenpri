@@ -40,4 +40,5 @@ The 3H approach; _Heart_ , _Head_ and _Hands_ (representing Attitude, Awar
     
 *   Action (Hands). This is where pupils internalise the learning through participating in the projects that are self-initiated with guidance from teachers.
 
-![EE2](/images/EE2.png)
+<img src="/images/EE2.png"  
+style="width:80%">
