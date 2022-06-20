@@ -9,7 +9,7 @@ Our Crest & Motto
 
 
 <img src="/images/AGPS%20SCHOOL%20CREST.jpg"
-style="width:60%">
+style="width:50%">
 
 Our school logo embodies an anchor encased by a blue arc on top and a green arc at the bottom. The anchor symbolizes stability and well-grounded hope. Just as the anchor remains firm and steady amidst stormy waters, we want every pupil in Anchor Green to be resilient and grow in character.  
   
