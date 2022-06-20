@@ -104,6 +104,15 @@ URL for the website is [https://workspace.google.com/dashboard](https://workspa
 | Android     | [Download Google Classroom App via PlayStore](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_SG&gl=US) | 
 | iOS     | [Download Google Classroom App via PlayStore](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_SG&gl=US)     | 
 
+Do note that when accessing via tablets, the following should be installed as well: <br>
+
+<img src="/images/Google%20Doc.jpg"  
+style="width:50%">
+
+<img src="/images/Google%20Slides.png"  
+style="width:35%">
+
+
 ### User Guide
 ----------
 
@@ -112,4 +121,3 @@ Click on this [link](/files/How%20to%20Login%20to%20Google%20Classroom%20For%20
   
 
 _Do note that at this point, some users may face login issues to Google Classroom. We seek your patience and kind understanding in this matter as the ETD looks for a workaround solution._
-
