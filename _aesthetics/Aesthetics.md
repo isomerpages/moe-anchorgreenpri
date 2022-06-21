@@ -288,19 +288,3 @@ description: ""
 </table>
 
 
-
-<br>
-
-Art Club
-
-Choir
-
-Drama
-
-Festive Drums
-
-Guzheng
-
-Handbells
-
-Modern Dance
