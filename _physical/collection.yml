@@ -2,6 +2,7 @@ collections:
   physical:
     output: true
     order:
+      - Wushu.md
       - Netball.md
       - Floorball (Girls).md
       - Floorball (Boys).md
