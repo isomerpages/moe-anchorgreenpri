@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Drama.md
       - Choir.md
       - Art Club.md
       - Aesthetics.md
