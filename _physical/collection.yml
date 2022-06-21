@@ -2,10 +2,10 @@ collections:
   physical:
     output: true
     order:
-      - Wushu.md
-      - Netball.md
-      - Floorball (Girls).md
-      - Floorball (Boys).md
-      - Cub Scouts.md
-      - Basketball.md
       - Physical.md
+      - Basketball.md
+      - Cub Scouts.md
+      - Floorball (Boys).md
+      - Floorball (Girls).md
+      - Netball.md
+      - Wushu.md
