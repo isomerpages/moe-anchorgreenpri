@@ -56,5 +56,6 @@ Our Junior Boys came 4th in the 2019 Zonal Rounds of Inter-school Competition
 ![Attacking is the best form of defence](/images/Basketball%202.jpg)
 Attacking is the best form of defence
 
-![Listening to the strategy as instructed by the coach](/images/Basketball%203.jpg)
+<img src="/images/Basketball%203.jpg"  
+style="width:75%">
 Listening to the strategy as instructed by the coach
