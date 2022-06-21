@@ -2,5 +2,6 @@ collections:
   aesthetics:
     output: true
     order:
+      - Choir.md
       - Art Club.md
       - Aesthetics.md
