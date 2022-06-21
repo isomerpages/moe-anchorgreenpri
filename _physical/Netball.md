@@ -76,7 +76,9 @@ SPSSC North Zone Netball Championships 2019
 
 Junior Division - 3rd
 
-![SPSSC North Zone Netball Championships 2019 Senior Division - 3rd](/images/SPSSC%20North%20Zone%20Netball%20Championships%202019(2).jpg)
+
+<img src="/images/SPSSC%20North%20Zone%20Netball%20Championships%202019(2).jpg"  
+style="width:70%">
 SPSSC North Zone Netball Championships 2019
 
 Senior Division - 3rd
