@@ -58,8 +58,12 @@ We hope our IN club members will be able to navigate the digital landscape with 
 </tbody>
 </table>
 
-![Taking a closer view of living things with the camera](/images/Digital%20Media%201.jpg)
+
+<img src="/images/Digital%20Media%201.jpg"  
+style="width:50%">
 Taking a closer view of living things with the camera
 
-![Using MicroBit to light up the house](/images/Digital%20Media%202.jpg)
+
+<img src="/images/Digital%20Media%202.jpg"  
+style="width:50%">
 Using MicroBit to light up the house
