@@ -54,9 +54,9 @@ Through dance, every CCA member appreciates Modern Dance culture and applies the
 ![Singapore Youth Festival 2018](/images/SYF%202018.jpg)
 Singapore Youth Festival 2018
 
-![Exploring different dance techniques](/images/Exploring%20different%20dance%20techniques.png)
+<img src="/images/Exploring%20different%20dance%20techniques.png"  
+style="width:50%">
 Exploring different dance techniques
 
 ![Learning through play - team spirit in Dance](/images/We%20play%20games%20to%20learn%20about%20team%20spirit%20in%20Dance!.jpg)
 Learning through play - team spirit in Dance
-
