@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - Robotics.md
       - Environmental and Innovation Club.md
       - Digital Media (IN) Club.md
       - Chess Club.md
