@@ -47,10 +47,14 @@ The club hopes to provide the opportunity and experience for the students to be 
 </tbody>
 </table>
 
-![Pupils learning how to use Microbit to build their prototypes for their project](/images/Picture%201.jpg)
+
+<img src="/images/Picture%201.jpg"  
+style="width:60%">
 Pupils learning how to use Microbit to help them with the building of their prototypes for their project
 
-![Pupils presenting their final product](/images/Picture%202.jpg)
+
+<img src="/images/Picture%202.jpg"  
+style="width:60%">
 Pupils presenting their final product
 
 ![Getting creative!](/images/Picture%203.jpg)
