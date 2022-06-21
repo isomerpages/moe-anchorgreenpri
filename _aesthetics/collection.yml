@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Modern Dance.md
       - Handbells.md
       - Guzheng.md
       - Festive Drums.md
