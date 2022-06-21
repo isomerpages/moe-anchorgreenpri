@@ -2,11 +2,11 @@ collections:
   aesthetics:
     output: true
     order:
-      - Modern Dance.md
-      - Handbells.md
-      - Guzheng.md
-      - Festive Drums.md
-      - Drama.md
-      - Choir.md
-      - Art Club.md
       - Aesthetics.md
+      - Art Club.md
+      - Choir.md
+      - Drama.md
+      - Festive Drums.md
+      - Guzheng.md
+      - Handbells.md
+      - Modern Dance.md
