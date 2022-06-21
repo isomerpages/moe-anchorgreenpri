@@ -133,6 +133,6 @@ CCA plays an integral role in the holistic education of students. Through the AG
 
 ### [Aesthetics](/holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics)
 
-Cognitive
+### [Cognitive](/holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive)
 
 Physical
