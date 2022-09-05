@@ -1,27 +1,11 @@
 ---
 title: Announcements
-permalink: /announcements
+permalink: /announcements/
 description: ""
 ---
 Announcements
 =============
 
-### Teachers' Awards
-
-Dear Parents and Students,
-
-Let’s recognise our teachers by nominating them for the following awards. Your nomination is greatly appreciated.
-
-Most Inspiring Tamil Teachers' Award 2022  
-([https://www.tamilmurasu.com.sg/](https://www.tamilmurasu.com.sg/))
-
-### 2022 MOE Kindergarten Virtual Open House and Registration Exercise
-
-Is your child turning 5 years old in 2023? The online registration for MOE Kindergarten (MK) 2023 K1 admissions will open from 9am on Friday, 4 February 2022 and close at 4pm on Tuesday, 8 February 2022. To find out more about the pre-school experience at MK, join us at the MK Virtual Open House taking place on Saturday, 29 January 2022, 9.30am - 12.30pm.
-
-Sign up today at [www.moe.gov.sg/mk](https://www.moe.gov.sg/preschool/moe-kindergarten)!
-
-#moekindergarten #ontoastrongstart
 
 ### P1 Orientation 2022
 
@@ -75,5 +59,3 @@ LTA has implemented the “40 km/h When Lights Flash” (WLF) sign and traffic l
 ### Parents Gateway
 
 The Parents Gateway is a one-stop mobile app for parents that allows schools to update parents on programmes and activities, as well as provides a platform for performing administrative matters, like giving consent for their children’s participation in school activities. A two-minute video clip is available on the school’s website for parents to understand the rationale of the Parents Gateway and how to download and use the app.
-
-
