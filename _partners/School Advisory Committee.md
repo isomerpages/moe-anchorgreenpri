@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /partners/school-advisory-committee
+permalink: /partners/school-advisory-committee/
 description: ""
 ---
 School Advisory Committee
@@ -17,6 +17,4 @@ School Advisory Committee
 *   Mr Chua Hian Yong - Member
 *   Mr Teo Chiang Chai - Member
 
-
-<img src="/images/School%20Advisory%20Committee.jpg"  
-style="width:70%">
+![](/images/SAC.jpg)
