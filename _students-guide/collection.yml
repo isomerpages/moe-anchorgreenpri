@@ -1,4 +1,5 @@
 collections:
   students-guide:
     output: true
-    order: []
+    order:
+      - Important Updates.md
