@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - Welfare & Safety.md
