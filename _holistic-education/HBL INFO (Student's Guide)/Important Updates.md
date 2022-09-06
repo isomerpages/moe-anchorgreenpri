@@ -1,15 +1,9 @@
 ---
 title: Important Updates
-permalink: /hbl-info/students-guide/important-updates
+permalink: /hbl-info/students-guide/important-updates/
 description: ""
 third_nav_title: HBL INFO (Student's Guide)
 ---
-
-Important Updates
-=================
-
-  
-
 27 May 2021
 -----------
 
