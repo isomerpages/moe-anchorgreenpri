@@ -2,8 +2,8 @@ collections:
   cce:
     output: true
     order:
-      - Cyberwellness.md
-      - Student Leadership.md
-      - National Education.md
-      - MOE Sexuality Education in Schools.md
       - Welfare & Safety.md
+      - MOE Sexuality Education in Schools.md
+      - National Education.md
+      - Student Leadership.md
+      - Cyberwellness.md
