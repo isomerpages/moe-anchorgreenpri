@@ -1,13 +1,9 @@
 ---
 title: Helpline Information
-permalink: /hbl-info/students-guide/helpline-information
+permalink: /hbl-info/students-guide/helpline-information/
 description: ""
 third_nav_title: HBL INFO (Student's Guide)
 ---
-
-Helpline Information
-====================
-
 Subject-Related and Assignment Matters
 -------------------------------------
 
