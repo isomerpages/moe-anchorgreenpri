@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Cyberwellness.md
       - Student Leadership.md
       - National Education.md
       - MOE Sexuality Education in Schools.md
