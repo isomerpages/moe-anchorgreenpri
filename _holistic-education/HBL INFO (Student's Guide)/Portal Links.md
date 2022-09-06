@@ -1,10 +1,9 @@
 ---
 title: Portal Links
-permalink: /hbl-info/students-guide/portal-links/student-learning-space-sls
+permalink: /hbl-info/students-guide/portal-links/student-learning-space-sls/
 description: ""
 third_nav_title: HBL INFO (Student's Guide)
 ---
-
 Student Learning Space (SLS)
 ============================
 
@@ -108,10 +107,10 @@ URL for the website is [https://workspace.google.com/dashboard](https://workspa
 Do note that when accessing via tablets, the following should be installed as well: <br>
 
 <img src="/images/Google%20Doc.jpg"  
-style="width:50%">
+style="width:40%">
 
 <img src="/images/Google%20Slides.png"  
-style="width:35%">
+style="width:28%">
 
 
 ### User Guide
