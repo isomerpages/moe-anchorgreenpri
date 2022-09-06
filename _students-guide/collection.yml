@@ -2,6 +2,7 @@ collections:
   students-guide:
     output: true
     order:
+      - Portal Links.md
       - Timetable.md
       - Helpline Information.md
       - Important Updates.md
