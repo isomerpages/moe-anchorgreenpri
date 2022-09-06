@@ -14,6 +14,8 @@ Our teachers will provide the necessary support to you and your child/ward. If y
 
 ---
 
-#### Setting Expectations
-#### Portal Links
-####
+* #### Setting Expectations
+* #### Portal Links
+* #### Timetable
+* #### Helpline Information
+* #### Important Updates
