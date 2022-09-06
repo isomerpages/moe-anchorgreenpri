@@ -2,9 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - HBL Info.md
-      - Curriculum/Curriculum.md
       - Curriculum/.keep
+      - Curriculum/Curriculum.md
       - Curriculum/English Language.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
@@ -20,3 +19,4 @@ collections:
       - Programmes/.keep
       - Programmes/ALP (ELEA).md
       - Programmes/LLP (AGPS ARTS).md
+      - HBL Info.md
