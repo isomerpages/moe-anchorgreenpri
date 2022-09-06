@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - National Education.md
       - MOE Sexuality Education in Schools.md
       - Welfare & Safety.md
