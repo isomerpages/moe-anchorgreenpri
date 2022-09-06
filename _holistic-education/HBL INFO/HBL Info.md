@@ -14,8 +14,8 @@ Our teachers will provide the necessary support to you and your child/ward. If y
 
 ---
 
-* #### Setting Expectations
-* #### Portal Links
-* #### Timetable
-* #### Helpline Information
-* #### Important Updates
+* #### [Setting Expectations](/hbl-info/students-guide/setting-expectations/)
+* #### [Portal Links](/hbl-info/students-guide/portal-links/student-learning-space-sls/)
+* #### [Timetable](/hbl-info/students-guide/timetable/)
+* #### [Helpline Information](/hbl-info/students-guide/helpline-information/)
+* #### [Important Updates](/hbl-info/students-guide/important-updates/)
