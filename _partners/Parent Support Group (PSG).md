@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /partners/parent-support-group-psg
+permalink: /partners/parent-support-group-psg/
 description: ""
 ---
 Parent Support Group (PSG)
@@ -32,7 +32,16 @@ Home, school and the community are three important aspects of a child’s growth
 | Contribute innovative ideas to enhance the quality of school programmes     | Provide advice and support to members on programmes / activities     |
 | Network with and support other parents and encourage them to be involved     | Involve in the planning of special events such as festive celebrations     |
 
-![Parent Support Group 2021 Logo](/images/PSG%202021_Logo.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/PSG%202021_Logo.jpg" alt="Parent Support Group 2021 Logo" style="width:50%;">  
+  
+</body>
 
 ![Parent Support Group 2021 Exco Team](/images/PSG%202021_Exco.jpg)
 
@@ -46,9 +55,12 @@ Join our AGPS PSG Family now!
 -----------------------------
 
 1.  Please click on the [Google link](https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform) and fill in your details.
-2.  Scan the QR code and fill in your details.
+
+3.  Scan the QR code and fill in your details.
+
 <img src="/images/RegisterPSG%20QRcode.png"  
-style="width:40%">
+style="width:25%">
+
 
 4.  Download the Membership Form and hand it over to any of our school staff.  
 
