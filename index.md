@@ -16,7 +16,6 @@ sections:
           description: Click here for useful links!
           url: /resources/resources-for-parents
         - title: Calender
-          description: Click here for academic calender!
+          description: Click here for academic calendar!
           url: ""
 ---
-
