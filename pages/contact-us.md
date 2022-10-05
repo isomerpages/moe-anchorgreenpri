@@ -28,7 +28,7 @@ locations:
       - days: KCare
         time: 7.00 a.m. - 7.00 p.m.
         description: ""
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
     title: MOE Kindergarten @Anchor Green
 contacts:
   - content:
