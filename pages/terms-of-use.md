@@ -53,4 +53,4 @@ By accessing and using this Web Site, you shall be deemed to have accepted to be
   
 **Governing Law**
 
-18.  These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
