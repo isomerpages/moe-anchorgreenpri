@@ -8,10 +8,8 @@ third_nav_title: Curriculum
 <thead>
   <tr>
     <th><a href="/holistic-education/curriculum/english-language" target="_blank" rel="noopener noreferrer"><img src="/images/English.jpg" alt="English" width="400" height="300">
-    <th><a href="/holistic-education/curriculum/mathematics" target="_blank" rel="noopener noreferrer"><img src="/images/Mathematics.jpg" alt="Mathematics" width="400" height="300"></th>
-    <th><a href="/holistic-education/curriculum/science" target="_blank" rel="noopener noreferrer"><img src="/images/Science.jpg" alt="Science" width="400" height="300"></th>
-  </tr>
-</thead>
+    <th><a href="/holistic-education/curriculum/mathematics" target="_blank" rel="noopener noreferrer"><img src="/images/Mathematics.jpg" alt="Mathematics" width="400" height="300">
+    <th><a href="/holistic-education/curriculum/science" target="_blank" rel="noopener noreferrer"><img src="/images/Science.jpg" alt="Science" width="400" height="300">
 <tbody>
   <tr>
     <td><a href="/holistic-education/curriculum/mother-tongue" target="_blank" rel="noopener noreferrer"><img src="/images/Mother%20Tongue.jpg" alt="Mother Tongue" width="400" height="300"></td>
