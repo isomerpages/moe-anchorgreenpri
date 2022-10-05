@@ -5,7 +5,9 @@ description: ""
 ---
 Announcements
 =============
+### Group Personal Accident Insurance
 
+The school’s group insurer for 2022 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school.  Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at [https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students). The User Guide can be access through [Student+GPA+User+Guide+-+Parent.pdf](https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf)
 
 ### P1 Orientation 2022
 
@@ -32,9 +34,6 @@ You may also view NEA’s videos on Dengue prevention at the following links; [
 
 Together, let’s play our part in keeping Singapore Dengue free!
 
-### Group Personal Accident Insurance
-
-The school’s group insurer for 2022 is NTUC Income Insurance Co-Operative Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school.  Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa).
 
 ### No Parking Zone within the School Carpark
 
