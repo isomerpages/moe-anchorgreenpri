@@ -20,11 +20,7 @@ third_nav_title: Curriculum
     <td><a href="/holistic-education/curriculum/physical-education" target="_blank" rel="noopener noreferrer"><img src="/images/Physical%20Education.jpg" alt="Physical Education" width="400" height="300">
     <td><a href="/holistic-education/curriculum/aesthetics" target="_blank" rel="noopener noreferrer"><img src="/images/Aesthetics.jpg" alt="Aesthetics" width="400" height="300">
     <td><a href="/holistic-education/curriculum/character-and-citizenship-education" target="_blank" rel="noopener noreferrer"><img src="/images/CCE.jpg" alt="Character and Citizenship Education" width="400" height="300">
-  </tr>
 	<tr>
 	</tr>
   <tr>
     <td><a href="/holistic-education/curriculum/programme-for-active-learning-pal" target="_blank" rel="noopener noreferrer"><img src="/images/Programme%20for%20Active%20Learning.jpg" alt="Programme for Active Learning" width="300" height="200">
-  </tr>
-</tbody>
-</table>
