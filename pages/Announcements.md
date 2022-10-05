@@ -11,7 +11,7 @@ Announcements
 
 Slides for Parents Briefing **(PDF file password protected!)**
 
-Video of AGPS Virtual Tour **(link does not exist!)**
+[Video of AGPS Virtual Tour](https://youtu.be/83LRbqy81VQ)
 
 [Frequently Asked Questions](/announcements/p1-orientation-2022/frequently-asked-questions)
 
