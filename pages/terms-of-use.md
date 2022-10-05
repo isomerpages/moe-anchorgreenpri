@@ -10,7 +10,7 @@ By accessing and using this Web Site, you shall be deemed to have accepted to be
 
 **Proprietary Rights**
 
-2.  This Web Site is maintained by Anchor Green Primary School. It is owned by Anchor Green Primary School.
+2. This Web Site is maintained by Anchor Green Primary School. It is owned by Anchor Green Primary School.
 3. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Anchor Green Primary School.
 
 **Privacy Policy**
@@ -48,9 +48,9 @@ By accessing and using this Web Site, you shall be deemed to have accepted to be
 13.  You must secure permission from Anchor Green Primary School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities.Anchor Green Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
 14.  Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
 15.  In no circumstances shall Anchor Green Primary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
-16.  Anchor Green Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
-17.  Anchor Green Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
+16. Anchor Green Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+17. Anchor Green Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
   
 **Governing Law**
 
-These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+18. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
