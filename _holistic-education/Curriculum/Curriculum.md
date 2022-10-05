@@ -15,7 +15,6 @@ third_nav_title: Curriculum
     <td><a href="/holistic-education/curriculum/mother-tongue" target="_blank" rel="noopener noreferrer"><img src="/images/Mother%20Tongue.jpg" alt="Mother Tongue" width="400" height="300">
     <td><a href="/holistic-education/curriculum/information-technology" target="_blank" rel="noopener noreferrer"><img src="/images/Information%20Technology.jpg" alt="Information Technology" width="400" height="300">
     <td><a href="/holistic-education/curriculum/social-studies" target="_blank" rel="noopener noreferrer"><img src="/images/Social%20Studies.jpg" alt="Social Studies" width="400" height="300">
-  </tr>
   <tr>
     <td><a href="/holistic-education/curriculum/physical-education" target="_blank" rel="noopener noreferrer"><img src="/images/Physical%20Education.jpg" alt="Physical Education" width="400" height="300">
     <td><a href="/holistic-education/curriculum/aesthetics" target="_blank" rel="noopener noreferrer"><img src="/images/Aesthetics.jpg" alt="Aesthetics" width="400" height="300">
