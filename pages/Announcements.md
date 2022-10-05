@@ -30,7 +30,7 @@ d)  Loosening hardened soil
 e)  Covering bamboo pole holders when not in use  
 f)   Clearing the roof gutter and placing Bti insecticide
 
-You may also view NEA’s videos on Dengue prevention at the following links; [https://youtu.be/aOMVON8aqBY](https://youtu.be/aOMVON8aqBY) and [https://youtu.be/b5eM19GjvqM](https://youtu.be/b5eM19GjvqM).
+You may also view NEA’s videos on Dengue prevention at the following link - [Check and Protect our Homes from Dengue](https://youtu.be/aOMVON8aqBY) .
 
 Together, let’s play our part in keeping Singapore Dengue free!
 
