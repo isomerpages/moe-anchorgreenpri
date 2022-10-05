@@ -2,8 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-Privacy Statement
-=================
+### **Privacy Statement**
 
 If you are only browsing this website, we do not capture data that allows us to identify you individually.  
 
