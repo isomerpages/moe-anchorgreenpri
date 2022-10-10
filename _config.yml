@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-anchorgreenpri-staging.netlify.app
 prod: https://moe-anchorgreenpri-prod.netlify.app
-resources_name: photo
+resources_name: test
