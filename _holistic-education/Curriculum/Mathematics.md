@@ -55,14 +55,14 @@ The Math Around Us Home Activities aim to provide opportunities for students to 
 **Excellence 2000 (E2K)**<br>
 The Excellence 2000 programme aims to develop pupils’ independent learning, higher-order thinking and creativity. While providing pupils with the empowerment to learn, this programme strengthens our pupils’ confidence and reinforces their perceptions of self as an independent learner and investigator. All this is done while developing effective personal and cognitive skills and strengthening a love for learning.
 
-<img src="/images/Mathematics/E2K_01.png>
+<img src="/images/Mathematics/E2K_01.png" style="width:60%">
 
 <br>
 
 **LSM and ICAN** <br>
 The LSM and ICAN programmes aim to support students’ confidence in Mathematics through building their foundation of mathematics concepts which are keys to deeper understanding and learning. With a stronger foundation, students' cognitive loads are lessened, significantly allowing them to focus more on problem-solving.
 
-<img style=" style="width:60%">
+<img style="style=">
 
 **P4 Math Project Competition and P5 Math Game Design Competition**
 <br>
@@ -76,15 +76,15 @@ Mathematics @ AGPS
 
 Following closely to the Mathematics Framework by MOE, we aim to equip pupils with the necessary mathematical knowledge and skills for everyday life. To make learning meaningful and effective, teachers capitalize on the Concrete-Pictorial-Abstract approach in their teaching. Pupils are encouraged to explore mathematical concepts through hands-on activities using manipulatives, before they are exposed to the pictorial and abstract stages.
 
-<img style="width:60%" src="/images/MOE%20Math%20Curriculum%20Framework.jpg">
+<img src="/images/MOE%20Math%20Curriculum%20Framework.jpg" style="width:60%">
 
 Our Pupils engaging in activities during Mathematics lessons:
 
 
-<img style="width:80%" src="/images/Mathematics%20Lesson.png">
+<img src="/images/Mathematics%20Lesson.png" style="width:80%">
 
 
-<img style="width:80%" src="/images/Mathematics%20Lesson2.png">
+<img src="/images/Mathematics%20Lesson2.png" style="width:80%">
 
 
-<img style="width:80%" src="/images/Mathematics%20Lesson3.png">
+<img src="/images/Mathematics%20Lesson3.png" style="width:80%">
