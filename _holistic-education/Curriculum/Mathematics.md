@@ -59,32 +59,31 @@ The Excellence 2000 programme aims to develop pupils’ independent learning, hi
 
 <br>
 
-**Real-life Mathematics**
-<br>
-Programme designed for P4, P5 and P6 pupils to appreciate Mathematics beyond the classroom and textbooks.
+**LSM and ICAN** <br>
+The LSM and ICAN programmes aim to support students’ confidence in Mathematics through building their foundation of mathematics concepts which are keys to deeper understanding and learning. With a stronger foundation, students' cognitive loads are lessened, significantly allowing them to focus more on problem-solving.
 
-<img style="width:30%" src="/images/Real-life%20Mathematics.png">
+<img src="/images/Real-life%20Mathematics.png" style="width:30%">
 
 **Parents Learning Festival**
 <br>
 A workshop for parents to learn about guiding their child in the learning of math
 
-<img style="width:30%" src="/images/Parents%20Learning%20Festival.png">
+<img src="/images/Parents%20Learning%20Festival.png" style="width:30%">
 
 Mathematics @ AGPS
 ==================
 
 Following closely to the Mathematics Framework by MOE, we aim to equip pupils with the necessary mathematical knowledge and skills for everyday life. To make learning meaningful and effective, teachers capitalize on the Concrete-Pictorial-Abstract approach in their teaching. Pupils are encouraged to explore mathematical concepts through hands-on activities using manipulatives, before they are exposed to the pictorial and abstract stages.
 
-<img src="/images/MOE%20Math%20Curriculum%20Framework.jpg" style="width:60%">
+<img style="width:60%" src="/images/MOE%20Math%20Curriculum%20Framework.jpg">
 
 Our Pupils engaging in activities during Mathematics lessons:
 
 
-<img src="/images/Mathematics%20Lesson.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson.png">
 
 
-<img src="/images/Mathematics%20Lesson2.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson2.png">
 
 
-<img src="/images/Mathematics%20Lesson3.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson3.png">
