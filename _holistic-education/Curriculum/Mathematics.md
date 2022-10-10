@@ -62,7 +62,7 @@ The Excellence 2000 programme aims to develop pupils’ independent learning, hi
 **LSM and ICAN** <br>
 The LSM and ICAN programmes aim to support students’ confidence in Mathematics through building their foundation of mathematics concepts which are keys to deeper understanding and learning. With a stronger foundation, students' cognitive loads are lessened, significantly allowing them to focus more on problem-solving.
 
-<img src="/images/Mathematics/LSM_ICAN_01.png" style="width:30%">
+<img style="width:60%" src="/images/Mathematics/LSM_ICAN_01.png">
 
 ![](/images/Mathematics/LSM_ICAN_01.png)
 
@@ -70,22 +70,22 @@ The LSM and ICAN programmes aim to support students’ confidence in Mathematics
 <br>
 A workshop for parents to learn about guiding their child in the learning of math
 
-<img src="/images/Parents%20Learning%20Festival.png" style="width:50%">
+<img style="width:50%" src="/images/Parents%20Learning%20Festival.png">
 
 Mathematics @ AGPS
 ==================
 
 Following closely to the Mathematics Framework by MOE, we aim to equip pupils with the necessary mathematical knowledge and skills for everyday life. To make learning meaningful and effective, teachers capitalize on the Concrete-Pictorial-Abstract approach in their teaching. Pupils are encouraged to explore mathematical concepts through hands-on activities using manipulatives, before they are exposed to the pictorial and abstract stages.
 
-<img style="width:60%" src="/images/MOE%20Math%20Curriculum%20Framework.jpg">
+<img src="/images/MOE%20Math%20Curriculum%20Framework.jpg" style="width:60%">
 
 Our Pupils engaging in activities during Mathematics lessons:
 
 
-<img style="width:80%" src="/images/Mathematics%20Lesson.png">
+<img src="/images/Mathematics%20Lesson.png" style="width:80%">
 
 
-<img style="width:80%" src="/images/Mathematics%20Lesson2.png">
+<img src="/images/Mathematics%20Lesson2.png" style="width:80%">
 
 
-<img style="width:80%" src="/images/Mathematics%20Lesson3.png">
+<img src="/images/Mathematics%20Lesson3.png" style="width:80%">
