@@ -38,17 +38,17 @@ is a programme which promotes learning of Mathematics in a different and engagin
 
 <br>
 
-**Math Bridging Programme**  
-Programme designed to provide continual math support for Pri 3 pupils formerly from LSM
+**Curious Mathematician Trail**  
+The AGPS Curious Mathematician Trail aims to provide students with the opportunity to apply Math to their school environment. Students embark on a virtual tour around the school and engage in classroom discussions and activities on how math is related to the school environment.
 
-<img style="width:30%" src="/images/Math%20Bridging%20Programme.png">
+![Curious Mathematician Trail](/images/Mathematics/CuriosMathematicianTrail_01.png)
 
 <br>
 
 **ICAN (Improvement in Confidence and Achievement in Numeracy) Programme**  
 Programme designed to support teachers of low progress pupils to help them improve their confidence and achievement in math
 
-<img style="width:30%" src="/images/Improvement%20in%20Confidence%20and%20Achievement%20in%20Numeracy%20Programme.png">
+<img src="/images/Improvement%20in%20Confidence%20and%20Achievement%20in%20Numeracy%20Programme.png" style="width:30%">
 
 <br>
 
@@ -56,7 +56,7 @@ Programme designed to support teachers of low progress pupils to help them impro
 <br>
 Programme designed for P1, P2 and P3 pupils to stimulate interest in Mathematics through hands-on activities.
 
-<img style="width:30%" src="/images/Math%20Trail.png">
+<img src="/images/Math%20Trail.png" style="width:30%">
 
 <br>
 
@@ -64,28 +64,28 @@ Programme designed for P1, P2 and P3 pupils to stimulate interest in Mathematics
 <br>
 Programme designed for P4, P5 and P6 pupils to appreciate Mathematics beyond the classroom and textbooks.
 
-<img style="width:30%" src="/images/Real-life%20Mathematics.png">
+<img src="/images/Real-life%20Mathematics.png" style="width:30%">
 
 **Parents Learning Festival**
 <br>
 A workshop for parents to learn about guiding their child in the learning of math
 
-<img style="width:30%" src="/images/Parents%20Learning%20Festival.png">
+<img src="/images/Parents%20Learning%20Festival.png" style="width:30%">
 
 Mathematics @ AGPS
 ==================
 
 Following closely to the Mathematics Framework by MOE, we aim to equip pupils with the necessary mathematical knowledge and skills for everyday life. To make learning meaningful and effective, teachers capitalize on the Concrete-Pictorial-Abstract approach in their teaching. Pupils are encouraged to explore mathematical concepts through hands-on activities using manipulatives, before they are exposed to the pictorial and abstract stages.
 
-<img src="/images/MOE%20Math%20Curriculum%20Framework.jpg" style="width:60%">
+<img style="width:60%" src="/images/MOE%20Math%20Curriculum%20Framework.jpg">
 
 Our Pupils engaging in activities during Mathematics lessons:
 
 
-<img src="/images/Mathematics%20Lesson.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson.png">
 
 
-<img src="/images/Mathematics%20Lesson2.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson2.png">
 
 
-<img src="/images/Mathematics%20Lesson3.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson3.png">
