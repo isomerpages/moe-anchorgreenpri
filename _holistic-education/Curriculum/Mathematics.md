@@ -55,37 +55,36 @@ The Math Around Us Home Activities aim to provide opportunities for students to 
 **Excellence 2000 (E2K)**<br>
 The Excellence 2000 programme aims to develop pupils’ independent learning, higher-order thinking and creativity. While providing pupils with the empowerment to learn, this programme strengthens our pupils’ confidence and reinforces their perceptions of self as an independent learner and investigator. All this is done while developing effective personal and cognitive skills and strengthening a love for learning.
 
-![Excellence 2000 (E2K)](/images/Mathematics/E2K_01.png)
+<img src="/images/Mathematics/E2K_01.png>
 
 <br>
 
 **LSM and ICAN** <br>
 The LSM and ICAN programmes aim to support students’ confidence in Mathematics through building their foundation of mathematics concepts which are keys to deeper understanding and learning. With a stronger foundation, students' cognitive loads are lessened, significantly allowing them to focus more on problem-solving.
 
-<img style="width:60%" src="/images/Mathematics/LSM_ICAN_01.png">
+<img style=" style="width:60%">
 
-![](/images/Mathematics/LSM_ICAN_01.png)
-
-**Parents Learning Festival**
+**P4 Math Project Competition and P5 Math Game Design Competition**
 <br>
-A workshop for parents to learn about guiding their child in the learning of math
+Primary 4 students are to submit a poster on how Mathematics is applied in the daily lives, while P5 students tap on ICT Tools to collaborate and create a board game. This learning experience aims to provide student with the opportunity to apply mathematical concepts and for students to show their creativity and innovation. 
 
-<img style="width:50%" src="/images/Parents%20Learning%20Festival.png">
+![ P4 Math Project Competition](/images/Mathematics/P4MathProject_01.png)
+![P5 Math Game Design Competition](/images/Mathematics/P5MathGameDesign_01.png)
 
 Mathematics @ AGPS
 ==================
 
 Following closely to the Mathematics Framework by MOE, we aim to equip pupils with the necessary mathematical knowledge and skills for everyday life. To make learning meaningful and effective, teachers capitalize on the Concrete-Pictorial-Abstract approach in their teaching. Pupils are encouraged to explore mathematical concepts through hands-on activities using manipulatives, before they are exposed to the pictorial and abstract stages.
 
-<img src="/images/MOE%20Math%20Curriculum%20Framework.jpg" style="width:60%">
+<img style="width:60%" src="/images/MOE%20Math%20Curriculum%20Framework.jpg">
 
 Our Pupils engaging in activities during Mathematics lessons:
 
 
-<img src="/images/Mathematics%20Lesson.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson.png">
 
 
-<img src="/images/Mathematics%20Lesson2.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson2.png">
 
 
-<img src="/images/Mathematics%20Lesson3.png" style="width:80%">
+<img style="width:80%" src="/images/Mathematics%20Lesson3.png">
