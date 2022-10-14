@@ -13,7 +13,8 @@ Student Prefects dispatching oranges as wishing good luck and prosperity to thei
 ![Primary 1 students were engrossed in doing their classroom activities](/images/Celebrations/2022/CNY/cny2022-3.jpg)
 Primary 1 students were engrossed in doing their classroom activities
 
-![Students making Tiger Ang Bao as CNY hands-on activities](/images/cny2022-4.jpg)
+![Students making Tiger Ang Bao as CNY hands-on activities](/images/Celebrations/2022/CNY/cny2022-4.jpg)
+Students making Tiger Ang Bao as CNY hands-on activities
 
 ![School Executive committee wishes everyone a Happy Chinese New Year](/images/cny2022-5.jpg)
 
