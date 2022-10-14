@@ -22,5 +22,5 @@ School Executive committee wishes everyone a Happy Chinese New Year
 ![Student welcoming the Year of Tiger with her Tiger head band and Ang Bao](/images/Celebrations/2022/CNY/cny2022-6.jpeg)
 Student welcoming the Year of Tiger with her Tiger head band and Ang Bao
 
-![Lovely P3 students displaying the auspicious word“福”(fu – meaning good fortune )](/images/Celebrations/2022/CNY/cny2022-7.jpeg)
-Lovely P3 students displaying the auspicious word“福”(fu – meaning good fortune)
+![Lovely P3 students displaying the auspicious word “福”(fu – meaning good fortune)](/images/Celebrations/2022/CNY/cny2022-7.jpeg)
+Lovely P3 students displaying the auspicious word “福”(fu – meaning good fortune)
