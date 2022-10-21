@@ -41,7 +41,7 @@ To develop pupils into confident, collaborative and curious learners using their
 **3\. Reading Programme (P1-P6)**
 
 **4\. Conversational Malay and Chinese Courses**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **P3: Beginners and Basic Courses **
+&nbsp; &nbsp;&nbsp;&nbsp; **P3: Beginners and Basic Courses**
 
 ##### Useful Websites
 
