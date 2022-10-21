@@ -28,9 +28,9 @@ To develop pupils into confident, collaborative and curious learners using their
  &nbsp; &nbsp; **P3: ICT Day**&nbsp;<br>
  &nbsp; &nbsp; **P4: MT Cultural Camp and ICT Day**<br> 
  &nbsp; &nbsp; **P5: Drama Appreciation**<br>
- &nbsp; &nbsp; **P6: Good Writer and Language Games**
+ &nbsp; &nbsp; **P6: Good Writer and Language Games**<br>
 
-**2\. Mother Tongue Fortnight Activities **<br>
+**2\. Mother Tongue Fortnight Activities**<br>
 &nbsp; &nbsp; **Theme for P1: Festivals**<br>
 &nbsp; &nbsp; **Theme for P2: Food**<br>
 &nbsp; &nbsp; **Theme for P3: Cultural Arts**<br>
