@@ -52,9 +52,7 @@ Website:&nbsp;[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Conten
 b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
 Website:&nbsp;[https://www.zbschools.sg/](https://www.zbschools.sg/)
 
-c. MConline
-
-&nbsp; &nbsp; &nbsp; &nbsp; Website:&nbsp;[https://www.mconline.sg](https://www.mconline.sg/)
+c. Local and Overseas News 新加坡和海外新闻<br> Website:&nbsp;[https://www.8world.com/so-young/news-in-class](https://www.8world.com/so-young/news-in-class)
 
   
 
