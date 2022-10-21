@@ -7,7 +7,7 @@ third_nav_title: Curriculum
 <table>
 <thead>
   <tr>
-    <th><a rel="noopener noreferrer" href="/holistic-education/curriculum/english-language"><img height="300" width="400" alt="English" src="/images/English.jpg">
+    <th><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/english-language"><img height="300" width="400" alt="English" src="/images/English.jpg">
     </a></th><th><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/mathematics"><img height="300" width="400" alt="Mathematics" src="/images/Mathematics.jpg">
     </a></th><th><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/science"><img height="300" width="400" alt="Science" src="/images/Science.jpg">
 </a></th></tr></thead><tbody>
