@@ -7,17 +7,17 @@ third_nav_title: Curriculum
 <table>
 <thead>
   <tr>
-    <th><a href="/holistic-education/curriculum/english-language" target="_blank" rel="noopener noreferrer"><img src="/images/English.jpg" alt="English" width="400" height="300">
-    <th><a href="/holistic-education/curriculum/mathematics" target="_blank" rel="noopener noreferrer"><img src="/images/Mathematics.jpg" alt="Mathematics" width="400" height="300">
-    <th><a href="/holistic-education/curriculum/science" target="_blank" rel="noopener noreferrer"><img src="/images/Science.jpg" alt="Science" width="400" height="300">
-<tbody>
+    <th><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/english-language"><img height="300" width="400" alt="English" src="/images/English.jpg">
+    </a></th><th><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/mathematics"><img height="300" width="400" alt="Mathematics" src="/images/Mathematics.jpg">
+    </a></th><th><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/science"><img height="300" width="400" alt="Science" src="/images/Science.jpg">
+</a></th></tr></thead><tbody>
   <tr>
-    <td><a href="/holistic-education/curriculum/mother-tongue" target="_blank" rel="noopener noreferrer"><img src="/images/Mother%20Tongue.jpg" alt="Mother Tongue" width="400" height="300">
-    <td><a href="/holistic-education/curriculum/information-technology" target="_blank" rel="noopener noreferrer"><img src="/images/Information%20Technology.jpg" alt="Information Technology" width="400" height="300">
-    <td><a href="/holistic-education/curriculum/social-studies" target="_blank" rel="noopener noreferrer"><img src="/images/Social%20Studies.jpg" alt="Social Studies" width="400" height="300">
-  <tr>
-    <td><a href="/holistic-education/curriculum/physical-education" target="_blank" rel="noopener noreferrer"><img src="/images/Physical%20Education.jpg" alt="Physical Education" width="400" height="300">
-    <td><a href="/holistic-education/curriculum/aesthetics" target="_blank" rel="noopener noreferrer"><img src="/images/Aesthetics.jpg" alt="Aesthetics" width="400" height="300">
-    <td><a href="/holistic-education/curriculum/character-and-citizenship-education" target="_blank" rel="noopener noreferrer"><img src="/images/CCE.jpg" alt="Character and Citizenship Education" width="400" height="300">
-  <tr>
-    <td><a href="/holistic-education/curriculum/programme-for-active-learning-pal" target="_blank" rel="noopener noreferrer"><img src="/images/Programme%20for%20Active%20Learning.jpg" alt="Programme for Active Learning" width="300" height="200">
+    <td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/mother-tongue"><img height="300" width="400" alt="Mother Tongue" src="/images/Mother%20Tongue.jpg">
+    </a></td><td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/information-technology"><img height="300" width="400" alt="Information Technology" src="/images/Information%20Technology.jpg">
+    </a></td><td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/social-studies"><img height="300" width="400" alt="Social Studies" src="/images/Social%20Studies.jpg">
+  </a></td></tr><tr>
+    <td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/physical-education"><img height="300" width="400" alt="Physical Education" src="/images/Physical%20Education.jpg">
+    </a></td><td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/aesthetics"><img height="300" width="400" alt="Aesthetics" src="/images/Aesthetics.jpg">
+    </a></td><td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/character-and-citizenship-education"><img height="300" width="400" alt="Character and Citizenship Education" src="/images/CCE.jpg">
+  </a></td></tr><tr>
+    <td><a rel="noopener noreferrer" target="_blank" href="/holistic-education/curriculum/programme-for-active-learning-pal"><img height="200" width="300" alt="Programme for Active Learning" src="/images/Programme%20for%20Active%20Learning.jpg"></a></td></tr></tbody></table>
