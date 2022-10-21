@@ -23,25 +23,25 @@ To develop pupils into confident, collaborative and curious learners using their
 ##### Department Activities
 
 **1\. Key Programmes**<br>
- &nbsp; &nbsp; **P1: Word Games**<br>
- &nbsp; &nbsp; **P2: Speech and Drama**<br>
- &nbsp; &nbsp; **P3: ICT Day**&nbsp;<br>
- &nbsp; &nbsp; **P4: MT Cultural Camp and ICT Day**<br> 
- &nbsp; &nbsp; **P5: Drama Appreciation**<br>
- &nbsp; &nbsp; **P6: Good Writer and Language Games**<br>
+ &nbsp; &nbsp;&nbsp;&nbsp; **P1: Word Games**<br>
+ &nbsp; &nbsp;&nbsp;&nbsp; **P2: Speech and Drama**<br>
+ &nbsp; &nbsp;&nbsp;&nbsp; **P3: ICT Day**&nbsp;<br>
+ &nbsp; &nbsp;&nbsp;&nbsp; **P4: MT Cultural Camp and ICT Day**<br> 
+ &nbsp; &nbsp;&nbsp;&nbsp; **P5: Drama Appreciation**<br>
+ &nbsp; &nbsp;&nbsp;&nbsp; **P6: Good Writer and Language Games**<br>
 
 **2\. Mother Tongue Fortnight Activities**<br>
-&nbsp; &nbsp; **Theme for P1: Festivals**<br>
-&nbsp; &nbsp; **Theme for P2: Food**<br>
-&nbsp; &nbsp; **Theme for P3: Cultural Arts**<br>
-&nbsp; &nbsp; **Theme for P4: Music**<br>
-&nbsp; &nbsp; **Theme for P5: Martial Arts**<br>
-&nbsp; &nbsp; **Theme for P6: Traditional Games**
+&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P1: Festivals**<br>
+&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P2: Food**<br>
+&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P3: Cultural Arts**<br>
+&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P4: Music**<br>
+&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P5: Martial Arts**<br>
+&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P6: Traditional Games**
 
 **3\. Reading Programme (P1-P6)**
 
 **4\. Conversational Malay and Chinese Courses**<br>
-&nbsp; &nbsp; **P3: Beginners and Basic Courses **
+&nbsp; &nbsp;&nbsp;&nbsp; **P3: Beginners and Basic Courses **
 
 ##### Useful Websites
 
