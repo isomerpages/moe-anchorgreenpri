@@ -60,6 +60,8 @@ c. Local and Overseas News 新加坡和海外新闻<br> &nbsp;&nbsp;&nbsp;&nbsp;
 e. Singapore Education News on Chinese Learning 华文教学新闻<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.schoolbag.edu.sg/education/primary](https://www.schoolbag.edu.sg/education/primary)
   
+f. e-books recommended by Committee to Promote Chinese Language Learning (CPCLL)<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://go.gov.sg/children-books-we-love](https://go.gov.sg/children-books-we-love)
 
 **Malay Language**
 
