@@ -11,14 +11,11 @@ To nurture Anchorlites to be Active Mother Tongue Language Learners, Steeped in 
 ##### Focus
 The Mother Tongue Department focuses on building the pupils’ foundation in listening and speaking the language, as well as, being conversant in their Mother Tongue language when speaking to others in the early years in the school.
 
-
 At the Upper Primary levels, the school’s focus is to develop the pupils competency in reading, writing and oral aspects of the Mother Tongue language, as well as situational writing skills.
 
-  
 ##### Objectives
 
 To develop pupils into confident, collaborative and curious learners using their own mother tongue languages.
-
 
 ##### Department Activities
 
@@ -69,11 +66,8 @@ f. e-books recommended by Committee to Promote Chinese Language Learning (CPCLL)
 
  &nbsp;&nbsp;&nbsp;&nbsp; b. [https://www.beritaharian.sg/](https://www.beritaharian.sg/)
 
-
 **Tamil Language**
 
-  
+ &nbsp;&nbsp;&nbsp;&nbsp; a. [https://www.tamil.org.sg/en](https://www.tamil.org.sg/en)
 
-a.&nbsp; &nbsp;&nbsp;[https://www.tamil.org.sg/en](https://www.tamil.org.sg/en)
-
-b.&nbsp; &nbsp;&nbsp;[https://www.nlb.gov.sg/golibrary2/c/30307529/](https://www.nlb.gov.sg/golibrary2/c/30307529/)
+ &nbsp;&nbsp;&nbsp;&nbsp; b. [https://www.nlb.gov.sg/golibrary2/c/30307529/](https://www.nlb.gov.sg/golibrary2/c/30307529/)
