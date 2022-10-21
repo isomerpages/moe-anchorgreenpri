@@ -65,13 +65,10 @@ f. e-books recommended by Committee to Promote Chinese Language Learning (CPCLL)
 
 **Malay Language**
 
-a.&nbsp; &nbsp;&nbsp;[https://www.nlb.gov.sg/golibrary2/c/30307529/](https://www.nlb.gov.sg/golibrary2/c/30307529/)
+ &nbsp;&nbsp;&nbsp;&nbsp; a. [https://www.nlb.gov.sg/golibrary2/c/30307529/](https://www.nlb.gov.sg/golibrary2/c/30307529/)
 
 b.&nbsp; &nbsp;&nbsp;[https://www.beritaharian.sg/](https://www.beritaharian.sg/)
 
-  
-
-  
 
 **Tamil Language**
 
