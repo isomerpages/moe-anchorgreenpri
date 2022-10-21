@@ -46,7 +46,7 @@ To develop pupils into confident, collaborative and curious learners using their
 ##### Useful Websites
 
 **Chinese Language**<br>
-a. P1-P6 eZhushi (Online Chinese Magazine)知识网
+a. P1-P6 eZhishi (Online Chinese Magazine)知识网
 Website:&nbsp;[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 
 b. Xue Le 学乐
