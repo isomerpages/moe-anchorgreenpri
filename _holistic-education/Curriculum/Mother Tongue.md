@@ -57,11 +57,11 @@ c. Local and Overseas News 新加坡和海外新闻<br> &nbsp;&nbsp;&nbsp;&nbsp;
  d. Chinese Audio Books 有声书<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.cpcll.sg/audio-book](https://www.cpcll.sg/audio-book)
 
+e. Singapore Education News on Chinese Learning 华文教学新闻<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.schoolbag.edu.sg/education/primary](https://www.schoolbag.edu.sg/education/primary)
   
 
 **Malay Language**
-
-  
 
 a.&nbsp; &nbsp;&nbsp;[https://www.nlb.gov.sg/golibrary2/c/30307529/](https://www.nlb.gov.sg/golibrary2/c/30307529/)
 
