@@ -54,7 +54,8 @@ Website:&nbsp;[https://www.zbschools.sg/](https://www.zbschools.sg/)
 
 c. Local and Overseas News 新加坡和海外新闻<br> Website:&nbsp;[https://www.8world.com/so-young/news-in-class](https://www.8world.com/so-young/news-in-class)
 
-  
+ d. Chinese Audio Books 有声书<br> 
+ Website:&nbsp;[https://www.cpcll.sg/audio-book](https://www.cpcll.sg/audio-book)
 
   
 
