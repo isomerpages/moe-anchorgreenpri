@@ -50,7 +50,7 @@ a. P1-P6 eZhishi (Online Chinese Magazine)知识网<br>
 Website:&nbsp;[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 
 b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
-Website:&nbsp;[https://www.zbschools.sg/](https://www.zbschools.sg/)
+&nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.zbschools.sg/](https://www.zbschools.sg/)
 
 c. Local and Overseas News 新加坡和海外新闻<br> Website:&nbsp;[https://www.8world.com/so-young/news-in-class](https://www.8world.com/so-young/news-in-class)
 
