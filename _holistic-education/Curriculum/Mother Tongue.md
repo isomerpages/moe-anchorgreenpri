@@ -47,7 +47,7 @@ To develop pupils into confident, collaborative and curious learners using their
 
 **Chinese Language**<br>
 a. P1-P6 eZhishi (Online Chinese Magazine)知识网<br>
-Website:&nbsp;[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
+&nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 
 b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.zbschools.sg/](https://www.zbschools.sg/)
