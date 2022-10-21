@@ -74,6 +74,6 @@ To develop pupils into confident, collaborative and curious learners using their
  
  &nbsp;&nbsp;&nbsp;&nbsp; c. [https://www.eng.singaporetamil.org/](https://www.eng.singaporetamil.org/)
  
- &nbsp;&nbsp;&nbsp;&nbsp; d. [https://www.eng.singaporetamil.org/](https://www.eng.singaporetamil.org/)
+ &nbsp;&nbsp;&nbsp;&nbsp; d. [https://www.indianheritage.gov.sg/en](https://www.indianheritage.gov.sg/en)
  
  &nbsp;&nbsp;&nbsp;&nbsp; e. [https://www.eng.singaporetamil.org/](https://www.eng.singaporetamil.org/)
