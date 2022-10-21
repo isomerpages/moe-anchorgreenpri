@@ -43,21 +43,21 @@ To develop pupils into confident, collaborative and curious learners using their
 ##### Useful Websites
 
 **Chinese Language**<br>
-a. P1-P6 eZhishi (Online Chinese Magazine)知识网<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; a. P1-P6 eZhishi (Online Chinese Magazine)知识网<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 
-b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.zbschools.sg/](https://www.zbschools.sg/)
 
-c. Local and Overseas News 新加坡和海外新闻<br> &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.8world.com/so-young/news-in-class](https://www.8world.com/so-young/news-in-class)
+ &nbsp;&nbsp;&nbsp;&nbsp; c. Local and Overseas News 新加坡和海外新闻<br> &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.8world.com/so-young/news-in-class](https://www.8world.com/so-young/news-in-class)
 
- d. Chinese Audio Books 有声书<br> 
+  &nbsp;&nbsp;&nbsp;&nbsp; d. Chinese Audio Books 有声书<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.cpcll.sg/audio-book](https://www.cpcll.sg/audio-book)
 
-e. Singapore Education News on Chinese Learning 华文教学新闻<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp; e. Singapore Education News on Chinese Learning 华文教学新闻<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://www.schoolbag.edu.sg/education/primary](https://www.schoolbag.edu.sg/education/primary)
   
-f. e-books recommended by Committee to Promote Chinese Language Learning (CPCLL)<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp; f. e-books recommended by Committee to Promote Chinese Language Learning (CPCLL)<br> 
  &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;[https://go.gov.sg/children-books-we-love](https://go.gov.sg/children-books-we-love)
 
 **Malay Language**
