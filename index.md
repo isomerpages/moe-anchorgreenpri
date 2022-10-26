@@ -16,6 +16,6 @@ sections:
           description: ""
           url: /resources/resources-for-parents
         - title: Calendar
-          description: Click here for academic calendar!
+          description: ""
           url: /calendar
 ---
