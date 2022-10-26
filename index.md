@@ -13,7 +13,7 @@ sections:
           description: ""
           url: /announcements
         - title: Useful Links
-          description: Click here for useful links!
+          description: ""
           url: /resources/resources-for-parents
         - title: Calendar
           description: Click here for academic calendar!
