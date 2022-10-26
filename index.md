@@ -10,7 +10,7 @@ sections:
       background: /images/anchorgreen.gif
       key_highlights:
         - title: Announcements
-          description: Click here for latest announcements
+          description: ""
           url: /announcements
         - title: Useful Links
           description: Click here for useful links!
