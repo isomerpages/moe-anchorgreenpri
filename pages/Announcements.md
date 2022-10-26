@@ -13,7 +13,7 @@ The school’s group insurer for 2022 is Income Insurance Limited. Every pupil i
 
 Slides for Parents Briefing **(PDF file password protected!)**
 
-[Video of AGPS Virtual Tour](https://moe-anchorgreenpri-staging.netlify.app/resources/subfolders/P1%20Orientation%202022/editPage/AGPS%20Corporate%20Video.md)
+[Video of AGPS Virtual Tour](https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2022/agps-corporate-video/)
 
 [Frequently Asked Questions](https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2022/frequently-asked-questions)
 
