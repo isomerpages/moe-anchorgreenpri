@@ -6,8 +6,8 @@ third_nav_title: P1 Orientation 2022
 ---
 AGPS Corporate Video
 ====================
+<div class="bp-youtube">
 
-<html>
-<body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/83LRbqy81VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</html>
+
+</div>
