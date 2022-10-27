@@ -16,7 +16,7 @@ third_nav_title: Curriculum
     </a></td><td><a rel="noopener noreferrer"  href="/holistic-education/curriculum/information-technology"><img height="300" width="400" alt="Information Technology" src="/images/Information%20Technology.jpg">
     </a></td><td><a rel="noopener noreferrer" href="/holistic-education/curriculum/social-studies"><img height="300" width="400" alt="Social Studies" src="/images/Social%20Studies.jpg">
   </a></td></tr><tr>
-    <td><a rel="noopener noreferrer" href="/holistic-education/curriculum/physical-education"><img height="300" width="400" alt="Physical Education" src="/images/Physical%20Education.jpg">
+    <td><a rel="noopener noreferrer" href="/holistic-education/curriculum/physical-education"><img height="300" width="400" alt="Physical Education" src="/images/Curriculum/Physical%20Education.jpg">
     </a></td><td><a rel="noopener noreferrer" href="/holistic-education/curriculum/aesthetics"><img height="300" width="400" alt="Aesthetics" src="/images/Aesthetics.jpg">
     </a></td><td><a rel="noopener noreferrer" href="/holistic-education/curriculum/character-and-citizenship-education"><img height="300" width="400" alt="Character and Citizenship Education" src="/images/CCE.jpg">
   </a></td></tr><tr>
