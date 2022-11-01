@@ -1,16 +1,16 @@
 ---
 title: Character and Citizenship Education
-permalink: /holistic-education/curriculum/character-and-citizenship-education
+permalink: /holistic-education/curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: Curriculum
 ---
-### CCE Philosophy
+#### CCE Philosophy
 
 Character and Citizenship Education (CCE) is an essential and integral part of our pupils' learning experience. The goal of CCE is to inculcate the values and competencies in our pupils to develop them into good and moral individuals, who will contribute towards the well-being of the nation. Anchored on the school's vision of nurturing _**A Community of Aspiring and Gracious Learners**_, our department’s mission (**A**nchorlites: **G**racious, **P**rudent and **S**ervant Leaders) to nurture our pupils who are assured of their identities as individuals. As individuals, they are gracious in their conduct, exercise prudence and make informed, moral choices. In addition, we also seek to develop our pupils as Servant Leaders who strive and work towards the improvement of society and self.
 
   
 
-### Objectives
+#### Objectives
 
 *   To create authentic experiences that promotes pupils’ cross-cultural awareness and a global outlook;
 *   To infuse CCE Core Values, School Values, 21st Century and Social and Emotional competencies across the Total Curriculum; and
@@ -18,19 +18,19 @@ Character and Citizenship Education (CCE) is an essential and integral part of o
 
   
 
-### CCE Core Values
+#### CCE Core Values
 
 Respect, Responsibility, Resilience, Integrity, Care and Harmony
 
   
 
-### School Values
+#### School Values
 
 Respect, Integrity, Confidence and Excellence
 
   
 
-### Approach
+#### Approach
 
 MOE’s Desired Outcomes of Education, the 21st Century Core Competencies and CCE Learning Outcomes (LOs) are central to the actualisation of the CCE Curriculum. We believe that values are best ‘caught’ – transmitted via experiential learning experience, capitalising on teachable moments and infused across all platforms. Hence, we adopt a ‘whole-school-approach’ in the intentional teaching and reinforcement of these values and competencies throughout the Total Curriculum. Teachers are a key and essential component to our pupils’ values education journey. They capture these teachable moments, facilitate discussion amongst pupils to draw out and reinforce their understanding and acquisition of these values and competencies.
 
@@ -55,7 +55,7 @@ style="width:50%">
 	*   Function effectively as active citizens
 	*   Stay rooted to Singapore
 
-### School-wide Key Programmes
+#### School-wide Key Programmes
 
 *   Form Teacher Guidance Period (FTGP)  
     
@@ -83,12 +83,12 @@ style="width:50%">
     
 *   Life Circle and SEEDERS Programme - an intervention programme for at-risk students
 
-### [Welfare & Safety](/holistic-education/curriculum/character-and-citizenship-education/welfare-n-safety)
+#### [Welfare & Safety](/holistic-education/curriculum/character-and-citizenship-education/welfare-n-safety)
 
-### [MOE Sexuality Education in Schools](/holistic-education/curriculum/character-and-citizenship-education/moe-sex-ed-in-schools)
+#### [MOE Sexuality Education in Schools](/holistic-education/curriculum/character-and-citizenship-education/moe-sex-ed-in-schools)
 
-### [National Education](/holistic-education/curriculum/character-and-citizenship-education/national-education)
+#### [National Education](/holistic-education/curriculum/character-and-citizenship-education/national-education)
 
-### [Student Leadership](/holistic-education/curriculum/character-and-citizenship-education/student-leadership)
+#### [Student Leadership](/holistic-education/curriculum/character-and-citizenship-education/student-leadership)
 
-### [Cyberwellness](/holistic-education/curriculum/character-and-citizenship-education/cyberwellness)
+#### [Cyberwellness](/holistic-education/curriculum/character-and-citizenship-education/cyberwellness)
