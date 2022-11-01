@@ -3,11 +3,10 @@ title: "Tier 2: Learning Opportunities for a Targeted Group"
 permalink: /holistic-education/programme/alp-elea/Tier-2-Learning-Opportunities-for-a-Targeted-Group/
 description: ""
 ---
-
 #### Tier 2: Learning Opportunities for a Targeted Group
 The objective of the following platforms is to ensure that our passionate environment activists are able to be given opportunities for be adequately challenged to sustain their passion for the environment.
 
-<table class="iveo_table ives_tab_green ive_eobj_left" border="5px strong black" style="width: 855px; height: 446px;">
+<table>
   <tbody>
     <tr>
       <th style="width: 297px;">Pupils Involved
