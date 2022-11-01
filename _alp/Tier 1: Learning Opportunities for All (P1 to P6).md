@@ -9,7 +9,7 @@ AGPS is committed to helping all the pupils develop a life-long interest in gain
 
 ![](/images/Programmes/ELEA2.png)
 
-<table border="5px" style="width: 100%;" class="ive_eobj_center iveo_table ives_tab_green">
+<table>
   <tbody>
     <tr>
       <th style="width: 64px;">
