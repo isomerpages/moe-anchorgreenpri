@@ -8,3 +8,9 @@ description: ""
 AGPS is committed to helping all the pupils develop a life-long interest in gaining knowledge about the environment through inquiry, investigation and experimentation in the infusion across subject disciplines.
 
 ![](/images/Programmes/ELEA2.png)
+
+
+
+
+
+
