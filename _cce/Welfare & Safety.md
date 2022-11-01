@@ -3,8 +3,7 @@ title: Welfare & Safety
 permalink: /holistic-education/curriculum/character-and-citizenship-education/welfare-n-safety/
 description: ""
 ---
-
-### Pupil Welfare
+#### Pupil Welfare
 
   
 **1\. Financial Assistance**  
@@ -37,7 +36,7 @@ The school has adopted a ‘No Weekend Homework’ policy for our pupils. The o
   
   
 
-### Pupil Safety
+#### Pupil Safety
 
   
 **1\. Arrival at school in the morning**  
