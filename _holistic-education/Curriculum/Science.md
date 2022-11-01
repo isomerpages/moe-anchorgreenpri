@@ -1,17 +1,17 @@
 ---
 title: Science
-permalink: /holistic-education/curriculum/science
+permalink: /holistic-education/curriculum/science/
 description: ""
 third_nav_title: Curriculum
 ---
 Science
 =======
 
-### Focus
+#### Focus
 
 The Science department’s focus is to nurture our pupils to become inquiry learners with the environment@heart.
 
-###   Objectives  
+####   Objectives  
   
 
 **In line with the aims of the Primary Science Syllabus, Anchor Green**
@@ -24,9 +24,9 @@ The Science department’s focus is to nurture our pupils to become inquiry lear
 
   
 
-### Pedagogical Approaches
+#### Pedagogical Approaches
 
-<img src="/images/Pedagogical%20Approaches.png" style="width:40%">
+<img style="width:40%" src="/images/Pedagogical%20Approaches.png">
 
 Central to the curriculum framework is the inculcation of the&nbsp;spirit of scientific inquiry.
 
@@ -65,7 +65,7 @@ Pupils apply concepts in context and build on and extend understanding of the co
 
 Pupils will assess their knowledge, skills and abilities. Activities are carried out to evaluate pupils’ understanding of the lesson.
 
-### Key Programs
+#### Key Programs
 
 *   Science Challenges that provide our pupils the opportunity to work with their peers and apply the science concepts learnt.
 *   Sengkang Wetland Trail in collaboration with PUB creates awareness and curiosity among our pupils on environmental concerns.
@@ -74,19 +74,19 @@ Pupils will assess their knowledge, skills and abilities. Activities are carried
 
 **Science Alive at Anchor Green:**
 
-<img src="/images/Science%20Alive%20at%20Anchor%20Green.jpg" style="width:50%">
+<img style="width:50%" src="/images/Science%20Alive%20at%20Anchor%20Green.jpg">
 
 The Primary 6 Pupils explaining Science concepts to their schoolmates.
 
 **Science Challenge @ Anchor Green:**
 
-<img src="/images/Science%20Challenge%20@%20Anchor%20Green.jpg" style="width:50%">
+<img style="width:50%" src="/images/Science%20Challenge%20@%20Anchor%20Green.jpg">
 
 The Tallest Tower challenge was organised for the P4 pupils. &nbsp;The teamwork was excellent.
 
 **Creative Science Innovators:**
 
-<img src="/images/Creative%20Science%20Innovators.jpg" style="width:50%">
+<img style="width:50%" src="/images/Creative%20Science%20Innovators.jpg">
 
 Pupils playing with the toys created by their fellow schoolmates.
 
@@ -97,4 +97,4 @@ Pupils playing with the toys created by their fellow schoolmates.
 
 Pupils were engaged in activities at the Active, Beautiful and Clean Stations at the Sengkang Wetlands.
 
-<img src="/images/Sengkang%20Wetland%20Learning%20Trail2.jpg" style="width:40%">
+<img style="width:40%" src="/images/Sengkang%20Wetland%20Learning%20Trail2.jpg">
