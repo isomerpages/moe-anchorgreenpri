@@ -7,7 +7,7 @@ third_nav_title: Programmes
 ALP (ELEA)
 ==========
 
-**Vision:**<br>
+#### Vision:<br>
 To build a Community of Young Environmental Activists  
   
 **Focus:**<br>
@@ -42,3 +42,6 @@ The 3H approach; _Heart_ , _Head_ and _Hands_ (representing Attitude, Awar
 
 <img src="/images/EE2.png"  
 style="width:80%">
+
+**Tier 1: Learning Opportunities for All (P1 – P6)**<br>
+AGPS is committed to helping all the pupils develop a life-long interest in gaining knowledge about the environment through inquiry, investigation and experimentation in the infusion across subject disciplines.
