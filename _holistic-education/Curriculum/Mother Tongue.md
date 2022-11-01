@@ -68,14 +68,14 @@ To develop pupils into confident, collaborative and curious learners using their
 
 **Tamil Language**
 
- &nbsp;&nbsp;&nbsp;&nbsp; a. [https://www.tamil.org.sg/en](https://www.tamil.org.sg/en)
+ &nbsp;&nbsp;&nbsp;&nbsp; a. <a target="_blank" href="https://www.tamil.org.sg/en">https://www.tamil.org.sg/en</a>
 
- &nbsp;&nbsp;&nbsp;&nbsp; b. <a target="_blank" href="https://www.nlb.gov.sg/golibrary2/c/30307529/">https://www.nlb.gov.sg/golibrary2/c/30307529/</a>
+ &nbsp;&nbsp;&nbsp;&nbsp; b. <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/" target="_blank">https://www.nlb.gov.sg/golibrary2/c/30307529/</a>
  
- &nbsp;&nbsp;&nbsp;&nbsp; c. <a href="https://www.eng.singaporetamil.org/" target="_blank">https://www.eng.singaporetamil.org/</a>
+ &nbsp;&nbsp;&nbsp;&nbsp; c. <a target="_blank" href="https://www.eng.singaporetamil.org/">https://www.eng.singaporetamil.org/</a>
  
- &nbsp;&nbsp;&nbsp;&nbsp; d. <a target="_blank" href="https://www.indianheritage.gov.sg/en">https://www.indianheritage.gov.sg/en</a>
+ &nbsp;&nbsp;&nbsp;&nbsp; d. <a href="https://www.indianheritage.gov.sg/en" target="_blank">https://www.indianheritage.gov.sg/en</a>
  
- &nbsp;&nbsp;&nbsp;&nbsp; e. <a href="https://www.tllpc.sg/" target="_blank">https://www.tllpc.sg/</a>
+ &nbsp;&nbsp;&nbsp;&nbsp; e. <a target="_blank" href="https://www.tllpc.sg/">https://www.tllpc.sg/</a>
  
- &nbsp;&nbsp;&nbsp;&nbsp; f. <a target="_blank" href="https://uptlc.moe.edu.sg/">https://uptlc.moe.edu.sg/</a>
+ &nbsp;&nbsp;&nbsp;&nbsp; f. <a href="https://uptlc.moe.edu.sg/" target="_blank">https://uptlc.moe.edu.sg/</a>
