@@ -7,13 +7,13 @@ third_nav_title: Programmes
 ALP (ELEA)
 ==========
 
-#### Vision:<br>
+#### Vision:
 To build a Community of Young Environmental Activists  
   
-**Focus:**<br>
+#### Focus:
 In line with the school’s vision of building a community of aspiring and gracious Learners, our ALP focuses on exhibiting graciousness among pupils and staff. through each playing his/her part to protect the environment. This is done through the tiered approach where each level and specific group of pupils focus on an environmental area to work on.  
   
-**Objectives:**  <br>
+#### Objectives:
 E.L.E.A was crafted to solidify our vision and direction towards helping pupils to connect their academic knowledge with real-world application through deeper thinking and ownership to help and protect the environment.  
 
 1.  Student Engagement
@@ -32,16 +32,15 @@ E.L.E.A was crafted to solidify our vision and direction towards helping pupils 
   
 **Approach:**
 
-The 3H approach; _Heart_ , _Head_ and _Hands_ (representing Attitude, Awareness and Action) enables the school to inculcate in pupils the respect and love for the environment and how to combat climate change.  
+The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(representing Attitude, Awareness and Action) enables the school to inculcate in pupils the respect and love for the environment and how to combat climate change.  
 
-*   The right Attitude (Heart) is instilled in promoting a green culture where pupils begin to understand the problems leading to climate change, the need for conservation of the environment and want to make the difference by playing an active role.  
+*   The right&nbsp;Attitude&nbsp;(Heart) is instilled in promoting a green culture where pupils begin to understand the problems leading to climate change, the need for conservation of the environment and want to make the difference by playing an active role.  
     
-*   Having the Awareness and Knowledge (Head) enables pupils to take a lead to initiate and implement projects that can help reduce the impacts of climate change.  
+*   Having the&nbsp;Awareness&nbsp;and Knowledge (Head) enables pupils to take a lead to initiate and implement projects that can help reduce the impacts of climate change.  
     
-*   Action (Hands). This is where pupils internalise the learning through participating in the projects that are self-initiated with guidance from teachers.
+*   Action&nbsp;(Hands). This is where pupils internalise the learning through participating in the projects that are self-initiated with guidance from teachers.
 
-<img src="/images/EE2.png"  
-style="width:80%">
+<img style="width:80%" src="/images/EE2.png">
 
 **Tier 1: Learning Opportunities for All (P1 – P6)**<br>
 AGPS is committed to helping all the pupils develop a life-long interest in gaining knowledge about the environment through inquiry, investigation and experimentation in the infusion across subject disciplines.
