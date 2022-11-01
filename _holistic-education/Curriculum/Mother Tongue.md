@@ -78,4 +78,4 @@ To develop pupils into confident, collaborative and curious learners using their
  
  &nbsp;&nbsp;&nbsp;&nbsp; e. [https://www.tllpc.sg/](https://www.tllpc.sg/)
  
- &nbsp;&nbsp;&nbsp;&nbsp; f. [https://uptlc.moe.edu.sg/](https://uptlc.moe.edu.sg/)
+ &nbsp;&nbsp;&nbsp;&nbsp; f. [https://uptlc.moe.edu.sg/](https://uptlc.moe.edu.sg/ target=_blank)
