@@ -40,7 +40,10 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
     
 *   Action&nbsp;(Hands). This is where pupils internalise the learning through participating in the projects that are self-initiated with guidance from teachers.
 
-<img style="width:80%" src="/images/EE2.png">
+<img src="/images/EE2.png" style="width:80%">
 
 **Tier 1: Learning Opportunities for All (P1 – P6)**<br>
 AGPS is committed to helping all the pupils develop a life-long interest in gaining knowledge about the environment through inquiry, investigation and experimentation in the infusion across subject disciplines.
+
+
+
