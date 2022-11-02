@@ -1,6 +1,6 @@
 ---
 title: Information Technology
-permalink: /holistic-education/curriculum/information-technology
+permalink: /holistic-education/curriculum/information-technology/
 description: ""
 third_nav_title: Curriculum
 ---
@@ -30,18 +30,18 @@ The ICT department aims to develop pupils:
 *   Cyberwellness Mobile Trails (P5 and P6)
 *   ICT Integrated Project Work (P3- P5)
 
-<img style="width:70%" src="/images/Pupils%20collaborating%20in%20preparation%20for%20their%20Project%20Work%20Presentation.jpg">
+<img src="/images/Curriculum/ICT/Pupils%20collaborating%20in%20preparation%20for%20their%20Project%20Work%20Presentation.jpg" style="width:70%">
 
 Pupils collaborating in preparation for their Project Work Presentation.
 
-<img style="width:70%" src="/images/Pupils%20in%20Action%20during%20the%20Project%20Work%20Exhibition%20Day.jpg">
+<img src="/images/Curriculum/ICT/Pupils%20in%20Action%20during%20the%20Project%20Work%20Exhibition%20Day.jpg" style="width:70%">
 
 Pupils in Action during the Project Work Exhibition Day!
 
-<img style="width:70%" src="/images/Pupils%20are%20having%20fun%20during%20the%20Cyberwellness%20Trails.jpg">
+<img src="/images/Curriculum/ICT/Pupils%20are%20having%20fun%20during%20the%20Cyberwellness%20Trails.jpg" style="width:70%">
 
 Pupils are having fun during the Cyberwellness Trails.
 
-<img style="width:70%" src="/images/Learning%20can%20be%20anywhere,%20anytime.jpg">
+<img src="/images/Curriculum/ICT/Learning%20can%20be%20anywhere,%20anytime.jpg" style="width:70%">
 
 Learning can be anywhere, anytime!
