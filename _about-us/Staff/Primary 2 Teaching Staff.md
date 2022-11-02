@@ -1,6 +1,6 @@
 ---
 title: Primary 2 Teaching Staff
-permalink: /about-us/staff/primary-2-teaching-staff
+permalink: /about-us/staff/primary-2-teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -113,36 +113,6 @@ Primary 2 Teaching Staff
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Nur Diyanah Amani Binte Abd Razak </span></td>
     <td class="tg-fskk"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD">Mdm Siti Hazwani Mustapha</span></td>
-    <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD">Subject Head</span><br><span style="color:#222;background-color:#97E3BD">Science</span></td>
-    <td class="tg-ble8"><a href="mailto:siti_hazwani_mustapha@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Ms Neoh Wee Ling</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Level Head</span><br><span style="color:#222;background-color:#FFF">Mother Tongue Languages</span></td>
-    <td class="tg-0pyt"><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD">Mdm Maslina Mohtar</span></td>
-    <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD">Subject Head</span><br><span style="color:#222;background-color:#97E3BD">Discipline</span></td>
-    <td class="tg-ble8"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Mr Muhammad Fahmy Abdul Rahman</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Subject Head</span><br><span style="color:#222;background-color:#FFF">Outdoor Learning &amp; Programme for Active Learning</span></td>
-    <td class="tg-0pyt"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD">Mdm Chen Hui Qin</span><br><span style="color:#222;background-color:#97E3BD">(Mrs Janelle Koh)</span></td>
-    <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD">Assistant Year Head</span><br><span style="color:#222;background-color:#97E3BD">Lower Primary</span></td>
-    <td class="tg-ble8"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Mr Lee Teck Hock Robert</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Assistant Year Head</span><br><span style="color:#222;background-color:#FFF">Upper Primary</span></td>
-    <td class="tg-0pyt"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
