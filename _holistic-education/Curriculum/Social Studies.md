@@ -1,6 +1,6 @@
 ---
 title: Social Studies
-permalink: /holistic-education/curriculum/social-studies
+permalink: /holistic-education/curriculum/social-studies/
 description: ""
 third_nav_title: Curriculum
 ---
@@ -72,23 +72,23 @@ The NE Learning Journeys at the different levels are listed in the table below:
 P4 to P6 Learning Journeys
 --------------------------
 
-<img src="/images/P4%20to%20P6%20Learning%20Journeys.jpg"  
-style="width:70%">
+<img src="/images/Curriculum/Social%20Studies/P4%20to%20P6%20Learning%20Journeys.jpg"  
+style="width:80%">
 
 Social Studies Lessons
 ----------------------
 
-<img src="/images/Collaborative%20discussion%20on%20a%20given%20topic.jpg"  
-style="width:70%">
+<img src="/images/Curriculum/Social%20Studies/Collaborative%20discussion%20on%20a%20given%20topic.jpg"  
+style="width:80%">
 
 Engaged in collaborative discussion on a given topic
 
-<img src="/images/Map%20reading%20time.jpg"  
-style="width:70%">
+<img src="/images/Curriculum/Social%20Studies/Map%20reading%20time.jpg"  
+style="width:80%">
 
 Map reading time!
 
-<img src="/images/Sequenced%20the%20timeline%20for%20Ancient%20Civilisation.jpg"  
-style="width:70%">
+<img src="/images/Curriculum/Social%20Studies/Sequenced%20the%20timeline%20for%20Ancient%20Civilisation.jpg"  
+style="width:80%">
 
 We sequenced the timeline for Ancient Civilisation!
