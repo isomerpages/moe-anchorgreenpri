@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /holistic-education/curriculum/aesthetics
+permalink: /holistic-education/curriculum/aesthetics/
 description: ""
 third_nav_title: Curriculum
 ---
@@ -19,7 +19,7 @@ The school’s vision from&nbsp;**A.G.P.S. Arts**&nbsp;is to develop every Ancho
 
 ### Objectives
 
-We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Advocate of the Arts who:  
+We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Advocates of the Arts who:  
 
 1.  See inter-relationships among ideas, adapt, generate and create new ideas and products
 2.  Are encouraged to express their thoughts, form opinions and appreciate differing perspectives
