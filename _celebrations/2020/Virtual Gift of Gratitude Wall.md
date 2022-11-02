@@ -1,6 +1,6 @@
 ---
 title: Virtual Gift of Gratitude Wall
-permalink: /celebrations/2020/virtual-gift-of-gratitude-wall
+permalink: /celebrations/2020/virtual-gift-of-gratitude-wall/
 description: ""
 third_nav_title: "2020"
 ---
@@ -11,7 +11,7 @@ The students were given the opportunity to express their gratitude and thanks to
 
 We hope you can enjoy their hard work and dedication through this virtual wall.
 
-![ADEN KHOO JING'EN (4 INTEGRITY)](/images/ADEN%20KHOO%20JING'EN%20(4%20INTEGRITY).png)
+![ADEN KHOO JING'EN (4 INTEGRITY)](/images/Gratitude%20Wall/ADEN%20KHOO%20JING'EN%20(4%20INTEGRITY).png)
 ADEN KHOO JING'EN (4 INTEGRITY)
 
 ![ASHTON THAN LIK XUAN (4 EXCELLENCE)](/images/ASHTON%20THAN%20LIK%20XUAN%20(4%20EXCELLENCE).png)
