@@ -3,7 +3,6 @@ title: Student Leadership
 permalink: /holistic-education/curriculum/character-and-citizenship-education/student-leadership/
 description: ""
 ---
-
 ### Focus
 
 To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&nbsp;**_Lead with Virtues_**&nbsp;and&nbsp;**_Serve with Humility_**.  
@@ -21,7 +20,7 @@ To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&
 
 **Student Leadership Framework**
 
-<img style="width:40%" src="/images/Student%20Leadership%20Framework.png">
+<img src="/images/Curriculum/CCE/Student%20Leadership/Student%20Leadership%20Framework.png" style="width:40%">
 
 <br>
 
