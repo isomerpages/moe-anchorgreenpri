@@ -26,7 +26,7 @@ The Science department’s focus is to nurture our pupils to become inquiry lear
 
 #### Pedagogical Approaches
 
-<img style="width:40%" src="/images/Pedagogical%20Approaches.png">
+<img src="/images/Curriculum/Science/Pedagogical%20Approaches.png" style="width:40%">
 
 Central to the curriculum framework is the inculcation of the&nbsp;spirit of scientific inquiry.
 
@@ -42,7 +42,7 @@ So, inquiry is grounded in knowledge, issues and questions that relate to the ro
 
 Anchor Green has adopted the 5-E inquiry approach where pupils go through a series of cognitive processes to learn, understand and apply a scientific concept.&nbsp;They are:
 
-![5-E inquiry approach](/images/5-E%20inquiry%20approach.png)
+![5-E inquiry approach](/images/Curriculum/Science/5-E%20inquiry%20approach.png)
 
 
 **Engage:**
@@ -74,27 +74,27 @@ Pupils will assess their knowledge, skills and abilities. Activities are carried
 
 **Science Alive at Anchor Green:**
 
-<img style="width:50%" src="/images/Science%20Alive%20at%20Anchor%20Green.jpg">
+<img src="/images/Curriculum/Science/Science%20Alive%20at%20Anchor%20Green.jpg" style="width:80%">
 
 The Primary 6 Pupils explaining Science concepts to their schoolmates.
 
 **Science Challenge @ Anchor Green:**
 
-<img style="width:50%" src="/images/Science%20Challenge%20@%20Anchor%20Green.jpg">
+<img src="/images/Curriculum/Science/Science%20Challenge%20@%20Anchor%20Green.jpg" style="width:80%">
 
 The Tallest Tower challenge was organised for the P4 pupils. &nbsp;The teamwork was excellent.
 
 **Creative Science Innovators:**
 
-<img style="width:50%" src="/images/Creative%20Science%20Innovators.jpg">
+<img src="/images/Curriculum/Science/Creative%20Science%20Innovators.jpg" style="width:80%">
 
 Pupils playing with the toys created by their fellow schoolmates.
 
 **Sengkang Wetland Learning Trail:**
 
-![Sengkang Wetland Learning Trail](/images/Sengkang%20Wetland%20Learning%20Trail.jpg)
+![Sengkang Wetland Learning Trail](/images/Curriculum/Science/Sengkang%20Wetland%20Learning%20Trail.jpg)
 
 
 Pupils were engaged in activities at the Active, Beautiful and Clean Stations at the Sengkang Wetlands.
 
-<img style="width:40%" src="/images/Sengkang%20Wetland%20Learning%20Trail2.jpg">
+<img src="/images/Curriculum/Science/Sengkang%20Wetland%20Learning%20Trail2.jpg" style="width:80%">
