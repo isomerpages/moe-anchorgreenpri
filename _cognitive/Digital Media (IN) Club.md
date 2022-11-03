@@ -1,6 +1,6 @@
 ---
 title: Digital Media (IN) Club
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/digital-media-in-club
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/digital-media-in-club/
 description: ""
 ---
 The Digital Media IN Club at AGPS aims to engage and provide our Anchorlites about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn skills such as coding to develop games, webpage design, photography, and videography.
@@ -59,11 +59,11 @@ We hope our IN club members will be able to navigate the digital landscape with 
 </table>
 
 
-<img src="/images/Digital%20Media%201.jpg"  
-style="width:50%">
+<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Digital%20Media%201.jpg"  
+style="width:70%">
 Taking a closer view of living things with the camera
 
 
-<img src="/images/Digital%20Media%202.jpg"  
-style="width:50%">
+<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Digital%20Media%202.jpg"  
+style="width:70%">
 Using MicroBit to light up the house
