@@ -11,11 +11,10 @@ Resources for Parents
 
 <img style="width:80%" src="/images/MOE%20Kindergarten.jpg">
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target=_blank>MOE Kindergarten</a>
-
-
-![Student Learning Space Logo](/images/SLS_new.png)
-[Student Learning Space](https://vle.learning.moe.edu.sg/login)
-
+<br><br>
+<img style="width:80%" src="/images/SLS_new.png">
+<a href="https://vle.learning.moe.edu.sg/login" target=_blank>Student Learning Space</a>
+<br><br>
 
 ![Student Icon Logo](/images/Student%20Icon.png)
 [Student iCON](https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard&pli=1)
