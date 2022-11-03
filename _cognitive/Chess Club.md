@@ -1,6 +1,6 @@
 ---
 title: Chess Club
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/chess-club
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/chess-club/
 description: ""
 ---
 The Anchor Green Primary School Chess Club was set up with the objective of promoting intellectual games as well as bringing together enthusiastic chess players. It aims to introduce basic chess play skills to members and help them develop their talents. Through chess, the members will sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations. This game also instills good sportsmanship among the members.
@@ -43,11 +43,11 @@ The Anchor Green Primary School Chess Club was set up with the objective of prom
 </tbody>
 </table>
 
-![Coaching by our chess coach instils confidence in our players](/images/Chess%202020%20Picture%20A.jpg)
+![Coaching by our chess coach instils confidence in our players](/images/CCA/Cognitive/Chess/Chess%202020%20Picture%20A.jpg)
 Coaching by our chess coach instils confidence in our players
 
-![Members spar with each other to sharpen their skills](/images/Chess%202020%20Picture%202.jpg)
+![Members spar with each other to sharpen their skills](/images/CCA/Cognitive/Chess/Chess%202020%20Picture%202.jpg)
 Members spar with each other to sharpen their skills
 
-![Learning chess together develops mutual respect and friendship](/images/Chess%202020%20Picture%203.jpg)
+![Learning chess together develops mutual respect and friendship](/images/CCA/Cognitive/Chess/Chess%202020%20Picture%203.jpg)
 Learning chess together develops mutual respect and friendship
