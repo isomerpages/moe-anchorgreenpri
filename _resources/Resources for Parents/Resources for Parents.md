@@ -1,10 +1,9 @@
 ---
 title: Resources for Parents
-permalink: /resources/resources-for-parents
+permalink: /resources/resources-for-parents/
 description: ""
 third_nav_title: Resources for Parents
 ---
-
 Resources for Parents
 =====================
 
@@ -14,7 +13,7 @@ Resources for Parents
 
 
 ![MOE Kindergarten Logo](/images/MOE%20Kindergarten.jpg)
-[MOE Kindergarten](https://www.moe.gov.sg/microsites/moekindergarten/index.htmlV)
+[MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
 
 ![Student Learning Space Logo](/images/SLS_new.png)
