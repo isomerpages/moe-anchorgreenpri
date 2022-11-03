@@ -1,13 +1,13 @@
 ---
 title: Co Curricular Activities (CCA)
-permalink: /holistic-education/co-curricular-activities-cca
+permalink: /holistic-education/co-curricular-activities-cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
 Co-Curricular Activities (CCA)
 ==============================
 
-![Co-Curricular Activities (CCA)](/images/CCA%20Picture.jpg)
+![Co-Curricular Activities (CCA)](/images/CCA/CCA%20Picture.jpg)
 
 ### THE ANCHORLITE PLATFORM TO DEVELOP TALENTS AND PURSUE INTERESTS
 
