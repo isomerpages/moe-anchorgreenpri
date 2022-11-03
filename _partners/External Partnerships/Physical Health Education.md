@@ -1,11 +1,11 @@
 ---
 title: Physical Health Education
-permalink: /partners/external-partnerships/physical-health-education
+permalink: /partners/external-partnerships/physical-health-education/
 description: ""
 third_nav_title: External Partnerships
 ---
 Physical Health Education
-=========================
+========================
 
 <html>
 <body>
