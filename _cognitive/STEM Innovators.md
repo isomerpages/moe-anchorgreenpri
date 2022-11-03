@@ -3,11 +3,10 @@ title: STEM Innovators
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/STEM/
 description: ""
 ---
-The Environmental Innovation club in AGPS aims to apply technology to a real-life context and to engage in problem-solving and come up with creative solutions with the environment in mind. With the three broad areas of learning focus, students will have a chance to explore real-world problems, to provide the experience and empowerment to innovate to solve real-world problems and express themselves through presentations and competitions. 
+STEM Innovators in AGPS is a combination of Robotics and Environmental & Innovation to provide members with a wider array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots and other prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their robot creations or creations of prototypes that can be used to solve real-world problems. 
 
-  
+STEM Innovators hopes to provide the opportunity and experience for students to be innovative and participate in various competitions like the National Robotics Competition (NRC), National Robotics Programming Competition and Tan Kah Kee Young Investor’s Award. 
 
-The club hopes to provide the opportunity and experience for the students to be innovative and participate in competitions such as Tan Kah Kee Young Inventor’s Award, or programmes such as World Wildlife Fund School Projects.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
