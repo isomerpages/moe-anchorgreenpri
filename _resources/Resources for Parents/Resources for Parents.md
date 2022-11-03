@@ -21,7 +21,7 @@ Resources for Parents
 <img style="width:80%" src="/images/SCHOOLBAG.png">
 <a href="https://www.schoolbag.edu.sg/" target=_blank>School Bag</a>
 <br><br>
-<img style="width:80%" src="/images/MOE.jpg">
+<img style="width:80%" src="/images/ME.jpg">
 <a href="https://www.moe.gov.sg/" target=_blank>MOE</a>
 <br><br>
 <img style="width:80%" src="/images/PACIFIC%20BOOKSTORE.jpg">
