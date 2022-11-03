@@ -8,7 +8,7 @@ Physical Health Education
 ========================
 
 <img src="/images/Partners/External/HPB_logo.jpg"  
-style="width:70%">
+style="width:50%">
 
 <a href="https://hpb.gov.sg/" target=_blank>**Health Promotion Board (HPB)**</a>
 <br>
