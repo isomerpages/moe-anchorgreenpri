@@ -7,8 +7,8 @@ third_nav_title: External Partnerships
 Environmental Education
 =======================
 
-<img src="/images/Partners/External/NEA_logo.jpg"  
-style="width:70%">
+<img src="/images/Partners/External/NEA_logo.png"  
+style="width:60%">
 
 [**National Environmental Agency (NEA)**](https://www.nea.gov.sg/)
 <br>
