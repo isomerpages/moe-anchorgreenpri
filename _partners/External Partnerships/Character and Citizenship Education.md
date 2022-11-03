@@ -8,7 +8,7 @@ Character and Citizenship Education
 ========================
 
 <img src="/images/Partners/External/SCH_logo.png"  
-style="width:70%">
+style="width:50%">
 
 <a href="https://www.singhealth.com.sg/SCH/our-hospitals/sengkang-community-hospital/about-skch" target=_blank>**Sengkang Community Hospital**</a>
 <br>
