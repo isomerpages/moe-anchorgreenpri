@@ -7,13 +7,10 @@ third_nav_title: Resources for Parents
 Resources for Parents
 =====================
 
-  
-
 ### Websites & Links
 
-
-![MOE Kindergarten Logo](/images/MOE%20Kindergarten.jpg)
-[MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
+<img style="width:80%" src="/images/MOE%20Kindergarten.jpg">
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target=_blank>MOE Kindergarten</a>
 
 
 ![Student Learning Space Logo](/images/SLS_new.png)
