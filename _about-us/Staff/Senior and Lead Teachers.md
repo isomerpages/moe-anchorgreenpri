@@ -146,7 +146,8 @@ Jelaludin</span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+(Physical Education)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
