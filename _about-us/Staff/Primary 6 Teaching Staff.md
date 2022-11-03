@@ -1,6 +1,6 @@
 ---
 title: Primary 6 Teaching Staff
-permalink: /about-us/staff/primary-6-teaching-staff
+permalink: /about-us/staff/primary-6-teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -85,6 +85,11 @@ Primary 6 Teaching Staff
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Chua Chuu Luan</span><br><span style="color:#000;background-color:#FFF">(Mrs Rose Sim)</span><br></td>
     <td class="tg-g24l"><a href="mailto:chua_chuu_luan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_chuu_luan@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 </tbody>
 </table>
