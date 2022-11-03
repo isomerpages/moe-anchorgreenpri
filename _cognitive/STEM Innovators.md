@@ -32,16 +32,8 @@ STEM Innovators hopes to provide the opportunity and experience for students to 
     <td class="tg-0pyt"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Mdm Regina Tong Yin Leng<br>(Mrs Regina Soh)</td>
-    <td class="tg-0pyt"><a href="mailto:regina_tong_yin_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">regina_tong_yin_leng@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Ms Wong Meng Yean<br></td>
-    <td class="tg-0pyt"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> Mdm A.Gayathree</td>
-    <td class="tg-0pyt"><a href="mailto:a_gayathree@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">a_gayathree@schools.gov.sg</span></a></td>
+    <td class="tg-f4yw">Mdm Wong Yee Chi Canny</td>
+    <td class="tg-0pyt"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
