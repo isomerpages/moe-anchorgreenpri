@@ -3,7 +3,6 @@ title: Robotics
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/robotics/
 description: ""
 ---
-
 AGPS Robotics Club is a place to be for pupils who love to construct robots, write programmes for the robots to function and problem-solve to get the robots to carry out tasks. Pupils are trained in construction of robots and programming language during the CCA. As the pupils gained these skills, they could participate in the national competitions like the National Robotics Competition (NRC) and National Robotics Programming Competition. NRC is a prestigious robotics competition which is organised by Science Centre Singapore with support from Ministry of Education in the month of September. During the competition and training process, the Robotics Club members have developed problem solving skills, creative thinking skills and team spirit.
 
 <style type="text/css">
