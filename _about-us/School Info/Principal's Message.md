@@ -1,13 +1,13 @@
 ---
 title: Principal's Message
-permalink: /about-us/school-info/principals-message
+permalink: /about-us/school-info/principals-message/
 description: ""
 third_nav_title: School Info
 ---
 Principal's Message
 ===================
 
-<img src="/images/Wesley%20Cheong.jpg"  
+<img src="/images/School%20Info/Wesley%20Cheong.jpg"  
 style="width:55%">
 
 Spend some time at Anchor Green, and you'll notice how deeply we care for our students. We believe **All** our children hold **Great** potential to make **Positive** impact on **Society**.
