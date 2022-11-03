@@ -2,8 +2,8 @@ collections:
   cognitive:
     output: true
     order:
-      - Media, Arts & Design.md
       - Cognitive.md
       - Chess Club.md
+      - Media, Arts & Design.md
       - STEM Innovators.md
       - Digital Media (IN) Club.md
