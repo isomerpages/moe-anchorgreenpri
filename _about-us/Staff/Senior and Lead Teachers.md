@@ -85,5 +85,10 @@ Middle Primary)</span><br></td>
 (Chinese Language)</span><br></td>
     <td class="tg-fskk"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
 </tbody>
 </table>
