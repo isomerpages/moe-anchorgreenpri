@@ -50,3 +50,9 @@ Pupils presenting their final product
 
 ![Getting creative!](/images/CCA/Cognitive/STEM/Picture%203.jpg)
 Getting creative!
+
+![Robotics](/images/CCA/Cognitive/STEM/Robotics%201.png)
+
+![Robotics](/images/CCA/Cognitive/STEM/Robotics%202.png)
+
+![Robotics](/images/CCA/Cognitive/STEM/Robotics%203.png)
