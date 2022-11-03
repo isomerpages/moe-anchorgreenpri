@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/choir
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/choir/
 description: ""
 ---
 Students who are passionate about choral singing are encouraged to join the Choir. Choristers are provided with the opportunity to sing songs of different genres, repertoire, and even languages. In recent years, students are also encouraged to compose a soundscape as part of their performance.
@@ -46,11 +46,11 @@ Selected students are chosen to represent the school at the Singapore Youth Fest
 </tbody>
 </table>
 
-![AGPS Choristers performed at the SYF AP](/images/AGPS%20Choristers%20performed%20at%20the%20SYF%20AP.jpg)
+![AGPS Choristers performed at the SYF AP](/images/CCA/Aesthetics/Choir/AGPS%20Choristers%20performed%20at%20the%20SYF%20AP.jpg)
 AGPS Choristers performed and did the school proud with a Certificate of Commendation at the SYF AP.
 
-![Primary 4 students had a Values-in-Action session with seniors from an external organization](/images/Primary%204%20students%20had%20a%20Values-in-Action%20session%20with%20seniors%20from%20an%20external%20organization.jpg)
+![Primary 4 students had a Values-in-Action session with seniors from an external organization](/images/CCA/Aesthetics/Choir/Primary%204%20students%20had%20a%20Values-in-Action%20session%20with%20seniors%20from%20an%20external%20organization.jpg)
 Primary 4 students had a Values-in-Action session with seniors from an external organization. Not only did they teach the adults to sing, but they also performed pretty confidently in front of them!
 
-![The last session with the Primary 6 students ended with a blast.](/images/The%20last%20session%20with%20the%20Primary%206%20students%20ended%20with%20a%20blast.jpeg)
+![The last session with the Primary 6 students ended with a blast.](/images/CCA/Aesthetics/Choir/The%20last%20session%20with%20the%20Primary%206%20students%20ended%20with%20a%20blast.jpeg)
 The last session with the Primary 6 students ended with a blast.
