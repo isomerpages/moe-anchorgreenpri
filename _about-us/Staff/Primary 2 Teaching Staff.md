@@ -114,5 +114,10 @@ Primary 2 Teaching Staff
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Nur Diyanah Amani Binte Abd Razak </span></td>
     <td class="tg-fskk"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
+	<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
 </tbody>
 </table>
