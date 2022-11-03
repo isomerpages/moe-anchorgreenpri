@@ -11,15 +11,5 @@ Environmental Education
 style="width:70%">
 
 [**National Environmental Agency (NEA)**](https://www.nea.gov.sg/)
-
-  
-
-In support of the Sustainable Singapore Blueprint (SSB), Anchor Green Primary has worked with the Ministry of the Environment and Water Resource (MEWR) to co-brand the Sustainable Singapore Movement (SSM) with the school’s environmental activities. 
-
-  
-
-We have a number of activities to show our support:
-
-1)  Held assembly talks to educate pupils on what are the causes and impacts of climate change. 
-
-2) Crafted our P3 Digital Trail to include a segment on climate change to get students to recap and also learn more about climate change.
+<br>
+The partnership with NEA was established in 2008 when the school first set its goal of being an EE school. Over the years, the school has worked with them to host the Clean & Green Schools Carnival, the Eco-school Challenge competition where the team came in first in 2012, and to support them to be one of the first 10 schools to introduce the food waste recycling project, Love Your Food in the school.
