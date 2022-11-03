@@ -22,7 +22,7 @@ style="width:50%">
 With the Sengkang Floating Wetland located with close proximity to the school, AGPS became one of the schools in the neighbourhood to adopt the Punggol Reservoir. Over the years, we have worked with PUB to infuse Water Education in the school, with each level learning a new concept on water conservation. The school also conducted the Sengkang Floating Wetland Trail for pre-schoolers prior to Covid 19 with the support from PUB.
 
 <img src="/images/Partners/External/NParks_logo.png"  
-style="width:70%">
+style="width:50%">
 
 <a href="https://www.nparks.gov.sg/" target=_blank>**National Parks Board (Nparks)**</a>
 <br>
