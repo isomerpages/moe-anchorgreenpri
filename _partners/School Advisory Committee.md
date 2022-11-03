@@ -17,4 +17,4 @@ School Advisory Committee
 *   Mr Chua Hian Yong - Member
 *   Mr Teo Chiang Chai - Member
 
-![](/images/SAC.jpg)
+![](/images/Partners/SAC/SAC.jpg)
