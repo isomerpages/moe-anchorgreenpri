@@ -120,9 +120,10 @@ Senior and Lead Teachers
     <td class="tg-lb3e"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mark Reutens</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+(Character and Citizenship Education)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mark_reutens@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span></td>
