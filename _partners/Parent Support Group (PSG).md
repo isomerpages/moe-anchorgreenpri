@@ -39,17 +39,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/PSG%202021_Logo.jpg" alt="Parent Support Group 2021 Logo" style="width:50%;">  
+<body><img src="/images/Partners/PSG/PSG%202021_Logo.jpg" alt="Parent Support Group 2021 Logo" style="width:50%;">  
   
 </body>
 
-![Parent Support Group 2021 Exco Team](/images/PSG%202021_Exco.jpg)
+![Parent Support Group 2021 Exco Team](/images/Partners/PSG/PSG%202021_Exco.jpg)
 
-![Parent Support Group 2021 Exco Members](/images/PSG%202021.jpg)
+![Parent Support Group 2021 Exco Members](/images/Partners/PSG/PSG%202021.jpg)
 
-![Parent Support Group 2021 Gifts from Hearts](/images/PSG%202021_Gifts%20from%20Hearts.jpg)
+![Parent Support Group 2021 Gifts from Hearts](/images/Partners/PSG/PSG%202021_Gifts%20from%20Hearts.jpg)
 
-![Parent Support Group 2021 Dads in Action](/images/PSG%202021_Dads%20in%20Action.jpg)
+![Parent Support Group 2021 Dads in Action](/images/Partners/PSG/PSG%202021_Dads%20in%20Action.jpg)
 
 Join our AGPS PSG Family now!
 -----------------------------
@@ -58,7 +58,7 @@ Join our AGPS PSG Family now!
 
 2.  Scan the QR code and fill in your details.
 
-<img src="/images/RegisterPSG%20QRcode.png"  
+<img src="/images/Partners/PSG/RegisterPSG%20QRcode.png"  
 style="width:25%">
 
 
