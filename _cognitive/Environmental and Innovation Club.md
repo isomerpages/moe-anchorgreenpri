@@ -1,6 +1,6 @@
 ---
 title: Environmental and Innovation Club
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/eic
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/eic/
 description: ""
 ---
 The Environmental Innovation club in AGPS aims to apply technology to a real-life context and to engage in problem-solving and come up with creative solutions with the environment in mind. With the three broad areas of learning focus, students will have a chance to explore real-world problems, to provide the experience and empowerment to innovate to solve real-world problems and express themselves through presentations and competitions. 
@@ -48,14 +48,14 @@ The club hopes to provide the opportunity and experience for the students to be 
 </table>
 
 
-<img src="/images/Picture%201.jpg"  
+<img src="/images/CCA/Cognitive/STEM/Picture%201.jpg"  
 style="width:60%">
 Pupils learning how to use Microbit to help them with the building of their prototypes for their project
 
 
-<img src="/images/Picture%202.jpg"  
+<img src="/images/CCA/Cognitive/STEM/Picture%202.jpg"  
 style="width:60%">
 Pupils presenting their final product
 
-![Getting creative!](/images/Picture%203.jpg)
+![Getting creative!](/images/CCA/Cognitive/STEM/Picture%203.jpg)
 Getting creative!
