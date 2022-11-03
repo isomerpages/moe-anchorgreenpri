@@ -1,6 +1,6 @@
 ---
 title: Guzheng
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/guzheng
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/guzheng/
 description: ""
 ---
 AGPS Guzheng Ensemble aims to cultivate pupils’ interest and passion for Chinese culture and values through the learning of a traditional Chinese instrument. The skills of playing guzheng bring many benefits, such as artistic expression, a sense of accomplishment, stress relief, social and physical activity. Under the tutelage of our experienced instructor, our Guzheng members will experience ensemble playing, decoding cipher notations, fingering techniques, and maintaining the guzheng. Through the various platforms available to perform, our pupils are given opportunities to showcase their talents. Some performing platforms for our Guzheng members include Chinese New Year Celebration Performance, Music and Art Celebrate! and the Year-End Prize Award Ceremony. Our Guzheng members also have the opportunity to participate in the Singapore Youth Festival Arts Presentation. Being able to represent the school for National Awards is a great booster for the students’ confidence and morale.
@@ -47,10 +47,10 @@ AGPS Guzheng Ensemble aims to cultivate pupils’ interest and passion for Chine
 </tbody>
 </table>
 
-![Guzheng](/images/Guzheng%201.png)
+![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%201.png)
 
-![Guzheng](/images/Guzheng%202.png)
+![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%202.png)
 
-![Guzheng](/images/Guzheng%203.jpg)
+![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%203.jpg)
 
-![Guzheng](/images/Guzheng%204.jpg)
+![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%204.jpg)
