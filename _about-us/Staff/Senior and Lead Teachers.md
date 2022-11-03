@@ -1,6 +1,6 @@
 ---
 title: Senior and Lead Teachers
-permalink: /about-us/staff/senior-and-lead-teachers
+permalink: /about-us/staff/senior-and-lead-teachers/
 description: ""
 third_nav_title: Staff
 ---
@@ -85,6 +85,74 @@ Senior and Lead Teachers
     <td class="tg-c8an"><span style="color:#222;background-color:#97E3BD"> Mdm Veronica Lathar Naidu</span></td>
     <td class="tg-61hb"><span style="color:#222"> Senior Teacher</span><br><span style="color:#222">(Tamil Language)</span></td>
     <td class="tg-ble8"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+Senior and Lead Teachers
+==================
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fskk{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-lb3e{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Name</th>
+    <th class="tg-1h0n">Appointment</th>
+    <th class="tg-1h0n">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Hwee Suan  
+(Mrs Audrey Cheng)</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Senior Teacher  
+(Mathematics)</span></td>
+    <td class="tg-lb3e"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mohd_adha_b_kamaron@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohd_adha_b_kamaron@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
