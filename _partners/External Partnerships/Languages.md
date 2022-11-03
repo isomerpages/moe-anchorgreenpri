@@ -9,8 +9,8 @@ Languages
 <img src="/images/Partners/External/NLB_logo.jpg"  
 style="width:70%">
 
-[**National Library Board (NLB)**](https://www.nlb.gov.sg/) 
-
+<a href="https://www.nlb.gov.sg/" target=_blank>**National Library Board (NLB**)</a>
+<br>
 AGPS has partnered NLB for many years. Signature programmes include:<br>
 •	NLB RSS (Read, Swap, Share)<br>
 •	NLB RRW (Read, Reap, Write)<br>
