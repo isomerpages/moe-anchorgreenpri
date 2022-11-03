@@ -34,3 +34,10 @@ style="width:70%">
 <a href="https://www.wwf.sg/" target=_blank>**World Wildlife Fund (WWF)**</a>
 <br>
 The school embarked on its partnering journey with WWF through its workshop and training programmes. The school has also adopted their 7-steps guiding principles in promoting environmental education in the school.
+
+<img src="/images/Partners/External/MSE_logo.png"  
+style="width:80%">
+
+<a href="https://www.mse.gov.sg/" target=_blank>**Ministry of Sustainability and the Environment (MSE)**</a>
+<br>
+AGPS supports Climate Action Week by using the resources provided by MSE and tweaking them to fit our ELEA goals.
