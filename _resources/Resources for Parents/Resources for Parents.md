@@ -15,10 +15,9 @@ Resources for Parents
 <img style="width:80%" src="/images/SLS_new.png">
 <a href="https://vle.learning.moe.edu.sg/login" target=_blank>Student Learning Space</a>
 <br><br>
-
-![Student Icon Logo](/images/Student%20Icon.png)
-[Student iCON](https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard&pli=1)
-
+<img style="width:80%" src="/images/Student%20Icon.png">
+<a href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard&pli=1" target=_blank>Student ICON</a>
+<br><br>
 ![SCHOOLBAG Logo](/images/SCHOOLBAG.png)
 [School Bag](https://www.schoolbag.edu.sg/)
 
