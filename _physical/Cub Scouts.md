@@ -1,6 +1,6 @@
 ---
 title: Cub Scouts
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/cub-scouts
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/cub-scouts/
 description: ""
 ---
 We aim to train our young ones (Cub Scout) by equipping them with the same set of values and skills, both the School and CCA, to be a confident, self-directed person who is an active contributor and a concerned citizen of Singapore – MOE’s Desired outcomes of Education.
@@ -51,11 +51,11 @@ Scouting skills like leadership skill, foot drill, group life, camp craft, outdo
 </tbody>
 </table>
 
-![World Badge Investiture 2020](/images/Cub%20Scouts%201.jpg)
+![World Badge Investiture 2020](/images/CCA/Physical/Cub%20Scouts/Cub%20Scouts%201.jpg)
 World Badge Investiture 2020
 
-![CLTC Training Camp](/images/Cub%20Scouts%202.jpg)
+![CLTC Training Camp](/images/CCA/Physical/Cub%20Scouts/Cub%20Scouts%202.jpg)
 CLTC Training Camp
 
-![Tent Pitching](/images/Cub%20Scouts%203.jpg)
+![Tent Pitching](/images/CCA/Physical/Cub%20Scouts/Cub%20Scouts%203.jpg)
 Tent Pitching
