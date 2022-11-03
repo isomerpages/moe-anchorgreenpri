@@ -6,7 +6,7 @@ third_nav_title: External Partnerships
 ---
 Languages
 =========
-<img src="/images/NLB_logo.jpg"  
+<img src="/images/Partners/External/NLB_logo.jpg"  
 style="width:70%">
 
 [**National Library Board (NLB)**](https://www.nlb.gov.sg/) 
