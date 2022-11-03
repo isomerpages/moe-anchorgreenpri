@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/basketball
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/basketball/
 description: ""
 ---
 The AGPS Basketball CCA is made up of boys who started the CCA as ordinary players. The CCA comprises of boys from P4-P6 who shows interest in basketball. From these groups of ordinary players, eventually, a group of them will be chosen as school team players who will represent the school in National School Games. The boys selected will be grouped according to the Senior and Junior team based on their year of birth. The school team players are selected by CCA teachers under the advice of the professional coach. The training sessions provide opportunities for pupils to maximize their true potential and promote values on responsibility, teamwork, and resilience. Teachers and coaches will ensure the boys inculcate good character and self-discipline. We want our boys to exhibit good sportsmanship on and off the court.
@@ -50,12 +50,12 @@ The AGPS Basketball CCA is made up of boys who started the CCA as ordinary playe
 </tbody>
 </table>
 
-![Our Junior Boys came 4th in the 2019 Zonal Rounds of Inter-school Competition](/images/Basketball%201.png)
+![Our Junior Boys came 4th in the 2019 Zonal Rounds of Inter-school Competition](/images/CCA/Physical/Basketball/Basketball%201.png)
 Our Junior Boys came 4th in the 2019 Zonal Rounds of Inter-school Competition
 
-![Attacking is the best form of defence](/images/Basketball%202.jpg)
+![Attacking is the best form of defence](/images/CCA/Physical/Basketball/Basketball%202.jpg)
 Attacking is the best form of defence
 
-<img src="/images/Basketball%203.jpg"  
+<img src="/images/CCA/Physical/Basketball/Basketball%203.jpg"  
 style="width:75%">
 Listening to the strategy as instructed by the coach
