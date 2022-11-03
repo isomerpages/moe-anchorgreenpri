@@ -28,9 +28,9 @@ style="width:70%">
 <br>
 The school first partnered NParks through the Green Wave Programme where it held a tree planting ceremony at its school field. Since then, the school has planted various local species of trees which are considered endangered. The school has also supported NParks by participating in the Community In Bloom Competition and the Community in Nature Programme, where the school nominated students and staff to attended training sessions on how to look after the biodiversity of our nature.
 
-<img src="/images/Partners/External/NParks_logo.png"  
+<img src="/images/Partners/External/WWF_logo.jpg"  
 style="width:70%">
 
-<a href="https://www.pub.gov.sg/" target=_blank>**World Wildlife Fund (WWF)**</a>
+<a href="https://www.wwf.sg/" target=_blank>**World Wildlife Fund (WWF)**</a>
 <br>
 The school embarked on its partnering journey with WWF through its workshop and training programmes. The school has also adopted their 7-steps guiding principles in promoting environmental education in the school.
