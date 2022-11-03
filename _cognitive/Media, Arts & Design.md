@@ -3,20 +3,11 @@ title: Media, Arts & Design
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/Media-Arts-Design/
 description: ""
 ---
-The Digital Media IN Club at AGPS aims to engage and provide our Anchorlites about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn skills such as coding to develop games, webpage design, photography, and videography.
+Media, Arts & Design is the ideal combination of Art Club and Media club as we evolve to create an outlet for self-expression for Anchorlites in these CCAs.
 
-  
+Focusing on the core Art principles, tools, and techniques of immersive media development, Anchorlites have an opportunity to learn to tell stories, prototype new worlds, and explore creative workflows that will help shape the future of design using both technology and art principles. 
 
-Our Anchorlites from this CCA should be able to appreciate technology and learn about application development, programming, and Cyber Wellness. The club aims to cultivate leadership skills by equipping students with the skills to be peer advocates of their interests, for instance, coding, webpage design as well as photography.
-
-  
-
-Anchorlites from our club will be able to apply what they have learnt by taking part in a variety of Infocomm related inter-school competitions such as NGPCC and various photography competitions at the primary school level. They also have opportunities to be the photographers for school events too.
-
-  
-
-We hope our IN club members will be able to navigate the digital landscape with confidence in the 21st century.
-
+The CCA aims to provide a foundation in the design and development of experiences in the exploration of human connection and interaction through visual arts,  media and technology.
 <br>
 
 <style type="text/css">
