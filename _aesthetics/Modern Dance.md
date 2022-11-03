@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/modern-dance
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/modern-dance/
 description: ""
 ---
 AGPS Modern Dance CCA specializes in contemporary dance which incorporates elements from many styles of dance such as hip-hop, classical, ballet and jazz.
@@ -51,12 +51,12 @@ Through dance, every CCA member appreciates Modern Dance culture and applies the
 </tbody>
 </table>
 
-![Singapore Youth Festival 2018](/images/SYF%202018.jpg)
+![Singapore Youth Festival 2018](/images/CCA/Aesthetics/Modern%20Dance/SYF%202018.jpg)
 Singapore Youth Festival 2018
 
-<img src="/images/Exploring%20different%20dance%20techniques.png"  
+<img src="/images/CCA/Aesthetics/Modern%20Dance/Exploring%20different%20dance%20techniques.png"  
 style="width:50%">
 Exploring different dance techniques
 
-![Learning through play - team spirit in Dance](/images/We%20play%20games%20to%20learn%20about%20team%20spirit%20in%20Dance!.jpg)
+![Learning through play - team spirit in Dance](/images/CCA/Aesthetics/Modern%20Dance/We%20play%20games%20to%20learn%20about%20team%20spirit%20in%20Dance!.jpg)
 Learning through play - team spirit in Dance
