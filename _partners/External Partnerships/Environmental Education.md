@@ -17,6 +17,6 @@ The partnership with NEA was established in 2008 when the school first set its g
 <img src="/images/Partners/External/PUB_logo.jpg"  
 style="width:80%">
 
-[**Public Utilities Board (PUB)**](https://www.nea.gov.sg/)
+[**Public Utilities Board (PUB)**](https://www.pub.gov.sg/)
 <br>
 With the Sengkang Floating Wetland located with close proximity to the school, AGPS became one of the schools in the neighbourhood to adopt the Punggol Reservoir. Over the years, we have worked with PUB to infuse Water Education in the school, with each level learning a new concept on water conservation. The school also conducted the Sengkang Floating Wetland Trail for pre-schoolers prior to Covid 19 with the support from PUB.
