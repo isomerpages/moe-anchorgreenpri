@@ -159,9 +159,10 @@ Middle Primary)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+(Chinese Language)</span><br></td>
+    <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
