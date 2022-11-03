@@ -15,7 +15,7 @@ style="width:70%">
 HPB is a close partner of AGPS in the creation of health promoting environments where students can play, learn, and grow in. HPB supports our school by equipping our school with the right tools to build a healthy environment for our students.
 
 <img src="/images/Partners/External/ActiveSG_logo.jpg"  
-style="width:70%">
+style="width:50%">
 
 <a href="https://www.myactivesg.com/" target=_blank>**Active SG**</a>
 <br>
