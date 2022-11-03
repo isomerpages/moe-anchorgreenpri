@@ -10,7 +10,7 @@ Environmental Education
 <img src="/images/Partners/External/NEA_logo.jpg"  
 style="width:70%">
 
-[**Ministry of the Environment and Water Resource (MEWR)**](https://www.mse.gov.sg/)
+[**National Environmental Agency (NEA)**](https://www.nea.gov.sg/)
 
   
 
