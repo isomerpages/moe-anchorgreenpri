@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/netball
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/netball/
 description: ""
 ---
 “If you’re really passionate about the game, you’ll always put your best foot forward. Whatever position you’re put in, that is the passion you have to get the turnovers, to get the shots in, and pass the ball to your teammates. That’s the passion you need to have for the game, and the drive you need to succeed. If you’ve got the passion then you’ll always be there training and you’ll be a real team player,” Kadeen Corbin, England and Team Bath. 
@@ -71,19 +71,19 @@ We are proud of our two teams - Both the Junior and Senior Division Teams came i
 </tbody>
 </table>
 
-![SPSSC North Zone Netball Championships 2019 Junior Division - 3rd](/images/SPSSC%20North%20Zone%20Netball%20Championships%202019.jpg)
+![SPSSC North Zone Netball Championships 2019 Junior Division - 3rd](/images/CCA/Physical/Netball/SPSSC%20North%20Zone%20Netball%20Championships%202019.jpg)
 SPSSC North Zone Netball Championships 2019
 
 Junior Division - 3rd
 
 
-<img src="/images/SPSSC%20North%20Zone%20Netball%20Championships%202019(2).jpg"  
-style="width:70%">
+<img src="/images/CCA/Physical/Netball/SPSSC%20North%20Zone%20Netball%20Championships%202019(2).jpg"  
+style="width:80%">
 SPSSC North Zone Netball Championships 2019
 
 Senior Division - 3rd
 
-![SPSSC North Zone Netball Championships 2019 Netball students in action](/images/SPSSC%20North%20Zone%20Netball%20Championships%202019(3).jpg)
+![SPSSC North Zone Netball Championships 2019 Netball students in action](/images/CCA/Physical/Netball/SPSSC%20North%20Zone%20Netball%20Championships%202019(3).jpg)
 SPSSC North Zone Netball Championships 2019
 
 Netball students in action - never let good enough be enough
