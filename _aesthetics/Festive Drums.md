@@ -1,6 +1,6 @@
 ---
 title: Festive Drums
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/festive-drums
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/festive-drums/
 description: ""
 ---
 Anchor Green Primary School Festive Drums was established in 2012. Our CCA reinforces the skills of cooperation and foster perseverance and the spirit of excellence in students through rigorous rehearsals and performances. The teachers-in-charge and the CCA instructor work closely to develop our students to their fullest potential, honing their drumming and performance skills through various platforms. A festive drummer can look forward to performing in school and in public, serving the community by performing in various community events, such as the Singapore World Water Day in 2017 and the Sengkang West Family Day in 2019. Through the CCA, our students are also able to develop self-discipline and self-confidence, as well as cultivate a passion for drumming and the performing arts.  
@@ -39,8 +39,8 @@ Anchor Green Primary School Festive Drums was established in 2012. Our CCA reinf
 </tbody>
 </table>
 
-![Festive Drums](/images/Festive%20Drums%201.jpg)
+![Festive Drums](/images/CCA/Aesthetics/Festive%20Drums/Festive%20Drums%201.jpg)
 
-![Festive Drums](/images/Festive%20Drums%202.jpg)
+![Festive Drums](/images/CCA/Aesthetics/Festive%20Drums/Festive%20Drums%202.jpg)
 
-![Festive Drums](/images/Festive%20Drums%203.jpg)
+![Festive Drums](/images/CCA/Aesthetics/Festive%20Drums/Festive%20Drums%203.jpg)
