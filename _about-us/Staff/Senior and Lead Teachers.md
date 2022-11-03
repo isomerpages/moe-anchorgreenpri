@@ -139,9 +139,10 @@ Jelaludin</span><br></td>
     <td class="tg-lb3e"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+(Physical Education)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
