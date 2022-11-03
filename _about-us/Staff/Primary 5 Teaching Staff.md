@@ -1,6 +1,6 @@
 ---
 title: Primary 5 Teaching Staff
-permalink: /about-us/staff/primary-5-teaching-staff
+permalink: /about-us/staff/primary-5-teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -93,6 +93,11 @@ Primary 5 Teaching Staff
   <tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span><br></td>
     <td class="tg-agmf"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-33ww"></td>
   </tr>
 </tbody>
 </table>
