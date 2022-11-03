@@ -1,14 +1,14 @@
 ---
 title: Environmental Education
-permalink: /partners/external-partnerships/environmental-education
+permalink: /partners/external-partnerships/environmental-education/
 description: ""
 third_nav_title: External Partnerships
 ---
 Environmental Education
 =======================
 
-<img src="/images/MEWR-logo.jpg"  
-style="width:80%">
+<img src="/images/Partners/External/NEA_logo.jpg"  
+style="width:70%">
 
 [**Ministry of the Environment and Water Resource (MEWR)**](https://www.mse.gov.sg/)
 
