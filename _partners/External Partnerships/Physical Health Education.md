@@ -7,23 +7,9 @@ third_nav_title: External Partnerships
 Physical Health Education
 ========================
 
-<html>
-<body>
-<p><a href="https://www.myheart.org.sg/">
-<img src="/images/SHF_logo.jpg"  style="width:40%">Singapore Heart Foundation
-</a></p>
-</body>
-</html>
+<img src="/images/Partners/External/MSE_logo.png"  
+style="width:80%">
 
-
-<html>
-<body>
-<p><a href="https://www.onepa.gov.sg/cc/anchorvale-cc">
-<img src="/images/ACC_logo.jpg"  style="width:55%">Anchorvale CC
-</a></p>
-</body>
-</html>
-
- 
-
-AGPS has partnered SHF and Anchorvale CC to carry out a blood pressure monitoring screening for the public. This is to inculcate in students the awareness of good blood pressure readings as important numbers in their lives and to motivate positive behavioural changes towards better heart health. This also provides out students with opportunity to serve the community.
+<a href="https://www.mse.gov.sg/" target=_blank>**Ministry of Sustainability and the Environment (MSE)**</a>
+<br>
+HPB is a close partner of AGPS in the creation of health promoting environments where students can play, learn, and grow in. HPB supports our school by equipping our school with the right tools to build a healthy environment for our students.
