@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/art-club
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/art-club/
 description: ""
 ---
 The Art Club CCA takes on a student-centric approach, focusing on developing the passion and nurturing talents for Visual Arts. Art Club focuses on the exploration of different art media, the creation of artworks, and appreciation of ideas, concepts, and communication. The aims of the Art Club in AGPS include providing all members with an opportunity to enrich and foster their individuality through the creation of artworks. More importantly, Art Club hopes to develop members to be gracious representatives of the visual arts of the school and community.
@@ -47,13 +47,13 @@ Anchorlites in Art Club CCA can look forward to exciting learning journeys, disc
 </tbody>
 </table>
 
-![Experimenting new materials](/images/Experimenting%20new%20materials.jpg)
+![Experimenting new materials](/images/CCA/Cognitive/Media%20Arts%20Design/Experimenting%20new%20materials.jpg)
 Art Club members work collaboratively with each other to see inter-relationships among ideas, adapt, generate and create new ideas and products.
 
-![Paper Marbling](/images/Paper%20Marbling.jpg)
+![Paper Marbling](/images/CCA/Cognitive/Media%20Arts%20Design/Paper%20Marbling.jpg)
 
-![Resin Workshop](/images/Resin%20Workshop.jpg)
+![Resin Workshop](/images/CCA/Cognitive/Media%20Arts%20Design/Resin%20Workshop.jpg)
 Art Club members are given the opportunity to nurture their creative expressions, through the exploration of new mediums such as resin art and paper marbling
 
-![Representing Anchor Green](/images/Representing%20Anchor%20Green.jpg)
+![Representing Anchor Green](/images/CCA/Cognitive/Media%20Arts%20Design/Representing%20Anchor%20Green.jpg)
 Our Art Club members are given the opportunity to stretch their leadership potential and hone their communication skills in representing the school at national events such as Singapore Youth Festival and Anti-Drug Montage.
