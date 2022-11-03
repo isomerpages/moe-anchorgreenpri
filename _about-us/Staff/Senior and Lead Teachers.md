@@ -113,60 +113,60 @@ Senior and Lead Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Hwee Suan  
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Hwee Suan<br>  
 (Mrs Audrey Cheng)</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Senior Teacher  
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Senior Teacher<br>
 (Mathematics)</span></td>
     <td class="tg-lb3e"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mark Reutens</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Character and Citizenship Education)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mark_reutens@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Bte Ismail</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Art)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz
 Jelaludin</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Malay Language)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Physical Education)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Physical Education)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br>
 (Mrs Juliana Tan)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (English Language
 Middle Primary)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Chinese Language)</span><br></td>
     <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
   </tr>
 	 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Chinese Language)</span><br></td>
     <td class="tg-fskk"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
   </tr>
