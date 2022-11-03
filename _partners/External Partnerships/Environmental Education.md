@@ -8,14 +8,14 @@ Environmental Education
 =======================
 
 <img src="/images/Partners/External/NEA_logo.png"  
-style="width:60%">
+style="width:40%">
 
 <a href="https://www.nea.gov.sg/" target=_blank>**National Environmental Agency (NEA)**</a>
 <br>
 The partnership with NEA was established in 2008 when the school first set its goal of being an EE school. Over the years, the school has worked with them to host the Clean & Green Schools Carnival, the Eco-school Challenge competition where the team came in first in 2012, and to support them to be one of the first 10 schools to introduce the food waste recycling project, Love Your Food in the school.
 
 <img src="/images/Partners/External/PUB_logo.jpg"  
-style="width:80%">
+style="width:50%">
 
 <a href="https://www.pub.gov.sg/" target=_blank>**Public Utilities Board (PUB)**</a>
 <br>
@@ -29,14 +29,14 @@ style="width:70%">
 The school first partnered NParks through the Green Wave Programme where it held a tree planting ceremony at its school field. Since then, the school has planted various local species of trees which are considered endangered. The school has also supported NParks by participating in the Community In Bloom Competition and the Community in Nature Programme, where the school nominated students and staff to attended training sessions on how to look after the biodiversity of our nature.
 
 <img src="/images/Partners/External/WWF_logo.jpg"  
-style="width:70%">
+style="width:50%">
 
 <a href="https://www.wwf.sg/" target=_blank>**World Wildlife Fund (WWF)**</a>
 <br>
 The school embarked on its partnering journey with WWF through its workshop and training programmes. The school has also adopted their 7-steps guiding principles in promoting environmental education in the school.
 
 <img src="/images/Partners/External/MSE_logo.png"  
-style="width:80%">
+style="width:50%">
 
 <a href="https://www.mse.gov.sg/" target=_blank>**Ministry of Sustainability and the Environment (MSE)**</a>
 <br>
