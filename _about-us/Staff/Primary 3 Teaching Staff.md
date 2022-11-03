@@ -1,6 +1,6 @@
 ---
 title: Primary 3 Teaching Staff
-permalink: /about-us/staff/primary-3-teaching-staff
+permalink: /about-us/staff/primary-3-teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -85,6 +85,11 @@ Primary 3 Teaching Staff
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Loy Qiu Yi</span><br></td>
     <td class="tg-g24l"><a href="mailto:loy_qiu_yi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loy_qiu_yi@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-33ww"></td>
   </tr>
 </tbody>
 </table>
