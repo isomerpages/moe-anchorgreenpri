@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/drama
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/drama/
 description: ""
 ---
 AGPS Drama Club provides members with opportunities to explore various drama techniques that will enable them to be groomed into budding actors. AGPS Drama club sets out with the aim of teaching members about the different elements of theatre by providing them with the opportunity to work both on-stage and backstage. Through these learning opportunities, we also hope to instill in our members love for theatre and foster a sense of confidence in acting as well as in speaking English. Students are also given a platform to participate in various drama competitions such as the International Science Drama Competition (ISDC) in which AGPS Drama club members emerged as 2nd runner up winners in 2018.
@@ -38,11 +38,11 @@ AGPS Drama Club provides members with opportunities to explore various drama tec
 </tbody>
 </table>
 
-![Students perform skits on school values during assembly](/images/Students%20perform%20skits%20on%20school%20values%20during%20assembly.jpg)
+![Students perform skits on school values during assembly](/images/CCA/Aesthetics/Drama/Students%20perform%20skits%20on%20school%20values%20during%20assembly.jpg)
 Students perform skits on school values during assembly
 
-![Working together as a team for a performance](/images/Working%20together%20as%20a%20team%20for%20a%20performance.jpg)
+![Working together as a team for a performance](/images/CCA/Aesthetics/Drama/Working%20together%20as%20a%20team%20for%20a%20performance.jpg)
 Working together as a team for a performance
 
-![Showcasing their talents and being in character](/images/Showcasing%20their%20talents%20and%20being%20in%20character.jpg)
+![Showcasing their talents and being in character](/images/CCA/Aesthetics/Drama/Showcasing%20their%20talents%20and%20being%20in%20character.jpg)
 Showcasing their talents and being in character
