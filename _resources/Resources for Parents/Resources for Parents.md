@@ -18,13 +18,11 @@ Resources for Parents
 <img style="width:80%" src="/images/Student%20Icon.png">
 <a href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard&pli=1" target=_blank>Student ICON</a>
 <br><br>
-![SCHOOLBAG Logo](/images/SCHOOLBAG.png)
-[School Bag](https://www.schoolbag.edu.sg/)
-
-
-![Ministry of Education Logo](/images/MOE.jpg)
-[MOE](https://www.moe.gov.sg/)
-
-
-![PACIFIC BOOKSTORE Logo](/images/PACIFIC%20BOOKSTORE.jpg)
-[Pacific Bookstores](https://www.pacificbookstores.com/)
+<img style="width:80%" src="/images/SCHOOLBAG.png">
+<a href="https://www.schoolbag.edu.sg/" target=_blank>School Bag</a>
+<br><br>
+<img style="width:80%" src="/images/MOE.jpg">
+<a href="https://www.moe.gov.sg/" target=_blank>MOE</a>
+<br><br>
+<img style="width:80%" src="/images/PACIFIC%20BOOKSTORE.jpg">
+<a href="https://www.pacificbookstores.com/" target=_blank>Pacific Bookstores</a>
