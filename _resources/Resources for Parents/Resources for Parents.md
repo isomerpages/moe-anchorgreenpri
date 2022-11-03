@@ -9,20 +9,20 @@ Resources for Parents
 
 ### Websites & Links
 
-<img style="width:80%" src="/images/MOE%20Kindergarten.jpg">
+<img style="width:60%" src="/images/Resources/Logo/MOE%20Kindergarten.jpg">
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target=_blank>MOE Kindergarten</a>
 <br><br>
-<img style="width:80%" src="/images/SLS_new.png">
+<img style="width:60%" src="/images/Resources/Logo/SLS_new.png">
 <a href="https://vle.learning.moe.edu.sg/login" target=_blank>Student Learning Space</a>
 <br><br>
-<img style="width:80%" src="/images/Student%20Icon.png">
+<img style="width:60%" src="/images/Resources/Logo/Student%20Icon.png">
 <a href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard&pli=1" target=_blank>Student ICON</a>
 <br><br>
-<img style="width:80%" src="/images/SCHOOLBAG.png">
+<img style="width:60%" src="/images/Resources/Logo/SCHOOLBAG.png">
 <a href="https://www.schoolbag.edu.sg/" target=_blank>School Bag</a>
 <br><br>
-<img style="width:80%" src="/images/MOE.jpg">
+<img style="width:86%" src="/images/Resources/Logo/MOE.jpg">
 <a href="https://www.moe.gov.sg/" target=_blank>MOE</a>
 <br><br>
-<img style="width:80%" src="/images/PACIFIC%20BOOKSTORE.jpg">
+<img style="width:60%" src="/images/Resources/Logo/PACIFIC%20BOOKSTORE.jpg">
 <a href="https://www.pacificbookstores.com/" target=_blank>Pacific Bookstores</a>
