@@ -30,30 +30,21 @@ The CCA aims to provide a foundation in the design and development of experience
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-f4yw">Mdm Nur Martina Ismail</td>
+    <td class="tg-0pyt"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
   <tr>
     <td class="tg-f4yw">Mr Gordon Chua Koon Leng</td>
     <td class="tg-0pyt"><a href="mailto:gordon_chua_koon_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">gordon_chua_koon_leng@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">Ms Tan Pei Shan</td>
-    <td class="tg-0pyt"><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Teo Yen Yen<br>(Mrs Juliana Tan)</td>
-    <td class="tg-f4yw"> <a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Wang Ailing<br>(Mrs Isabel Ng)</td>
-    <td class="tg-vtmj"><a href="mailto:wang_ailing@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">wang_ailing@schools.gov.sg</span></a></td>
-  </tr>
 </tbody>
 </table>
-
 
 <img src="/images/CCA/Cognitive/Media%20Arts%20Design/Digital%20Media%201.jpg"  
 style="width:70%">
 Taking a closer view of living things with the camera
-
 
 <img src="/images/CCA/Cognitive/Media%20Arts%20Design/Digital%20Media%202.jpg"  
 style="width:70%">
