@@ -132,9 +132,11 @@ Senior and Lead Teachers
     <td class="tg-lb3e"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz
+Jelaludin</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher
+(Malay Language)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
