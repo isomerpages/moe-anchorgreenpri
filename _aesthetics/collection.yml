@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics.md
-      - Art Club.md
       - Choir.md
       - Drama.md
       - Festive Drums.md
