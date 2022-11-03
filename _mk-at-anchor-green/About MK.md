@@ -1,6 +1,6 @@
 ---
 title: About MK
-permalink: /mk-at-anchor-green/about-mk
+permalink: /mk-at-anchor-green/about-mk/
 description: ""
 ---
 About MK
@@ -10,7 +10,7 @@ MOE Kindergarten @ Anchor Green began its operations in January 2019. Sited at A
 
 For more information on MOE Kindergartens please visit the website at [https://www.moe.gov.sg/preschool/moe-kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
-<img src="/images/MOE%20Kindergarten2.jpg"  
+<img src="/images/MK/MOE%20Kindergarten2.jpg"  
 style="width:40%">
 
 Our MK collaborates with the following Early Years Centres:
