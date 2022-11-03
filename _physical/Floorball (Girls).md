@@ -1,6 +1,6 @@
 ---
 title: Floorball (Girls)
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/floorball-girls
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/floorball-girls/
 description: ""
 ---
 AGPS Floorball (Girls) is a newly formed CCA and its first senior division team made its debut in the National School Games (NSG) in 2020. Besides the senior team, the CCA also consists of pupils in the junior division, recreational team, as well as the development team. The various groups cater to the different interests and ability levels so that pupils can participate at the intensity level that suits them. Besides learning and training to play the game well, pupils also get to learn values such as respect, resilience, and responsibility through team-based activities. Senior members are tasked to mentor junior members and this helps juniors to acquire skills quickly. This strategy also helps the senior members to learn and apply 21st Century Competency (21 CC) skills such as confidence, communication, and collaboration skills, and relationship management.
@@ -48,8 +48,8 @@ AGPS Floorball (Girls) is a newly formed CCA and its first senior division team 
 </tbody>
 </table>
 
-![Friendly match with Sengkang Green Primary School](/images/Friendly%20match%20with%20Sengkang%20Green%20Primary%20School.jpg)
+![Friendly match with Sengkang Green Primary School](/images/CCA/Physical/Floorball%20(Girls)//Friendly%20match%20with%20Sengkang%20Green%20Primary%20School.jpg)
 Friendly match with Sengkang Green Primary School
 
-![AGPS debut team in National School Games for Floorball Girls](/images/AGPS%20debut%20team%20in%20National%20School%20Games%20for%20Floorball%20Girls.jpg)
+![AGPS debut team in National School Games for Floorball Girls](/images/CCA/Physical/Floorball%20(Girls)/AGPS%20debut%20team%20in%20National%20School%20Games%20for%20Floorball%20Girls.jpg)
 AGPS debut team in National School Games for Floorball Girls
