@@ -236,6 +236,15 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Lower Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a></td>
   </tr>
-	
+	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chong Chee Wee</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Middle Primary</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chong_chee_wee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chong_chee_wee@schools.gov.sg</span></a></td>
+  </tr>
+	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Kalyani S Ramasamy <br>(Mrs Vara)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Upper Primary</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:kalyani_s_ramasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kalyani_s_ramasamy@schools.gov.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
