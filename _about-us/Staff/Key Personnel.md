@@ -200,7 +200,7 @@ Key Personnel
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>English Language</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br>
