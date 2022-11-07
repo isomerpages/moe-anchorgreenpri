@@ -6,6 +6,7 @@ third_nav_title: Staff
 ---
 Senior and Lead Teachers
 ==================
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
