@@ -208,12 +208,11 @@ Key Personnel
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A"> ang_gek_moi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Chinese Language)</span><br></td>
-    <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>(Mrs Thiro)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Science</span><br></td>
+    <td class="tg-fskk"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vinitha_nair@schools.gov.sg</span></a></td>
   </tr>
-	 <tr>
+	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Chinese Language)</span><br></td>
