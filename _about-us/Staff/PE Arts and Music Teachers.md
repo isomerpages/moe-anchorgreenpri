@@ -41,6 +41,11 @@ Art
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
   </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
 </tbody>
 </table>
 
@@ -80,6 +85,11 @@ Music
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Jessica Ding Chooi Hui</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music</span></td>
     <td class="tg-fskk"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
+  </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 </tbody>
 </table>
@@ -146,6 +156,11 @@ Physical Education
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
+  </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 </tbody>
 </table>
