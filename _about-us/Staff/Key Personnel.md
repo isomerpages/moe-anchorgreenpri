@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /about-us/staff/key-personnel
+permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
 ---
@@ -147,6 +147,87 @@ Key Personnel
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Mr Lee Teck Hock Robert</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Assistant Year Head</span><br><span style="color:#222;background-color:#FFF">Upper Primary</span></td>
     <td class="tg-0pyt"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fskk{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-lb3e{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Name</th>
+    <th class="tg-1h0n">Appointment</th>
+    <th class="tg-1h0n">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Wesley Cheong</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Principal</span></td>
+    <td class="tg-lb3e" rowspan="4" style="text-align: center; vertical-align: middle;"><a href="mailto:Anchorgreen_ps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">Anchorgreen_ps_school_leaders@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Christopher Koh</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administrative)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Physical Education)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Physical Education)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br>
+(Mrs Juliana Tan)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(English Language
+Middle Primary)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Chinese Language)</span><br></td>
+    <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Chinese Language)</span><br></td>
+    <td class="tg-fskk"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-33ww"></td>
   </tr>
 </tbody>
 </table>
