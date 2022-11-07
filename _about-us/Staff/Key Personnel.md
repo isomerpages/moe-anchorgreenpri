@@ -162,7 +162,7 @@ Key Personnel
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fskk{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-fskk{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:center}
 .tg .tg-lb3e{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
 </style>
@@ -193,16 +193,14 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administrative)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Physical Education)</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Saniyah Amin</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Staff Developer</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:saniyah_amin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">saniyah_amin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Physical Education)</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>English Language</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br>
