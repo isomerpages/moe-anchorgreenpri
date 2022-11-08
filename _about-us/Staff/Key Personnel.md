@@ -119,5 +119,10 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Discipline</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a></td>
   </tr>
+		<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Outdoor Learning & Programme for Active Learning</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
