@@ -23,7 +23,6 @@ The CCA aims to provide a foundation in the design and development of experience
 .tg .tg-vtmj{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
-	<tbody>
 <thead>
   <tr>
     <th class="tg-8zvm"><span style="color:#EEE;background-color:#2A2A2A">Teacher-in-charge</span></th>
