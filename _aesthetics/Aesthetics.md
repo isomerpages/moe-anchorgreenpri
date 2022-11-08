@@ -77,7 +77,7 @@ description: ""
 <tbody>
 
   <tr>
-    <td class="tg-1wig" rowspan="4">2</td>
+    <td class="tg-1wig" rowspan="4">1</td>
     <td class="tg-1wig" rowspan="4">CHOIR</td>
     <td class="tg-0lax">P3</td>
     <td class="tg-baqh">MS JESSICA<br>DING <br></td>
@@ -106,7 +106,7 @@ description: ""
     <td class="tg-baqh"> </td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="4">3</td>
+    <td class="tg-1wig" rowspan="4">2</td>
     <td class="tg-1wig" rowspan="4">DRAMA</td>
     <td class="tg-0lax">P3</td>
     <td class="tg-baqh">NA</td>
@@ -136,7 +136,7 @@ description: ""
     <td class="tg-amwm"> </td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="4">4</td>
+    <td class="tg-1wig" rowspan="4">3</td>
     <td class="tg-1wig" rowspan="4">FESTIVE DRUMS</td>
     <td class="tg-0lax">P3</td>
     <td class="tg-baqh">NA</td>
@@ -166,7 +166,7 @@ description: ""
     <td class="tg-amwm"> </td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="4">5</td>
+    <td class="tg-1wig" rowspan="4">4</td>
     <td class="tg-amwm" rowspan="4">GUZHENG</td>
     <td class="tg-0lax">P3</td>
     <td class="tg-baqh">NA</td>
@@ -196,7 +196,7 @@ description: ""
     <td class="tg-amwm"> </td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="4">6</td>
+    <td class="tg-1wig" rowspan="4">5</td>
     <td class="tg-amwm" rowspan="4">HANDBELLS</td>
     <td class="tg-0lax">P3</td>
     <td class="tg-baqh">MS DENISE TENG</td>
@@ -226,7 +226,7 @@ description: ""
     <td class="tg-amwm"> </td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="4">7</td>
+    <td class="tg-1wig" rowspan="4">6</td>
     <td class="tg-1wig" rowspan="4">MODERN DANCE</td>
     <td class="tg-0lax">P3</td>
     <td class="tg-baqh"> NA</td>
