@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/
 description: ""
 ---
 <style type="text/css">
@@ -75,36 +75,7 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-1wig" rowspan="4">1</td>
-    <td class="tg-amwm" rowspan="4">ART CLUB</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">NA</span></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-1wig"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-nrix">MR FIRUZ</td>
-    <td class="tg-nrix">ART RM 1 &amp; 2<br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh">MDM RISNAWATY</td>
-    <td class="tg-nrix">ART RM 1 &amp; 2<br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">MDM ALVINA/ </span><br><span style="font-weight:normal;color:#000">MDM NUR MARTINA (OIC) </span></td>
-    <td class="tg-nrix">ART RM 1 &amp; 2<br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-0lax"></td>
-  </tr>
+
   <tr>
     <td class="tg-1wig" rowspan="4">2</td>
     <td class="tg-1wig" rowspan="4">CHOIR</td>
@@ -286,5 +257,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
