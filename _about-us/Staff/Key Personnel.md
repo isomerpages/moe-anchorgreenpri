@@ -100,11 +100,15 @@ Key Personnel
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:kalyani_s_ramasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kalyani_s_ramasamy@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong))</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Level Head<br>Mathematics</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
   </tr>
-	
+	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Mustapha</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Level Head<br>Mathematics</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
+  </tr>
 	
 </tbody>
 </table>
