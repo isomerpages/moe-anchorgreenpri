@@ -106,8 +106,8 @@ Key Personnel
   </tr>
 	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Mustapha</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Level Head<br>Mathematics</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Science</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_hazwani_mustapha@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@schools.gov.sg</span></a></td>
   </tr>
 	
 </tbody>
