@@ -42,22 +42,3 @@ The CCA aims to provide a foundation in the design and development of experience
 </tbody>
 </table>
 
-<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Digital%20Media%201.jpg"  style="width:70%">
-Taking a closer view of living things with the camera
-
-<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Digital%20Media%202.jpg"  
-style="width:70%">
-Using MicroBit to light up the house
-
-<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Experimenting%20new%20materials.jpg"  style="width:70%">
-Media, Arts Design members work collaboratively with each other to see inter-relationships among ideas, adapt, generate and create new ideas and products.
-
-
-<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Paper%20Marbling.jpg"  style="width:70%">
-Paper Marbling
-
-<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Resin%20Workshop.jpg"  style="width:70%">
-Media, Arts Design members are given the opportunity to nurture their creative expressions, through the exploration of new mediums such as resin art and paper marbling
-
-<img src="/images/CCA/Cognitive/Media%20Arts%20Design/Representing%20Anchor%20Green.jpg"  style="width:70%">
-Our Media, Arts Design members are given the opportunity to stretch their leadership potential and hone their communication skills in representing the school at national events such as Singapore Youth Festival and Anti-Drug Montage.
