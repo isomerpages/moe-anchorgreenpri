@@ -1,6 +1,6 @@
 ---
 title: Cognitive
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive
+permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/
 description: ""
 ---
 <style type="text/css">
@@ -107,7 +107,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dgl5" rowspan="4">2</td>
-    <td class="tg-dgl5" rowspan="4">DIGITAL MEDIA</td>
+    <td class="tg-dgl5" rowspan="4">MEDIA, ARTS & DESIGN</td>
     <td class="tg-ktyi">P3</td>
     <td class="tg-7yig"><br>MRS ISABEL NG</td>
     <td class="tg-7yig">P5 Respect CLASSROOM</td>
@@ -137,7 +137,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-dgl5" rowspan="4">3</td>
-    <td class="tg-dgl5" rowspan="4">ENVIRONMENTAL INNOVATION</td>
+    <td class="tg-dgl5" rowspan="4">STEM INNOVATORS</td>
     <td class="tg-ktyi">P3</td>
     <td class="tg-7yig">MRS REGINA SOH</td>
     <td class="tg-7yig">SCIENCE LABS</td>
@@ -164,35 +164,6 @@ description: ""
     <td class="tg-7yig">SCIENCE LABS</td>
     <td class="tg-9hzb"> </td>
     <td class="tg-9hzb"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" rowspan="4">4</td>
-    <td class="tg-dgl5" rowspan="4"> <br>ROBOTICS</td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig">MR MARK REUTENS</td>
-    <td class="tg-7yig">P5 CLASSROOM</td>
-    <td class="tg-dgl5"> </td>
-    <td class="tg-dgl5"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P4</td>
-    <td class="tg-7yig" rowspan="2"><span style="font-weight:normal;color:#000">MDM HAZELEE </span><br></td>
-    <td class="tg-7yig">COMP LAB 2</td>
-    <td class="tg-dgl5"> </td>
-    <td class="tg-dgl5"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P5</td>
-    <td class="tg-7yig">COMP LAB 2</td>
-    <td class="tg-dgl5"> </td>
-    <td class="tg-dgl5"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P6</td>
-    <td class="tg-7yig">MDM CANNY WONG (OIC)</td>
-    <td class="tg-7yig">COMP LAB 1</td>
-    <td class="tg-dgl5"> </td>
-    <td class="tg-dgl5"> </td>
   </tr>
 </tbody>
 </table>
