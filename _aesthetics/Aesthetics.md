@@ -80,14 +80,14 @@ description: ""
     <td class="tg-1wig" rowspan="4">1</td>
     <td class="tg-1wig" rowspan="4">CHOIR</td>
     <td class="tg-0lax">P3</td>
-    <td class="tg-baqh">MS JESSICA<br>DING <br></td>
+    <td class="tg-baqh">MS JESSICA DING <br></td>
     <td class="tg-baqh"></td>
     <td class="tg-0lax"> </td>
     <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-0lax">P4</td>
-    <td class="tg-baqh" rowspan="2">NUR DIYANAH</td>
+    <td class="tg-baqh" rowspan="2" style="text-align: center; vertical-align: middle;">NUR DIYANAH</td>
     <td class="tg-nrix">MUSIC RM 1 &amp; 2<br></td>
     <td class="tg-baqh"><span style="background-color:initial">MUSIC RM 1 &amp; 2</span></td>
     <td class="tg-baqh"> </td>
