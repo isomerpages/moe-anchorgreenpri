@@ -1,15 +1,13 @@
 ---
 title: "Stall No 1: Cold Drinks & Fruits Stall"
-permalink: /resources/canteen-menu/stall-no-1-cold-drinks-n-fruits-stall
+permalink: /resources/canteen-menu/stall-no-1-cold-drinks-n-fruits-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-
-
 Stall No. 1: Cold Drinks & Fruits Stall
 =======================================
 
-![Stall 1 Logo](/images/stall%201.jpg)
+![Stall 1 Logo](/images/Resources/Canteen/stall%201.jpg)
 
 Cup Drinks
 ----------
