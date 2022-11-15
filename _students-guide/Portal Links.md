@@ -105,7 +105,7 @@ URL for the website is [https://workspace.google.com/dashboard](https://workspa
 
 Do note that when accessing via tablets, the following should be installed as well: <br>
 
-<img src="/images/Student20%Guides/Google%20Doc.jpg"  
+<img src="/images/Student20%Guide/Google%20Doc.jpg"  
 style="width:40%">
 
 <img src="/images/Google%20Slides.png"  
