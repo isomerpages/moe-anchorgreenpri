@@ -1,21 +1,19 @@
 ---
 title: "Stall No 3: Halal Western Food Stall"
-permalink: /resources/canteen-menu/stall-no-3-halal-western-food-stall
+permalink: /resources/canteen-menu/stall-no-3-halal-western-food-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-
-
 Stall No. 3: Halal Western Food Stall
 =====================================
 
-![Stall 3 Logo](/images/stall%203.jpg)
+![Stall 3 Logo](/images//Resources/Canteen/stall%203.jpg)
 
 ### **Set Meal Concept: Rice / Noodles + Vegetables + Meat + Fruit**
 
 ### **Serving Sizes: Medium ($1.50) Large ($1.80)**
 
-![Serving Sizes of Stall 3 Menu](/images/Stall%203%20serving%20size.png)
+![Serving Sizes of Stall 3 Menu](/images//Resources/Canteen/Stall%203%20serving%20size.png)
 
 Mains
 -----
