@@ -11,7 +11,7 @@ Stall No. 6: Malay Rice Food Stall
 
 ### **Serving Sizes: Medium ($1.50) Large ($1.80)**
 
-
+![](/images/Resources/Canteen/Stall%206%20serving%20size.png)
 Mains
 
 
