@@ -1,15 +1,13 @@
 ---
 title: "Stall No 7: Malay Noodles Stall"
-permalink: /resources/canteen-menu/stall-no-7-malay-noodles-stall
+permalink: /resources/canteen-menu/stall-no-7-malay-noodles-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-
-
 Stall No. 7: Malay Noodles Stall
 ================================
 
-![Stall 7 Logo](/images/stall%207.jpg)
+![Stall 7 Logo](/images//Resources/Canteen/stall%207.jpg)
 
 ### **Seat Meal Concept: Noodles + Vegetables + Meat + Fruit**
 
