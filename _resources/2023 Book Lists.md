@@ -6,6 +6,8 @@ description: ""
 2023 Book Lists
 ===============
 
+<a href="/files/Booklist/2023/AGPS%20P1%20Booklist%202023.pdf" target=_blank>AGPS P1 Booklist 2023</a>
+
 [AGPS P1 Booklist 2023](/files/Booklist/2023/AGPS%20P1%20Booklist%202023.pdf)
 
 [AGPS P2 Booklist 2023.](/files/Booklist/2023/AGPS%20P2%20Booklist%202023.pdf)  
