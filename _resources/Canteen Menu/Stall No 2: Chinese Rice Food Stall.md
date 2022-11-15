@@ -1,21 +1,20 @@
 ---
 title: "Stall No 2: Chinese Rice Food Stall"
-permalink: /resources/canteen-menu/stall-no-2-chinese-rice-food-stall
+permalink: /resources/canteen-menu/stall-no-2-chinese-rice-food-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-
-
 Stall No: 2 Chinese Rice Food Stall
 ===================================
 
-![Stall 2 Logo](/images/stall%202.jpg)
+![Stall 2 Logo](/images//Resources/Canteen/stall%202.jpg)
 
 ### **Set Meal Concept: Rice + Vegetables + Meat + Fruit**
 
+
 ### **Serving Sizes: Medium ($1.50) Large ($1.80)**
 
-![Serving Sizes of Stall 2 Menu](/images/Stall%202%20serving%20size.png)
+![Serving Sizes of Stall 2 Menu](/images/Resources/Canteen/Stall%202%20serving%20size.png)
 
 Main Meals
 ----------
