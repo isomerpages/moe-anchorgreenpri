@@ -3,11 +3,10 @@ title: 2023 Book Lists
 permalink: /resources/2023-book-lists/
 description: ""
 ---
-
 2023 Book Lists
 ===============
 
-[AGPS P1 Booklist 2023](/files/Booklist/2023/AGPS%20P1%20Booklist%2023.pdf)
+[AGPS P1 Booklist 2023](/files/Booklist/2023/AGPS%20P1%20Booklist%202023.pdf)
 
 [AGPS P2 Booklist 2023.](/files/Booklist/2023/AGPS%20P2%20Booklist%202023.pdf)  
 
