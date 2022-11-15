@@ -99,7 +99,7 @@ URL for the website is [https://workspace.google.com/dashboard](https://workspa
 
 | Operating System | Platform | 
 | -------- | -------- | 
-| Windows     | Google Chrom     | 
+| Windows     | Google Chrome     | 
 | Android     | [Download Google Classroom App via PlayStore](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_SG&gl=US) | 
 | iOS     | [Download Google Classroom App via PlayStore](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=en_SG&gl=US)     | 
 
