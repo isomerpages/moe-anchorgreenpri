@@ -1,11 +1,9 @@
 ---
 title: "Stall No 4: Chinese Chicken Rice Food Stall"
-permalink: /resources/canteen-menu/stall-no-4-chinese-chicken-rice-food-stall
+permalink: /resources/canteen-menu/stall-no-4-chinese-chicken-rice-food-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-
-
 Stall No. 4: Chinese Chicken Rice Food Stall
 ============================================
 
@@ -15,7 +13,7 @@ Stall No. 4: Chinese Chicken Rice Food Stall
 
 ### **Serving Sizes: Medium ($1.50) Large ($1.80)**
 
-![Serving Size of Stall 4 Menu](/images/Stall%204%20serving%20size.png)
+![Serving Size of Stall 4 Menu](/images/Resources/Canteen/Stall%204%20serving%20size.png)
 
 Mains
 
