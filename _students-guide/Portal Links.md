@@ -19,7 +19,7 @@ _Example: Rabi'atul Adawiyah     T1023456K_     **Username: RABIA3456K**
 The password for SLS follows this format:     Agps12542021p(level)     _e.g. Agps12542021p5_
 
   
-URL for the website is [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
+URL for the website is [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
 ### Browser Recommendations
 -----------------------
@@ -72,7 +72,7 @@ URL for the website is [https://learning.moe.edu.sg](https://learning.moe.edu.s
 ### User Guide
 ----------
 
-You can access the user guide by clicking on this [link](https://mo.learning.moe.edu.sg/sls-user-guide/vle/student/index.html). You need to login to SLS first before accessing this user guide.
+You can access the user guide by clicking on this [link](https://www.learning.moe.edu.sg/sls/index.html). You need to login to SLS first before accessing this user guide.
 
 Google Classroom (GC)
 =====================
