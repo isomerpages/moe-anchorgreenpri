@@ -113,7 +113,7 @@ style="width:28%">
 ### User Guide
 ----------
 
-Click on this [link](/files/How%20to%20Login%20to%20Google%20Classroom%20For%20Parents.pdf) to learn how to access Google Classroom from home.
+Click on this [link](/files/HBL/How%20to%20Login%20to%20Google%20Classroom%20For%20Parents.pdf) to learn how to access Google Classroom from home.
 
   
 
