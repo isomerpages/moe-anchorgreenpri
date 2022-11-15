@@ -9,11 +9,6 @@ Student Learning Space (SLS)
 Dear Parents,  
   
 Kindly refer to the following resources for login issues with SLS.  
-  
-[Change Password.pdf](/files/SLS/Change%20Password.pdf)<br>
-[Reset Password.pdf](/files/SLS/Reset%20Password.pdf)<br>
-[Set Password Reset Email Address.pdf](/files/SLS/Set%20Password%20Reset%20Email%20Address.pdf)  
-
 <a href="/files/SLS/Change%20Password.pdf" target=_blank>Change Password.pdf</a><br>
 <a href="/files/SLS/Reset%20Password.pdf" target=_blank>Reset Password.pdf</a><br>
 <a href="/files/SLS/Set%20Password%20Reset%20Email%20Address.pdf" target=_blank>Set Password Reset Email Address.pdf/</a>
