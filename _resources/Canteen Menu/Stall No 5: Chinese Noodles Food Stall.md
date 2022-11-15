@@ -1,21 +1,19 @@
 ---
 title: "Stall No 5: Chinese Noodles Food Stall"
-permalink: /resources/canteen-menu/stall-no-5-chinese-noodles-food-stall
+permalink: /resources/canteen-menu/stall-no-5-chinese-noodles-food-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-
-
 Stall No. 5: Chinese Noodles Food Stall
 =======================================
 
-![Stall 5 Logo](/images/stall%205.jpg)
+![Stall 5 Logo](/images//Resources/Canteen/stall%205.jpg)
 
 ### **Set Meal Concept: Noodles + Vegetables + Meat + Fruit**
 
 ### **Serving Sizes: Medium ($1.50) Large ($1.80)**
 
-![Serving Size of Stall 5 Menu](/images/Stall%205%20serving%20size.png)
+![Serving Size of Stall 5 Menu](/images//Resources/Canteen/Stall%205%20serving%20size.png)
 
 Mains
 -----
