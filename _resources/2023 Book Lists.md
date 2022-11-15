@@ -20,7 +20,7 @@ description: ""
 
 <a href="/files/Booklist/2023/AGPS%20P6%20Booklist%202023.pdf" target=_blank>AGPS P6 Booklist 2023</a>
 
-<a href="/files/Booklist/2023/AGPS%20P1%20(FDN)%20Booklist%202023.pdf" target=_blank>AGPS P6 (FDN) Booklist 2023</a>
+<a href="/files/Booklist/2023/AGPS%20P6%20(FDN)%20Booklist%202023.pdf" target=_blank>AGPS P6 (FDN) Booklist 2023</a>
 
 
 _Info correct as of **07 Nov 2022**_
