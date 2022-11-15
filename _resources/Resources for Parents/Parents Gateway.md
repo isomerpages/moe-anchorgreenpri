@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /resources/resources-for-parents/parents-gateway
+permalink: /resources/resources-for-parents/parents-gateway/
 description: ""
 third_nav_title: Resources for Parents
 ---
@@ -19,3 +19,6 @@ Do view the two-minute video clip below to understand the rationale of Parents G
 
 We will progressively roll out the use of the app, and the school’s Bulletin is also made available through Parents Gateway. We hope that all parents will download the app and make full use of the features available.
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3yYESIFqldo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
