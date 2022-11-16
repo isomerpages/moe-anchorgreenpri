@@ -134,7 +134,6 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Assistant Year Head<br>Upper Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
   </tr>
-tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
     <td class="tg-agmf"><br></td>
