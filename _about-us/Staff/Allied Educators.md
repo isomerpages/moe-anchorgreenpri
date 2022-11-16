@@ -42,12 +42,11 @@ Allied Educators
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Yan Liang Kevin</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior School Counsellor</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:chua_yan_liang_kevin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">chua_yan_liang_kevin@schools.gov.sg</span></a></td>
+    <td class="tg-lb3e"  rowspan="2"><a href="mailto:chua_yan_liang_kevin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">chua_yan_liang_kevin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mun Kwai Sam</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Counsellor</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:mun_kwai_sam@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mun_kwai_sam@schools.gov.sg</span></a><br></td>
 	</tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
