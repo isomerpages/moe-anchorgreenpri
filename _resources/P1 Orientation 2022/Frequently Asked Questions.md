@@ -62,7 +62,7 @@ On a normal school day, Primary 1 recess is from 9.45 a.m. to 10.15 a.m.  in th
 
 **Q5)      How much is the food from the canteen?**
 
-Most meals cost $1.50 for the regular portion. More information on the canteen stalls can be found [here](/canteen-menu/stall-no-1-cold-drinks-n-fruits-stall).      
+Most meals cost $1.50 for the regular portion. More information on the canteen stalls can be found [here](/resources/canteen-menu/stall-no-1-cold-drinks-n-fruits-stall).      
 
 Arrival and Dismissal
 ---------------------
