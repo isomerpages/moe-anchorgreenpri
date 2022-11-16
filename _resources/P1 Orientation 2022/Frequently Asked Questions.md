@@ -1,11 +1,9 @@
 ---
 title: Frequently Asked Questions
-permalink: /resources/p1-orientation-2022/frequently-asked-questions
+permalink: /resources/p1-orientation-2022/frequently-asked-questions/
 description: ""
 third_nav_title: P1 Orientation 2022
 ---
-
-
 Frequently Asked Questions
 ==========================
 
@@ -14,7 +12,7 @@ First Day of School
 
 **Q1)    Does my child need to bring any textbooks on the first day of school?**
 
-The students do not need to bring any books on the first day of school. A schedule will be provided on the first day of school to share on the books to bring over the whole week. This is so that the students’ school bag will not be too heavy for them to manage. Please refer to the[checklist](/files/Checklist%20-%20Being%20prepared%20for%20school.pdf) for the things to bring on the first day of school.
+The students do not need to bring any books on the first day of school. A schedule will be provided on the first day of school to share on the books to bring over the whole week. This is so that the students’ school bag will not be too heavy for them to manage. Please refer to the [checklist](/files/Checklist%20-%20Being%20prepared%20for%20school.pdf) for the things to bring on the first day of school.
 
   
 
