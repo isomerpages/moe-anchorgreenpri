@@ -1,6 +1,6 @@
 ---
 title: Student Care Information
-permalink: /resources/student-care-information
+permalink: /resources/student-care-information/
 description: ""
 ---
 Student Care Information
