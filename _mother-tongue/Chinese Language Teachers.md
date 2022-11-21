@@ -1,6 +1,6 @@
 ---
 title: Chinese Language Teachers
-permalink: /about-us/staff/mother-tongue-teachers/chinese-language-teachers
+permalink: /about-us/staff/mother-tongue-teachers/chinese-language-teachers/
 description: ""
 ---
 Chinese Language Teachers
