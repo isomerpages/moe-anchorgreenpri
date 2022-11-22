@@ -3,7 +3,6 @@ title: MOE Sexuality Education in Schools
 permalink: /holistic-education/curriculum/character-and-citizenship-education/moe-sex-ed-in-schools/
 description: ""
 ---
-
 1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues..
 
 2. The goals of Sexuality Education are:
@@ -179,7 +178,7 @@ c. Character and Citizenship Education (CCE)
 
 8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Letter%20to%20Parents%20Sexuality%20Ed%2018%20Jan%2022%20page%2012.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to your child’s Form Teacher by 31th January 2022. The form will also be circulated to parents of the P5 cohort via Parents’ Gateway. 
+9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/For%20Parents/Letter%20to%20Parents%20Sexuality%20Ed%2018%20Jan%2022%20page%2012.pdf" target=_blank>here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to your child’s Form Teacher by 31th January 2022. The form will also be circulated to parents of the P5 cohort via Parents’ Gateway. 
 
 10\. Parents can contact the school at 68861356 for discussion or to seek clarification about the school’s sexuality education programme.
 
