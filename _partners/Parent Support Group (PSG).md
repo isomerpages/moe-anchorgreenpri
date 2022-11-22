@@ -54,7 +54,7 @@ img {
 Join our AGPS PSG Family now!
 -----------------------------
 
-1.  Please click on the [Google link](https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform) and fill in your details.
+1.  Please click on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform" target=_blank>Google link</a> and fill in your details.
 
 2.  Scan the QR code and fill in your details.
 
