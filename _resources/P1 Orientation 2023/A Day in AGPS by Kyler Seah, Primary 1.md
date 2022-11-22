@@ -4,9 +4,8 @@ permalink: /resources/p1-orientation-2022/a-day-in-agps-by-kyler-seah-primary-1/
 description: ""
 third_nav_title: P1 Orientation 2023
 ---
-
-A Day in AGPS by Kyler Seah, Primary 1
-======================================
+A Day in AGPS 
+==============================
 
 <div class="bp-youtube">
 
