@@ -64,4 +64,6 @@ style="width:25%">
 
 3.  Download the [Membership Form](/files/For%20Parents/PSG%20Membership%20Form.pdf) and hand it over to any of our school staff.  
 
+<a href="/files/For%20Parents/PSG%20Membership%20Form.pdf" target=_blank>Membership Form</a>
+
 **_We look forward to a fulfilling partnership with you!_**
