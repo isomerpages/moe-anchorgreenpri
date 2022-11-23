@@ -4,7 +4,7 @@ permalink: /holistic-education/co-curricular-activities-cca/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-Co-Curricular Activities (CCA)
+Co-Curricular Activities (CCA) 2023
 ==============================
 
 ![Co-Curricular Activities (CCA)](/images/CCA/CCA%20Picture.jpg)
