@@ -13,6 +13,23 @@ Announcements
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
 
 
+### National Schools Games 2022
+
+This year, our Anchorlite Athletes participated in the MOE National Schools Games ([https://nsg.moe.edu.sg](https://nsg.moe.edu.sg/)) for Basketball, Floorball, Netball and Wushu. The school is proud that our Anchorlites have shown the grit, determination and adaptability to be at their best for self, parents and school. We are pleased to announce the following achievements. [**Congratulations to our student athletes!!**](http://anchorgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Others/2022%20NSG/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf)
+
+**National School Games Floorball Girls (Junior Division) (Tier 1) – Champions**
+
+**National School Games Netball (Junior Division, Zonal) – Zonal Top 4**
+
+**National School Games Floorball Boys (Junior Division) (Tier 1) – 3rd**
+
+**National School Games Floorball Boys (Senior Division) – National Top 8**
+
+The school would like to convey our deepest appreciation to parents, CCA teachers and coaches who have supported our Anchorlites in this sporting journey.
+
+**We thank all our [student athletes](http://anchorgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Others/2022%20NSG/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf) for doing our school proud!!**
+
+
 ### Group Personal Accident Insurance
 
 The school’s group insurer for 2022 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school.  Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target=_blank>Group Personal Accident Insurance for Students</a>. The User Guide can be access through <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target=_blank>Student GPA User Guide - Parent</a>.
