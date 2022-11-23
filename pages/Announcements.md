@@ -7,6 +7,9 @@ Announcements
 =============
 ### P1 Orientation 2023
 
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/" target=_blank>AGPS Corporate Video
+</a>
+
 [Video of AGPS Virtual Tour](https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/)
 
 [Frequently Asked Questions](https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2022/frequently-asked-questions)
