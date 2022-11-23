@@ -10,8 +10,7 @@ Announcements
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
-
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
 
 ### National Schools Games 2022
 
