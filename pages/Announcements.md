@@ -7,12 +7,10 @@ Announcements
 =============
 ### P1 Orientation 2023
 
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/" target=_blank>AGPS Corporate Video
-</a>
-
-[Video of AGPS Virtual Tour](https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/)
-
-[Frequently Asked Questions](https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2022/frequently-asked-questions)
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/arrival-and-dismissal-points/" target=_blank>Arrival and Dismissal Points</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/" target=_blank>AGPS Corporate Video</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/a-day-in-agps/" target=_blank>A Day in AGPS</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/parent-kit-starting-your-primary-1-journey/" target=_blank>Parent Kit: Starting Your Primary 1 Journey</a><br>
 
 
 ### Group Personal Accident Insurance
@@ -24,8 +22,7 @@ The school’s group insurer for 2022 is Income Insurance Limited. Every pupil i
 
 Dear Parents/ Guardians,
 
-In our national efforts to keep Singapore Dengue free, pls ensure stagnant water is removed by
-
+In our national efforts to keep Singapore Dengue free, pls ensure stagnant water is removed by<br>
 a)  Turning the pail  
 b)  Tipping the vase  
 c)  Flipping the flower pot base  
@@ -36,7 +33,6 @@ f)   Clearing the roof gutter and placing Bti insecticide
 You may also view NEA’s videos on Dengue prevention at the following link - <a href="https://youtu.be/aOMVON8aqBY" target=_blank>Check and Protect our Homes from Dengue</a>
 
 Together, let’s play our part in keeping Singapore Dengue free!
-
 
 ### No Parking Zone within the School Carpark
 
