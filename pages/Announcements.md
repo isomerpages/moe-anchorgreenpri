@@ -7,10 +7,10 @@ Announcements
 =============
 ### P1 Orientation 2023
 
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/arrival-and-dismissal-points/" target=_blank>Arrival and Dismissal Points</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/" target=_blank>AGPS Corporate Video</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/a-day-in-agps/" target=_blank>A Day in AGPS</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/parent-kit-starting-your-primary-1-journey/" target=_blank>Parent Kit: Starting Your Primary 1 Journey</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
 
 
 ### Group Personal Accident Insurance
