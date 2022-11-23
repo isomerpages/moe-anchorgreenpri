@@ -15,20 +15,16 @@ Announcements
 
 ### National Schools Games 2022
 
-This year, our Anchorlite Athletes participated in the MOE National Schools Games <a href="https://nsg.moe.edu.sg" target=_blank>(https://nsg.moe.edu.sg)</a> for Basketball, Floorball, Netball and Wushu. The school is proud that our Anchorlites have shown the grit, determination and adaptability to be at their best for self, parents and school. We are pleased to announce the following achievements. [**Congratulations to our student athletes!!**](http://anchorgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Others/2022%20NSG/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf)
+This year, our Anchorlite Athletes participated in the MOE National Schools Games <a href="https://nsg.moe.edu.sg" target=_blank>(https://nsg.moe.edu.sg)</a> for Basketball, Floorball, Netball and Wushu. The school is proud that our Anchorlites have shown the grit, determination and adaptability to be at their best for self, parents and school. We are pleased to announce the following achievements. <a href="/files/For%20Parents/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf" target=_blank>**Congratulations to our student athletes!!**</a>
 
-
-**National School Games Floorball Girls (Junior Division) (Tier 1) – Champions**
-
-**National School Games Netball (Junior Division, Zonal) – Zonal Top 4**
-
-**National School Games Floorball Boys (Junior Division) (Tier 1) – 3rd**
-
+**National School Games Floorball Girls (Junior Division) (Tier 1) – Champions**<br>
+**National School Games Netball (Junior Division, Zonal) – Zonal Top 4**<br>
+**National School Games Floorball Boys (Junior Division) (Tier 1) – 3rd**<br>
 **National School Games Floorball Boys (Senior Division) – National Top 8**
 
 The school would like to convey our deepest appreciation to parents, CCA teachers and coaches who have supported our Anchorlites in this sporting journey.
 
-**We thank all our [student athletes](http://anchorgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Others/2022%20NSG/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf) for doing our school proud!!**
+**We thank all our <a href="/files/For%20Parents/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf" target=_blank>**student athletes**</a> for doing our school proud!!**
 
 
 ### Group Personal Accident Insurance
