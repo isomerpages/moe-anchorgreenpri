@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-anchorgreenpri-staging.netlify.app
-prod: https://moe-anchorgreenpri-prod.netlify.app
+staging: https://staging.d1s3b7y683u4w.amplifyapp.com
+prod: https://master.d1s3b7y683u4w.amplifyapp.com
 resources_name: "2023"
