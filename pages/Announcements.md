@@ -24,7 +24,7 @@ This year, our Anchorlite Athletes participated in the MOE National Schools Game
 
 The school would like to convey our deepest appreciation to parents, CCA teachers and coaches who have supported our Anchorlites in this sporting journey.
 
-**We thank all our <a href="/files/For%20Parents/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf" target=_blank>**student athletes**</a> for doing our school proud!!**
+**We thank all our <a href="/files/For%20Parents/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf" target=_blank>student athletes</a> for doing our school proud!!**
 
 
 ### Group Personal Accident Insurance
