@@ -8,7 +8,7 @@ About MK
 
 MOE Kindergarten @ Anchor Green began its operations in January 2019. Sited at Anchor Green Primary School, it offers Kindergarten 1 and Kindergarten 2 programmes to Singapore Citizens and Permanent Residents. The MK@Anchor Green also has a Kindergarten Care (KCare) service that currently offers before school care to our enrolled MK children.
 
-For more information on MOE Kindergartens please visit the website at [https://www.moe.gov.sg/preschool/moe-kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
+For more information on MOE Kindergartens please visit the website at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target=_blank>https://www.moe.gov.sg/preschool/moe-kindergarten</a>.
 
 <img src="/images/MK/MOE%20Kindergarten2.jpg"  
 style="width:40%">
