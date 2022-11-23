@@ -15,7 +15,8 @@ Announcements
 
 ### National Schools Games 2022
 
-This year, our Anchorlite Athletes participated in the MOE National Schools Games ([https://nsg.moe.edu.sg](https://nsg.moe.edu.sg/)) for Basketball, Floorball, Netball and Wushu. The school is proud that our Anchorlites have shown the grit, determination and adaptability to be at their best for self, parents and school. We are pleased to announce the following achievements. [**Congratulations to our student athletes!!**](http://anchorgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Others/2022%20NSG/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf)
+This year, our Anchorlite Athletes participated in the MOE National Schools Games <a href="https://nsg.moe.edu.sg" target=_blank>(https://nsg.moe.edu.sg)</a> for Basketball, Floorball, Netball and Wushu. The school is proud that our Anchorlites have shown the grit, determination and adaptability to be at their best for self, parents and school. We are pleased to announce the following achievements. [**Congratulations to our student athletes!!**](http://anchorgreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Others/2022%20NSG/2022%20AGPS%20Student%20Athletes%20NSG%20Representatives.pdf)
+
 
 **National School Games Floorball Girls (Junior Division) (Tier 1) – Champions**
 
