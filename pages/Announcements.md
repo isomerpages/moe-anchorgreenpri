@@ -11,6 +11,7 @@ Announcements
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
+<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/info-for-2023-cohort/" target=_blank>P1 Orientation (Info for 2023 Cohort</a>
 
 ### National Schools Games 2022
 
