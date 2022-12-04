@@ -1,0 +1,24 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/English Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Character and Citizenship Education.md
+      - Curriculum/Social Studies.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Programme for Active Learning (PAL).md
+      - Curriculum/Information Technology.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/P3 D Cube (Discover, Develop, Display)
+        Programme.md
+      - Co Curricular Activities (CCA)/P4 to P6 CCA.md
+      - Programmes/.keep
+      - Programmes/ALP (ELEA).md
+      - Programmes/LLP (AGPS ARTS).md

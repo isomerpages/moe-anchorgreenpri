@@ -1,0 +1,8 @@
+collections:
+  cognitive:
+    output: true
+    order:
+      - Cognitive.md
+      - Chess Club.md
+      - Media, Arts & Design.md
+      - STEM Innovators.md

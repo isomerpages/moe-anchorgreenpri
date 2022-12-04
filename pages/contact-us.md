@@ -2,31 +2,43 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Anchor Green
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 31, Anchorvale Drive
+      - "  Singapore 544969"
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mon - Thu
+        time: 7.00am - 5.30pm
+        description: ""
+      - days: Fri
+        time: 7.00am - 5.00pm
+        description: ""
+    maps_link: ""
+    title: Anchor Green Primary School
+  - address:
+      - 31, Anchorvale Drive
+      - Singapore 544969
+      - ""
+    operating_hours:
+      - days: MK
+        time: 8.00 a.m. - 5.00 p.m.
+        description: ""
+      - days: KCare
+        time: 7.00 a.m. - 7.00 p.m.
+        description: ""
+    maps_link: ""
+    title: MOE Kindergarten @Anchor Green
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6886 1356
+      - email: anchorgreen_ps@moe.edu.sg
+      - other: 6315 9825 (Fax)
+    title: Anchor Green Primary School
+  - content:
+      - phone: +65 6886 1356
+      - email: mk_anchorgreen@moe.edu.sg
+      - other: 6315 9825 (Fax)
+    title: MOE Kindergarten @Anchor Green
 ---

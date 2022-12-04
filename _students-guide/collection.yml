@@ -1,0 +1,9 @@
+collections:
+  students-guide:
+    output: true
+    order:
+      - Setting Expectations.md
+      - Portal Links.md
+      - Timetable.md
+      - Helpline Information.md
+      - Important Updates.md

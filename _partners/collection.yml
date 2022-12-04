@@ -1,0 +1,11 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Parent Support Group (PSG).md
+      - School Advisory Committee.md
+      - External Partnerships/.keep
+      - External Partnerships/Languages.md
+      - External Partnerships/Environmental Education.md
+      - External Partnerships/Physical Health Education.md
+      - External Partnerships/Character and Citizenship Education.md

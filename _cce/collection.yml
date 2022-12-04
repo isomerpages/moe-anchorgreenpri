@@ -1,0 +1,9 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Welfare & Safety.md
+      - MOE Sexuality Education in Schools.md
+      - National Education.md
+      - Student Leadership.md
+      - Cyberwellness.md
