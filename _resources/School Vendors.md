@@ -47,7 +47,7 @@ School Vendors
     <td class="tg-ll8o">Retail Address:<br>Blk 4012 Ang Mo Kio Ave 10<br>#01-09 Techplace 1  Singapore 569628<br>Website:<br><a href="https://jeepsinguniform.com/" target=_blank><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">https://jeepsinguniform.com</span></a><br><span style="color:#222;background-color:#97E3BD">To make appointment:</span><br><a href="https://jeepsinguniform.com/pages/appointment-booking" target=_blank><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">https://jeepsinguniform.com/pages/</span></a><br><a href="https://jeepsinguniform.com/pages/appointment-booking"><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">appointment-booking</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-gct1"> Bus Service<br>(Yellow Bus Service Pte Ltd)</td>
+    <td class="tg-gct1"> Bus Service<br>(Yellow Bus Services Pte Ltd)</td>
     <td class="tg-gct1"> 9898 8171</td>
     <td class="tg-gct1">- </td>
     <td class="tg-gct1">- </td>
