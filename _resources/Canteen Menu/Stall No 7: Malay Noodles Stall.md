@@ -11,7 +11,7 @@ third_nav_title: Canteen Menu
 
 ### **Seat Meal Concept: Noodles + Vegetables + Meat + Fruit**
 
-### **Serving Sizes: Medium ($1.50) Large ($1.80)**
+### **Serving Sizes: Medium ($2.00) Large ($2.50)**
 
   
 
