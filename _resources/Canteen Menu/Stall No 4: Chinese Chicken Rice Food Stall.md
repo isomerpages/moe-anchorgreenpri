@@ -4,7 +4,7 @@ permalink: /resources/canteen-menu/stall-no-4-chinese-chicken-rice-food-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-Stall No. 4: Chinese Chicken Rice Food Stall
+<nobr>Stall No. 4: Chinese Chicken Rice Food Stall
 ============================================
 
 ### 
