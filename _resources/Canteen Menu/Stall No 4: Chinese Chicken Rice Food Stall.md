@@ -11,7 +11,7 @@ Stall No. 4: Chinese Chicken Rice Food Stall
 
 ### **Set Meal Concept: Rice / Chicken + Vegetables + Fruit**
 
-### **Serving Sizes: Medium ($1.50) Large ($1.80)**
+### **Serving Sizes: Medium ($2.00) Large ($2.50)**
 
 ![Serving Size of Stall 4 Menu](/images/Resources/Canteen/Stall%204%20serving%20size.png)
 
