@@ -91,13 +91,13 @@ https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4
 **1. I would like to find out more about the MOE Financial Assistance Scheme.** <br>
 You may find out more details here - https://www.moe.gov.sg/financial-matters/financial-assistance 
 
-2)	How do I know whether I qualify for the MOE Financial Assistance Scheme? 
-To qualify, you must fulfil the following criteria:
-•	Are Singapore Citizens.
-•	Attend government or government-aided schools.
-•	Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less.
- You may wish to use the eligibility checker to find out if you qualify. 
-https://www.moe.gov.sg/financial-matters/financial-assistance 
+**2. How do I know whether I qualify for the MOE Financial Assistance Scheme?**<br>
+To qualify, you must fulfil the following criteria:<br>
+•	Are Singapore Citizens.<br>
+•	Attend government or government-aided schools.<br>
+•	Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less. <br>
+You may wish to use the eligibility checker to find out if you qualify.  
+https://www.moe.gov.sg/financial-matters/financial-assistance <br>
 
 3)	What would my child receive if he/she is successful in his application?
 Under MOE FAS, your child will receive:
