@@ -62,3 +62,26 @@ https://www.moe.gov.sg/primary/transfers/apply <br>
 
 **4. I am seeking a school transfer due to other reasons such as medical. What is the process?** <br>
  If you are seeking a school transfer due to other reasons such as medical conditions, you should approach your child's current school directly for assistance. Transferring your child to another school is an important decision, as the change in environment can disrupt the quality of their education. We encourage you to work with the school as they are best placed to advise you on your child's learning needs. <br>
+ 
+ **<u>School Fees</u>**<br>
+ 
+ **1. How much is the school fees?** <br>
+School fees differ depending on the nationality status of your child.  
+For details of the fees charged, you may access the following link –
+https://www.moe.gov.sg/financial-matters/fees <br>
+ 
+**2. What are the modes of payment for school fees?** <br>
+We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible.  For other payment options, pls visit the following link –
+https://www.moe.gov.sg/financial-matters/fees <br>
+
+**3. How do I find out more information about GIRO Matters?** <br>
+Parents/ guardians may sign up via eGIRO through the following link –
+https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E
+
+**4. What is Edusave and can I use Edusave to pay for school fees?** <br>
+You may find out more details here –
+https://www.moe.gov.sg/financial-matters/edusave-account
+
+**5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?** <br>
+You may find out more details here –
+https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804
