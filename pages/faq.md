@@ -87,7 +87,8 @@ You may find out more details here –
 https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804 <br>
 
 **<u>MOE Financial Assistance Scheme (FAS)</u>** <br>
-1)	I would like to find out more about the MOE Financial Assistance Scheme. 
+
+**1. I would like to find out more about the MOE Financial Assistance Scheme.** <br>
 You may find out more details here - https://www.moe.gov.sg/financial-matters/financial-assistance 
 
 2)	How do I know whether I qualify for the MOE Financial Assistance Scheme? 
@@ -113,4 +114,4 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 https://www.moe.gov.sg/financial-matters/financial-assistance 
 
 5)	Once approved, how long will it be valid for? Is it an annual application?
-MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year. 
+MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year.
