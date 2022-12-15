@@ -108,11 +108,11 @@ Under MOE FAS, your child will receive:<br>
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; -$17 transport credit per month, or up to $204 per year, if your child takes public transport.<br>
 •	A $3.60 per meal subsidy for school meals, applicable to 5 days per school week. <br>
 
-4)	How do I apply for the MOE Financial Assistance Scheme? 
+**4. How do I apply for the MOE Financial Assistance Scheme?**<br>
 You may wish to apply online via this link - https://form.gov.sg/632432ba67747a0011d4a0cc 
 
 Alternatively, you may wish to download the hardcopy form, and submit to the school, together with all the necessary supporting documents. 
 https://www.moe.gov.sg/financial-matters/financial-assistance 
 
-5)	Once approved, how long will it be valid for? Is it an annual application?
+**5. Once approved, how long will it be valid for? Is it an annual application?** <br>
 MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year.
