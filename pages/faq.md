@@ -18,5 +18,6 @@ Important information on the P1 Orientation will be posted on the school’s web
 **4. Where can I purchase the books and uniform for my child?**<br>
 Books can be purchased from our book store vendor, Pacific Bookstore.  The school’s uniform vendor is Student Mart with online purchase and delivery or self-pickup options only.  You may find out more details here - https://anchorgreenpri.moe.edu.sg/resources/school-vendors <br>
 
+**5. I would like to enrol in the After School Care Programme. Where can I register or find out more information?**<br>
+The school’s After School Care Programme is under QSF- The Enablers. To register or enquire on further details, you may click on the following link.  https://anchorgreenpri.moe.edu.sg/resources/student-care-information <br>
 
-    
