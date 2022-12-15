@@ -27,23 +27,38 @@ The school’s After School Care Programme is under QSF- The Enablers. To regist
 
 **1. What must my child bring on the first day of school?**<br>
 You may find out more details here, pls refer to slides 18 and 19 of Primary 1 Orientation –
-https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf
+https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf <br>
 
 **2. What time should we report on the first day of school?** <br>
 Reporting time for first day of school for P1 students on 3 Jan 2023 is 08.00am.
 You may find out more details here –
-https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf
+https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf <br>
 
 
 **3. What is the programme for the first day of school?** <br>
 The programme for first day of school will broadly encompass classroom activities with teachers, parents’ briefing as well as school experience with parents to support P1 students to transit into primary school.  You may find out more details here –
-https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf
+https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf <br>
 
 
 **4. My child is enrolled in the SCC. Where should he/she go upon dismissal to the SCC?** <br>
 You may find out more details here –
-https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/
+https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/ <br>
 
 **5. How can I prepare my child for Primary 1?** <br>
 You may find out more details here –
 https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf
+
+**<u>Student Transfer</u>**<br>
+
+**1. I have just shifted to an area near Anchor Green Primary School. How can I go about applying for a transfer to your school?** <br>
+You may wish to consider Primary School Transfer Service. You may find out more details here - https://www.moe.gov.sg/primary/transfers <br>
+
+**2. I have shifted out of Sengkang to another area, and would like to apply for transfer of my child to another school nearer to my new residence. How should I go about applying for the transfer?** <br>
+You may wish to consider Primary School Transfer Service. You may find out more details here - https://www.moe.gov.sg/primary/transfers 
+
+**3. Can I apply for the Primary School Transfer Services online? **<br>
+You may find out more details here –
+https://www.moe.gov.sg/primary/transfers/apply <br>
+
+**4. I am seeking a school transfer due to other reasons such as medical. What is the process?** <br>
+ If you are seeking a school transfer due to other reasons such as medical conditions, you should approach your child's current school directly for assistance. Transferring your child to another school is an important decision, as the change in environment can disrupt the quality of their education. We encourage you to work with the school as they are best placed to advise you on your child's learning needs. <br>
