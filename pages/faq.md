@@ -99,14 +99,15 @@ To qualify, you must fulfil the following criteria:<br>
 You may wish to use the eligibility checker to find out if you qualify.  
 https://www.moe.gov.sg/financial-matters/financial-assistance <br>
 
-3)	What would my child receive if he/she is successful in his application?
-Under MOE FAS, your child will receive:
-•	A full subsidy of standard miscellaneous fees. Singapore Citizens do not need to pay school fees in primary schools.
-•	Free textbooks and school attire.
-•	One of the following transport subsidies:
-o	Covers 65% of school bus fares per year if your child takes the school bus.
-o	$17 transport credit per month, or up to $204 per year, if your child takes public transport.
-•	A $3.60 per meal subsidy for school meals, applicable to 5 days per school week. 
+**3. What would my child receive if he/she is successful in his application?**<br>
+Under MOE FAS, your child will receive:<br>
+•	A full subsidy of standard miscellaneous fees. Singapore Citizens do not need to pay school fees in primary schools.<br>
+•	Free textbooks and school attire.<br>
+•	One of the following transport subsidies:<br>
+*   Covers 65% of school bus fares per year if your child takes the school bus.<br>
+*   $17 transport credit per month, or up to $204 per year, if your child takes public transport.<br>
+•	A $3.60 per meal subsidy for school meals, applicable to 5 days per school week. <br>
+
 4)	How do I apply for the MOE Financial Assistance Scheme? 
 You may wish to apply online via this link - https://form.gov.sg/632432ba67747a0011d4a0cc 
 
