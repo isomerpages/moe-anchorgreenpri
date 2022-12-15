@@ -4,6 +4,8 @@ permalink: /faq/
 ---
 ### **FAQ for Anchor Green Primary School**
 
+**<u>P1 Orientation</u>**<br>
+
 **1. When is the P1 Orientation? May I have the details and timing?**<br>
 P1 orientation is scheduled on 3 Jan 2022.<br>
 Details of the orientation is shared in the following link - https://www.anchorgreenpri.moe.edu.sg/calendar/ <br>
@@ -20,4 +22,6 @@ Books can be purchased from our book store vendor, Pacific Bookstore.  The schoo
 
 **5. I would like to enrol in the After School Care Programme. Where can I register or find out more information?**<br>
 The school’s After School Care Programme is under QSF- The Enablers. To register or enquire on further details, you may click on the following link.  https://anchorgreenpri.moe.edu.sg/resources/student-care-information <br>
+
+**<u>P1 First Day of School</u>**<br>
 
