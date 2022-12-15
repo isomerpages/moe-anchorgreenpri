@@ -80,8 +80,37 @@ https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E
 
 **4. What is Edusave and can I use Edusave to pay for school fees?** <br>
 You may find out more details here –
-https://www.moe.gov.sg/financial-matters/edusave-account
+https://www.moe.gov.sg/financial-matters/edusave-account <br>
 
 **5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?** <br>
 You may find out more details here –
-https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804
+https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804 <br>
+
+**<u>MOE Financial Assistance Scheme (FAS)</u>** <br>
+1)	I would like to find out more about the MOE Financial Assistance Scheme. 
+You may find out more details here - https://www.moe.gov.sg/financial-matters/financial-assistance 
+
+2)	How do I know whether I qualify for the MOE Financial Assistance Scheme? 
+To qualify, you must fulfil the following criteria:
+•	Are Singapore Citizens.
+•	Attend government or government-aided schools.
+•	Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less.
+ You may wish to use the eligibility checker to find out if you qualify. 
+https://www.moe.gov.sg/financial-matters/financial-assistance 
+
+3)	What would my child receive if he/she is successful in his application?
+Under MOE FAS, your child will receive:
+•	A full subsidy of standard miscellaneous fees. Singapore Citizens do not need to pay school fees in primary schools.
+•	Free textbooks and school attire.
+•	One of the following transport subsidies:
+o	Covers 65% of school bus fares per year if your child takes the school bus.
+o	$17 transport credit per month, or up to $204 per year, if your child takes public transport.
+•	A $3.60 per meal subsidy for school meals, applicable to 5 days per school week. 
+4)	How do I apply for the MOE Financial Assistance Scheme? 
+You may wish to apply online via this link - https://form.gov.sg/632432ba67747a0011d4a0cc 
+
+Alternatively, you may wish to download the hardcopy form, and submit to the school, together with all the necessary supporting documents. 
+https://www.moe.gov.sg/financial-matters/financial-assistance 
+
+5)	Once approved, how long will it be valid for? Is it an annual application?
+MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year. 
