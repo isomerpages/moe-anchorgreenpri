@@ -115,8 +115,8 @@ Under MOE FAS, your child will receive:<br>
 •	A full subsidy of standard miscellaneous fees. Singapore Citizens do not need to pay school fees in primary schools.<br>
 •	Free textbooks and school attire.<br>
 •	One of the following transport subsidies:
-<pre class="tab2">Covers 65% of school bus fares per year if your child takes the school bus.</pre>
-<pre class="tab2">$17 transport credit per month, or up to $204 per year, if your child takes public transport.</pre>
+<pre class="tab1">Covers 65% of school bus fares per year if your child takes the school bus.</pre>
+<pre class="tab1">$17 transport credit per month, or up to $204 per year, if your child takes public transport.</pre>
 •	A $3.60 per meal subsidy for school meals, applicable to 5 days per school week. <br>
 
 4)	How do I apply for the MOE Financial Assistance Scheme? 
