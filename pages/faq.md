@@ -108,8 +108,7 @@ Under MOE FAS, your child will receive:<br>
 **4. How do I apply for the MOE Financial Assistance Scheme?**<br>
 You may wish to apply online via this link - <a href="https://form.gov.sg/632432ba67747a0011d4a0cc " target=_blank>https://form.gov.sg/632432ba67747a0011d4a0cc </a><br>
 
-Alternatively, you may wish to download the hardcopy form, and submit to the school, together with all the necessary supporting documents. 
-https://www.moe.gov.sg/financial-matters/financial-assistance 
+Alternatively, you may wish to download the hardcopy form, and submit to the school, together with all the necessary supporting documents. <a href="https://www.moe.gov.sg/financial-matters/financial-assistance " target=_blank>https://www.moe.gov.sg/financial-matters/financial-assistance</a><br>
 
 **5. Once approved, how long will it be valid for? Is it an annual application?** <br>
 MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year.
@@ -117,10 +116,10 @@ MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based o
 ### **FAQ for MK @ Anchor Green**
 
 **1. Where can I find information on MOE Kindergarten?**<br>
-https://www.moe.gov.sg/preschool/moe-kindergarten/
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/ " target=_blank>https://www.moe.gov.sg/preschool/moe-kindergarten/</a><br>
 
 **2. How can I enrol my child at an MOE Kindergarten?**<br>
-https://www.moe.gov.sg/preschool/moe-kindergarten/register/
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/ " target=_blank>https://www.moe.gov.sg/preschool/moe-kindergarten/register/</a><br>
 
 **3. What is the fee for MOE Kindergarten?**<br>
 The monthly fee for a 4-hour MOE Kindergarten programme in 2022/2023 is $160 for Singapore Citizen children and $320 for Singapore Permanent Resident children. Fees are also payable during school holidays, i.e. June and December.
