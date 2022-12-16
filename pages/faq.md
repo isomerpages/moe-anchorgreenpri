@@ -86,7 +86,7 @@ You may find out more details here – h<a href="https://www.moe.gov.sg/faq?cate
 **<u>MOE Financial Assistance Scheme (FAS)</u>** <br>
 
 **1. I would like to find out more about the MOE Financial Assistance Scheme.** <br>
-You may find out more details here - https://www.moe.gov.sg/financial-matters/financial-assistance 
+You may find out more details here - <a href="https://www.moe.gov.sg/financial-matters/financial-assistance " target=_blank>https://www.moe.gov.sg/financial-matters/financial-assistance </a><br>
 
 **2. How do I know whether I qualify for the MOE Financial Assistance Scheme?**<br>
 To qualify, you must fulfil the following criteria:<br>
