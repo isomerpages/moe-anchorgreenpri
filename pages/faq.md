@@ -67,6 +67,7 @@ You may find out more details here – <a href="https://www.moe.gov.sg/primary/t
  **1. How much is the school fees?** <br>
 School fees differ depending on the nationality status of your child.  
 For details of the fees charged, you may access the following link –
+<a href="https://www.moe.gov.sg/financial-matters/fees" target=_blank>https://www.moe.gov.sg/financial-matters/fees</a><br>
 https://www.moe.gov.sg/financial-matters/fees <br>
  
 **2. What are the modes of payment for school fees?** <br>
