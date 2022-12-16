@@ -116,3 +116,20 @@ https://www.moe.gov.sg/financial-matters/financial-assistance
 
 **5. Once approved, how long will it be valid for? Is it an annual application?** <br>
 MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year.
+
+### **FAQ for MK @ Anchor Green**
+
+**1. Where can I find information on MOE Kindergarten?**<br>
+https://www.moe.gov.sg/preschool/moe-kindergarten/
+
+**2. How can I enrol my child at an MOE Kindergarten?**<br>
+https://www.moe.gov.sg/preschool/moe-kindergarten/register/
+
+**3. What is the fee for MOE Kindergarten?**<br>
+The monthly fee for a 4-hour MOE Kindergarten programme in 2022/2023 is $160 for Singapore Citizen children and $320 for Singapore Permanent Resident children. Fees are also payable during school holidays, i.e. June and December.
+
+**4. What is the fee for Kindergarten Care (KCare)?** <br>
+For 2022/2023, the maximum KCare monthly fee is $415. KCare fees are also payable during the June and December holidays. All Singapore Citizen children are eligible for a basic KCare subsidy of $150 per month.
+
+**5. How do I put my child on the waitlist for MOE Kindergarten (MK)?**<br>
+If you are keen to place your child on the waitlist, you can contact your preferred MK directly. The waitlist will be considered on a case-by-case basis, subject to available vacancies. The MK will contact you directly, should a vacancy arise for your child.
