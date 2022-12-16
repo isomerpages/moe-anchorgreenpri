@@ -56,7 +56,7 @@ You may wish to consider Primary School Transfer Service. You may find out more 
 **2. I have shifted out of Sengkang to another area, and would like to apply for transfer of my child to another school nearer to my new residence. How should I go about applying for the transfer?** <br>
 You may wish to consider Primary School Transfer Service. You may find out more details here - <a href="https://www.moe.gov.sg/primary/transfers" target=_blank>https://www.moe.gov.sg/primary/transfers</a><br>
 
-3. Can I apply for the Primary School Transfer Services online? <br>
+**3. Can I apply for the Primary School Transfer Services online?** <br>
 You may find out more details here – <a href="https://www.moe.gov.sg/primary/transfers/apply" target=_blank>https://www.moe.gov.sg/primary/transfers/apply</a><br>
 
 **4. I am seeking a school transfer due to other reasons such as medical. What is the process?** <br>
