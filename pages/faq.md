@@ -94,7 +94,7 @@ To qualify, you must fulfil the following criteria:<br>
 •	Attend government or government-aided schools.<br>
 •	Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less. <br>
 You may wish to use the eligibility checker to find out if you qualify.  
-https://www.moe.gov.sg/financial-matters/financial-assistance <br>
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance " target=_blank>https://www.moe.gov.sg/financial-matters/financial-assistance </a><br>
 
 **3. What would my child receive if he/she is successful in his application?**<br>
 Under MOE FAS, your child will receive:<br>
