@@ -106,7 +106,7 @@ Under MOE FAS, your child will receive:<br>
 •	A $3.60 per meal subsidy for school meals, applicable to 5 days per school week. <br>
 
 **4. How do I apply for the MOE Financial Assistance Scheme?**<br>
-You may wish to apply online via this link - https://form.gov.sg/632432ba67747a0011d4a0cc 
+You may wish to apply online via this link - <a href="https://form.gov.sg/632432ba67747a0011d4a0cc " target=_blank>https://form.gov.sg/632432ba67747a0011d4a0cc </a><br>
 
 Alternatively, you may wish to download the hardcopy form, and submit to the school, together with all the necessary supporting documents. 
 https://www.moe.gov.sg/financial-matters/financial-assistance 
