@@ -76,7 +76,6 @@ We strongly encourage parents/ guardians to arrange for GIRO payment of school f
 **3. How do I find out more information about GIRO Matters?** <br>
 Parents/ guardians may sign up via eGIRO through the following link –
 <a href="https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E" target=_blank>https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E</a><br>
-https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E
 
 **4. What is Edusave and can I use Edusave to pay for school fees?** <br>
 You may find out more details here – <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target=_blank>https://www.moe.gov.sg/financial-matters/edusave-account</a><br>
