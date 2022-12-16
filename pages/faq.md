@@ -79,8 +79,7 @@ Parents/ guardians may sign up via eGIRO through the following link –
 https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E
 
 **4. What is Edusave and can I use Edusave to pay for school fees?** <br>
-You may find out more details here –
-https://www.moe.gov.sg/financial-matters/edusave-account <br>
+You may find out more details here – <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target=_blank>https://www.moe.gov.sg/financial-matters/edusave-account</a><br>
 
 **5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?** <br>
 You may find out more details here –
