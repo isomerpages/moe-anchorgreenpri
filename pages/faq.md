@@ -82,8 +82,7 @@ https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E
 You may find out more details here – <a href="https://www.moe.gov.sg/financial-matters/edusave-account" target=_blank>https://www.moe.gov.sg/financial-matters/edusave-account</a><br>
 
 **5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?** <br>
-You may find out more details here –
-https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804 <br>
+You may find out more details here – h<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804" target=_blank>https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&faqid=3D4A6496F8244D99A6B57EC0952D9804</a><br>
 
 **<u>MOE Financial Assistance Scheme (FAS)</u>** <br>
 
