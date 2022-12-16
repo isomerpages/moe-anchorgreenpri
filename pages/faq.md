@@ -51,7 +51,7 @@ https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Sta
 **<u>Student Transfer</u>**<br>
 
 **1. I have just shifted to an area near Anchor Green Primary School. How can I go about applying for a transfer to your school?** <br>
-You may wish to consider Primary School Transfer Service. You may find out more details here - https://www.moe.gov.sg/primary/transfers <br>
+You may wish to consider Primary School Transfer Service. You may find out more details here - <a href="https://www.moe.gov.sg/primary/transfers" target=_blank>https://www.moe.gov.sg/primary/transfers</a><br>
 
 **2. I have shifted out of Sengkang to another area, and would like to apply for transfer of my child to another school nearer to my new residence. How should I go about applying for the transfer?** <br>
 You may wish to consider Primary School Transfer Service. You may find out more details here - https://www.moe.gov.sg/primary/transfers 
