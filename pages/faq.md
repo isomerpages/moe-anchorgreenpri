@@ -71,7 +71,7 @@ For details of the fees charged, you may access the following link –
  
 **2. What are the modes of payment for school fees?** <br>
 We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible.  For other payment options, pls visit the following link –
-https://www.moe.gov.sg/financial-matters/fees <br>
+<a href="https://www.moe.gov.sg/financial-matters/fees" target=_blank>https://www.moe.gov.sg/financial-matters/fees</a><br>
 
 **3. How do I find out more information about GIRO Matters?** <br>
 Parents/ guardians may sign up via eGIRO through the following link –
