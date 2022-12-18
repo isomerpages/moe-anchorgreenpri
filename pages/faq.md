@@ -46,7 +46,7 @@ You may find out more details here –
 
 **5. How can I prepare my child for Primary 1?** <br>
 You may find out more details here –
-https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf
+[https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf](https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf)
 
 **<u>Student Transfer</u>**<br>
 
