@@ -4,7 +4,7 @@ permalink: /resources/canteen-menu/stall-no-5-chinese-noodles-food-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-<nobr>Stall No. 5: Chinese Noodles Food Stall
+Stall No. 5: Chinese Noodles Food Stall
 =======================================
 
 ![Stall 5 Logo](/images//Resources/Canteen/stall%205.jpg)
