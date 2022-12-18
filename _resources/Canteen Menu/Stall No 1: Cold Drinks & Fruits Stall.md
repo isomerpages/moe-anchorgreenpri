@@ -4,7 +4,7 @@ permalink: /resources/canteen-menu/stall-no-1-cold-drinks-fruits-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-<nobr>Stall No. 1: Cold Drinks & Fruits Stall
+Stall No. 1: Cold Drinks & Fruits Stall
 =======================================
 
 ![Stall 1 Logo](/images/Resources/Canteen/stall%201.jpg)
