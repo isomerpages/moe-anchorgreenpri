@@ -4,7 +4,7 @@ permalink: /resources/canteen-menu/stall-no-7-malay-noodles-stall/
 description: ""
 third_nav_title: Canteen Menu
 ---
-<nobr>Stall No. 7: Malay Noodles Stall
+Stall No. 7: Malay Noodles Stall
 ================================
 
 ![Stall 7 Logo](/images//Resources/Canteen/stall%207.jpg)
