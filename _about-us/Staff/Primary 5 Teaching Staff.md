@@ -46,7 +46,7 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Integrity</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Integrity</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Lee Teck Hock Robert</span></td>
     <td class="tg-33ww"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
   </tr>
@@ -54,10 +54,7 @@ Primary 5 Teaching Staff
     <td class="tg-3dle">Ms Saleha Abdul Majid</td>
     <td class="tg-g24l"><a href="mailto:saleha_abdul_majid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">saleha_abdul_majid@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-14gv">Ms Jessica Ding Chooi Hui</td>
-    <td class="tg-33ww"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Confidence</span></td>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Alvina Bte Kasmuri</span></td>
