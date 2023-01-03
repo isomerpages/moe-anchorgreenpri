@@ -171,9 +171,6 @@ Tamil Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span></td>
     <td class="tg-fskk"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm A. Gayathree</span></td>
-    <td class="tg-fskk"><a href="mailto:a_gayathree@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">a_gayathree@schools.gov.sg</span></a></td>
-  </tr>
+ 
 </tbody>
 </table>
