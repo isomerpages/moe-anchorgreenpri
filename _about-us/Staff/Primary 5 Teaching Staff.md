@@ -47,8 +47,8 @@ Primary 5 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Integrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Bte Mustapha</span></td>
-    <td class="tg-33ww"><a href="mailto:siti_hazwani_mustapha@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@moe.edu.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Lee Teck Hock Robert</span></td>
+    <td class="tg-33ww"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-3dle">Mdm Sarina Shariman</td>
