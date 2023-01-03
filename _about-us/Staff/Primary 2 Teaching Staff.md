@@ -84,8 +84,8 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Ya</span><span style="color:#000;background-color:#FFF">hui</span><br></td>
-    <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Regina Tong Yin Leng</span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Regina Soh)</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:regina_tong_yin_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">regina_tong_yin_leng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span></td>
