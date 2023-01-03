@@ -74,8 +74,8 @@ Primary 4 Teaching Staff
     <td class="tg-33ww"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Teng Shu Jia Denise</span></td>
-    <td class="tg-g24l"><a href="mailto:teng_shu_jia_denise@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teng_shu_jia_denise@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Siti Nursyakila Masli</span></td>
+    <td class="tg-g24l"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Grace</span></td>
