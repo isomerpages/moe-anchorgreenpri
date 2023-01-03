@@ -93,8 +93,8 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:liao_yi_ling_allison@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liao_yi_ling_allison@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Nur Syazwani Shaibani</span><br></td>
-    <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Ng Chin Chin</span><br></td>
+    <td class="tg-fskk"><a href="mailto:ng_chin_chin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_chin_chin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Patience</span><br></td>
