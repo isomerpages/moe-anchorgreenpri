@@ -89,8 +89,8 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Tay Ling Ling</span><br></td>
-    <td class="tg-agmf"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Liao Yi-Ling Allison</span><br></td>
+    <td class="tg-agmf"><a href="mailto:liao_yi_ling_allison@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liao_yi_ling_allison@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Nur Syazwani Shaibani</span><br></td>
