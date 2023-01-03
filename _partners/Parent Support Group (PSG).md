@@ -43,11 +43,8 @@ img {
   
 </body>
 
-![Parent Support Group 2021 Exco Team](/images/Partners/PSG/PSG%202021_Exco.jpg)
 
-![Parent Support Group 2021 Exco Members](/images/Partners/PSG/PSG%202021.jpg)
 
-![Parent Support Group 2021 Gifts from Hearts](/images/Partners/PSG/PSG%202021_Gifts%20from%20Hearts.jpg)
 
 ![Parent Support Group 2021 Dads in Action](/images/Partners/PSG/PSG%202021_Dads%20in%20Action.jpg)
 
