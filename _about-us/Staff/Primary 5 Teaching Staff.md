@@ -57,8 +57,8 @@ Primary 5 Teaching Staff
   
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Confidence</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Alvina Bte Kasmuri</span></td>
-    <td class="tg-g24l"><a href="mailto:alvina_kasmuri@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">alvina_kasmuri@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Kanaran Shanta Kumari</span></td>
+    <td class="tg-g24l"><a href="mailto:-"><span style="font-weight:500;text-decoration:underline;color:#21088A">-</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Olivia Tan Sze Hui</span></td>
