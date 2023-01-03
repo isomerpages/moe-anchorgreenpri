@@ -42,8 +42,8 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Ang Swee Hong</span></td>
-    <td class="tg-g24l"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho</span></td>
+    <td class="tg-g24l"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Integrity</span></td>
