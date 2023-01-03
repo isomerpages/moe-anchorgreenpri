@@ -80,8 +80,8 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Aspiration</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Wong Meng Yean</span><br></td>
-    <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chin Sze Wei</span><br></td>
+    <td class="tg-agmf"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Ya</span><span style="color:#000;background-color:#FFF">hui</span><br></td>
