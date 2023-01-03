@@ -48,7 +48,7 @@ Primary 2 Teaching Staff
     <td class="tg-33ww"><a href="mailto:goh_kim_chuan_ivy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">goh_kim_chuan_ivy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ats7"><span style="color:#222;background-color:#FBFFFA">Mdm Ho Ju Lee</span><br></td>
+    <td class="tg-ats7"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
     <td class="tg-g24l"><a href="mailto:ho_ju_lee@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_ju_lee@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
