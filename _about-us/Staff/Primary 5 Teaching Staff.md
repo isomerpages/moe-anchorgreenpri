@@ -61,8 +61,8 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:-"><span style="font-weight:500;text-decoration:underline;color:#21088A">-</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Olivia Tan Sze Hui</span></td>
-    <td class="tg-33ww"><a href="mailto:olivia_tan_sze_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">olivia_tan_sze_hui@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span></td>
+    <td class="tg-33ww"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Excellence</span></td>
