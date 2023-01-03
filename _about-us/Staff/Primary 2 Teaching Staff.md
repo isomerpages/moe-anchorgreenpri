@@ -98,8 +98,8 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Patience</span><br></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Zhen</span><br></td>
-    <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Munirah Manap</span><br></td>
+    <td class="tg-agmf"><a href="mailto:munirah_manap@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">munirah_manap@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Vivienne Wee Mei Yin</span><br></td>
