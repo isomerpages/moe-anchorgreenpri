@@ -71,7 +71,7 @@ Primary 3 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Aspiration</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen </span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Juliana Tan)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a><br></td>
+    <td class="tg-33ww"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Siti Nursyakila Masli</span><br></td>
