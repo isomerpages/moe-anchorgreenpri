@@ -35,7 +35,7 @@ Primary 4 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Respect</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ho Le Lian </span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Amelia Pepito)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a><br></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Molyyati Binte Shahwan</span><br></td>
