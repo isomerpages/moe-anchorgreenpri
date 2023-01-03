@@ -70,8 +70,8 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:vincent_shanmugam@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vincent_shanmugam@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Yeo Teck Pin      </span></td>
-    <td class="tg-33ww"><a href="mailto:yeo_teck_pin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_teck_pin@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Ratnah Binte Rawi</span></td>
+    <td class="tg-33ww"><a href="mailto:ratnah_rawi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ratnah_rawi@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Aspiration</span></td>
