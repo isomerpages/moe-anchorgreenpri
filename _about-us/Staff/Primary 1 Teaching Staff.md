@@ -107,7 +107,7 @@ Primary 1 Teaching Staff
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Sincerity</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju</span><br><span style="color:#222;background-color:#FBFFFA"> (Ms Diane Chen)</span><br></td>
-    <td class="tg-agmf"style="text-align: center; vertical-align: middle;" ><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;" ><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Lim Ai Chin Vivien</span><br></td>
