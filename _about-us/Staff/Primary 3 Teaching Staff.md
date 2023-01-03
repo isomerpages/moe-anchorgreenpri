@@ -74,8 +74,8 @@ Primary 3 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Siti Nursyakila Masli</span><br></td>
-    <td class="tg-g24l"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Chong Chee Wee</span><br></td>
+    <td class="tg-g24l"><a href="mailto:chong_chee_wee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chong_chee_wee@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Grace</span></td>
