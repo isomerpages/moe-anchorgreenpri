@@ -107,8 +107,8 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Sincerity</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju</span><br><span style="color:#222;background-color:#FBFFFA">(Ms Diane Chen)</span><br></td>
-    <td class="tg-agmf"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Suelasteri Samani</span><br></td>
+    <td class="tg-agmf"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Nur Diyanah Amani Binte Abd Razak </span></td>
