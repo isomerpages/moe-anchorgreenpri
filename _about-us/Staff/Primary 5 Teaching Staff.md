@@ -84,8 +84,8 @@ Primary 5 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Grace</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mark Reutens</span></td>
-    <td class="tg-g24l"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mark_reutens@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Lee Chun Seng</span></td>
+    <td class="tg-g24l"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span><br></td>
