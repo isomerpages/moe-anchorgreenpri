@@ -31,7 +31,7 @@ Key Personnel
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Wesley Cheong</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Principal</span></td>
-    <td class="tg-lb3e" rowspan="4" style="text-align: center; vertical-align: middle;"><a href="mailto:Anchorgreen_ps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">Anchorgreen_ps_school_leaders@schools.gov.sg</span></a></td>
+    <td class="tg-lb3e" rowspan="4" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_school_leaders@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span></td>
