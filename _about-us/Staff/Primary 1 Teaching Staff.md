@@ -83,8 +83,8 @@ Primary 1 Teaching Staff
     <td class="tg-agmf" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chin Sze Wei</span><br></td>
-    <td class="tg-fskk"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff Mohd Yatim</span><br></td>
+    <td class="tg-fskk"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Grace</span></td>
