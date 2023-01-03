@@ -47,8 +47,8 @@ Primary 6 Teaching Staff
     <td class="tg-33ww"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Saleha Abdul Majid</span><br></td>
-    <td class="tg-g24l"><a href="mailto:saleha_abdul_majid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">saleha_abdul_majid@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
+    <td class="tg-g24l"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Confidence</span></td>
