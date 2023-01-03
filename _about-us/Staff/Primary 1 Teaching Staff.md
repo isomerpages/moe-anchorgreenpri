@@ -98,7 +98,7 @@ Primary 1 Teaching Staff
   <tr>
     <td class="tg-4k5m" rowspan="2"><span style="background-color:#FBFFFA">1 Patience</span><br></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Zhen</span></td>
-    <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
+    <td class="tg-fskk"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jessica Cahyadi</span><br></td>
