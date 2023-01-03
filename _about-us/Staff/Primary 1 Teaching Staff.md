@@ -56,13 +56,13 @@ Primary 1 Teaching Staff
     <td class="tg-33ww"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Patrick Leow</span><br></td>
-    <td class="tg-g24l"><a href="mailto:leow_yoon_ling_patrick@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">leow_yoon_ling_patrick@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span><br></td>
+    <td class="tg-g24l"><a href="mailtonur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Confidence</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz Jelaludin</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Goh Kim Chuan Ivy</span><br></td>
+    <td class="tg-33ww"><a href="mailto:goh_kim_chuan_ivy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">goh_kim_chuan_ivy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurheryani Mudzakir</span><br></td>
