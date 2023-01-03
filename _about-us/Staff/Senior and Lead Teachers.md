@@ -54,12 +54,7 @@ Jelaludin</span><br></td>
 (Malay Language)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Physical Education)</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a><br></td>
-  </tr>
+  
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
@@ -80,12 +75,7 @@ Middle Primary)</span><br></td>
 (Chinese Language)</span><br></td>
     <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
   </tr>
-	 <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Chinese Language)</span><br></td>
-    <td class="tg-fskk"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
-  </tr>
+	
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
