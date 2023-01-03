@@ -48,12 +48,12 @@ Primary 4 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Hwee Suan</span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Audrey Cheng)</span><br></td>
-    <td class="tg-g24l"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l"  style="text-align: center; vertical-align: middle;"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Confidence</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm A.Gayathree</span></td>
-    <td class="tg-33ww"><a href="mailto:a_gayathree@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">a_gayathree@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Polly Yun Poo Lai </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Polly Steven Goh)</span></td>
+    <td class="tg-33ww"  style="text-align: center; vertical-align: middle;"><a href="mailto:a_gayathree@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">a_gayathree@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Zen Ng Hui Wen</span><br></td>
