@@ -38,8 +38,8 @@ Primary 4 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Molyyati Binte Shahwan</span><br></td>
-    <td class="tg-g24l"><a href="mailto:molyyati_shahwan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">molyyati_shahwan@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Kanageswary D/O Danabalan</span><br></td>
+    <td class="tg-g24l"><a href="mailto:kanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Integrity</span></td>
