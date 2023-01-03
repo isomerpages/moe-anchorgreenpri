@@ -56,8 +56,8 @@ Primary 6 Teaching Staff
     <td class="tg-33ww"><a href="mailto:siti_hazwani_mustapha@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Lee Teck Hock Robert</span></td>
-    <td class="tg-g24l"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
+    <td class="tg-g24l"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Excellence</span></td>
