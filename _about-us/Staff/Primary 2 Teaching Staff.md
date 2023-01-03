@@ -44,8 +44,8 @@ Primary 2 Teaching Staff
 <tbody>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Respect</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har (Mrs Ada Loy)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:goh_kim_chuan_ivy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">goh_kim_chuan_ivy@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Ada Loy)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ats7"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
