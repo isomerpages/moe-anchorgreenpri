@@ -79,8 +79,8 @@ Primary 4 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Grace</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Evelyn Chua Sok Huang</span><br></td>
-    <td class="tg-33ww"><a href="mailto:evelyn_chua_sok_huang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">evelyn_chua_sok_huang@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Loy Qiu Yi</span><br></td>
+    <td class="tg-33ww"><a href="mailto:loy_qiu_yi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loy_qiu_yi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span></td>
