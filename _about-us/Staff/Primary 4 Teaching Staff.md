@@ -47,8 +47,8 @@ Primary 4 Teaching Staff
     <td class="tg-33ww"><a href="mailto:mohd_adha_b_kamaron@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_adha_b_kamaron@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen</span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Juliana Tan)</span><br></td>
-    <td class="tg-g24l"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Hwee Suan</span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Audrey Cheng)</span><br></td>
+    <td class="tg-g24l"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Confidence</span></td>
