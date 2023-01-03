@@ -35,7 +35,7 @@ Primary 6 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Respect</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ang Swee Hong</span></td>
-    <td class="tg-33ww"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a></td>
+    <td class="tg-33ww"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff Mohd Yatim</span><br></td>
