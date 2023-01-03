@@ -43,8 +43,8 @@ Primary 4 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Integrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Gordon Chua Koon Leng</span><br></td>
-    <td class="tg-33ww"><a href="mailto:gordon_chua_koon_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">gordon_chua_koon_leng@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span><br></td>
+    <td class="tg-33ww"><a href="mailto:mohd_adha_b_kamaron@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_adha_b_kamaron@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen</span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Juliana Tan)</span><br></td>
