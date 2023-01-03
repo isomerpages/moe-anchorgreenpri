@@ -86,5 +86,10 @@ Primary 4 Teaching Staff
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Vivienne Wee Mei Yin</span></td>
     <td class="tg-g24l"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-33ww"></td>
+  </tr>
 </tbody>
 </table>
