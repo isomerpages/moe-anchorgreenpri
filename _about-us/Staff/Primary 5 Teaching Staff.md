@@ -51,8 +51,8 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-3dle">Mdm Sarina Shariman</td>
-    <td class="tg-g24l"><a href="mailto:sarina_shariman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sarina_shariman@schools.gov.sg</span></a></td>
+    <td class="tg-3dle">Ms Saleha Abdul Majid</td>
+    <td class="tg-g24l"><a href="mailto:saleha_abdul_majid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">saleha_abdul_majid@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-14gv">Ms Jessica Ding Chooi Hui</td>
