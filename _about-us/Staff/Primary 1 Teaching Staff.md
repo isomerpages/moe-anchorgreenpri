@@ -70,8 +70,8 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Excellence</span></td>
-    <td class="tg-4k5m"><span style="color:#222">Ms Wang Huimin</span><br><span style="color:#222">(Ms Bethany Wang)</span></td>
-    <td class="tg-agmf"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
+    <td class="tg-4k5m"><span style="color:#222">Ms Wong Meng Yean</span></td>
+    <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Nur Humaira Mahmood</span></td>
