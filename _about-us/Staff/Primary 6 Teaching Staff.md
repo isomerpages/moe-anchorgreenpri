@@ -38,7 +38,7 @@ Primary 6 Teaching Staff
     <td class="tg-33ww"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff Mohd Yatim</span><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Kalyani S Ramasamy</span><br><span style="color:#000;background-color:#FFF"> (Mrs Vara)</span><br></td>
     <td class="tg-g24l"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
