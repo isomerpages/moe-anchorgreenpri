@@ -57,8 +57,8 @@ Primary 2 Teaching Staff
     <td class="tg-33ww"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">huang_qin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span></td>
-    <td class="tg-g24l"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Patrick Leow</span></td>
+    <td class="tg-g24l"><a href="mailto:leow_yoon_ling_patrick@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">leow_yoon_ling_patrick@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Confidence</span></td>
