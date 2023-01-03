@@ -53,6 +53,9 @@ img {
 
 ![Children's Day Carnival](/images/Partners/PSG/Children's%20Day%20Carnival.jpg)
 
+![International Friendship Day](/images/Partners/PSG/International%20Friendship%20Day.jpg)
+
+![Sports Fiesta](/images/Partners/PSG/Sports%20Fiesta.jpg)
 
 ![Parent Support Group 2021 Dads in Action](/images/Partners/PSG/PSG%202021_Dads%20in%20Action.jpg)
 
