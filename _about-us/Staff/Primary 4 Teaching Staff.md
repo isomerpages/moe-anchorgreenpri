@@ -86,23 +86,5 @@ Primary 4 Teaching Staff
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Vivienne Wee Mei Yin</span></td>
     <td class="tg-g24l"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">4 Patience</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"> Mr Lee Chun Seng</span></td>
-    <td class="tg-33ww"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA"> Ms Wang Ailing</span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Isabel Ng) </span></td>
-    <td class="tg-g24l"><a href="mailto:wang_ailing@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_ailing@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span></td>
-    <td class="tg-33ww"><a href="mailto:wang_ailing@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">wang_ailing@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
-  </tr>
-	<tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
-    <td class="tg-33ww"></td>
-  </tr>
 </tbody>
 </table>
