@@ -26,11 +26,7 @@ Art
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Alvina Bte Kasmuri</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
-    <td class="tg-fskk"><a href="mailto:alvina_kasmuri@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">alvina_kasmuri@schools.gov.sg</span></a><br></td>
-  </tr>
+  
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Ismail</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
@@ -122,11 +118,7 @@ Physical Education
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Physical Education</span></td>
     <td class="tg-lb3e"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Jufri Mohamed Hamzah</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:mohamed_jufri_mohamed_hamzah@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohamed_jufri_mohamed_hamzah@schools.gov.sg</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>

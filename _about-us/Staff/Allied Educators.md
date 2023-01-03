@@ -32,12 +32,12 @@ Allied Educators
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Seow Jin Bing Annabelle</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Senior Special Educational Needs Officer</span></td>
-    <td class="tg-lb3e"><a href="mailto:seow_jin_bing_annabelle@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">seow_jin_bing_annabelle@schools.gov.sg</span></a></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:seow_jin_bing_annabelle@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">seow_jin_bing_annabelle@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Ching Zai Ting</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Special Educational Needs Officer</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:ching_zai_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ching_zai_ting@schools.gov.sg</span></a></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ching_zai_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ching_zai_ting@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Yan Liang Kevin</span></td>

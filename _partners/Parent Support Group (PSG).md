@@ -43,11 +43,19 @@ img {
   
 </body>
 
-![Parent Support Group 2021 Exco Team](/images/Partners/PSG/PSG%202021_Exco.jpg)
+![Parent Support Group 2022 EXCO](/images/Partners/PSG/PSG%202022%20Exco.jpg)
 
-![Parent Support Group 2021 Exco Members](/images/Partners/PSG/PSG%202021.jpg)
+![Parent Support Group 2022 Org Chart](/images/Partners/PSG/PSG%20Org%20Chart%202022.jpg)
 
-![Parent Support Group 2021 Gifts from Hearts](/images/Partners/PSG/PSG%202021_Gifts%20from%20Hearts.jpg)
+![P1 Learning Journey](/images/Partners/PSG/P1%20Learning%20Journey.jpg)
+
+![Breakfast with the Principal](/images/Partners/PSG/Breakfast%20with%20the%20Principal.jpg)
+
+![Children's Day Carnival](/images/Partners/PSG/Children's%20Day%20Carnival.jpg)
+
+![International Friendship Day](/images/Partners/PSG/International%20Friendship%20Day.jpg)
+
+![Sports Fiesta](/images/Partners/PSG/Sports%20Fiesta.jpg)
 
 ![Parent Support Group 2021 Dads in Action](/images/Partners/PSG/PSG%202021_Dads%20in%20Action.jpg)
 

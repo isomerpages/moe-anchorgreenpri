@@ -97,10 +97,7 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-fskk"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Xie Chao</span></td>
-    <td class="tg-fskk"><a href="mailto:xie_chao@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">xie_chao@schools.gov.sg</span></a></td>
-  </tr>
+  
 </tbody>
 </table>
 
@@ -141,10 +138,7 @@ Malay Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz Jelaludin</span><br></td>
     <td class="tg-fskk"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Molyyati Binte Shahwan</span><br></td>
-    <td class="tg-fskk"><a href="mailto:molyyati_shahwan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">molyyati_shahwan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
-  </tr>
+ 
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Nur Syazwani Binte Shaibani</span></td>
     <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.s</span></a><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">g</span></a></td>
@@ -174,12 +168,9 @@ Tamil Language Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Veronica Lathar Naidu</span></td>
-    <td class="tg-fskk"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span></td>
+    <td class="tg-fskk"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm A. Gayathree</span></td>
-    <td class="tg-fskk"><a href="mailto:a_gayathree@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">a_gayathree@schools.gov.sg</span></a></td>
-  </tr>
+ 
 </tbody>
 </table>
