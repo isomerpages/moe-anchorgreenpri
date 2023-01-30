@@ -253,5 +253,72 @@ description: ""
     <td class="tg-7yig"></td>
     <td class="tg-9hzb"> </td>
   </tr>
+	
+	<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fzue">No.</th>
+    <th class="tg-3i8o">CCA</th>
+    <th class="tg-fzue">CCA MANAGER</th>
+    <th class="tg-fzue">THURSDAYS<br>2.30 p.m.<br>to 4.30 p.m.</th>
+    <th class="tg-fzue">TUESDAYS<br>3 p.m. to 5 p.m.</th>
+    <th class="tg-fzue">FRIDAYS<br>3 p.m. to 5 p.m.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig" >1</td>
+    <td class="tg-1wig" >BASKETBALL BOYS <br><br>P4 GROUP <br>P5 JUNIOR DIVISION <br>P6 SENIOR DIVISION</td>
+    <td class="tg-baqh"> MR LEE CHUN SENG (IC)<br>MDM CHAN MAY LENG<br>MR INSANI<br>MR RAFI<br>MS VERONICA LIM<br>MDM JESSICA CAHYADI
+
+</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1 </td>
+    <td class="tg-amwm"> INDOOR SPORTS HALL (ISH) 1</td>
+  </tr>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >2</td>
+    <td class="tg-1wig" >DRAMA</td>
+    <td class="tg-baqh">MDM SALEHA ABDUL MAJID (IC)<br>MS HAZELEE ASFAR
+</td>
+    <td class="tg-0lax">LIBRARY</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-amwm"> </td>
+  </tr>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >3</td>
+    <td class="tg-1wig" >FESTIVE DRUMS</td>
+    <td class="tg-baqh"> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
+</td>
+    <td class="tg-0lax">CAVERN 1</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-amwm"> </td>
+  </tr>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >4</td>
+    <td class="tg-1wig" >GUZHENG</td>
+    <td class="tg-baqh"> MS CHIA SIEW LAN (IC)<br>MRS AUDREY CHENG<br>MRS ISABEL NG
+</td>
+    <td class="tg-0lax">GUZHENG ROOM <br>CAVERN 2</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-amwm"> </td>
+  </tr>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >5</td>
+    <td class="tg-1wig" >MODERN DANCE</td>
+    <td class="tg-baqh"> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
+</td>
+    <td class="tg-0lax">THE COVE</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-amwm"> </td>
+  </tr>
+ <tr> </tr>
+	
+	
+	
 </tbody>
 </table>
