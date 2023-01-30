@@ -131,7 +131,7 @@ MDM JESSICA CAHYADI
 	  <tr>
     <td class="tg-1wig" >6</td>
     <td class="tg-1wig" >WUSHU<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
-    <td class="tg-baqh">MS ALLISON LIAO (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
+    <td class="tg-baqh">MS ALLISON LIAO (IC)<br>MDM EVELYN CHUA <br>MDM SUN YAHUI<br>MDM CHEN ZHEN
 </td>
     <td class="tg-0lax">SCHOOL HALL (STAGE)</td>
     <td class="tg-0lax">CCA ROOM </td>
