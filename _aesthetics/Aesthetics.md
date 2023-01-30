@@ -91,7 +91,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >2</td>
     <td class="tg-1wig" >DRAMA</td>
-    <td class="tg-baqh">MDM SALEHA ABDUL MAJID (IC)<br>MS HAZELEE ASFAR
+    <td class="tg-baqh">MDM SALEHA (IC)<br>MS HAZELEE ASFAR
 </td>
     <td class="tg-0lax">LIBRARY</td>
     <td class="tg-0lax"> </td>
@@ -101,7 +101,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >3</td>
     <td class="tg-1wig" >FESTIVE DRUMS</td>
-    <td class="tg-baqh"> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
+    <td class="tg-baqh"><nobr> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
 </td>
     <td class="tg-0lax">CAVERN 1</td>
     <td class="tg-0lax"> </td>
@@ -121,7 +121,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >5</td>
     <td class="tg-1wig" >MODERN DANCE</td>
-    <td class="tg-baqh"> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
+    <td class="tg-baqh"><nobr> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
 </td>
     <td class="tg-0lax">THE COVE</td>
     <td class="tg-0lax"> </td>
