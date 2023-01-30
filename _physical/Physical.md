@@ -80,12 +80,12 @@ description: ""
   <tr>
     <td class="tg-1wig" >1</td>
     <td class="tg-1wig" >BASKETBALL BOYS<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
-    <td class="tg-baqh"> MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
+    <td class="tg-baqh"> <nobr>MR LEE CHUN SENG (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
 
 </td>
     <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
     <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
-    <td class="tg-amwm">INDOOR SPORTS HALL (ISH) 1 </td>
+    <td class="tg-baqh">INDOOR SPORTS HALL (ISH) 1 </td>
   </tr>
  <tr> </tr>
 	  <tr>
