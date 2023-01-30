@@ -113,9 +113,9 @@ MDM JESSICA CAHYADI
     <td class="tg-1wig" >FLOORBALL GIRLS</td>
     <td class="tg-baqh"> MS CHIA SIEW LAN (IC)<br>MRS AUDREY CHENG<br>MRS ISABEL NG
 </td>
-    <td class="tg-0lax">GUZHENG ROOM <br>CAVERN 2</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-amwm"> </td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 1)</td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 1) </td>
+    <td class="tg-baqh">SCHOOL HALL (COURT 1) </td>
   </tr>
  <tr> </tr>
 	  <tr>
