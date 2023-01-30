@@ -111,7 +111,7 @@ MDM JESSICA CAHYADI
 	  <tr>
     <td class="tg-1wig" >4</td>
     <td class="tg-1wig" >FLOORBALL GIRLS<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
-    <td class="tg-baqh">MR MUHD YUSOFF (IC)<br>MS CARINE<br>MDM WENDY TAN <br>MS VIVIENNE WEE<br>MDM AMELIA HO<br>KANAGES
+    <td class="tg-baqh">MR MUHD YUSOFF (IC)<br>MS CARINE<br>MDM WENDY TAN <br>MS VIVIENNE WEE<br>MDM AMELIA HO<br>MDM KANAGES
 </td>
     <td class="tg-0lax">SCHOOL HALL (COURT 1)</td>
     <td class="tg-0lax">SCHOOL HALL (COURT 1) </td>
