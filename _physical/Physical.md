@@ -100,7 +100,7 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >3</td>
-    <td class="tg-1wig" >FLOORBALL BOYS</td>
+    <td class="tg-1wig" >FLOORBALL BOYS<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
     <td class="tg-baqh"> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
 </td>
     <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 2</td>
@@ -110,7 +110,7 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >4</td>
-    <td class="tg-1wig" >FLOORBALL GIRLS</td>
+    <td class="tg-1wig" >FLOORBALL GIRLS<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
     <td class="tg-baqh"> MS CHIA SIEW LAN (IC)<br>MRS AUDREY CHENG<br>MRS ISABEL NG
 </td>
     <td class="tg-0lax">SCHOOL HALL (COURT 1)</td>
@@ -120,22 +120,22 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >5</td>
-    <td class="tg-1wig" >NETBALL</td>
+    <td class="tg-1wig" >NETBALL<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
     <td class="tg-baqh"> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
 </td>
-    <td class="tg-0lax">THE COVE</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-amwm"> </td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 2)</td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 2) </td>
+    <td class="tg-baqh"> </td>
   </tr>
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >6</td>
-    <td class="tg-1wig" >WUSHU</td>
+    <td class="tg-1wig" >WUSHU<br><br>P4 GROUP<br>P5 JUNIOR DIVISION<br>P6 SENIOR DIVISION</td>
     <td class="tg-baqh"> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
 </td>
-    <td class="tg-0lax">THE COVE</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-amwm"> </td>
+    <td class="tg-0lax">SCHOOL HALL (STAGE)</td>
+    <td class="tg-0lax">CCA ROOM </td>
+    <td class="tg-baqh"> </td>
   </tr>
  <tr> </tr>
 
