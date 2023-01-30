@@ -83,9 +83,9 @@ description: ""
     <td class="tg-baqh"> MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
 
 </td>
-    <td class="tg-0lax">MUSIC RM 1 & 2</td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-amwm"> </td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
+    <td class="tg-amwm">INDOOR SPORTS HALL (ISH) 1 </td>
   </tr>
  <tr> </tr>
 	  <tr>
