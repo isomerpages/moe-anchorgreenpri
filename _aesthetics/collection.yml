@@ -2,10 +2,10 @@ collections:
   aesthetics:
     output: true
     order:
-      - Guzheng.md
       - Aesthetics.md
       - Choir.md
       - Drama.md
       - Festive Drums.md
+      - Guzheng.md
       - Handbells.md
       - Modern Dance.md
