@@ -279,10 +279,10 @@ description: ""
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >2</td>
-    <td class="tg-1wig" >DRAMA</td>
-    <td class="tg-baqh">MDM SALEHA ABDUL MAJID (IC)<br>MS HAZELEE ASFAR
+    <td class="tg-1wig" >CUB SCOUTS</td>
+    <td class="tg-baqh">MDM SYAZWANI (IC)<br>MR PATRICK LEOW<br>MRS REGINA SOH<br>MDM SUELASTERI
 </td>
-    <td class="tg-0lax">LIBRARY</td>
+    <td class="tg-0lax">CCA ROOM</td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
