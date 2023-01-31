@@ -105,48 +105,28 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank
   <tr>
     <th class="tg-c9ql">UNIT</th>
     <th class="tg-px6y">LESSONS / DURATION</th>
-    <th class="tg-px6y">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-px6y">LESSON OBJECTIVES</th>
     <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig" rowspan="5">Are We More Than Friends?</td>
-    <td class="tg-7yig">Who Are My Friends?<br>(30 min)</td>
-    <td class="tg-ktyi">·        identify the qualities of a healthy friendship<br>·        recognise the importance of making wise choices in friendship</td>
-    <td class="tg-7yig" rowspan="2">Term 1 Week 8<br>22 Feb</td>
+    <td class="tg-7yig" rowspan="3">Growing Years</td>
+    <td class="tg-7yig">Are We More Than Friends?<br>(30 min)</td>
+    <td class="tg-ktyi">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends</td>
+    <td class="tg-7yig" >Term 1 Week 8</td>
   </tr>
   <tr>
     <td class="tg-7yig">Am I A Good Friend?<br>(30 min)</td>
     <td class="tg-ktyi">·        identify the qualities that they have as a friend<br>·        recognise the importance of developing in oneself the qualities of a good friend</td>
-  </tr>
+   <td class="tg-7yig" >Term 1 Week 8</td>
+	</tr>
   <tr>
     <td class="tg-7yig">What is Love?<br>(30 min)</td>
     <td class="tg-ktyi">·        identify the characteristics of love and infatuation<br>·        distinguish between the characteristics of love versus infatuation<br>·        identify strong feelings arising from infatuation</td>
-    <td class="tg-7yig" rowspan="3">Term 2 Week 5<br>19 Apr</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Am I Falling In Love?<br>(30 min)</td>
-    <td class="tg-ktyi">·        manage strong feelings arising from infatuation<br>·        identify ways to manage and cope with teasing from peers</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Main Task<br> (30 min)</td>
-    <td class="tg-ktyi">Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig" rowspan="3">Friends or Foes?</td>
-    <td class="tg-7yig">Are You Really My Friend?<br>(30 min)</td>
-    <td class="tg-ktyi">·        identify the pros and cons of forming relationships through social networking websites<br>·        know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-7yig" rowspan="3">Term 2 Week 7<br>3 May<br> <br> <br> <br> <br> <br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Is It All Safe?<br>(30 min)</td>
-    <td class="tg-ktyi">·        know that some information (like pornography) received through the Internet may be harmful<br>·        know ways to keep themselves safe when using social networking websites or the Internet</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Main Task<br> (30 min)</td>
-    <td class="tg-ktyi">Description of the Main Task:<br> <br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.<br> </td>
-  </tr>
+    <td class="tg-7yig" >Term 2 Week 5<br>19 Apr</td>
+	</tr><tr></tr>
+
 </tbody>
 </table>
 
