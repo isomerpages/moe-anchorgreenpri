@@ -31,11 +31,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank>here</a>for more information on the scope of Sexuality Education in the school curriculum.
 
-5\. The subjects that incorporate topics on sexuality include:
-
-a. Science
- 
-b. Character and Citizenship Education (CCE)
+5\. The subjects that incorporate topics on sexuality include:<br>a. Science<br>b. Character and Citizenship Education (CCE)
 
 **Sexuality Education Lessons: **
 
@@ -68,16 +64,16 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig">Gosh! I Am Changing</td>
+    <td class="tg-7yig" rowspan="2"></td>
     <td class="tg-7yig">The Changes in Me <br>(60 min)</td>
     <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
-    <td class="tg-7yig" rowspan="3"><span style="background-color:initial">Term 1 Week 9</span></td>
+    <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 9</span></td>
 	</tr><tr></tr>
  <tr>
 	 <td></td>
-    <td class="tg-7yig">The Changes in Me <br>(60 min)</td>
-    <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+    <td class="tg-7yig">Did You Know? <br>(60 min)</td>
+    <td class="tg-ktyi">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
     <td class="tg-7yig" rowspan="3"><span style="background-color:initial">Term 1 Week 9</span></td>
 	</tr><tr></tr>
