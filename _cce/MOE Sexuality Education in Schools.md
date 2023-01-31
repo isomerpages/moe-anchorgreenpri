@@ -62,50 +62,18 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <th class="tg-px6y">UNIT</th>
     <th class="tg-px6y">LESSONS / DURATION</th>
-    <th class="tg-px6y">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-px6y">LESSON OBJECTIVES</th>
     <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig" rowspan="4">Gosh! I Am Changing</td>
-    <td class="tg-7yig">What Is Happening To Me?<br>(30 min)</td>
-    <td class="tg-ktyi">·        know what puberty is<br>·        identify the physical changes during puberty</td>
-    <td class="tg-7yig" rowspan="3"><span style="background-color:initial">Term 1 Week 9</span><br><br>1 Mar<br> <br> <br> <br> <br><br> <br>  <span style="background-color:initial"> </span><br>Term 2 Week 5<br>19 Apr<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">What Can I Do? (Part 1)<br> (30 min)</td>
-    <td class="tg-ktyi">·        identify the stresses caused by physical and emotional changes during puberty<br>·        describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·        describe the emotions caused by physical changes during puberty<br>·        recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">What Can I Do? (Part 2)<br> (30 min)</td>
-    <td class="tg-ktyi">·        identify the stresses caused by physical and emotional changes during puberty<br>·        describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·        describe the emotions caused by physical changes during puberty<br>·        recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Main Task<br>(30 min)</td>
-    <td class="tg-ktyi">Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td class="tg-7yig"> </td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Where I Belong</td>
-    <td class="tg-7yig">What Are Families?<br>(30 min)<br> </td>
-    <td class="tg-ktyi">·        know that there are different types of family structures<br>·        know that every family is unique<br>·        state that the three basic functions of families are to provide love, protection and guidance<br>·        identify the right sources of help to turn to when in need</td>
-    <td class="tg-7yig" rowspan="4"><span style="background-color:initial">Term 3 Week 2</span><br><span style="background-color:initial">25 Jul</span><br><br> <br> <br><br><br> <br> <br> <br><br><br> <span style="background-color:initial"> </span><br>Term 3 Week 5<br>26 Jul<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Where I Belong</td>
-    <td class="tg-7yig">What is My Role?<br> (30 min)</td>
-    <td class="tg-ktyi">·        know that gender is about being male or female<br>·        choose not to stereotype by gender</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig" rowspan="2">How Do I Keep Myself Safe?</td>
-    <td class="tg-7yig">What is Safety?<br>(30 min)</td>
-    <td class="tg-ktyi">·        know what sexual abuse is<br>·        know that there are laws in Singapore that can protect them from sexual abuse<br>·        know their rights in keeping themselves safe from sexual abuse</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Stop It! Run! Tell!<br>(30 min)</td>
-    <td class="tg-ktyi">·        protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>·        know their responsibilities in minimising the risk of sexual harm.</td>
-  </tr>
+    <td class="tg-7yig" rowspan="1">Gosh! I Am Changing</td>
+    <td class="tg-7yig">The Changes in Me <br>(60 min)</td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-7yig" rowspan="3"><span style="background-color:initial">Term 1 Week 9</span></td>
+	</tr><tr></tr>
+
 </tbody>
 </table>
 
