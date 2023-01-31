@@ -64,21 +64,19 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig" rowspan="2"></td>
+    <td class="tg-7yig" rowspan="3"></td>
     <td class="tg-7yig">The Changes in Me <br>(60 min)</td>
     <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
     <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 9</span></td>
-	</tr><tr></tr>
+	</tr>
  <tr>
-	 <td></td>
     <td class="tg-7yig">Did You Know? <br>(60 min)</td>
     <td class="tg-ktyi">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
     <td class="tg-7yig"><span style="background-color:initial">Term 2 Week 5</span></td>
-	</tr><tr></tr>
+	</tr>
 	<tr>
-	 <td></td>
     <td class="tg-7yig">Keeping Myself Safe<br>(60 min)</td>
     <td class="tg-ktyi">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
