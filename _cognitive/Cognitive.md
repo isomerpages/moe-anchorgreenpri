@@ -246,29 +246,29 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-1wig" >1</td>
-    <td class="tg-1wig" >CHOIR</td>
-    <td class="tg-baqh"> MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
+    <td class="tg-1wig" >CHESS<br><br><nobr>BEGINNER GROUP<br><nobr>ADVANCED GROUP</td>
+    <td class="tg-baqh"><nobr>MS WONG MENG YEAN (IC)<br>MS VIVIEN LIM
 
 </td>
-    <td class="tg-0lax">MUSIC RM 1 & 2</td>
+    <td class="tg-0lax">CLASSROOM</td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >2</td>
-    <td class="tg-1wig" >DRAMA</td>
-    <td class="tg-baqh">MDM SALEHA (IC)<br>MS HAZELEE ASFAR
+    <td class="tg-1wig" >STEM INNOVATORS<br><br><nobr>GROUP A<br><nobr>GROUP B<br><nobr>COMPETITIVE GROUP </td>
+    <td class="tg-baqh">MDM SITI NURSYAKILA (IC)<br>MDM CANNY WONG (IC)<br>MS ZEN<br>NORAISHA HAMSAH
 </td>
-    <td class="tg-0lax">LIBRARY</td>
+    <td class="tg-0lax"><nobr>SCIENCE LAB 1 & 2<br><nobr>COMPUTER LAB 1 & 2</td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >3</td>
-    <td class="tg-1wig" >FESTIVE DRUMS</td>
-    <td class="tg-baqh"><nobr> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
+    <td class="tg-1wig" >MEDIA, ARTS & DESIGN</td>
+    <td class="tg-baqh"><nobr>MDM NUR MARTINA (IC)<br>MR GORDON CHUA (IC)<br>MR FIRUZ<br>NURILLIYANA <br>MS TAY LING LING (SEM 1)
 </td>
     <td class="tg-0lax">CAVERN 1</td>
     <td class="tg-0lax"> </td>
