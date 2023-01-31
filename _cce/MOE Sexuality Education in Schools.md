@@ -137,7 +137,7 @@ For 2023, the P5 Lesson “Did You Know” will also be conducted for the P6 Coh
 
 8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/For%20Parents/Letter%20to%20Parents%20Sexuality%20Ed%2018%20Jan%2022%20page%2012.pdf" target=_blank>here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to your child’s Form Teacher by 31th January 2022. The form will also be circulated to parents of the P5 cohort via Parents’ Gateway. 
+9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form as provided in the form sent via Parents’ Gateway (PG). Should you require a hard copy version of the form, please contact Mr Mohamed Rafi at <a href="mailto:mohamed_rafi_ahmad@schools.gov.sg ">mohamed_rafi_ahmad@schools.gov.sg </a> to request for the form to be emailed to you for your return to the school. The acknowledgement and opt-out form (where applicable) has been sent to all P5 parents via PG earlier in January 2023.
 
 10\. Parents can contact the school at 68861356 for discussion or to seek clarification about the school’s sexuality education programme.
 
