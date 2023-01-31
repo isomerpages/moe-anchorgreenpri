@@ -143,4 +143,4 @@ For 2023, the P5 Lesson “Did You Know” will also be conducted for the P6 Coh
 
 10\. Parents can contact the school at 68861356 for discussion or to seek clarification about the school’s sexuality education programme.
 
-11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
