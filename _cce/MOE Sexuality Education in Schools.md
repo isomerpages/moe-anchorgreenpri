@@ -122,20 +122,25 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank
    <td class="tg-7yig" >Term 2 Week 3</td>
 	</tr>
   <tr>
-    <td class="tg-7yig">What is Love?<br>(30 min)</td>
-    <td class="tg-ktyi">·        identify the characteristics of love and infatuation<br>·        distinguish between the characteristics of love versus infatuation<br>·        identify strong feelings arising from infatuation</td>
-    <td class="tg-7yig" >Term 2 Week 5<br>19 Apr</td>
+    <td class="tg-7yig">Did You Know?*<br>(60 min)</td>
+    <td class="tg-ktyi">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+</td>
+    <td class="tg-7yig" >Term 2 Week 9</td>
 	</tr><tr></tr>
 
 </tbody>
 </table>
 
+***PLEASE NOTE:**<br>
+For 2023, the P5 Lesson “Did You Know” will also be conducted for the P6 Cohort 
+ 
+
 **Information for Parents**
 
-8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
 9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/For%20Parents/Letter%20to%20Parents%20Sexuality%20Ed%2018%20Jan%2022%20page%2012.pdf" target=_blank>here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to your child’s Form Teacher by 31th January 2022. The form will also be circulated to parents of the P5 cohort via Parents’ Gateway. 
 
 10\. Parents can contact the school at 68861356 for discussion or to seek clarification about the school’s sexuality education programme.
 
-11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
