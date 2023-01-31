@@ -43,7 +43,7 @@ b. Character and Citizenship Education (CCE)
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-**At Anchor Green Primary School, the following lessons will be taught in 2023. However, pls note that adjustments to the schedule may be necessary due to the extenuating circumstances such as (HBL etc) **
+**At Anchor Green Primary School, the following lessons will be taught in 2023. However, pls note that adjustments to the schedule may be necessary due to the extenuating circumstances such as (HBL etc)**
 
 #### Primary 5
 
