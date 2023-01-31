@@ -27,7 +27,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank
 
   
 
-**Overview of ANCHOR GREEN’S PRIMARY SCHOOL Sexuality Education Programme for 2022**
+**Overview of ANCHOR GREEN’S PRIMARY SCHOOL Sexuality Education Programme for 2023**
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education" target=_blank>here</a>for more information on the scope of Sexuality Education in the school curriculum.
 
