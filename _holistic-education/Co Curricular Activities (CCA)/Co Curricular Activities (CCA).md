@@ -73,7 +73,7 @@ Through PE, ANCHORLITES develop soft skills with real-life experiential learning
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pyt"><a href="https://beta.moe.gov.sg/dsa/"><span style="font-weight:500;text-decoration:underline;color:#21088A">MOE Direct School Admission</span></a></td>
+    <td class="tg-0pyt"><a href="https://www.moe.gov.sg/secondary/dsa"><span style="font-weight:500;text-decoration:underline;color:#21088A">MOE Direct School Admission</span></a></td>
     <td class="tg-zr06">The DSA-Sec allows students to seek admission to a secondary school on the basis of talents and achievements that may not be demonstrated at the PSLE. The DSA-Sec enables students to enter suitable programmes in Secondary Schools that can develop the students in these areas</td>
   </tr>
 </tbody>

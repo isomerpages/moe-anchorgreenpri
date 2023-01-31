@@ -5,6 +5,17 @@ description: ""
 ---
 Announcements
 =============
+### MK Open House <br> 18 February 2023 
+##### Come, Join Us!
+9 am - 11am<br>
+11 am - 1pm<br>
+Welcome to MK @ Anchor Green!<br>
+We believe in a strong start for
+every child. <br>Join us to find out
+more about the holistic curriculum,
+facilities and environment we offer.
+
+
 ### P1 Orientation 2023
 
 <a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>

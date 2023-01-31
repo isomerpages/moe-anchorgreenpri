@@ -13,6 +13,9 @@ description: ""
 .tg .tg-ug26{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-5s66{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
+
+
 <table class="tg">
 <thead>
   <tr>
@@ -54,204 +57,87 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-fzue{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-fzue">No.</th>
     <th class="tg-3i8o">CCA</th>
-    <th class="tg-fzue">GROUP</th>
     <th class="tg-fzue">CCA MANAGER</th>
     <th class="tg-fzue">THURSDAYS<br>2.30 p.m.<br>to 4.30 p.m.</th>
     <th class="tg-fzue">TUESDAYS<br>3 p.m. to 5 p.m.</th>
-    <th class="tg-fzue"><span style="color:#FFF">FRIDAYS</span><br><span style="color:#FFF">3 p.m. to 5 p.m.</span></th>
+    <th class="tg-fzue">FRIDAYS<br>3 p.m. to 5 p.m.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5" rowspan="4">1</td>
-    <td class="tg-9hzb" rowspan="4">BASKETBALL<br>(BOYS DIVISION)</td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">NA</span></td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"></td>
+    <td class="tg-1wig" >1</td>
+    <td class="tg-1wig" >BASKETBALL BOYS<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-baqh"> <nobr>MR LEE CHUN SENG (IC)<br>MDM CHAN MAY LENG<br>MR INSANI<br>MR RAFI<br>MDM VERONICA LIM<br>
+MDM JESSICA CAHYADI
+</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
+    <td class="tg-baqh">INDOOR SPORTS HALL (ISH) 1 </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">JUNIOR</span><br><span style="font-weight:normal;color:#000">DIVISION</span><br><span style="font-weight:normal;color:#000">(P4)</span></td>
-    <td class="tg-7yig">MR LEE CHUN SENG/<br>MDM MOLYYATI</td>
-    <td class="tg-7yig">ISH 1</td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"></td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >2</td>
+    <td class="tg-1wig" >CUB SCOUTS</td>
+    <td class="tg-baqh">MDM SYAZWANI (IC)<br>MR PATRICK LEOW<br>MRS REGINA SOH <br>MDM SUELASTERI
+</td>
+    <td class="tg-0lax">CCA ROOM</td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P5)</td>
-    <td class="tg-7yig">MR INSANI/ <br>MR XIE CHAO</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-ktyi">PARADE <br>SQUARE</td>
-    <td class="tg-ktyi"></td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >3</td>
+    <td class="tg-1wig" >FLOORBALL BOYS<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-baqh"> NICHOLAS TAN (IC)<br>MR MOHD ADHA <br>MR VINCENT<br>MR MARK REUTENS<br>MR BERNARD LEE<br>MRS JULIANA TAN
+</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 2</td>
+    <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 2 </td>
+    <td class="tg-baqh">INDOOR SPORTS HALL (ISH) 2 </td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">SENIOR<br>DIVISION<br>(P6)</td>
-    <td class="tg-7yig">MR MURLIS (OIC)/<br>MR MOHD ADHA</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">ISH 1</td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >4</td>
+    <td class="tg-1wig" >FLOORBALL GIRLS<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-baqh">MR MUHD YUSOFF (IC)<br>MS CARINE<br>MDM WENDY TAN <br>MS VIVIENNE WEE<br>MDM AMELIA HO<br>MDM KANAGES
+</td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 1)</td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 1) </td>
+    <td class="tg-baqh">SCHOOL HALL (COURT 1) </td>
   </tr>
-  <tr>
-    <td class="tg-dgl5" rowspan="4">2</td>
-    <td class="tg-9hzb" rowspan="4">CUB SCOUTS</td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig">NA</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >5</td>
+    <td class="tg-1wig" >NETBALL<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-baqh">MR MURLIS (IC)<br>MS IVY GOH<br>MS AZNA<br>MS BEL TAN<br>MS NUR HUMAIRA
+</td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 2)</td>
+    <td class="tg-0lax">SCHOOL HALL (COURT 2) </td>
+    <td class="tg-baqh"> </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">P4</td>
-    <td class="tg-7yig" rowspan="3">MDM SYAZWANI (OIC Covering)/<br>MR BERNARD LEE<br>MR PATRICK/<br>MR POH GIM SIONG (OIC)/<br>MS CHEE ELYNNE</td>
-    <td class="tg-7yig">CCA ROOM / CLASSROOM</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >6</td>
+    <td class="tg-1wig" >WUSHU<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-baqh">MS ALLISON LIAO (IC)<br>MDM EVELYN CHUA <br>MDM SUN YAHUI<br>MDM CHEN ZHEN
+</td>
+    <td class="tg-0lax">SCHOOL HALL (STAGE)</td>
+    <td class="tg-0lax">CCA ROOM </td>
+    <td class="tg-baqh"> </td>
   </tr>
-  <tr>
-    <td class="tg-ktyi">P5</td>
-    <td class="tg-f4yw">CCA ROOM / CLASSROOM</td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P6</td>
-    <td class="tg-f4yw">CCA ROOM / CLASSROOM<br></td>
-    <td class="tg-7yig"></td>
-    <td class="tg-7yig"></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5" rowspan="4">3</td>
-    <td class="tg-9hzb" rowspan="4">FLOORBALL<br>(BOYS DIVISION)<br> </td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">NA</span></td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P4)</td>
-    <td class="tg-7yig">MS TAY LING LING / MS VIVIENNE WEE</td>
-    <td class="tg-ktyi">ISH 2</td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P5)</td>
-    <td class="tg-7yig">MR YEO TECK PIN/ <br>MDM RANNESSA TAN</td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">ISH 2</span></td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">SENIOR<br>DIVISION<br>(P6)</td>
-    <td class="tg-7yig">MR NICHOLAS TAN (OIC)/ <br><span style="font-weight:normal;color:#000">MDM OLIVIA TAN/ </span><br><span style="font-weight:normal;color:#000">MR VINCENT</span></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">ISH 2 </td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">ISH 2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5" rowspan="4">4</td>
-    <td class="tg-9hzb" rowspan="4">FLOORBALL<br>(GIRLS DIVISION)</td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">NA</span></td>
-    <td class="tg-9hzb"> </td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P4)</td>
-    <td class="tg-f4yw">MDM KANAGESWARY</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">SCHOOL HALL</span></td>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P5)</td>
-    <td class="tg-7yig">MS ZAHIDAH </td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">SCHOOL <span style="background-color:initial">HALL </span></td>
-    <td class="tg-ktyi"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">SENIOR<br>DIVISION<br>(P6)</td>
-    <td class="tg-7yig"><span style="background-color:initial">MR MOHD YUSOFF (OIC)/ </span><br><span style="background-color:initial">MS TAN PEI YU/ </span><br><span style="background-color:initial">MRS ROSE SIM</span></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">SCHOOL HALL </td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5" rowspan="4">5</td>
-    <td class="tg-dgl5" rowspan="4">NETBALL<br>(GIRLS DIVISION)</td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">NA</span><br></td>
-    <td class="tg-9hzb"> </td>
-    <td class="tg-9hzb"> </td>
-    <td class="tg-7yig"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P4)</td>
-    <td class="tg-7yig">MS NURHERYANI / MDM CHEN ZHEN</td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">ISH 1</span></td>
-    <td class="tg-7yig"></td>
-    <td class="tg-7yig"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">JUNIOR<br>DIVISION<br>(P5)</td>
-    <td class="tg-7yig">MS AZNA/ MS NUR HUMAIRA</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">ISH 1</span></td>
-    <td class="tg-7yig"></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">SENIOR<br>DIVISION<br>(P6)</td>
-    <td class="tg-7yig"><span style="background-color:initial">MR MOHD JUFRI (OIC)/ </span>MS EMILY CHIA</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">ISH 1</span></td>
-    <td class="tg-7yig"></td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5" rowspan="4">6</td>
-    <td class="tg-dgl5" rowspan="4">WUSHU</td>
-    <td class="tg-ktyi">P3</td>
-    <td class="tg-7yig"><span style="font-weight:normal;color:#000">NA</span></td>
-    <td class="tg-7yig"></td>
-    <td class="tg-7yig"> </td>
-    <td class="tg-9hzb"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P4</td>
-    <td class="tg-7yig">MDM NG CHIN CHIN/ MS ZEN</td>
-    <td class="tg-f4yw">CCA ROOM</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-9hzb"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P5</td>
-    <td class="tg-7yig">MS LOH SIANG CHOO/ MS CARINE</td>
-    <td class="tg-f4yw">CCA ROOM</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-9hzb"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">P6</td>
-    <td class="tg-ktyi">MS ALLISON LIAO (OIC)/ <br>MDM BETHANY WANG</td>
-    <td class="tg-f4yw">CCA ROOM</td>
-    <td class="tg-7yig"></td>
-    <td class="tg-9hzb"> </td>
-  </tr>
+ <tr> </tr>
+
 </tbody>
 </table>

@@ -13,6 +13,9 @@ description: ""
 .tg .tg-ug26{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-5s66{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
+
+
 <table class="tg">
 <thead>
   <tr>
@@ -67,7 +70,6 @@ description: ""
   <tr>
     <th class="tg-fzue">No.</th>
     <th class="tg-3i8o">CCA</th>
-    <th class="tg-fzue">GROUP</th>
     <th class="tg-fzue">CCA MANAGER</th>
     <th class="tg-fzue">THURSDAYS<br>2.30 p.m.<br>to 4.30 p.m.</th>
     <th class="tg-fzue">TUESDAYS<br>3 p.m. to 5 p.m.</th>
@@ -75,185 +77,57 @@ description: ""
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-1wig" >1</td>
+    <td class="tg-1wig" >CHOIR</td>
+    <td class="tg-baqh"> MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
 
-  <tr>
-    <td class="tg-1wig" rowspan="4">1</td>
-    <td class="tg-1wig" rowspan="4">CHOIR</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh">MS JESSICA DING <br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-0lax"> </td>
-    <td class="tg-baqh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-baqh" rowspan="2" style="text-align: center; vertical-align: middle;">NUR DIYANAH</td>
-    <td class="tg-nrix">MUSIC RM 1 &amp; 2<br></td>
-    <td class="tg-baqh"><span style="background-color:initial">MUSIC RM 1 &amp; 2</span></td>
-    <td class="tg-baqh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">MUSIC RM 1 &amp; 2</span></td>
-    <td class="tg-nrix">MUSIC RM 1 &amp; 2</td>
-    <td class="tg-baqh"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh">MDM CHIN SZE WEI (OIC)</td>
-    <td class="tg-nrix">MUSIC RM 1 &amp; 2<br></td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">MUSIC RM 1 &amp; 2</span><br></td>
-    <td class="tg-baqh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" rowspan="4">2</td>
-    <td class="tg-1wig" rowspan="4">DRAMA</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh">NA</td>
-    <td class="tg-1wig"> </td>
-    <td class="tg-1wig"> </td>
-    <td class="tg-baqh"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-0lax">MDM VERONICA LATHAR<br></td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">LIBRARY</span><br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh">MDM SUELASTERI</td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">LIBRARY</span><br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">MS DEEPA (OIC)</span><br></td>
-    <td class="tg-baqh"><span style="font-weight:normal;color:#000">LIBRARY</span><br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" rowspan="4">3</td>
-    <td class="tg-1wig" rowspan="4">FESTIVE DRUMS</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh">NA</td>
-    <td class="tg-1wig"> </td>
-    <td class="tg-1wig"> </td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-baqh">MDM EVELYN CHUA </td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">CAVERN 1 </td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh">MDM CHEN SZU JU <br><span style="background-color:initial">(OIC)</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">CAVERN 1 </td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh">MDM SALEHA</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">CAVERN 1 </td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" rowspan="4">4</td>
-    <td class="tg-amwm" rowspan="4">GUZHENG</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh">NA</td>
-    <td class="tg-0lax"> </td>
+</td>
+    <td class="tg-0lax">MUSIC RM 1 & 2</td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-baqh">MS VERONICA LIM / MDM JOVINA TAN</td>
-    <td class="tg-0lax">BAND ROOM</td>
-    <td class="tg-baqh">BAND ROOM</td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh">MRS AUDREY CHENG / <span style="background-color:initial">MDM CHAN MAY LENG</span></td>
-    <td class="tg-0lax">BAND ROOM</td>
-    <td class="tg-baqh">BAND ROOM</td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh">MS CHIA SIEW LAN (OIC)</td>
-    <td class="tg-0lax">BAND ROOM</td>
-    <td class="tg-baqh">BAND ROOM</td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" rowspan="4">5</td>
-    <td class="tg-amwm" rowspan="4">HANDBELLS</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh">MS DENISE TENG</td>
-    <td class="tg-baqh">MATHS ROOM</td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >2</td>
+    <td class="tg-1wig" >DRAMA</td>
+    <td class="tg-baqh">MDM SALEHA (IC)<br>MS HAZELEE ASFAR
+</td>
+    <td class="tg-0lax">LIBRARY</td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-nrix">MS LOY QIU YI<br></td>
-    <td class="tg-baqh">MUSIC ROOM 2</td>
-    <td class="tg-baqh">MUSIC ROOM 2</td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh">MS IVY GOH (OIC)</td>
-    <td class="tg-baqh">MUSIC ROOM 2</td>
-    <td class="tg-baqh">MUSIC ROOM 2</td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh">MDM TABITHA TAN</td>
-    <td class="tg-baqh">MUSIC ROOM 2</td>
-    <td class="tg-baqh">MUSIC ROOM 2</td>
-    <td class="tg-amwm"> </td>
-  </tr>
-  <tr>
-    <td class="tg-1wig" rowspan="4">6</td>
-    <td class="tg-1wig" rowspan="4">MODERN DANCE</td>
-    <td class="tg-0lax">P3</td>
-    <td class="tg-baqh"> NA</td>
-    <td class="tg-0lax"></td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >3</td>
+    <td class="tg-1wig" >FESTIVE DRUMS</td>
+    <td class="tg-baqh"><nobr> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
+</td>
+    <td class="tg-0lax">CAVERN 1</td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
-  <tr>
-    <td class="tg-0lax">P4</td>
-    <td class="tg-baqh">MDM AMELIA HO/ <br>MRS POLLY STEVEN GOH </td>
-    <td class="tg-0lax">THE COVE</td>
-    <td class="tg-0lax">THE COVE</td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >4</td>
+    <td class="tg-1wig" >GUZHENG</td>
+    <td class="tg-baqh"> MS CHIA SIEW LAN (IC)<br>MRS AUDREY CHENG<br>MRS ISABEL NG
+</td>
+    <td class="tg-0lax">GUZHENG ROOM <br>CAVERN 2</td>
+    <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
-  <tr>
-    <td class="tg-0lax">P5</td>
-    <td class="tg-baqh">MDM MUNIRAH / <span style="background-color:initial">MDM SUN YAHUI</span></td>
+ <tr> </tr>
+	  <tr>
+    <td class="tg-1wig" >5</td>
+    <td class="tg-1wig" >MODERN DANCE</td>
+    <td class="tg-baqh"><nobr> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
+</td>
     <td class="tg-0lax">THE COVE</td>
-    <td class="tg-0lax">THE COVE</td>
+    <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
-  <tr>
-    <td class="tg-0lax">P6</td>
-    <td class="tg-baqh">  MDM ANG SWEE HONG (OIC)</td>
-    <td class="tg-0lax">THE COVE</td>
-    <td class="tg-0lax">THE COVE</td>
-    <td class="tg-amwm"> </td>
-  </tr>
+ <tr> </tr>
+
 </tbody>
 </table>

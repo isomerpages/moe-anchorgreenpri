@@ -3,6 +3,7 @@ title: Handbells
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/handbells/
 description: ""
 ---
+
 AGPS Handbells Ensemble was established in 2009 and it is a place that provides opportunities for members with different musical abilities to showcase their talent, hone their musical skills, and to make music together.
 
   
