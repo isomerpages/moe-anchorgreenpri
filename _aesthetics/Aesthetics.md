@@ -46,9 +46,6 @@ description: ""
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">2.30 p.m. to 4.30 p.m.</span></td>
     <td class="tg-ug26" colspan="2"><span style="color:#222;background-color:#FBFFFA">3.00 p.m. to 5.00 p.m.</span></td>
   </tr>
-</tbody>
-</table>
-
 <br>
 
 <style type="text/css">
