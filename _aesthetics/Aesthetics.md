@@ -47,7 +47,9 @@ description: ""
     <td class="tg-ug26" colspan="2"><span style="color:#222;background-color:#FBFFFA">3.00 p.m. to 5.00 p.m.</span></td>
   </tr>
 <br>
-
+</tbody>
+</table>
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
