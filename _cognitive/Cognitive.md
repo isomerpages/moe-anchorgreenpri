@@ -91,7 +91,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >2</td>
 			<td class="tg-1wig" >STEM INNOVATORS<br><br>GROUP A<br>GROUP B<br><nobr>COMPETITIVE GROUP</nobr></td>
-    <td class="tg-baqh">MDM SITI NURSYAKILA (IC)<br>MDM CANNY WONG (IC)<br>MS ZEN<br>NORAISHA HAMSAH
+			<td class="tg-baqh"><nobr>MDM SITI NURSYAKILA (IC)</nobr><br>MDM CANNY WONG (IC)<br>MS ZEN<br>NORAISHA HAMSAH
 </td>
 			<td class="tg-0lax"><nobr>SCIENCE LAB 1 & 2</nobr><br><nobr>COMPUTER LAB 1 & 2</nobr></td>
     <td class="tg-0lax"> </td>
