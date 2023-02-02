@@ -14,8 +14,6 @@ description: ""
 .tg .tg-5s66{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 
-
-
 <table class="tg">
 <thead>
   <tr>
@@ -46,11 +44,10 @@ description: ""
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">2.30 p.m. to 4.30 p.m.</span></td>
     <td class="tg-ug26" colspan="2"><span style="color:#222;background-color:#FBFFFA">3.00 p.m. to 5.00 p.m.</span></td>
   </tr>
+<br>
 </tbody>
 </table>
-
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,7 +77,7 @@ description: ""
   <tr>
     <td class="tg-1wig" >1</td>
     <td class="tg-1wig" >CHOIR</td>
-    <td class="tg-baqh"> MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
+		<td class="tg-baqh">MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
 
 </td>
     <td class="tg-0lax">MUSIC RM 1 & 2</td>
@@ -101,7 +98,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >3</td>
     <td class="tg-1wig" >FESTIVE DRUMS</td>
-    <td class="tg-baqh"><nobr> MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
+    <td class="tg-baqh">MDM CHEN SZU JU (IC)<br>MDM JOVINA TAN
 </td>
     <td class="tg-0lax">CAVERN 1</td>
     <td class="tg-0lax"> </td>
@@ -111,7 +108,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >4</td>
     <td class="tg-1wig" >GUZHENG</td>
-    <td class="tg-baqh"> MS CHIA SIEW LAN (IC)<br>MRS AUDREY CHENG<br>MRS ISABEL NG
+    <td class="tg-baqh">MS CHIA SIEW LAN (IC)<br>MRS AUDREY CHENG<br>MRS ISABEL NG
 </td>
     <td class="tg-0lax">GUZHENG ROOM <br>CAVERN 2</td>
     <td class="tg-0lax"> </td>
@@ -121,7 +118,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >5</td>
     <td class="tg-1wig" >MODERN DANCE</td>
-    <td class="tg-baqh"><nobr> MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
+			<td class="tg-baqh"><nobr>MDM ANG SWEE HONG (IC)</nobr><br>MDM BETHANY WANG<br>MDM HUANG QIN
 </td>
     <td class="tg-0lax">THE COVE</td>
     <td class="tg-0lax"> </td>

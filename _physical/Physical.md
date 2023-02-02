@@ -79,8 +79,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-1wig" >1</td>
-    <td class="tg-1wig" >BASKETBALL BOYS<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
-    <td class="tg-baqh"> <nobr>MR LEE CHUN SENG (IC)<br>MDM CHAN MAY LENG<br>MR INSANI<br>MR RAFI<br>MDM VERONICA LIM<br>
+		<td class="tg-1wig" >BASKETBALL BOYS<br><br>P4 GROUP<br><nobr>P5 JUNIOR DIVISION</nobr><br><nobr>P6 SENIOR DIVISION</nobr></td>
+    <td class="tg-baqh"> <nobr>MR LEE CHUN SENG (IC)</nobr><br>MDM CHAN MAY LENG<br>MR INSANI<br>MR RAFI<br>MDM VERONICA LIM<br>
 MDM JESSICA CAHYADI
 </td>
     <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 1</td>
@@ -100,7 +100,7 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >3</td>
-    <td class="tg-1wig" >FLOORBALL BOYS<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-1wig" >FLOORBALL BOYS<br><br>P4 GROUP<br><nobr>P5 JUNIOR DIVISION</nobr><br><nobr>P6 SENIOR DIVISION</nobr></td>
     <td class="tg-baqh"> NICHOLAS TAN (IC)<br>MR MOHD ADHA <br>MR VINCENT<br>MR MARK REUTENS<br>MR BERNARD LEE<br>MRS JULIANA TAN
 </td>
     <td class="tg-0lax">INDOOR SPORTS HALL (ISH) 2</td>
@@ -110,8 +110,8 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >4</td>
-    <td class="tg-1wig" >FLOORBALL GIRLS<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
-    <td class="tg-baqh">MR MUHD YUSOFF (IC)<br>MS CARINE<br>MDM WENDY TAN <br>MS VIVIENNE WEE<br>MDM AMELIA HO<br>MDM KANAGES
+    <td class="tg-1wig" >FLOORBALL GIRLS<br><br>P4 GROUP<br><nobr>P5 JUNIOR DIVISION</nobr><br><nobr>P6 SENIOR DIVISION</nobr></td>
+    <td class="tg-baqh"><nobr>MR MUHD YUSOFF (IC)</nobr><br>MS CARINE<br>MDM WENDY TAN <br>MS VIVIENNE WEE<br>MDM AMELIA HO<br>MDM KANAGES
 </td>
     <td class="tg-0lax">SCHOOL HALL (COURT 1)</td>
     <td class="tg-0lax">SCHOOL HALL (COURT 1) </td>
@@ -120,7 +120,7 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >5</td>
-    <td class="tg-1wig" >NETBALL<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-1wig" >NETBALL<br><br>P4 GROUP<br><nobr>P5 JUNIOR DIVISION</nobr><br><nobr>P6 SENIOR DIVISION</nobr></td>
     <td class="tg-baqh">MR MURLIS (IC)<br>MS IVY GOH<br>MS AZNA<br>MS BEL TAN<br>MS NUR HUMAIRA
 </td>
     <td class="tg-0lax">SCHOOL HALL (COURT 2)</td>
@@ -130,7 +130,7 @@ MDM JESSICA CAHYADI
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >6</td>
-    <td class="tg-1wig" >WUSHU<br><br><nobr>P4 GROUP<br><nobr>P5 JUNIOR DIVISION<br><nobr>P6 SENIOR DIVISION</td>
+    <td class="tg-1wig" >WUSHU<br><br>P4 GROUP<br><nobr>P5 JUNIOR DIVISION</nobr><br><nobr>P6 SENIOR DIVISION</nobr></td>
     <td class="tg-baqh">MS ALLISON LIAO (IC)<br>MDM EVELYN CHUA <br>MDM SUN YAHUI<br>MDM CHEN ZHEN
 </td>
     <td class="tg-0lax">SCHOOL HALL (STAGE)</td>

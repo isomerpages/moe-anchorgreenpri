@@ -79,8 +79,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-1wig" >1</td>
-    <td class="tg-1wig" >CHESS<br><br><nobr>BEGINNER GROUP<br><nobr>ADVANCED GROUP</td>
-    <td class="tg-baqh"><nobr>MS WONG MENG YEAN (IC)<br>MS VIVIEN LIM
+		<td class="tg-1wig" >CHESS<br><br>BEGINNER GROUP<br><nobr>ADVANCED GROUP</nobr></td>
+			<td class="tg-baqh"><nobr>MS WONG MENG YEAN (IC)</nobr><br>MS VIVIEN LIM
 
 </td>
     <td class="tg-0lax">CLASSROOM</td>
@@ -90,10 +90,10 @@ description: ""
  <tr> </tr>
 	  <tr>
     <td class="tg-1wig" >2</td>
-    <td class="tg-1wig" >STEM INNOVATORS<br><br><nobr>GROUP A<br><nobr>GROUP B<br><nobr>COMPETITIVE GROUP </td>
-    <td class="tg-baqh">MDM SITI NURSYAKILA (IC)<br>MDM CANNY WONG (IC)<br>MS ZEN<br>NORAISHA HAMSAH
+			<td class="tg-1wig" >STEM INNOVATORS<br><br>GROUP A<br>GROUP B<br><nobr>COMPETITIVE GROUP</nobr></td>
+			<td class="tg-baqh"><nobr>MDM SITI NURSYAKILA (IC)</nobr><br>MDM CANNY WONG (IC)<br>MS ZEN<br>NORAISHA HAMSAH
 </td>
-    <td class="tg-0lax"><nobr>SCIENCE LAB 1 & 2<br><nobr>COMPUTER LAB 1 & 2</td>
+			<td class="tg-0lax"><nobr>SCIENCE LAB 1 & 2</nobr><br><nobr>COMPUTER LAB 1 & 2</nobr></td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
@@ -101,9 +101,10 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >3</td>
     <td class="tg-1wig" >MEDIA, ARTS & DESIGN</td>
-    <td class="tg-baqh"><nobr>MDM NUR MARTINA (IC)<br>MR GORDON CHUA (IC)<br>MR FIRUZ<br>NURILLIYANA <br>MS TAY LING LING (SEM 1)
+    <td class="tg-baqh">MDM NUR MARTINA (IC)<br>MR GORDON CHUA (IC)<br>MR FIRUZ<br>NURILLIYANA <br>MS TAY LING LING (SEM 1)
 </td>
-    <td class="tg-0lax">CAVERN 1</td>
+			<td class="tg-0lax">ART ROOM 1&2<br>COMPUTER LAB 3<br>
+				<nobr>IT RESOURCE ROOM</nobr></td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>

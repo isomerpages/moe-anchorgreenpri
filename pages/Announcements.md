@@ -6,7 +6,7 @@ description: ""
 Announcements
 =============
 ### MK Open House <br> 18 February 2023 
-##### Come, Join Us!
+#### <a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/agps-corporate-video/">**Come, Join Us!**</a>
 9 am - 11am<br>
 11 am - 1pm<br>
 Welcome to MK @ Anchor Green!<br>
@@ -15,14 +15,13 @@ every child. <br>Join us to find out
 more about the holistic curriculum,
 facilities and environment we offer.
 
-
 ### P1 Orientation 2023
 
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
-<a href="https://moe-anchorgreenpri-staging.netlify.app/resources/p1-orientation-2023/info-for-2023-cohort/" target=_blank>P1 Orientation (Info for 2023 Cohort</a>
+<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>
+<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
+<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
+<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/">Parent Kit: Starting Your Primary 1 Journey</a><br>
+<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/info-for-2023-cohort/">P1 Orientation (Info for 2023 Cohort</a>
 
 ### National Schools Games 2022
 
