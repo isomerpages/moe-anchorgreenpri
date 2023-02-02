@@ -21,7 +21,7 @@ facilities and environment we offer.
 <a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>
 <a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
 <a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
-<a href=https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/" >Parent Kit: Starting Your Primary 1 Journey</a><br>
+<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/" target=_blank>Parent Kit: Starting Your Primary 1 Journey</a><br>
 <a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/info-for-2023-cohort/" target=_blank>P1 Orientation (Info for 2023 Cohort</a>
 
 ### National Schools Games 2022
