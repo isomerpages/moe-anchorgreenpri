@@ -15,6 +15,8 @@ every child. <br>Join us to find out
 more about the holistic curriculum,
 facilities and environment we offer.
 
+#### <a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/agps-corporate-video/">**Come, Join Us!**</a>
+
 
 ### P1 Orientation 2023
 
