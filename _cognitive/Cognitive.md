@@ -103,7 +103,8 @@ description: ""
     <td class="tg-1wig" >MEDIA, ARTS & DESIGN</td>
     <td class="tg-baqh"><nobr>MDM NUR MARTINA (IC)<br>MR GORDON CHUA (IC)<br>MR FIRUZ<br>NURILLIYANA <br>MS TAY LING LING (SEM 1)
 </td>
-    <td class="tg-0lax">CAVERN 1</td>
+			<td class="tg-0lax">ART ROOM 1&2<br>COMPUTER LAB 3<br>
+				<nobr>IT RESOURCE ROOM</nobr></td>
     <td class="tg-0lax"> </td>
     <td class="tg-amwm"> </td>
   </tr>
