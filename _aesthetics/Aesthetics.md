@@ -77,7 +77,7 @@ description: ""
   <tr>
     <td class="tg-1wig" >1</td>
     <td class="tg-1wig" >CHOIR</td>
-		<td class="tg-baqh"><nobr>MDM CHIN SZE WEI (IC)</nobr><br>MS NUR DIYANAH<br>MS JESSICA DING
+		<td class="tg-baqh">MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
 
 </td>
     <td class="tg-0lax">MUSIC RM 1 & 2</td>
@@ -118,7 +118,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >5</td>
     <td class="tg-1wig" >MODERN DANCE</td>
-    <td class="tg-baqh">MDM ANG SWEE HONG (IC)<br>MDM BETHANY WANG<br>MDM HUANG QIN
+			<td class="tg-baqh"><nobr>MDM ANG SWEE HONG (IC)</nobr><br>MDM BETHANY WANG<br>MDM HUANG QIN
 </td>
     <td class="tg-0lax">THE COVE</td>
     <td class="tg-0lax"> </td>
