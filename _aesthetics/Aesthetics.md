@@ -77,7 +77,7 @@ description: ""
   <tr>
     <td class="tg-1wig" >1</td>
     <td class="tg-1wig" >CHOIR</td>
-    <td class="tg-baqh"> MDM CHIN SZE WEI (IC)<br>MS NUR DIYANAH<br>MS JESSICA DING
+		<td class="tg-baqh"><nobr>MDM CHIN SZE WEI (IC)</nobr><br>MS NUR DIYANAH<br>MS JESSICA DING
 
 </td>
     <td class="tg-0lax">MUSIC RM 1 & 2</td>
