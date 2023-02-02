@@ -14,8 +14,6 @@ description: ""
 .tg .tg-5s66{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 
-
-
 <table class="tg">
 <thead>
   <tr>
@@ -50,7 +48,6 @@ description: ""
 </tbody>
 </table>
 
-<br>
 <br>
 	
 <style type="text/css">
