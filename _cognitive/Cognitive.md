@@ -79,7 +79,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-1wig" >1</td>
-		<td class="tg-1wig" >CHESS<br><br>BEGINNER GROUP<br><nobr>ADVANCED GROUP</nor></td>
+		<td class="tg-1wig" >CHESS<br><br>BEGINNER GROUP<br><nobr>ADVANCED GROUP</nobr></td>
 			<td class="tg-baqh"><nobr>MS WONG MENG YEAN (IC)</nobr><br>MS VIVIEN LIM
 
 </td>
@@ -101,7 +101,7 @@ description: ""
 	  <tr>
     <td class="tg-1wig" >3</td>
     <td class="tg-1wig" >MEDIA, ARTS & DESIGN</td>
-    <td class="tg-baqh"><nobr>MDM NUR MARTINA (IC)<br>MR GORDON CHUA (IC)<br>MR FIRUZ<br>NURILLIYANA <br>MS TAY LING LING (SEM 1)
+    <td class="tg-baqh">MDM NUR MARTINA (IC)<br>MR GORDON CHUA (IC)<br>MR FIRUZ<br>NURILLIYANA <br>MS TAY LING LING (SEM 1)
 </td>
 			<td class="tg-0lax">ART ROOM 1&2<br>COMPUTER LAB 3<br>
 				<nobr>IT RESOURCE ROOM</nobr></td>
