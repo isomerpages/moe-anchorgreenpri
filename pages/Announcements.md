@@ -39,7 +39,7 @@ The school would like to convey our deepest appreciation to parents, CCA teacher
 
 ### Group Personal Accident Insurance
 
-The school’s group insurer for 2022 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school.  Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target=_blank>Group Personal Accident Insurance for Students</a>. The User Guide can be access through <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target=_blank>Student GPA User Guide - Parent</a>.
+The school’s group insurer for 2023 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school.  Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target=_blank>Group Personal Accident Insurance for Students</a>. The User Guide can be access through <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target=_blank>Student GPA User Guide - Parent</a>.
 
 
 ### Keeping Singapore Dengue-Free
