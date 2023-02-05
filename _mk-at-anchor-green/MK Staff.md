@@ -82,7 +82,7 @@ MK Staff
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:400">Hidayah Binte Yahya</span></td>
-		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">soh_ai_ling_a@moe.edu.sg</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hidayah_binte_yahya@schools.gov.sg</span><br></td>
   </tr>
 			 
 
