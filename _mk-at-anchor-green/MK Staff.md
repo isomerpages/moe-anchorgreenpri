@@ -115,6 +115,16 @@ MK Staff
 		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liu_yali@schools.gov.sg</span><br></td>
   </tr>
 			 
+<tr>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Basil (PM)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Tan Hwee Shin Clarie</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_hwee_shin_clarie@schools.gov.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b"><span style="font-weight:400">Liu Yali</span></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liu_yali@schools.gov.sg</span><br></td>
+  </tr>
 			 
+
 </tbody>
 </table>
