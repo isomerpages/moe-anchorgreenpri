@@ -21,12 +21,14 @@ MK Staff
   <tr>
     <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Name</span></th>
     <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Designation</span></th>
+		  <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-pk3b" rowspan="9"><span style="font-weight:normal">Lau Yin Siong Winnie</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Centre Head</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal">lau_yin_siong_winnie@schools.gov.sg</span><br></td>
   </tr>
 </tbody>
 </table>
