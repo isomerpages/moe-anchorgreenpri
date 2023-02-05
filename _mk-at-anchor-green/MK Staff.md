@@ -28,7 +28,7 @@ MK Staff
   <tr>
     <td class="tg-pk3b" rowspan="9"><span style="font-weight:normal">Lau Yin Siong Winnie</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Centre Head</span><br></td>
-		 <td class="tg-pk3b"><span style="font-weight:normal">lau_yin_siong_winnie@schools.gov.sg</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:lau_yin_siong_winnie@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lau_yin_siong_winnie@schools.gov.sg</span></a></span><br></td>
   </tr>
 </tbody>
 </table>
