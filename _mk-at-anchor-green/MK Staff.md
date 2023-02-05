@@ -49,55 +49,33 @@ MK Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Language</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Name</span></th>
+    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Class</span></th>
+    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Form Teacher</span></th>
+		<th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pk3b" rowspan="5"><span style="font-weight:normal">English</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span><br></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus<br> (AM) and (PM)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Melissa Ang Shu Xian</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:melissa_ang_shu_xian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">melissa_ang_shu_xian@schools.gov.sg</span><br></td>
   </tr>
  
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Melissa Ang Shu Xian</span></td>
+    <td class="tg-pk3b"><span style="font-weight:400">Soh Ai Ling</span></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">soh_ai_ling_a@moe.edu.sg</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Binte Anwar</span></td>
+			 
+ <tr>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora (AM)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Nur Aliyana Binte Md Ali</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_aliyana_md_ali@schools.gov.sg</span><br></td>
   </tr>
+ 
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Nur Aliyana Binte Md Ali</span><br></td>
+    <td class="tg-pk3b"><span style="font-weight:400">Soh Ai Ling</span></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">soh_ai_ling_a@moe.edu.sg</span><br></td>
   </tr>
 
-
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Tan Hwee Shin Clarie</span><br></td>
-  </tr>
- 
-  <tr>
-    <td class="tg-pk3b" ><span style="font-weight:normal">Malay</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"> </span><span style="font-weight:400">Juliana Binte Johari</span></td>
-  </tr>
- 
-  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">Tamil</span></td>
-    <td class="tg-pk3b"><span style="font-weight:400">Shabreen Begham d/o Shaik Liyakatali</span><span style="font-weight:normal"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bnp4"><span style="color:#222;background-color:#FBFFFA"> </span><span style="font-weight:normal">Zuliha Bagam d/o Abdul Raseed</span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b" rowspan="4"><span style="font-weight:normal">  Chinese</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"> </span><span style="font-weight:400">Hoo Yin Huin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal"> </span><span style="font-weight:400">Liu Yali</span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal"> </span><span style="font-weight:400">Soh Ai Ling</span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal"> </span><span style="font-weight:400">Wang Wen</span></td>
-  </tr>
 </tbody>
 </table>
