@@ -73,9 +73,20 @@ MK Staff
   </tr>
  
   <tr>
+			<td class="tg-pk3b"><span style="font-weight:400"></span></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span><br></td>
+  </tr>
+
+ <tr>
     <td class="tg-pk3b"><span style="font-weight:400">Soh Ai Ling</span></td>
 		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">soh_ai_ling_a@moe.edu.sg</span><br></td>
   </tr>
-
+			 
+ <tr>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora (AM)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Nur Aliyana Binte Md Ali</span><br></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_aliyana_md_ali@schools.gov.sg</span><br></td>
+  </tr>
+			 
 </tbody>
 </table>
