@@ -101,8 +101,8 @@ MK Staff
 		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hoo_yin_huin@schools.gov.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Juliana Binte Johari</span></td>
-		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">juliana_binte_johari@schools.gov.sg</span><br></td>
+    <td class="tg-pk3b"><span style="font-weight:400">Liu Yali</span></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liu_yali@schools.gov.sg</span><br></td>
   </tr>
 			 
 </tbody>
