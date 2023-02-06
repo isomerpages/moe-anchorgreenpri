@@ -57,93 +57,93 @@ Kindergarten Teachers
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus<br> (AM) and (PM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Melissa Ang Shu Xian</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:melissa_ang_shu_xian@schools.gov.sg">melissa_ang_shu_xian@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:melissa_ang_shu_xian@schools.gov.sg">melissa_ang_shu_xian@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg">soh_ai_ling_a@moe.edu.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg">soh_ai_ling_a@moe.edu.sg</a></span></td>
   </tr>
 			 
  <tr>
     <td class="tg-pk3b" ><span style="font-weight:normal">K1 Ixora (AM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nur Aliyana Binte Md Ali</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg">nur_aliyana_md_ali@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg">nur_aliyana_md_ali@schools.gov.sg</a></span></td>
   </tr>
 
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora (PM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nur Aliyana Binte Md Ali</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg">nur_aliyana_md_ali@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg">nur_aliyana_md_ali@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Rosemary (AM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</a></span></td>
  </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</a></span></td>
   </tr>
 			
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Basil (AM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 	
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Basil (PM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Tan Hwee Shin Clarie</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali</span></td>
-		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</span></td>
+		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 			 
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass (AM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Binte Anwar</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</span></td
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td
   </tr>
 			 
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass (PM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
   </tr>
 			 
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Pandan (AM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Tan Hwee Shin Clarie</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Shabreen Begham D/O Shaik Liyakatali</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:shabreen_begham_shaik_liyakatali@schools.gov.sg">shabreen_begham_shaik_liyakatali@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:shabreen_begham_shaik_liyakatali@schools.gov.sg">shabreen_begham_shaik_liyakatali@schools.gov.sg</a></span></td>
   </tr>
 			 
   <tr>
     <td class="tg-pk3b" ><span style="font-weight:normal"></span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Zuliha Bagam D/O Abdul Raseed</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zuliha_bagam_abdul_raseed@schools.gov.sg">zuliha_bagam_abdul_raseed@schools.gov.sg</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zuliha_bagam_abdul_raseed@schools.gov.sg">zuliha_bagam_abdul_raseed@schools.gov.sg</a></span></td>
   </tr>
 <tr></tr>
 			 
