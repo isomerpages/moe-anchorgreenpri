@@ -117,7 +117,7 @@ Kindergarten Teachers
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
   </tr>
 			 
   <tr>
