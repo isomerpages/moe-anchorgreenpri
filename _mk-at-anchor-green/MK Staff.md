@@ -26,7 +26,7 @@ MK Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pk3b" rowspan="9"><span style="font-weight:normal">Lau Yin Siong Winnie</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Lau Yin Siong Winnie</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Centre Head</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:lau_yin_siong_winnie@schools.gov.sg">lau_yin_siong_winnie@schools.gov.sg</a></span></td>
   </tr>
@@ -65,13 +65,9 @@ Kindergarten Teachers
   </tr>
 			 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora (AM)</span></td>
+    <td class="tg-pk3b" ><span style="font-weight:normal">K1 Ixora (AM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nur Aliyana Binte Md Ali</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg">nur_aliyana_md_ali@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:400"></span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@moe.edu.sg"></span></td>
   </tr>
 
  <tr>
