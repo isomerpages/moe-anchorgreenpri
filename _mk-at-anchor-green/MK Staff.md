@@ -76,7 +76,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_aliyana_md_ali@schools.gov.sg">nur_aliyana_md_ali@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Hidayah Binte Yahya</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</span></td>
   </tr>
 			 
@@ -86,7 +86,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</span></td>
  </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Juliana Binte Johari</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</span></td>
   </tr>
 			
@@ -96,7 +96,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:400">Liu Yali</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</span></td>
   </tr>
 	
