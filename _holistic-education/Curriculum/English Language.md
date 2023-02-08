@@ -9,11 +9,11 @@ English Language
 ### Focus
 A Community of Confident and Competent English Learners
 ### Objectives
-*   To nurture confident and effective communicators with the love for reading
-*   The department strives to build a strong foundation of the pupils’ language through rich language learning and equipping them with the receptive skills (listening, reading and viewing), productive skills (speaking, writing and representing) and knowledge about language (grammar and vocabulary).
+*   To nurture confident and effective communicators with the love for the language
+*   We strive on building a strong foundation of the English Language through students’ enjoyment of the language and the promotion of reading, oracy and writing skills to develop knowledge and independent use of the language. 
 
 ### Pedagogy Approaches
-The school adopts STELLAR (Strategies for English Language Learning And Reading) in the teaching of English Language from Primary 1 to Primary 6 and supplements it with our own school-based packages. STELLAR aims to strengthen children’s language and reading skills while promoting a positive attitude towards learning using strategies and age-appropriate materials to engage children in the learning of English.
+The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills and promotes a positive attitude towards learning using stories and strategies to engage students in the learning of English Language. 
 ### Key Programmes
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -28,7 +28,7 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">MOE Support Programmes</span></th>
+    <th colspan="2" class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">MOE Support Programmes</span></th>
   </tr>
 </thead>
 <tbody>
@@ -54,7 +54,7 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">School-Wide Programmes</span></th>
+    <th colspan="2" class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">School-Wide Programmes</span></th>
   </tr>
 </thead>
 <tbody>
@@ -76,7 +76,7 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Lower Primary Programmes</span></th>
+    <th colspan="2" class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Lower Primary Programmes</span></th>
   </tr>
 </thead>
 <tbody>
@@ -90,12 +90,12 @@ The school adopts STELLAR (Strategies for English Language Learning And Reading)
 ### Speech and Drama
 The Speech and Drama programme is designed with an aim to develop our pupils into confident and effective communicators. The programme provides Primary 1 to Primary 3 pupils with the platform to explore rhythm, expression and voice projection during curriculum hours. The lessons culminate in a grand showcase at the end of the programme at Primary 1 and Primary 2.
 
-<img src="/images/Curriculum/English/English%20Speech%20and%20Drama.jpg" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/English%20Speech%20and%20Drama.jpg">
 
 ### StarLit
 StarLit aims to instil in pupils the love for reading by encouraging them to read a variety of books. Pupils will be able to reap the benefits of reading and develop the awareness of the relevance of stories to life.
 
-<img src="/images/Curriculum/English/English%20StarLit.png" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/English%20StarLit.png">
 
 ### Speak Good English @ AGPS
 Speak Good English @ AGPS aims to promote a culture of good communication through Golden Nuggets and Word of the Week.
@@ -103,11 +103,11 @@ Speak Good English @ AGPS aims to promote a culture of good communication throug
 **Golden Nuggets**<br>
 To encourage good communication and the use of Standard English, common mistakes in our everyday conversations are highlighted and the correct usage of the language is presented.
 
-<img src="/images/Curriculum/English/Speak%20Good%20English%201.jpg" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/Speak%20Good%20English%201.jpg">
 
 <br>
 
 **_Word of the Week (WoW)_** <br>
 _Pupils are encouraged to learn and use a new word each week._
 
-<img src="/images/Curriculum/English/Speak%20Good%20English%202.jpg" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/Speak%20Good%20English%202.jpg">
