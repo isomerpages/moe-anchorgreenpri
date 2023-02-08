@@ -29,15 +29,18 @@ Specialised literacy remediation programme for middle primary students with dysl
 **Reading Circles**<br>
 Programme to engage advanced upper primary readers in fiction texts
 
-### Speech and Drama
-The Speech and Drama programme is designed with an aim to develop our pupils into confident and effective communicators. The programme provides Primary 1 to Primary 3 pupils with the platform to explore rhythm, expression and voice projection during curriculum hours. The lessons culminate in a grand showcase at the end of the programme at Primary 1 and Primary 2.
+![](/images/Curriculum/English/MOE%20Programmes.jpg)
 
-<img style="width:80%" src="/images/Curriculum/English/English%20Speech%20and%20Drama.jpg">
+#### School Programmes
+##### Speech and Drama
+Our Primary 1 students build their confidence and enhance their communication skills when they explore rhythm, expression and voice projection during English Language lessons that culminate in a showcase at the end of the programme. 
+
+![](/images/Curriculum/English/Speech%20&amp;%20Drama.jpg)
 
 ### StarLit
 StarLit aims to instil in pupils the love for reading by encouraging them to read a variety of books. Pupils will be able to reap the benefits of reading and develop the awareness of the relevance of stories to life.
 
-<img style="width:80%" src="/images/Curriculum/English/English%20StarLit.png">
+<img src="/images/Curriculum/English/English%20StarLit.png" style="width:80%">
 
 ### Speak Good English @ AGPS
 Speak Good English @ AGPS aims to promote a culture of good communication through Golden Nuggets and Word of the Week.
@@ -45,11 +48,11 @@ Speak Good English @ AGPS aims to promote a culture of good communication throug
 **Golden Nuggets**<br>
 To encourage good communication and the use of Standard English, common mistakes in our everyday conversations are highlighted and the correct usage of the language is presented.
 
-<img style="width:80%" src="/images/Curriculum/English/Speak%20Good%20English%201.jpg">
+<img src="/images/Curriculum/English/Speak%20Good%20English%201.jpg" style="width:80%">
 
 <br>
 
 **_Word of the Week (WoW)_** <br>
 _Pupils are encouraged to learn and use a new word each week._
 
-<img style="width:80%" src="/images/Curriculum/English/Speak%20Good%20English%202.jpg">
+<img src="/images/Curriculum/English/Speak%20Good%20English%202.jpg" style="width:80%">
