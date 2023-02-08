@@ -14,7 +14,8 @@ A Community of Confident and Competent English Learners
 
 ### Pedagogy Approaches
 The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills and promotes a positive attitude towards learning using stories and strategies to engage students in the learning of English Language. 
-![](/images/Curriculum/English/Stellar.jpg)
+<img style="width:100%" src="/images/Curriculum/English/Stellar.jpg">
+
 ### Key Programmes
 #### MOE Programmes
 **Learning Support Programme (LSP)**<br>
@@ -40,7 +41,7 @@ Our Primary 1 students build their confidence and enhance their communication sk
 ### StarLit
 StarLit aims to instil in pupils the love for reading by encouraging them to read a variety of books. Pupils will be able to reap the benefits of reading and develop the awareness of the relevance of stories to life.
 
-<img src="/images/Curriculum/English/English%20StarLit.png" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/English%20StarLit.png">
 
 ### Speak Good English @ AGPS
 Speak Good English @ AGPS aims to promote a culture of good communication through Golden Nuggets and Word of the Week.
@@ -48,11 +49,11 @@ Speak Good English @ AGPS aims to promote a culture of good communication throug
 **Golden Nuggets**<br>
 To encourage good communication and the use of Standard English, common mistakes in our everyday conversations are highlighted and the correct usage of the language is presented.
 
-<img src="/images/Curriculum/English/Speak%20Good%20English%201.jpg" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/Speak%20Good%20English%201.jpg">
 
 <br>
 
 **_Word of the Week (WoW)_** <br>
 _Pupils are encouraged to learn and use a new word each week._
 
-<img src="/images/Curriculum/English/Speak%20Good%20English%202.jpg" style="width:80%">
+<img style="width:80%" src="/images/Curriculum/English/Speak%20Good%20English%202.jpg">
