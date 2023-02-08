@@ -14,7 +14,7 @@ A Community of Confident and Competent English Learners
 
 ### Pedagogy Approaches
 The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills and promotes a positive attitude towards learning using stories and strategies to engage students in the learning of English Language. 
-<img src="/images/Curriculum/English/Stellar.jpg" style="width:100%">
+<img style="width:100%" src="/images/Curriculum/English/Stellar.jpg">
 
 ### Key Programmes
 #### MOE Programmes
@@ -30,7 +30,7 @@ Specialised literacy remediation programme for middle primary students with dysl
 **Reading Circles**<br>
 Programme to engage advanced upper primary readers in fiction texts
 
-<img src="/images/Curriculum/English/MOE%20Programmes.jpg" style="width:100%">
+<img style="width:100%" src="/images/Curriculum/English/MOE%20Programmes.jpg">
 
 #### School Programmes
 ##### Speech and Drama
@@ -38,13 +38,13 @@ Our Primary 1 students build their confidence and enhance their communication sk
 
 ![](/images/Curriculum/English/Speech%20&amp;%20Drama.jpg)
 
-<img src="/images/Curriculum/English/StarLit_01.jpg" style="width:50%" align="left">
+<img align="left" style="width:50%" src="/images/Curriculum/English/StarLit_01.jpg">
 
 <br><br><br><br>
 
 STARLit is AGPS Literature-appreciation programme that instils our students with the love for the language and encourage them to become critical and creative thinkers who express themselves confidently, effectively and empathetically. 
 
 
-<img src="/images/Curriculum/English/StarLit_02.jpg" style="width:100%"><br>
-<img src="/images/Curriculum/English/StarLit_03.jpg" style="width:100%"><br>
-<img src="/images/Curriculum/English/StarLit_04.jpg" style="width:100%">
+<img style="width:100%" src="/images/Curriculum/English/StarLit_02.jpg"><br>
+<img style="width:100%" src="/images/Curriculum/English/StarLit_03.jpg"><br>
+<img style="width:100%" src="/images/Curriculum/English/StarLit_04.jpg">
