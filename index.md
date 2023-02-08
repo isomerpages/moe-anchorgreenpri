@@ -12,11 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
-        - title: Useful Links
-          description: ""
-          url: /resources/resources-for-parents
         - title: Calendar
           description: ""
           url: /calendar
 ---
-
