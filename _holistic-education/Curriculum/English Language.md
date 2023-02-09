@@ -9,105 +9,42 @@ English Language
 ### Focus
 A Community of Confident and Competent English Learners
 ### Objectives
-*   To nurture confident and effective communicators with the love for reading
-*   The department strives to build a strong foundation of the pupils’ language through rich language learning and equipping them with the receptive skills (listening, reading and viewing), productive skills (speaking, writing and representing) and knowledge about language (grammar and vocabulary).
+*   To nurture confident and effective communicators with the love for the language
+*   We strive on building a strong foundation of the English Language through students’ enjoyment of the language and the promotion of reading, oracy and writing skills to develop knowledge and independent use of the language. 
 
 ### Pedagogy Approaches
-The school adopts STELLAR (Strategies for English Language Learning And Reading) in the teaching of English Language from Primary 1 to Primary 6 and supplements it with our own school-based packages. STELLAR aims to strengthen children’s language and reading skills while promoting a positive attitude towards learning using strategies and age-appropriate materials to engage children in the learning of English.
+The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills and promotes a positive attitude towards learning using stories and strategies to engage students in the learning of English Language. 
+<img style="width:100%" src="/images/Curriculum/English/Stellar.jpg">
+
 ### Key Programmes
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rk1q{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">MOE Support Programmes</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Primary 1 and Primary 2</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Learning Support Programme (LSP)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Primary 3 and Primary 4</span><br></td>
-    <td class="tg-lygy"><span style="font-weight:normal;color:#000;background-color:#FFF">School-based Dyslexia Programme (SDR)</span><br><span style="font-weight:normal;color:#000;background-color:#FFF">Reading Remediation Programme (RRP)</span></td>
-  </tr>
-</tbody>
-</table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rk1q{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">School-Wide Programmes</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">All Levels</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">StarLit</span><br><span style="color:#222;background-color:#FBFFFA">Speak Good English @ AGPS</span></td>
-  </tr>
-</tbody>
-</table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rk1q{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rk1q" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Lower Primary Programmes</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Primary 1 and Primary 3</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Speech and Drama</span></td>
-  </tr>
-</tbody>
-</table>
+#### MOE Programmes
+**Learning Support Programme (LSP)**<br>
+Literacy support programme for lower primary students
 
-### Speech and Drama
-The Speech and Drama programme is designed with an aim to develop our pupils into confident and effective communicators. The programme provides Primary 1 to Primary 3 pupils with the platform to explore rhythm, expression and voice projection during curriculum hours. The lessons culminate in a grand showcase at the end of the programme at Primary 1 and Primary 2.
+**Reading Remediation Programme (RRP**)<br>
+Literacy support programme for middle primary students
 
-<img src="/images/Curriculum/English/English%20Speech%20and%20Drama.jpg" style="width:80%">
+**School-based Dyslexia Programme (SDR)**<br>
+Specialised literacy remediation programme for middle primary students with dyslexia
 
-### StarLit
-StarLit aims to instil in pupils the love for reading by encouraging them to read a variety of books. Pupils will be able to reap the benefits of reading and develop the awareness of the relevance of stories to life.
+**Reading Circles**<br>
+Programme to engage advanced upper primary readers in fiction texts
 
-<img src="/images/Curriculum/English/English%20StarLit.png" style="width:80%">
+<img style="width:100%" src="/images/Curriculum/English/MOE%20Programmes.jpg">
 
-### Speak Good English @ AGPS
-Speak Good English @ AGPS aims to promote a culture of good communication through Golden Nuggets and Word of the Week.
+#### School Programmes
+##### Speech and Drama
+Our Primary 1 students build their confidence and enhance their communication skills when they explore rhythm, expression and voice projection during English Language lessons that culminate in a showcase at the end of the programme. 
 
-**Golden Nuggets**<br>
-To encourage good communication and the use of Standard English, common mistakes in our everyday conversations are highlighted and the correct usage of the language is presented.
+![](/images/Curriculum/English/Speech%20&amp;%20Drama.jpg)
 
-<img src="/images/Curriculum/English/Speak%20Good%20English%201.jpg" style="width:80%">
+<img align="left" style="width:50%" src="/images/Curriculum/English/StarLit_01.jpg">
 
-<br>
+<br><br><br><br>
 
-**_Word of the Week (WoW)_** <br>
-_Pupils are encouraged to learn and use a new word each week._
+STARLit is AGPS Literature-appreciation programme that instils our students with the love for the language and encourage them to become critical and creative thinkers who express themselves confidently, effectively and empathetically. 
 
-<img src="/images/Curriculum/English/Speak%20Good%20English%202.jpg" style="width:80%">
+
+<img style="width:100%" src="/images/Curriculum/English/StarLit_02.jpg"><br>
+<img style="width:100%" src="/images/Curriculum/English/StarLit_03.jpg"><br>
+<img style="width:100%" src="/images/Curriculum/English/StarLit_04.jpg">
