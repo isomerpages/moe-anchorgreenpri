@@ -91,7 +91,7 @@ Approach:
   <tr>
     <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students with Arts Potential<br><br>Tier 2+/3</span><br></td>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;-Music and Art Celebrate!</span><br><br></td>
-    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">As above, in addition,</span><br><span style="font-weight:bold;background-color:transparent">Say It Art Loud! </span><br><span style="font-weight:bold;background-color:transparent">Art Exhibitions</span><span style="background-color:transparent"> </span><br><span style="font-weight:bold;background-color:transparent">SYF Arts Presentation in: </span><br><span style="background-color:transparent">- Art </span><br><span style="background-color:transparent">- Choir </span><br><span style="background-color:transparent">- Guzheng </span><br><span style="background-color:transparent">- Modern Dance </span><br></td>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 2: Within School</span><br><span style="background-color:transparent">&nbsp;&nbsp;- 	Performing and Visual Arts CCAs at school events<br>&nbsp;&nbsp;- Say It Art Loud</span><br><br> <span style="font-weight:bold;color:#000">Tier 3: Beyond School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-  VPA CCA participation at community events (exhibition, performances)<br>&nbsp;&nbsp;- 	VPA Arts Outreach with school partners</span></td>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;-The Arts Charts</span></td>
   </tr>
 </tbody>
