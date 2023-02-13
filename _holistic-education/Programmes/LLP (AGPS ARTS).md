@@ -50,6 +50,8 @@ Adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enric
 
 Arts platforms that support to this end include Say It Art Loud!, Everyone Can Perform!,Unplugged Fridays and the month long celebration of the arts, Music &amp; Art Celebrate! (MAC!).
 
+Approach:
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
