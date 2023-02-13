@@ -72,7 +72,7 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
   <tr>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">**Mass**<br>**Tier 1**</span><br></td>
 <td class="tg-n9k0"><span style="background-color:transparent">Awareness and Appreciation/Engage and Experience (AE) Modules<br>&nbsp;&nbsp;-	Art Curriculum<br>&nbsp;&nbsp;-	Music Curriculum</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">**Tier 1: Within Class**<br>&nbsp;&nbsp;- Art Curriculum (Think It Art Loud, Talk It Art Loud!)<br>&nbsp;&nbsp;- Music Curriculum (Performances)<br>&nbsp;&nbsp; - Music and Art Celebrate!<br><br>**Tier 2: Within School Community**<br>&nbsp;&nbsp;-	ACE Card (P2 – P6)<br>&nbsp;&nbsp;- NAC Assembly Programmes<br>&nbsp;&nbsp;- Everyone Can Perform&nbsp;&nbsp;<br>-	D-cube</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">**Tier 1: Within Class**<br>&nbsp;&nbsp;- Art Curriculum (Think It Art Loud, Talk It Art Loud!)<br>&nbsp;&nbsp;- Music Curriculum (Performances)<br>&nbsp;&nbsp; - Music and Art Celebrate!<br><br>**Tier 2: Within School Community**<br>&nbsp;&nbsp;-	ACE Card (P2 – P6)<br>&nbsp;&nbsp;- NAC Assembly Programmes<br>&nbsp;&nbsp;- Everyone Can Perform&nbsp;&nbsp;<br>&nbsp;&nbsp;-	D-cube</span></td>
     <td class="tg-n9k0"></td>
   </tr>
   <tr>
