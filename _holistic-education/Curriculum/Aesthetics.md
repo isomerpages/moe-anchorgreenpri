@@ -75,7 +75,7 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-3yc9">Anchorlites<br></th>
+    <th class="tg-3yc9">Pupils<br></th>
     <th class="tg-3yc9">ENGAGE &amp; EXPERIENCE<br>(Curriculum)<br></th>
     <th class="tg-3yc9">EXCITE<br><span style="background-color:transparent">(Arts Appreciation Series @AGPS) </span><br></th>
     <th class="tg-3yc9">ENRICH<br><span style="background-color:transparent">(Learning Journeys)</span></th>
@@ -83,17 +83,16 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Mass<br><br>Tier 1</span><br></td>
-<td class="tg-n9k0"><span style="background-color:transparent">Awareness and Appreciation/Engage and Experience (AE) Modules<br>&nbsp;&nbsp;-	Art Curriculum<br>&nbsp;&nbsp;-	Music Curriculum</span><br></td>
-		<td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 1: Within Class<br></span><span style="background-color:transparent">&nbsp;&nbsp;- Art Curriculum (Think It Art Loud, Talk It Art Loud!)<br>&nbsp;&nbsp;- Music Curriculum (Performances)<br>&nbsp;&nbsp; - Music and Art Celebrate!<br><br><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-	ACE Card (P2 – P6)<br>&nbsp;&nbsp;- NAC Assembly Programmes<br>&nbsp;&nbsp;- Everyone Can Perform&nbsp;&nbsp;<br>&nbsp;&nbsp;-	D-cube</span></span></td>
-    <td class="tg-n9k0">&nbsp;&nbsp;-	P4 Museum-Based Learning Journey<br>&nbsp;&nbsp;-	P6 Performing Arts Learning Journey<br> (e.g. Front of House@Esplanade)
-</td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For All Anchorlites</span><br></td>
+    <td class="tg-n9k0"><br><span style="background-color:transparent">- Art Curriculum </span><br><span style="background-color:transparent">- Music Curriculum </span><br></td>
+    <td class="tg-n9k0"><br><span style="background-color:transparent">- Art Curriculum (Think It Art Loud, Talk It Art Loud!)</span><br><span style="background-color:transparent">- Music Curriculum (group performances) </span><br><span style="background-color:transparent">- NAC Assembly Programmes</span><br><span style="background-color:transparent">- Music and Art Celebrate!</span><br><span style="background-color:transparent">- Everyone Can Perform!</span><br></td>
+    <td class="tg-n9k0"></td>
   </tr>
   <tr>
-    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students Passionate in the Arts <br><br>Tier 2</span><br></td>
-    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">- Performing and Visual Arts CCAs </span><br><span style="background-color:transparent">- Unplugged Fridays</span><br><span style="background-color:transparent">- Art Exhibitions</span><br><span style="background-color:transparent">- Give back to community through VIA activities such as performances, teaching seniors an arts activity, combine-with- community efforts in arts making</span><br><br></td>
-    <td class="tg-n9k0"><span style="font-weight:bold;background-color:transparent">Performing and Visual Arts CCAs</span><span style="background-color:transparent"> </span><br><span style="background-color:transparent">- Art Club</span><br>- Choir<br><span style="background-color:transparent">- Drama Club</span><br>- Festive Drums<br><span style="background-color:transparent">- Guzheng</span><br><span style="background-color:transparent">- Modern Dance</span></td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For Anchorlites Passionate in the Arts</span><br></td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">As above, in addition, </span><br><br><span style="background-color:transparent">- Music and Art Celebrate!</span><br><br></td>
+    <td class="tg-n9k0"><br><span style="background-color:transparent">- Performing and Visual Arts CCAs </span><br><span style="background-color:transparent">- Unplugged Fridays</span><br><span style="background-color:transparent">- Art Exhibitions</span><br><span style="background-color:transparent">- Give back to community through VIA activities such as performances, teaching seniors an arts activity, combine-with- community efforts in arts making</span><br><br></td>
+    <td class="tg-n9k0"><br><span style="font-weight:bold;background-color:transparent">Performing and Visual Arts CCAs</span><span style="background-color:transparent"> </span><br><span style="background-color:transparent">- Art Club</span><br>- Choir<br><span style="background-color:transparent">- Drama Club</span><br>- Festive Drums<br><span style="background-color:transparent">- Guzheng</span><br><span style="background-color:transparent">- Modern Dance</span></td>
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For Anchorlites with Arts Potential</span><br></td>
@@ -112,7 +111,7 @@ Say It Art Loud! is a platform for Anchorlites to showcase their artistic talent
 
 A first-time instrument playing stage experience for many Anchorlites, Everyone Can Perform! is a platform for every Anchorlite to have the opportunity to perform as a class a song, handchimes or ukulele piece amongst others, learnt during the music curriculum to be shared with others at assembly. Each class representative shares the class’s sentiments on at least one character value or competency they developed and the interesting fact they would like to share with their friends about their piece.  
 
-**Unplugged Fridays/Plugged-in Fridays **
+**Unplugged Fridays/Plugged-in Fridays**
 
 Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m. when conducted on the school grounds, anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child look out for the next SLS Unplugged Fridays and apply through the links provided.
  
