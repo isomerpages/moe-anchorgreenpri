@@ -83,9 +83,10 @@ Approach:
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students Passionate in the Arts <br><br>Tier 2</span><br></td>
-    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">- Performing and Visual Arts CCAs </span><br><span style="background-color:transparent">- Unplugged Fridays</span><br><span style="background-color:transparent">- Art Exhibitions</span><br><span style="background-color:transparent">- Give back to community through VIA activities such as performances, teaching seniors an arts activity, combine-with- community efforts in arts making</span><br><br></td>
-    <td class="tg-n9k0"><span style="font-weight:bold;background-color:transparent">Performing and Visual Arts CCAs</span><span style="background-color:transparent"> </span><br><span style="background-color:transparent">- Art Club</span><br>- Choir<br><span style="background-color:transparent">- Drama Club</span><br>- Festive Drums<br><span style="background-color:transparent">- Guzheng</span><br><span style="background-color:transparent">- Modern Dance</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;- Performing and Visual Arts CCAs at school events<br>&nbsp;&nbsp;- Unplugged Fridays/Plugged-in Fridays<br>&nbsp;&nbsp;- Art Exhibitions (eZine, ArtBeat, e-ArtBeat)</span><br><br> <span style="font-weight:bold;color:#000">Tier 3: Beyond School Community</span><br>&nbsp;&nbsp;-  Arts Outreach by P5<br>&nbsp;&nbsp;- Arts Charts participation at community events
+</td>
+    <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Arts Outreach by Performing and Visual Arts CCAs</span></td>
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For Anchorlites with Arts Potential</span><br></td>
