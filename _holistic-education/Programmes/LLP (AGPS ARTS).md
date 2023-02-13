@@ -25,22 +25,7 @@ We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Ad
 2.  Are encouraged to express their thoughts, form opinions and appreciate differing perspectives
 3.  Have an overall development of social skills (value diversity in ideas, confidence building)
 4.  Foster appreciation of Singapore cultural heritage
-5.  Strengthen understanding of own national identity and ethnic culture
-
-  
-
-### Pedagogy Approaches
-
-Pedagogical approaches and strategies selected develop each pupil in the appreciation of the Arts through the structured learning of the elements of art/music by direct experiences in listening, creating and performing music or seeing, expressing and appreciating art via an age appropriate, broad based 6 year arts experience programme that uses student centric pedagogical approach in teaching and learning.&nbsp;
-
-These include:  
-
-1.  Kodaly
-2.  Dalcroze Eurhythmics
-3.  Orff Schulwerk
-4.  Inquiry-based Approach involving visible Thinking (eg. See, Think, Wonder; Circle of viewpoints)
-
-  
+5.  Strengthen understanding of own national identity and ethnic culture  
 
 ### Key Programmes
 
