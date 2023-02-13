@@ -106,10 +106,12 @@ Everyone Can Perform! provides an opportunity for Anchorlites to take the stage 
 
 **Unplugged Fridays**
 
-Unplugged Fridays is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m., anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child collect an application form available at Ms Loraine Ong’s locker.  
+Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. It is meant for all who are interested to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments.
+
+Plugged-in Fridays is held online on Student Learning Space (SLS), and performances will be available for viewing from the 4th Friday of every month from January to October, after which Anchorlites will vote for their favourite performances. Selected ones from each month will be featured on the school's Facebook page. To further provide opportunities for every Anchorlite to be Advocates of the Arts, the best performances will be shortlisted to perform live for Unplugged Fridays! in school! 
 
 **Music and Art Celebrate!**
 
-A month-long celebration of all Performing and Visual Arts at AGPS involving assembly programmes, curriculum sessions, pre-assembly programmes, recess activities, art exhibitions and excursions. Arts is for Everyone!  
+Music and Art Celebrate! (MAC!) is an annual Aesthetics event that exposes the school population to the Arts, uniting the school as one community as parents, staff and pupils share our passion or be drawn into other Anchorlites' love for the Art and Music. While the theme changes yearly, it always focuses on real-life application, i.e. Arts with a Purpose - the role of the arts, the role of the artists and artistes as well as the role of their art and music works. Students have learnt and will continue to learn how Art and Music are two of the many ways to influence people’s behaviours and beliefs, and that artists and musicians through their artworks and songs on sustainability can inspire, recruit, and explain their positions. 
 
 Through the opportunities of learning and engagement in the Arts,&nbsp;**A.G.P.S. Arts Programme**&nbsp;strives to Nurture Talents, Develop Character and Groom pupils to be Leaders so that Anchorlites can contribute to the community, in line with the school motto of Aspire, Grow and Serve.
