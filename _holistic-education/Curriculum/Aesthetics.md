@@ -62,7 +62,7 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-3yc9">Pupils<br></th>
+    <th class="tg-3yc9">Anchorlites<br></th>
     <th class="tg-3yc9">ENGAGE &amp; EXPERIENCE<br>(Curriculum)<br></th>
     <th class="tg-3yc9">EXCITE<br><span style="background-color:transparent">(Arts Appreciation Series @AGPS) </span><br></th>
     <th class="tg-3yc9">ENRICH<br><span style="background-color:transparent">(Learning Journeys)</span></th>
