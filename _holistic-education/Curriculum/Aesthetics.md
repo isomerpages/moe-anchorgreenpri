@@ -70,7 +70,7 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For All Anchorlites</span><br></td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">**Mass<br>Tier 1**</span><br></td>
     <td class="tg-n9k0"><br><span style="background-color:transparent">- Art Curriculum </span><br><span style="background-color:transparent">- Music Curriculum </span><br></td>
     <td class="tg-n9k0"><br><span style="background-color:transparent">- Art Curriculum (Think It Art Loud, Talk It Art Loud!)</span><br><span style="background-color:transparent">- Music Curriculum (group performances) </span><br><span style="background-color:transparent">- NAC Assembly Programmes</span><br><span style="background-color:transparent">- Music and Art Celebrate!</span><br><span style="background-color:transparent">- Everyone Can Perform!</span><br></td>
     <td class="tg-n9k0"></td>
