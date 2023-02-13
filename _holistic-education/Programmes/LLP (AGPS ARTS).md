@@ -98,13 +98,13 @@ Approach:
 
 **Say It Art Loud!**
 
-Say It Art Loud! is a platform for Anchorlites to showcase their artistic talents and share their ideas, thoughts, opinions and perspectives with fellow Anchorlites clearly and confidently during Assembly.  
+Say It Art Loud! is an Art sharing platform meant for anyone who is passionate about Art and is excited to share with others about their ideas and artwork. All Anchorlites, family members, as well as staff of AGPS are most welcome to share their passion in art through this termly platform. Say It Art Loud! aims to provide our budding artists the opportunity to share their art experiences with their peers and thus, boosting their confidence.
 
 **Everyone Can Perform!**
 
-A first-time instrument playing stage experience for many Anchorlites, Everyone Can Perform! is a platform for every Anchorlite to have the opportunity to perform as a class a song, handchimes or ukulele piece amongst others, learnt during the music curriculum to be shared with others at assembly. Each class representative shares the class’s sentiments on at least one character value or competency they developed and the interesting fact they would like to share with their friends about their piece.  
+Everyone Can Perform! provides an opportunity for Anchorlites to take the stage together as a class to perform on the Guzheng, Ukulele and Ethnic percussion instruments during recess. Through Everyone Can Perform!, Anchorlites get the opportunity to showcase and share what they have learnt during the instrumental programmes - in terms of character values, interesting facts and reflections on the preparation journey for the class performance. 
 
-**Unplugged Fridays**&nbsp;
+**Unplugged Fridays**
 
 Unplugged Fridays is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m., anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child collect an application form available at Ms Loraine Ong’s locker.  
 
