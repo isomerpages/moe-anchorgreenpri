@@ -73,7 +73,8 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
     <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Mass<br><br>Tier 1</span><br></td>
 <td class="tg-n9k0"><span style="background-color:transparent">Awareness and Appreciation/Engage and Experience (AE) Modules<br>&nbsp;&nbsp;-	Art Curriculum<br>&nbsp;&nbsp;-	Music Curriculum</span><br></td>
 		<td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 1: Within Class<br></span><span style="background-color:transparent">&nbsp;&nbsp;- Art Curriculum (Think It Art Loud, Talk It Art Loud!)<br>&nbsp;&nbsp;- Music Curriculum (Performances)<br>&nbsp;&nbsp; - Music and Art Celebrate!<br><br><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-	ACE Card (P2 – P6)<br>&nbsp;&nbsp;- NAC Assembly Programmes<br>&nbsp;&nbsp;- Everyone Can Perform&nbsp;&nbsp;<br>&nbsp;&nbsp;-	D-cube</span></span></td>
-    <td class="tg-n9k0"></td>
+    <td class="tg-n9k0">&nbsp;&nbsp;-	P4 Museum-Based Learning Journey<br>&nbsp;&nbsp;-	P6 Performing Arts Learning Journey<br> (e.g. Front of House@Esplanade)
+</td>
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For Anchorlites Passionate in the Arts</span><br></td>
