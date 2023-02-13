@@ -62,8 +62,6 @@ Adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enric
 
 Arts platforms that support to this end include Say It Art Loud!, Everyone Can Perform!,Unplugged Fridays and the month long celebration of the arts, Music &amp; Art Celebrate! (MAC!).
 
-Approach:
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -108,21 +106,19 @@ Approach:
 
 **Say It Art Loud!**
 
-Say It Art Loud! is an Art sharing platform meant for anyone who is passionate about Art and is excited to share with others about their ideas and artwork. All Anchorlites, family members, as well as staff of AGPS are most welcome to share their passion in art through this termly platform. Say It Art Loud! aims to provide our budding artists the opportunity to share their art experiences with their peers and thus, boosting their confidence.
+Say It Art Loud! is a platform for Anchorlites to showcase their artistic talents and share their ideas, thoughts, opinions and perspectives with fellow Anchorlites clearly and confidently during Assembly.
 
 **Everyone Can Perform!**
 
-Everyone Can Perform! provides an opportunity for Anchorlites to take the stage together as a class to perform on the Guzheng, Ukulele and Ethnic percussion instruments during recess. Through Everyone Can Perform!, Anchorlites get the opportunity to showcase and share what they have learnt during the instrumental programmes - in terms of character values, interesting facts and reflections on the preparation journey for the class performance.  
+A first-time instrument playing stage experience for many Anchorlites, Everyone Can Perform! is a platform for every Anchorlite to have the opportunity to perform as a class a song, handchimes or ukulele piece amongst others, learnt during the music curriculum to be shared with others at assembly. Each class representative shares the class’s sentiments on at least one character value or competency they developed and the interesting fact they would like to share with their friends about their piece.  
 
-**Unplugged Fridays/Plugged-in Fridays **&nbsp;
+**Unplugged Fridays/Plugged-in Fridays **
 
-Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. It is meant for all who are interested to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments.
-
-Plugged-in Fridays is held online on Student Learning Space (SLS), and performances will be available for viewing from the 4th Friday of every month from January to October, after which Anchorlites will vote for their favourite performances. Selected ones from each month will be featured on the school's Facebook page. To further provide opportunities for every Anchorlite to be Advocates of the Arts, the best performances will be shortlisted to perform live for Unplugged Fridays! in school! 
+Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m. when conducted on the school grounds, anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child look out for the next SLS Unplugged Fridays and apply through the links provided.
  
 
 **Music and Art Celebrate!**
 
-Music and Art Celebrate! (MAC!) is an annual Aesthetics event that exposes the school population to the Arts, uniting the school as one community as parents, staff and pupils share our passion or be drawn into other Anchorlites' love for the Art and Music. While the theme changes yearly, it always focuses on real-life application, i.e. Arts with a Purpose - the role of the arts, the role of the artists and artistes as well as the role of their art and music works. Students have learnt and will continue to learn how Art and Music are two of the many ways to influence people’s behaviours and beliefs, and that artists and musicians through their artworks and songs on sustainability can inspire, recruit, and explain their positions.
+A month-long celebration of all Performing and Visual Arts at AGPS involving assembly programmes, curriculum sessions, pre-assembly programmes, recess activities, art exhibitions and excursions. Arts is for Everyone!
 
 Through the opportunities of learning and engagement in the Arts,&nbsp;**A.G.P.S. Arts Programme**&nbsp;strives to Nurture Talents, Develop Character and Groom pupils to be Leaders so that Anchorlites can contribute to the community, in line with the school motto of Aspire, Grow and Serve.
