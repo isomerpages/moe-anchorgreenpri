@@ -78,7 +78,7 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students Passionate in the Arts <br><br>Tier 2</span><br></td>
-    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">As above, in addition, </span><br><br><span style="background-color:transparent">- Music and Art Celebrate!</span><br><br></td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
     <td class="tg-n9k0"><br><span style="background-color:transparent">- Performing and Visual Arts CCAs </span><br><span style="background-color:transparent">- Unplugged Fridays</span><br><span style="background-color:transparent">- Art Exhibitions</span><br><span style="background-color:transparent">- Give back to community through VIA activities such as performances, teaching seniors an arts activity, combine-with- community efforts in arts making</span><br><br></td>
     <td class="tg-n9k0"><br><span style="font-weight:bold;background-color:transparent">Performing and Visual Arts CCAs</span><span style="background-color:transparent"> </span><br><span style="background-color:transparent">- Art Club</span><br>- Choir<br><span style="background-color:transparent">- Drama Club</span><br>- Festive Drums<br><span style="background-color:transparent">- Guzheng</span><br><span style="background-color:transparent">- Modern Dance</span></td>
   </tr>
