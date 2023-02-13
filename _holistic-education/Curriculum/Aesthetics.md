@@ -50,6 +50,9 @@ Adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enric
 
 Arts platforms that support to this end include Say It Art Loud!, Everyone Can Perform!,Unplugged Fridays and the month long celebration of the arts, Music &amp; Art Celebrate! (MAC!).
 
+Approach:
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -79,8 +82,8 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
   <tr>
     <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students Passionate in the Arts <br><br>Tier 2</span><br></td>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
-    <td class="tg-n9k0"><br><span style="background-color:transparent">- Performing and Visual Arts CCAs </span><br><span style="background-color:transparent">- Unplugged Fridays</span><br><span style="background-color:transparent">- Art Exhibitions</span><br><span style="background-color:transparent">- Give back to community through VIA activities such as performances, teaching seniors an arts activity, combine-with- community efforts in arts making</span><br><br></td>
-    <td class="tg-n9k0"><br><span style="font-weight:bold;background-color:transparent">Performing and Visual Arts CCAs</span><span style="background-color:transparent"> </span><br><span style="background-color:transparent">- Art Club</span><br>- Choir<br><span style="background-color:transparent">- Drama Club</span><br>- Festive Drums<br><span style="background-color:transparent">- Guzheng</span><br><span style="background-color:transparent">- Modern Dance</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">- Performing and Visual Arts CCAs </span><br><span style="background-color:transparent">- Unplugged Fridays</span><br><span style="background-color:transparent">- Art Exhibitions</span><br><span style="background-color:transparent">- Give back to community through VIA activities such as performances, teaching seniors an arts activity, combine-with- community efforts in arts making</span><br><br></td>
+    <td class="tg-n9k0"><span style="font-weight:bold;background-color:transparent">Performing and Visual Arts CCAs</span><span style="background-color:transparent"> </span><br><span style="background-color:transparent">- Art Club</span><br>- Choir<br><span style="background-color:transparent">- Drama Club</span><br>- Festive Drums<br><span style="background-color:transparent">- Guzheng</span><br><span style="background-color:transparent">- Modern Dance</span></td>
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For Anchorlites with Arts Potential</span><br></td>
