@@ -92,7 +92,7 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 
 **Say It Art Loud!**
 
-Say It Art Loud! is a platform for Anchorlites to showcase their artistic talents and share their ideas, thoughts, opinions and perspectives with fellow Anchorlites clearly and confidently during Assembly.  
+Say It Art Loud! is an Art sharing platform meant for anyone who is passionate about Art and is excited to share with others about their ideas and artwork. All Anchorlites, family members, as well as staff of AGPS are most welcome to share their passion in art through this termly platform. Say It Art Loud! aims to provide our budding artists the opportunity to share their art experiences with their peers and thus, boosting their confidence.
 
 **Everyone Can Perform!**
 
