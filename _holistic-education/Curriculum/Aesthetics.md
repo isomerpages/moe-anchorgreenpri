@@ -27,21 +27,6 @@ We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Ad
 4.  Foster appreciation of Singapore cultural heritage
 5.  Strengthen understanding of own national identity and ethnic culture
 
-  
-
-### Pedagogy Approaches
-
-Pedagogical approaches and strategies selected develop each pupil in the appreciation of the Arts through the structured learning of the elements of art/music by direct experiences in listening, creating and performing music or seeing, expressing and appreciating art via an age appropriate, broad based 6 year arts experience programme that uses student centric pedagogical approach in teaching and learning.&nbsp;
-
-These include:  
-
-1.  Kodaly
-2.  Dalcroze Eurhythmics
-3.  Orff Schulwerk
-4.  Inquiry-based Approach involving visible Thinking (eg. See, Think, Wonder; Circle of viewpoints)
-
-  
-
 ### Key Programmes
 
 The experiences extend from the school’s art and music curriculum as an exposure for all, to Anchorlites who are passionate in the arts and those in Performing and Visual Arts CCAs.  
@@ -111,11 +96,14 @@ Say It Art Loud! is a platform for Anchorlites to showcase their artistic talent
 
 **Everyone Can Perform!**
 
-A first-time instrument playing stage experience for many Anchorlites, Everyone Can Perform! is a platform for every Anchorlite to have the opportunity to perform as a class a song, handchimes or ukulele piece amongst others, learnt during the music curriculum to be shared with others at assembly. Each class representative shares the class’s sentiments on at least one character value or competency they developed and the interesting fact they would like to share with their friends about their piece.  
+Everyone Can Perform! provides an opportunity for Anchorlites to take the stage together as a class to perform on the Guzheng, Ukulele and Ethnic percussion instruments during recess. Through Everyone Can Perform!, Anchorlites get the opportunity to showcase and share what they have learnt during the instrumental programmes - in terms of character values, interesting facts and reflections on the preparation journey for the class performance.  
 
 **Unplugged Fridays/Plugged-in Fridays **&nbsp;
 
-Unplugged Fridays/Plugged-in Fridays(online)  is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m. when conducted on the school grounds, anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child look out for the next SLS Unplugged Fridays and apply through the links provided.  
+Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. It is meant for all who are interested to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments.
+
+Plugged-in Fridays is held online on Student Learning Space (SLS), and performances will be available for viewing from the 4th Friday of every month from January to October, after which Anchorlites will vote for their favourite performances. Selected ones from each month will be featured on the school's Facebook page. To further provide opportunities for every Anchorlite to be Advocates of the Arts, the best performances will be shortlisted to perform live for Unplugged Fridays! in school! 
+ 
 
 **Music and Art Celebrate!**
 
