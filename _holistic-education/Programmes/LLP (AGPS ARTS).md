@@ -51,6 +51,9 @@ Adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enric
 Arts platforms that support to this end include Say It Art Loud!, Everyone Can Perform!,Unplugged Fridays and the month long celebration of the arts, Music &amp; Art Celebrate! (MAC!).
 
 Approach:
+![](/images/Programmes/LLP_01.png)
+<br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
