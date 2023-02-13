@@ -27,20 +27,17 @@ We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Ad
 4.  Foster appreciation of Singapore cultural heritage
 5.  Strengthen understanding of own national identity and ethnic culture
 
-  
-
 ### Pedagogy Approaches
 
 Pedagogical approaches and strategies selected develop each pupil in the appreciation of the Arts through the structured learning of the elements of art/music by direct experiences in listening, creating and performing music or seeing, expressing and appreciating art via an age appropriate, broad based 6 year arts experience programme that uses student centric pedagogical approach in teaching and learning.&nbsp;
 
-These include:  
+These include:
 
 1.  Kodaly
 2.  Dalcroze Eurhythmics
 3.  Orff Schulwerk
 4.  Inquiry-based Approach involving visible Thinking (eg. See, Think, Wonder; Circle of viewpoints)
 
-  
 
 ### Key Programmes
 
@@ -64,6 +61,7 @@ includes a wide range of experiences in the Arts that comprises the following ar
 Adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enrich Approach that aims to create a vibrant arts culture that provides pupils with the opportunity to develop his potential in the arts, develop his positive character and values and groom his leadership competencies so that he may grow to be a Lifelong Learner and Lifelong Advocate of the Arts.&nbsp;
 
 Arts platforms that support to this end include Say It Art Loud!, Everyone Can Perform!,Unplugged Fridays and the month long celebration of the arts, Music &amp; Art Celebrate! (MAC!).
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -107,18 +105,19 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 
 **Say It Art Loud!**
 
-Say It Art Loud! is a platform for Anchorlites to showcase their artistic talents and share their ideas, thoughts, opinions and perspectives with fellow Anchorlites clearly and confidently during Assembly.  
+Say It Art Loud! is a platform for Anchorlites to showcase their artistic talents and share their ideas, thoughts, opinions and perspectives with fellow Anchorlites clearly and confidently during Assembly.
 
 **Everyone Can Perform!**
 
 A first-time instrument playing stage experience for many Anchorlites, Everyone Can Perform! is a platform for every Anchorlite to have the opportunity to perform as a class a song, handchimes or ukulele piece amongst others, learnt during the music curriculum to be shared with others at assembly. Each class representative shares the class’s sentiments on at least one character value or competency they developed and the interesting fact they would like to share with their friends about their piece.  
 
-**Unplugged Fridays/Plugged-in Fridays **&nbsp;
+**Unplugged Fridays/Plugged-in Fridays**
 
-Unplugged Fridays/Plugged-in Fridays(online)  is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m. when conducted on the school grounds, anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child look out for the next SLS Unplugged Fridays and apply through the links provided.  
+Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m. when conducted on the school grounds, anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child look out for the next SLS Unplugged Fridays and apply through the links provided.
+ 
 
 **Music and Art Celebrate!**
 
-A month-long celebration of all Performing and Visual Arts at AGPS involving assembly programmes, curriculum sessions, pre-assembly programmes, recess activities, art exhibitions and excursions. Arts is for Everyone!  
+A month-long celebration of all Performing and Visual Arts at AGPS involving assembly programmes, curriculum sessions, pre-assembly programmes, recess activities, art exhibitions and excursions. Arts is for Everyone!
 
 Through the opportunities of learning and engagement in the Arts,&nbsp;**A.G.P.S. Arts Programme**&nbsp;strives to Nurture Talents, Develop Character and Groom pupils to be Leaders so that Anchorlites can contribute to the community, in line with the school motto of Aspire, Grow and Serve.
