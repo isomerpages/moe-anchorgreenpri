@@ -107,6 +107,6 @@ Plugged-in Fridays is held online on Student Learning Space (SLS), and performan
 
 **Music and Art Celebrate!**
 
-A month-long celebration of all Performing and Visual Arts at AGPS involving assembly programmes, curriculum sessions, pre-assembly programmes, recess activities, art exhibitions and excursions. Arts is for Everyone!  
+Music and Art Celebrate! (MAC!) is an annual Aesthetics event that exposes the school population to the Arts, uniting the school as one community as parents, staff and pupils share our passion or be drawn into other Anchorlites' love for the Art and Music. While the theme changes yearly, it always focuses on real-life application, i.e. Arts with a Purpose - the role of the arts, the role of the artists and artistes as well as the role of their art and music works. Students have learnt and will continue to learn how Art and Music are two of the many ways to influence people’s behaviours and beliefs, and that artists and musicians through their artworks and songs on sustainability can inspire, recruit, and explain their positions.
 
 Through the opportunities of learning and engagement in the Arts,&nbsp;**A.G.P.S. Arts Programme**&nbsp;strives to Nurture Talents, Develop Character and Groom pupils to be Leaders so that Anchorlites can contribute to the community, in line with the school motto of Aspire, Grow and Serve.
