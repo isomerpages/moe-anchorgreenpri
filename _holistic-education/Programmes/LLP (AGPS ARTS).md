@@ -89,7 +89,7 @@ Approach:
     <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Arts Outreach by Performing and Visual Arts CCAs</span></td>
   </tr>
   <tr>
-    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">For Anchorlites with Arts Potential</span><br></td>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students with Arts Potential<br><br>Tier 2+/3</span><br></td>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">As above</span><br><br></td>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">As above, in addition,</span><br><span style="font-weight:bold;background-color:transparent">Say It Art Loud! </span><br><span style="font-weight:bold;background-color:transparent">Art Exhibitions</span><span style="background-color:transparent"> </span><br><span style="font-weight:bold;background-color:transparent">SYF Arts Presentation in: </span><br><span style="background-color:transparent">- Art </span><br><span style="background-color:transparent">- Choir </span><br><span style="background-color:transparent">- Guzheng </span><br><span style="background-color:transparent">- Modern Dance </span><br></td>
     <td class="tg-n9k0"><span style="font-weight:normal;color:#000">As above, in addition,</span><br><br><br><span style="background-color:transparent">- Department-organised Learning Journeys for Anchorlites with Arts Potential and those in Performing and visual Arts CCAs </span></td>
