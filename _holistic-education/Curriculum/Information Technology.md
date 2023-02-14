@@ -7,19 +7,19 @@ third_nav_title: Curriculum
 Information Technology
 ======================
 
-### Focus
+### Mission
 
-The ICT department’s focus is to nurture our pupils to become ICT literate, self-directed and collaborative learners.
+To equip every Anchorlite (staff and students) with the necessary ICT skills so as to be future-ready in the rapid-changing world.
 
   
 
-### Objectives
+### Beliefs
 
-The ICT department aims to develop pupils:
-
-*   To be a self-directed and collaborative learner in ICT
-*   To be a responsible user of ICT
-*   To be an effective and a proficient user of ICT tools
+•	Every Anchorlite (staff and students) to be given equal opportunity to learn ICT skills<br>
+•	ICT increases efficiency (Administrative)<br>
+•	Tapping on the affordances of ICT where necessary<br>
+•	Engage students through the use of ICT in teaching and learning<br>
+•	Transfer of learning (staff to staff & staff to students)<br>
 
   
 
