@@ -31,18 +31,6 @@ To equip every Anchorlite (staff and students) with the necessary ICT skills so 
 •	Using Google Classroom for IPW (P3 – P5)
 
 
-<img style="width:70%" src="/images/Curriculum/ICT/Pupils%20collaborating%20in%20preparation%20for%20their%20Project%20Work%20Presentation.jpg">
-
-Pupils collaborating in preparation for their Project Work Presentation.
-
-<img style="width:70%" src="/images/Curriculum/ICT/Pupils%20in%20Action%20during%20the%20Project%20Work%20Exhibition%20Day.jpg">
-
-Pupils in Action during the Project Work Exhibition Day!
-
-<img style="width:70%" src="/images/Curriculum/ICT/Pupils%20are%20having%20fun%20during%20the%20Cyberwellness%20Trails.jpg">
-
-Pupils are having fun during the Cyberwellness Trails.
-
-<img style="width:70%" src="/images/Curriculum/ICT/Learning%20can%20be%20anywhere,%20anytime.jpg">
-
-Learning can be anywhere, anytime!
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/z3vu7NwxO1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
