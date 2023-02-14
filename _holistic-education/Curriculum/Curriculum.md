@@ -13,7 +13,7 @@ third_nav_title: Curriculum
 </a></th></tr></thead><tbody>
   <tr>
     <td><a rel="noopener noreferrer" href="/holistic-education/curriculum/mother-tongue"><img height="300" width="400" alt="Mother Tongue" src="/images/Curriculum/Menu%20Grid/Mother%20Tongue.jpg">
-    </a></td><td><a rel="noopener noreferrer"  href="/holistic-education/curriculum/information-technology"><img height="300" width="400" alt="Information Technology" src="/images/Curriculum/Menu%20Grid/Information%20Technology.jpg">
+    </a></td><td><a rel="noopener noreferrer"  href="/holistic-education/curriculum/ict"><img height="300" width="400" alt="Information Technology" src="/images/Curriculum/Menu%20Grid/ICT.jpg">
     </a></td><td><a rel="noopener noreferrer" href="/holistic-education/curriculum/social-studies"><img height="300" width="400" alt="Social Studies" src="/images/Curriculum/Menu%20Grid/Social%20Studies.jpg">
   </a></td></tr><tr>
     <td><a rel="noopener noreferrer" href="/holistic-education/curriculum/physical-education"><img height="300" width="400" alt="Physical Education" src="/images/Curriculum/Menu%20Grid/Physical%20Education.jpg">

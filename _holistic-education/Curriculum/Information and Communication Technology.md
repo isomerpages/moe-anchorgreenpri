@@ -1,9 +1,10 @@
 ---
-title: Information Technology
-permalink: /holistic-education/curriculum/information-technology/
+title: Information and Communication Technology
+permalink: /holistic-education/curriculum/ict/
 description: ""
 third_nav_title: Curriculum
 ---
+
 Information Technology
 ======================
 
