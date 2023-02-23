@@ -5,15 +5,6 @@ description: ""
 ---
 Announcements
 =============
-### MK Open House <br> 18 February 2023 
-#### <a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/mk-open-house/">**Come, Join Us!**</a>
-9 am - 11am<br>
-11 am - 1pm<br>
-Welcome to MK @ Anchor Green!<br>
-We believe in a strong start for
-every child. <br>Join us to find out
-more about the holistic curriculum,
-facilities and environment we offer.
 
 ### P1 Orientation 2023
 
