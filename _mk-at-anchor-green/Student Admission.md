@@ -3,7 +3,7 @@ title: Student Admission
 permalink: /mk-at-anchor-green/student-adnission/
 description: ""
 ---
-Parent who wish to enrol their child in MK@ Anchor Green after the K1 registration will be required to fill up the waitlist form for consideration.
+Parent who wish to enrol their child in MK@ Anchor Green after the K1 registration will be required to fill up the waitlist form below for consideration.
 
 <div
   style="
@@ -37,6 +37,3 @@ Parent who wish to enrol their child in MK@ Anchor Green after the K1 registrati
 >
   Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
 </div>
-
-				
-				
