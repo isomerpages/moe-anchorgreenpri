@@ -24,6 +24,9 @@ Resources for Parents
 <img src="/images/Resources/Logo/myON.jpg" style="width:40%">
 <a target="_blank" href="https://myon.sg">myON</a>
 <br><br>
+<img src="/images/Resources/Logo/eZhishi.jpg" style="width:40%">
+<a target="_blank" href="https://www.ezhishi.net">eZhishi</a>
+<br><br>
 <img src="/images/Resources/Logo/SchoolBag.png" style="width:40%">
 <a target="_blank" href="https://www.schoolbag.edu.sg/">School Bag</a>
 <br><br>
