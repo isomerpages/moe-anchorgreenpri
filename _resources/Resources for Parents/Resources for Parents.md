@@ -22,7 +22,7 @@ Resources for Parents
 <a target="_blank" href="https://www.koobits.com">Koobits</a>
 <br><br>
 <img src="/images/Resources/Logo/myON.jpg" style="width:40%">
-<a target="_blank">myON</a>
+<a target="_blank" href="https://myon.sg">myON</a>
 <br><br>
 <img src="/images/Resources/Logo/SchoolBag.png" style="width:40%">
 <a target="_blank" href="https://www.schoolbag.edu.sg/">School Bag</a>
