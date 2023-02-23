@@ -9,7 +9,7 @@ Resources for Parents
 
 ### Websites & Links
 
-<img style="width:60%" src="/images/Resources/Logo/MOE%20Kindergarten.jpg">
+<img style="width:40%" src="/images/Resources/Logo/MOE%20Kindergarten.jpg">
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target=_blank>MOE Kindergarten</a>
 <br><br>
 <img style="width:40%" src="/images/Resources/Logo/SLS_new.png">
