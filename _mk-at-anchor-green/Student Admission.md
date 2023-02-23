@@ -16,7 +16,7 @@ Parent who wish to enrol their child in MK@ Anchor Green after the K1 registrati
   "
 >
   If the form below is not loaded, you can also fill it in at
-  <a href="https://form.gov.sg/63d340d8b9029d0011b9364f">here</a>.
+  <a href="https://form.gov.sg/63d340d8b9029d0011b9364f" target=_blank>here</a>.
 </div>
 
 <!-- Change the width and height values to suit you best -->
