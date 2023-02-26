@@ -1,9 +1,10 @@
 ---
-title: Senior and Lead Teachers
-permalink: /about-us/staff/senior-and-lead-teachers/
+title: Senior Teachers
+permalink: /about-us/staff/senior-teachers/
 description: ""
 third_nav_title: Staff
 ---
+
 Senior and Lead Teachers
 ==================
 <br>

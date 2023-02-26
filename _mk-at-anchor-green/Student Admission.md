@@ -1,8 +1,9 @@
 ---
 title: Student Admission
-permalink: /mk-at-anchor-green/student-adnission/
+permalink: /mk-at-anchor-green/student-admission/
 description: ""
 ---
+
 Parent who wish to enrol their child in MK@ Anchor Green after the K1 registration will be required to fill up the waitlist form below for consideration.
 
 <div
