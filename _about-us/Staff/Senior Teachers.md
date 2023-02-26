@@ -4,8 +4,7 @@ permalink: /about-us/staff/senior-teachers/
 description: ""
 third_nav_title: Staff
 ---
-
-Senior and Lead Teachers
+Senior Teachers
 ==================
 <br>
 
