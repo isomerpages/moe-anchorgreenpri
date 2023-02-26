@@ -32,7 +32,7 @@ LSM and LSP Teachers
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Risnawaty Baharudin</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Learning Support<br>
-(Mathematics)</span></td>
+(Mathematics and English)</span></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:risnawaty_baharudin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">risnawaty_baharudin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
