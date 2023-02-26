@@ -48,7 +48,6 @@ LSM and LSP Teachers
 (Mathematics)</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ho_le_lian@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
 		  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Wong Meng Yean</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Learning Support<br>
