@@ -3,7 +3,7 @@ title: P1 Orientation
 permalink: /faq/p1-oriemntation/
 description: ""
 ---
-**<u>P1 Orientation</u>**<br>
+**<u>FAQ on P1 Orientation</u>**<br>
 
 **1. When is the P1 Orientation? May I have the details and timing?**<br>
 P1 orientation is scheduled on 3 Jan 2022.<br>
