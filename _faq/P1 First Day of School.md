@@ -3,7 +3,7 @@ title: P1 First Day of School
 permalink: /faq/p1-first-day/
 description: ""
 ---
-**<u>P1 First Day of School</u>**<br>
+**<u>FAQ on P1 First Day of School</u>**<br>
 
 **1. What must my child bring on the first day of school?**<br>
 You may find out more details here, pls refer to slides 18 and 19 of Primary 1 Orientation –
