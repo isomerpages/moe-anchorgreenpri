@@ -2,4 +2,5 @@ collections:
   faq:
     output: true
     order:
+      - P1 First Day of School.md
       - P1 Orientation.md
