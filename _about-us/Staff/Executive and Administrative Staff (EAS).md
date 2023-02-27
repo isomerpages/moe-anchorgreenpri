@@ -99,16 +99,6 @@ Executive & Administrative Staff (EAS)
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
-		<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Phua Cheen Seng</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Desktop Engineer</span><br></td>
-    <td class="tg-fskk"></td>
-  </tr>
-	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Hanif Bin Nazaruddin</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Desktop Engineer</span><br></td>
-    <td class="tg-fskk"></td>
-  </tr>
 	<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chan Feng Juan Ivy</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Dental Therapist</span><br></td>

@@ -1,7 +1,9 @@
 ---
 title: FAQ
 permalink: /faq/
+description: ""
 ---
+
 ### **FAQ for Anchor Green Primary School**
 
 **<u>P1 Orientation</u>**<br>
