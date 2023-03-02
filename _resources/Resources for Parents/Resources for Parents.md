@@ -21,7 +21,7 @@ Resources for Parents
 <img src="/images/Resources/Logo/Koobits.jpg" style="width:30%">
 <a target="_blank" href="https://www.koobits.com">Koobits</a>
 <br><br>
-<img src="/images/Resources/Logo/AGPS_OPAC.jpg" style="width:30%"><br>
+<img src="/images/Resources/Logo/AGPS_OPAC.jpg" style="width:30%">
 <a target="_blank" href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">Anchor Green Primary School OPAC</a>
 <br><br>
 <img src="/images/Resources/Logo/myON.jpg" style="width:30%">
