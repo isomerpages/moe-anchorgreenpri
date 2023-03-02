@@ -8,7 +8,7 @@ Resources for Parents
 =====================
 
 ### Websites &amp; Links
-
+<center>
 <img src="/images/Resources/Logo/MOE%20Kindergarten.jpg" style="width:30%">
 <a target="_blank" href="https://www.moe.gov.sg/preschool/moe-kindergarten">MOE Kindergarten</a>
 <br><br>
@@ -38,3 +38,4 @@ Resources for Parents
 <br><br>
 <img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:30%">
 <a target="_blank" href="https://www.pacificbookstores.com/">Pacific Bookstores</a>
+	</center>
