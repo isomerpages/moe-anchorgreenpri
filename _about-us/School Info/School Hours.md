@@ -122,11 +122,11 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
   <tr>
     <td class="tg-vhpo">P3  &amp; P4</td>
     <td class="tg-vhpo" rowspan="2">Thursday</td>
-    <td class="tg-vhpo">12.15 p.m. to 1 p.m.</td>
+    <td class="tg-vhpo">1.30 p.m. to 2.20 p.m.</td>
   </tr>
   <tr>
     <td class="tg-v8f3">P5 &amp; P6</td>
-    <td class="tg-v8f3">1.15 p.m. to 2 p.m.</td>
+    <td class="tg-v8f3">12.40 p.m. to 1.30 p.m.</td>
   </tr>
 </tbody>
 </table>
