@@ -82,30 +82,19 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 </thead>
 <tbody>
   <tr>
-    <td class="tg-735f">P1</td>
+    <td class="tg-735f">P1 & P5</td>
     <td class="tg-tznj" rowspan="6">Monday to Friday</td>
-    <td class="tg-735f">9.45 a.m. to 10.15 a.m.</td>
+    <td class="tg-735f">9.10 a.m. to 9.40 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-569y">P2</td>
-    <td class="tg-569y">10.15 a.m. to 10.45 a.m.</td>
+    <td class="tg-569y">P2 & P6</td>
+    <td class="tg-569y">10.10 a.m. to 10.40 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-735f">P3</td>
-    <td class="tg-735f">8.45 a.m. to 9.15 a.m.</td>
+    <td class="tg-735f">P3 & P4</td>
+    <td class="tg-735f">11.10 a.m. to 11.40 a.m.</td>
   </tr>
-  <tr>
-    <td class="tg-569y">P4</td>
-    <td class="tg-569y">11.15 a.m. to 11.45 a.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-735f">P5</td>
-    <td class="tg-735f">10.45 a.m. to 11.15 a.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-569y">P6</td>
-    <td class="tg-569y">9.15 a.m. to 9.45 p.m.</td>
-  </tr>
+ 
 </tbody>
 </table>
 
