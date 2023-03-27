@@ -47,8 +47,8 @@ Primary 3 Teaching Staff
     <td class="tg-33ww"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Ang Gek Moi</span><br></td>
-    <td class="tg-g24l"><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_gek_moi@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Azna Abu Che</span><br></td>
+    <td class="tg-g24l"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Confidence</span></td>
@@ -69,14 +69,11 @@ Primary 3 Teaching Staff
     <td class="tg-g24l"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Aspiration</span></td>
+    <td class="tg-djmn" ><span style="color:#222;background-color:#FBFFFA">3 Aspiration</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen </span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Juliana Tan)</span><br></td>
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Chong Chee Wee</span><br></td>
-    <td class="tg-g24l"><a href="mailto:chong_chee_wee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chong_chee_wee@schools.gov.sg</span></a><br></td>
-  </tr>
+  
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Grace</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Ailing </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Isabel Ng)</span><br></td>

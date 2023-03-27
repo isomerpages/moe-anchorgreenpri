@@ -82,30 +82,19 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 </thead>
 <tbody>
   <tr>
-    <td class="tg-735f">P1</td>
+    <td class="tg-735f">P1 & P5</td>
     <td class="tg-tznj" rowspan="6">Monday to Friday</td>
-    <td class="tg-735f">9.45 a.m. to 10.15 a.m.</td>
+    <td class="tg-735f">9.10 a.m. to 9.40 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-569y">P2</td>
-    <td class="tg-569y">10.15 a.m. to 10.45 a.m.</td>
+    <td class="tg-569y">P2 & P6</td>
+    <td class="tg-569y">10.10 a.m. to 10.40 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-735f">P3</td>
-    <td class="tg-735f">8.45 a.m. to 9.15 a.m.</td>
+    <td class="tg-735f">P3 & P4</td>
+    <td class="tg-735f">11.10 a.m. to 11.40 a.m.</td>
   </tr>
-  <tr>
-    <td class="tg-569y">P4</td>
-    <td class="tg-569y">11.15 a.m. to 11.45 a.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-735f">P5</td>
-    <td class="tg-735f">10.45 a.m. to 11.15 a.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-569y">P6</td>
-    <td class="tg-569y">9.15 a.m. to 9.45 p.m.</td>
-  </tr>
+ 
 </tbody>
 </table>
 
@@ -133,11 +122,11 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
   <tr>
     <td class="tg-vhpo">P3  &amp; P4</td>
     <td class="tg-vhpo" rowspan="2">Thursday</td>
-    <td class="tg-vhpo">12.15 p.m. to 1 p.m.</td>
+    <td class="tg-vhpo">1.30 p.m. to 2.20 p.m.</td>
   </tr>
   <tr>
     <td class="tg-v8f3">P5 &amp; P6</td>
-    <td class="tg-v8f3">1.15 p.m. to 2 p.m.</td>
+    <td class="tg-v8f3">12.40 p.m. to 1.30 p.m.</td>
   </tr>
 </tbody>
 </table>
@@ -173,23 +162,23 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
   <tr>
     <td class="tg-2oxp" rowspan="2">1</td>
     <td class="tg-mu5c">Monday, Tuesday, Wednesday and Friday</td>
-    <td class="tg-2oxp">6.30 a.m. to 7.30 a.m.<br>1.00 p.m. to 1.45 p.m.</td>
+    <td class="tg-2oxp">6.30 a.m. to 7.30 a.m.<br>1.15 p.m. to 1.45 p.m.</td>
     <td class="tg-2oxp">Closed</td>
   </tr>
   <tr>
     <td class="tg-984z">Thursday (CCA for P3 to P6)</td>
-    <td class="tg-pe7e">6.30 a.m. to 7.30 a.m.<br>1.00 p.m. to 1.30 p.m.<br>4.15 p.m. to 4.45 p.m.</td>
+    <td class="tg-pe7e">6.30 a.m. to 7.30 a.m.<br>1.15 p.m. to 1.45 p.m.<br>4.15 p.m. to 4.45 p.m.</td>
     <td class="tg-tdcm">Closed</td>
   </tr>
   <tr>
     <td class="tg-2oxp" rowspan="2">3</td>
     <td class="tg-mu5c">Monday, Tuesday, Wednesday and Friday</td>
-    <td class="tg-ilhf">7.00 a.m. to 7.30 a.m.<br>1.00 p.m. to 1.45 p.m.</td>
+    <td class="tg-ilhf">7.00 a.m. to 7.30 a.m.<br>1.15 p.m. to 2.00 p.m.</td>
     <td class="tg-2oxp">Closed</td>
   </tr>
   <tr>
     <td class="tg-9jf1">Thursday (CCA for P3 to P6)</td>
-    <td class="tg-pe7e">7.00 a.m. to 7.30 a.m.<br>1.00 p.m. to 1.30 p.m.<br>4.15 p.m. to 4.45 p.m.</td>
+    <td class="tg-pe7e">7.00 a.m. to 7.30 a.m.<br>1.15 p.m. to 2.00 p.m.<br>4.15 p.m. to 4.45 p.m.</td>
     <td class="tg-tdcm">Closed</td>
   </tr>
   <tr>
