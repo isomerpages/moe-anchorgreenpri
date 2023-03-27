@@ -96,7 +96,11 @@ Primary 5 Teaching Staff
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span></td>
     <td class="tg-g24l"><a href="mailto:sun_yahui@schools.gov.sgg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
   </tr>
- 
+ 	<tr>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-33ww"></td>
+  </tr>
 
 </tbody>
 </table>
