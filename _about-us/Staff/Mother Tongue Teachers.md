@@ -78,20 +78,12 @@ Chinese Language Teachers
     <td class="tg-fskk"><a href="mailto:loh_siang_choo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loh_siang_choo@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Neoh Wee Ling</span></td>
-    <td class="tg-fskk"><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span></td>
     <td class="tg-fskk"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Pei Shan</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Teng Shu Jia Denise</span></td>
-    <td class="tg-fskk"><a href="mailto:teng_shu_jia_denise@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teng_shu_jia_denise@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
@@ -171,6 +163,9 @@ Tamil Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span></td>
     <td class="tg-fskk"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
- 
+   <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Uma Maheswari</span></td>
+    <td class="tg-fskk"><a href="mailto:uma_maheswari_velusamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">uma_maheswari_velusamy@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
 </tbody>
 </table>
