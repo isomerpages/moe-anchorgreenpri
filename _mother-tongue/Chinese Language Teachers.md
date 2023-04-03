@@ -6,8 +6,6 @@ description: ""
 Chinese Language Teachers
 =========================
 
-###
-
 <br>
 
 <style type="text/css">
