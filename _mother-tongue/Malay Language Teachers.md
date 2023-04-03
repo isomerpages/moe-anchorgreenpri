@@ -42,10 +42,7 @@ Malay Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz Jelaludin</span><br></td>
     <td class="tg-fskk"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Molyyati Binte Shahwan</span><br></td>
-    <td class="tg-fskk"><a href="mailto:molyyati_shahwan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">molyyati_shahwan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
-  </tr>
+
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Nur Syazwani Binte Shaibani</span></td>
     <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.s</span></a><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">g</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
