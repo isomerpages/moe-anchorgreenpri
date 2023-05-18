@@ -40,4 +40,4 @@ terminate their conversation with you.**
 
 ##### Send us your feedback
 
-If you have a query, feedback or wish to report a problem related to this website, please fill in the&nbsp;[online form](https://go.gov.sg/agps-service-feedback).
+If you have a query, feedback or wish to report a problem related to this website, please fill in the&nbsp; 
