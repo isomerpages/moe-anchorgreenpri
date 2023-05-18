@@ -17,7 +17,7 @@ terminate their conversation with you.**
 
 ##### **Anchor Green Primary School**
 
-31, Anchorvale Drive Singapore 544969<br>
+31 Anchorvale Drive Singapore 544969<br>
 <a href="https://maps.google.com/maps?q=31,+Anchorvale+Drive++Singapore+544969+" target="_blank">VIEW MAP</a><br>
 [+65 6886 1356](tel:+6568861356) (Tel) &nbsp; &nbsp;&nbsp; +65 6315 9825 (Fax)<br>
 [anchorgreen_ps@moe.edu.sg](mailto:anchorgreen_ps@moe.edu.sg)
@@ -28,7 +28,7 @@ terminate their conversation with you.**
 **Fri**:&nbsp;7.00am - 5.00pm  
 
 ##### **MOE Kindergarten @Anchor Green**
-31, Anchorvale Drive Singapore 544969 <br>
+31 Anchorvale Drive Singapore 544969 <br>
 <a href="https://maps.google.com/maps?q=31,+Anchorvale+Drive++Singapore+544969+" target="_blank">VIEW MAP</a><br>
 [+65 6886 1356](tel:+6568861356) (Tel) &nbsp; &nbsp;&nbsp;+65 6315 9825 (Fax)<br>
 [mk_anchorgreen@moe.edu.sg](mailto:mk_anchorgreen@moe.edu.sg)<br>
