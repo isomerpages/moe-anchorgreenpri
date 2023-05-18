@@ -6,7 +6,7 @@ description: ""
 # Get in touch with <br> **Anchor Green Primary School**
 
 **We are committed to serve you to the best of our abilities.<br>
-With mutual courtesy and respect, you can help us to serve you better.***
+With mutual courtesy and respect, you can help us to serve you better.**
  
 **We do not tolerate any type of abuse within the workplace premises.<br>
 In the event of any verbal or physical abuse, our staff shall immediately 
