@@ -20,7 +20,7 @@ terminate their conversation with you.**
 31, Anchorvale Drive Singapore 544969 <br>
  <a href="https://maps.google.com/maps?q=31,+Anchorvale+Drive++Singapore+544969+" target="_blank">VIEW MAP</a><br>
 [VIEW MAP](https://maps.google.com/maps?q=31,+Anchorvale+Drive++Singapore+544969+)<br>
-[+65 6886 1356](tel:+6568861356) (Tel) &nbsp; &nbsp;&nbsp; [+65 6315 9825](tel:+6315 9825) (Fax)<br>
+[+65 6886 1356](tel:+6568861356) (Tel) &nbsp; &nbsp;&nbsp; +65 6315 9825 (Fax)<br>
 [anchorgreen_ps@moe.edu.sg](mailto:anchorgreen_ps@moe.edu.sg)
 
 
