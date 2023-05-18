@@ -29,20 +29,14 @@ terminate their conversation with you.**
 
 ##### **MOE Kindergarten @Anchor Green**
 31, Anchorvale Drive Singapore 544969 <br>
-[VIEW MAP](https://maps.google.com/maps?q=31,+Anchorvale+Drive+Singapore+544969+)&nbsp;
+[VIEW MAP](https://maps.google.com/maps?q=31,+Anchorvale+Drive+Singapore+544969+)&nbsp;<br>
+[+65 6886 1356](tel:+6568861356)<br>
+[mk_anchorgreen@moe.edu.sg](mailto:mk_anchorgreen@moe.edu.sg)<br>
+6315 9825 (Fax)
 
 ##### **Operating Hours**
 
 **MK**:&nbsp;8.00 a.m. - 5.00 p.m.  <br> **KCare**:&nbsp;7.00 a.m. - 7.00 p.m.  
-
-##### **Contact Us**
-
-Anchor Green Primary School
-
-
-MOE Kindergarten @Anchor Green
-
-
 
 ##### Send us your feedback
 
