@@ -24,8 +24,7 @@ terminate their conversation with you.**
 
 
 ##### **Operating Hours**
-**Mon - Thu**:&nbsp;7.00am - 5.30pm <br>
-**Fri**:&nbsp;7.00am - 5.00pm  
+**Mon - Thu**:&nbsp;7.00am - 5.30pm <br>**Fri**:&nbsp;7.00am - 5.00pm  
 
 ##### **MOE Kindergarten @Anchor Green**
 31 Anchorvale Drive Singapore 544969 <br>
