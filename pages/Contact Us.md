@@ -30,7 +30,7 @@ terminate their conversation with you.**
 ##### **MOE Kindergarten @Anchor Green**
 31, Anchorvale Drive Singapore 544969 <br>
 [VIEW MAP](https://maps.google.com/maps?q=31,+Anchorvale+Drive+Singapore+544969+)&nbsp;<br>
-[+65 6886 1356](tel:+6568861356)(Tel) &nbsp; &nbsp;&nbsp;+65 6315 9825 (Fax)<br>
+[+65 6886 1356](tel:+6568861356) (Tel) &nbsp; &nbsp;&nbsp;+65 6315 9825 (Fax)<br>
 [mk_anchorgreen@moe.edu.sg](mailto:mk_anchorgreen@moe.edu.sg)<br>
 
 
