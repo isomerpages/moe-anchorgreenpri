@@ -10,9 +10,9 @@ Announcements
 Dear Parents / Guardians
 
 Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 January 2017 and 1 January 2018 (both dates inclusive) and has a sibling currently studying in Anchor Green Primary.
-For the 2023 P1 Registration Exercise (2023 P1 Ex), parents who are registering their younger child under Phase 1 are to register during the Phase 1 registration period from 4 July 2023 (Tuesday), 9am to 5 July 2023 (Wednesday), 4.30pm through the P1 Registration Portal. The P1 Registration Portal can be accessed at: <a href="https://www.moe.gov.sg/primary/p1-registration." target="_blank">https://www.moe.gov.sg/primary/p1-registration.</a>
+For the 2023 P1 Registration Exercise (2023 P1 Ex), parents who are registering their younger child under Phase 1 are to register during the Phase 1 registration period from 4 July 2023 (Tuesday), 9am to 5 July 2023 (Wednesday), 4.30pm through the P1 Registration Portal. The P1 Registration Portal can be accessed at: <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank">https://www.moe.gov.sg/primary/p1-registration.</a>
 
-You may refer to  for more information.
+You may refer to <a href="https://www.moe.gov.sg/primary/p1-registration." target="_blank">MOE P1 website for information on the 2023 P1 Ex.</a> for more information.
 Thank you.
 
 
