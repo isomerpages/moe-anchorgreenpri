@@ -13,17 +13,8 @@ Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) 
 For the 2023 P1 Registration Exercise (2023 P1 Ex), parents who are registering their younger child under Phase 1 are to register during the Phase 1 registration period from 4 July 2023 (Tuesday), 9am to 5 July 2023 (Wednesday), 4.30pm through the P1 Registration Portal. The P1 Registration Portal can be accessed at: <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank">https://www.moe.gov.sg/primary/p1-registration.</a>
 
 You may refer to <a href="https://www.moe.gov.sg/primary/p1-registration." target="_blank">MOE P1 website for information on the 2023 P1 Ex.</a> for more information.
+
 Thank you.
-
-
-### P1 Orientation 2023
-
-<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points/">Arrival and Dismissal Points</a><br>
-<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/agps-corporate-video/">AGPS Corporate Video</a><br>
-<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/a-day-in-agps/">A Day in AGPS</a><br>
-<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/parent-kit-starting-your-primary-1-journey/">Parent Kit: Starting Your Primary 1 Journey</a><br>
-<a href="https://www.anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/info-for-2023-cohort/">P1 Orientation (Info for 2023 Cohort</a>
-
 
 ### Group Personal Accident Insurance
 
