@@ -5,7 +5,6 @@ description: ""
 ---
 Parent Support Group (PSG)
 ==========================
-![AGPS PSG Org Chart 2023](/images/Partners/PSG/psg_org%20chart.jpg)
   
 
 ### Building on Trust, Partnering as One
