@@ -5,7 +5,7 @@ description: ""
 ---
 Parent Support Group (PSG)
 ==========================
-
+![AGPS PSG Org Chart 2023](/images/Partners/PSG/psg_org%20chart.jpg)
   
 
 ### Building on Trust, Partnering as One
@@ -51,7 +51,7 @@ PSG ExCo team,  <br>
 From Left (front): Jasmine, Evelyn, Jass<br>
 From Left (back): Nuraslinda, Tang Ling, Janice, Serene, Serena
 
-![Parent Support Group 2022 Org Chart](/images/Partners/PSG/PSG%20Org%20Chart%202022.jpg)
+![Parent Support Group 2022 Org Chart](/images/Partners/PSG/psg_org%20chart.jpg)
 
 ![P1 Learning Journey](/images/Partners/PSG/P1%20Learning%20Journey.jpg)
 
