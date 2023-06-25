@@ -39,11 +39,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Partners/PSG/PSG%202021_Logo.jpg" alt="Parent Support Group 2021 Logo" style="width:50%;">  
+<img src="/images/Partners/PSG/PSG%202021_Logo.jpg" alt="Parent Support Group 2021 Logo" style="width:50%;">  
   
-</body>
 
-![Parent Support Group 2022 EXCO](/images/Partners/PSG/PSG%202022%20Exco.jpg)
+
+![Parent Support Group 2022 EXCO](/images/Partners/PSG/psg_2023.jpg)
+
+    
+
+PSG ExCo team,  <br>
+From Left (front): Jasmine, Evelyn, Jass<br>
+From Left (back): Nuraslinda, Tang Ling, Janice, Serene, Serena
 
 ![Parent Support Group 2022 Org Chart](/images/Partners/PSG/PSG%20Org%20Chart%202022.jpg)
 
@@ -62,14 +68,13 @@ img {
 Join our AGPS PSG Family now!
 -----------------------------
 
-1.  Please click on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform" target=_blank>Google link</a> and fill in your details.
+1.  Please click on the&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform" target="_blank">Google link</a>&nbsp;and fill in your details.
 
 2.  Scan the QR code and fill in your details.
 
-<img src="/images/Partners/PSG/RegisterPSG%20QRcode.png"  
-style="width:25%">
+<img src="/images/Partners/PSG/RegisterPSG%20QRcode.png" style="width:25%">
 
 
-3.  Download the <a href="/files/For%20Parents/PSG%20Membership%20Form.pdf" target=_blank>Membership Form</a> and hand it over to any of our school staff.  
+3.  Download the&nbsp;<a href="/files/For%20Parents/PSG%20Membership%20Form.pdf" target="_blank">Membership Form</a>&nbsp;and hand it over to any of our school staff.  
 
 **_We look forward to a fulfilling partnership with you!_**
