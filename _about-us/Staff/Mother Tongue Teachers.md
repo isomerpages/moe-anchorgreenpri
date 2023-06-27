@@ -133,7 +133,11 @@ Malay Language Teachers
  
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Nur Syazwani Binte Shaibani</span></td>
-    <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.s</span></a><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">g</span></a></td>
+    <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span></td>
+    <td class="tg-fskk"><a href="mailto:nurfarhana_omar@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
