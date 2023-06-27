@@ -4,7 +4,7 @@ permalink: /about-us/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
 ---
-Executive & Administrative Staff (EAS)
+Executive &amp; Administrative Staff (EAS)
 ========================
 
 <br>
@@ -30,7 +30,7 @@ Executive & Administrative Staff (EAS)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Ong Si Ying, Kristen</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Leong Chee Weng</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Administration Manager</span></td>
     <td class="tg-lb3e"><a href="mailto:ong_si_ying_kristen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ong_si_ying_kristen@schools.gov.sg</span></a></td>
   </tr>
