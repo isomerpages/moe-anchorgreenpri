@@ -93,6 +93,11 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-fskk"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
   
 </tbody>
 </table>
@@ -143,6 +148,11 @@ Malay Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span></td>
     <td class="tg-fskk"><a href="mailto:nurfarhana_omar@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@moe.edu.sg</span></a></td>
   </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
 </tbody>
 </table>
 
@@ -178,6 +188,11 @@ Tamil Language Teachers
 	  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Thangavel Divya</span></td>
     <td class="tg-fskk"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thangavel_divya@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 </tbody>
 </table>
