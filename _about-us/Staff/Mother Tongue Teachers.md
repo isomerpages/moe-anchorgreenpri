@@ -25,9 +25,13 @@ Chinese Language Teachers
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Gek Moi </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_gek_moi@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Swee Hong</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:Ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
