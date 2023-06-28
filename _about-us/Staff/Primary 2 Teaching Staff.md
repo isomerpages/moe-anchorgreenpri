@@ -45,7 +45,7 @@ Primary 2 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Respect</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Ada Loy)</span><br></td>
-    <td class="tg-33ww"  style="text-align: center; vertical-align: middle;"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Tan Pei Shan </span><br></td>
@@ -106,11 +106,15 @@ Primary 2 Teaching Staff
     <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Sincerity</span></td>
+    <td class="tg-rxka" rowspan="3"><span style="color:#222;background-color:#FBFFFA">2 Sincerity</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Suelasteri Samani</span><br></td>
     <td class="tg-agmf"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span></td>
+    <td class="tg-fskk"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
+	<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span></td>
     <td class="tg-fskk"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
