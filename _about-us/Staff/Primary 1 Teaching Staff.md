@@ -74,7 +74,7 @@ Primary 1 Teaching Staff
     <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chua Yu Gek</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span></td>
     <td class="tg-fskk"><a href="mailto:chua_yu_gek@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_yu_gek@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
