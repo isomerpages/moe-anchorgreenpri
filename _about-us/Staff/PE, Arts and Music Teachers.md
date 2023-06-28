@@ -160,7 +160,7 @@ Physical Education
     <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
   </tr>
 	  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Miss Pang Yen Ping Angelyn</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a></td>
   </tr>
