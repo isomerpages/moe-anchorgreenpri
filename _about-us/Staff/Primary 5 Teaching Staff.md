@@ -101,7 +101,7 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:sun_yahui@schools.gov.sgg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
   </tr>
 	  <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Aik Hwang Wendy</span><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Noraisha Bte Hamzah</span><br></td>
     <td class="tg-agmf"><a href="mailto:tan_aik_hwang_wendy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_aik_hwang_wendy@schools.gov.sg</span></a></td>
   </tr>
  	<tr>
