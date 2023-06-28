@@ -110,7 +110,7 @@ Primary 1 Teaching Staff
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Lim Ai Chin Vivien</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Sri <br>(Thilakavathy D/O Govindasamy)</span><br></td>
     <td class="tg-fskk"><a href="mailto:lim_ai_chin_vivien@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_ai_chin_vivien@schools.gov.sg</span></a></td>
   </tr>
 
