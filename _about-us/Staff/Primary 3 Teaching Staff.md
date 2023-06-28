@@ -76,7 +76,7 @@ Primary 3 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Lim Wan Lin Veronica</span><br></td>
     <td class="tg-g24l"><a href="mailto:nurfarhana_omar@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@moe.edu.sg</span></a></td>
   </tr><tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Grace</span></td>
