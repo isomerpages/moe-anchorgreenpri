@@ -116,7 +116,7 @@ Primary 2 Teaching Staff
   </tr>
 	<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Thangavel Divya</span></td>
-    <td class="tg-fskk"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+    <td class="tg-fskk"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">thangavel_divya@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
