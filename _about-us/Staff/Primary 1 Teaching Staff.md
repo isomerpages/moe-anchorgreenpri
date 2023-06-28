@@ -52,12 +52,12 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Integrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Lim Wan Lin Veronica</span><br></td>
-    <td class="tg-33ww"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span><br></td>
+    <td class="tg-33ww"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span><br></td>
-    <td class="tg-g24l"><a href="mailtonur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Neo Ann</span><br></td>
+    <td class="tg-g24l"><a href="mailto:ann_neo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ann_neo@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Confidence</span></td>
@@ -74,8 +74,8 @@ Primary 1 Teaching Staff
     <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chua Yu Gek</span></td>
-    <td class="tg-fskk"><a href="mailto:chua_yu_gek@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_yu_gek@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span></td>
+    <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Aspiration</span></td>
@@ -107,11 +107,16 @@ Primary 1 Teaching Staff
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Sincerity</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju</span><br><span style="color:#222;background-color:#FBFFFA"> (Ms Diane Chen)</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;" ><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Lim Ai Chin Vivien</span><br></td>
-    <td class="tg-fskk"><a href="mailto:lim_ai_chin_vivien@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_ai_chin_vivien@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Sri <br>(Thilakavathy D/O Govindasamy)</span><br></td>
+    <td class="tg-fskk"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a></td>
+  </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 
 </tbody>

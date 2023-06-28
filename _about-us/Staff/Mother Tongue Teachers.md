@@ -25,9 +25,13 @@ Chinese Language Teachers
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Gek Moi </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_gek_moi@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Swee Hong</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:Ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
@@ -89,6 +93,11 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-fskk"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
   
 </tbody>
 </table>
@@ -133,7 +142,16 @@ Malay Language Teachers
  
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Nur Syazwani Binte Shaibani</span></td>
-    <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.s</span></a><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">g</span></a></td>
+    <td class="tg-fskk"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span></td>
+    <td class="tg-fskk"><a href="mailto:nurfarhana_omar@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@moe.edu.sg</span></a></td>
+  </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 </tbody>
 </table>
@@ -166,6 +184,15 @@ Tamil Language Teachers
    <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Uma Maheswari</span></td>
     <td class="tg-fskk"><a href="mailto:uma_maheswari_velusamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">uma_maheswari_velusamy@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Thangavel Divya</span></td>
+    <td class="tg-fskk"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thangavel_divya@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
+		<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
   </tr>
 </tbody>
 </table>

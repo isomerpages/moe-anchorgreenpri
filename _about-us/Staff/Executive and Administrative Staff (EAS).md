@@ -4,7 +4,7 @@ permalink: /about-us/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
 ---
-Executive & Administrative Staff (EAS)
+Executive &amp; Administrative Staff (EAS)
 ========================
 
 <br>
@@ -30,9 +30,9 @@ Executive & Administrative Staff (EAS)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Ong Si Ying, Kristen</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Leong Chee Weng</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Administration Manager</span></td>
-    <td class="tg-lb3e"><a href="mailto:ong_si_ying_kristen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ong_si_ying_kristen@schools.gov.sg</span></a></td>
+    <td class="tg-lb3e"><a href="mailto:james_leong@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">james_leong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Leow Chen Cheng</span></td>
@@ -68,6 +68,11 @@ Executive & Administrative Staff (EAS)
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Phun Siew Cheng</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Corporate Support Staff</span><br></td>
     <td class="tg-fskk"><a href="mailto:phun_siew_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">phun_siew_cheng@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Natasha Binte Hamdan</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Corporate Support Staff</span><br></td>
+    <td class="tg-fskk"><a href="mailto:natasha_hamdan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">natasha_hamdan@schools.gov.sg</span></a></td>
   </tr>
 	 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Irene Lee Fong Meng</span><br></td>

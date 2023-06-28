@@ -33,19 +33,23 @@ Primary 6 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" ><span style="color:#222;background-color:#FBFFFA">6 Respect</span></td>
+ </tr><tr>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Respect</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ang Swee Hong</span></td>
     <td class="tg-33ww"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
-
+  <tr>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Illiyana Bte Mohammad</span><br></td>
+    <td class="tg-g24l"><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a><br></td>
+  </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Integrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Jessica Ding Chooi Hui</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mrs Jessica Yeow <br>(Jessica Ding Chooi Hui) </span></td>
     <td class="tg-33ww"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
-    <td class="tg-g24l"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
+    <td class="tg-g24l"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Confidence</span></td>
