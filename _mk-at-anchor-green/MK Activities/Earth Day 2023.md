@@ -12,7 +12,8 @@ Children were introduced to the important of celebrating Earth Day and learnt ab
 
 	   <table class="center"><tbody>
 	<tr>
-	   <th><img style="height:100%" src="/images/MK/2023/Earth%20Day%202023/2-2%20earth%20day%202023.jpg"></th>
+	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="height:100%"></th>
+		 <th><img style="height:100%" src="/images/MK/2023/Earth%20Day%202023/2-2%20earth%20day%202023.jpg"></th>
 	</tr>
 	<tr>
 		<td><img style="height:100%" src="/images/MK/2023/Earth%20Day%202023/2-3%20earth%20day%202023.jpg"></td>
