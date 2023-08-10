@@ -11,8 +11,8 @@ Children were introduced to the important of celebrating Earth Day and learnt ab
 
 <table><tbody>
 	<tr>
-	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:55%"></th>
-	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:55%"></th>
+	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:100%"></th>
+	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:100%"></th>
 	</tr>
 	<tr>
 		 <td>Alfreds Futterkiste</td>
