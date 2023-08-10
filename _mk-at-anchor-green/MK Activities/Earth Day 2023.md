@@ -15,7 +15,7 @@ Children were introduced to the important of celebrating Earth Day and learnt ab
 	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-2%20earth%20day%202023.jpg" style="width:100%"></th>
 	</tr>
 	<tr colspan="2">
-		<td><img src="/images/MK/2023/Earth%20Day%202023/2-3%20earth%20day%202023.jpg" style="width:100%"></td>
+		<td align="center"><img src="/images/MK/2023/Earth%20Day%202023/2-3%20earth%20day%202023.jpg" style="width:100%"></td>
 		</tr>
 	<tr>
 		<td>Centro comercial Moctezuma</td>
