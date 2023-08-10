@@ -9,5 +9,17 @@ third_nav_title: MK Activities
 ![](/images/MK/2023/Earth%20Day%202023/1-1%20earth%20day%202023.jpg)
 Children were introduced to the important of celebrating Earth Day and learnt about how they can do their part to protect the Earth.
 
-<table><tbody><tr><th>Image 1</th><th>Contact</th></tr><tr><td>Alfreds Futterkiste</td><td>Maria Anders</td></tr><tr><td>Centro comercial Moctezuma</td><td>Francisco Chang</td></tr>  
+<table><tbody>
+	<tr>
+	   <th>Image 1</th>
+	   <th>Contact</th>
+	</tr>
+	<tr>
+		 <td>Alfreds Futterkiste</td>
+	  <td>Maria Anders</td>
+	</tr>
+	<tr>
+		<td>Centro comercial Moctezuma</td>
+		<td>Francisco Chang</td>
+	</tr>  
 </tbody></table>
