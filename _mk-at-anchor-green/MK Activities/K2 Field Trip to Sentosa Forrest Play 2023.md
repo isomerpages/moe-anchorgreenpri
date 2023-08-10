@@ -6,6 +6,8 @@ third_nav_title: MK Activities
 ---
 # K2 Field Trip to Sentosa Forrest Play 2023
 
+<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/1-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">
+<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/1-2%20field%20trip%20to%20sentosa.jpg" style="width:95%">
 
 
 
