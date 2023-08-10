@@ -12,21 +12,14 @@ third_nav_title: MK Activities
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/2-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/2-2%20field%20trip%20to%20sentosa.jpg" style="width:95%"> Listening attentively to the Ranger’s sharing information about the Forest.<br><br>
 
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/3-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">Even the rainy weather could not stop us from learning about the Forest.<br><br>
-
-
+<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/3-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">Even the rainy weather could not stop us from learning about the Forest.
 
 <table>
 <tbody><tr>
-<th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:100%"></th>
-<td><img src="/images/MK/2023/Earth%20Day%202023/2-2%20earth%20day%202023.jpg" style="width:100%"></td>
+<th><img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/4-1%20field%20trip%20to%20sentosa.jpg" style="width:100%"></th>
+<td><img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/4-3%20field%20trip%20to%20sentosa.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
-<img src="/images/MK/2023/Earth%20Day%202023/1-1%20earth%20day%202023.jpg" style="width:95%">
-<table><tbody>
-<tr>
-<th><img src="/images/MK/2023/Earth%20Day%202023/2-4%20earth%20day%202023.jpg" style="width:100%"></th>
-<td><img src="/images/MK/2023/Earth%20Day%202023/2-5%20earth%20day%202023.jpg" style="width:100%"></td>
-</tr>
-</tbody></table>
-A family-based activity was given to parents to support the textile recycling and upcycling efforts of the school. Some donated old clothes by dropping into the textile recycling bins. At school, children showcased their reusable bags made from their old clothes!
+<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/4-2%20field%20trip%20to%20sentosa.jpg" style="width:95%">We used natural materials in the forest to make houses for squirrels and monitor lizards.
+
+
