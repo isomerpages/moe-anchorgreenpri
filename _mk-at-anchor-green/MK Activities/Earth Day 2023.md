@@ -25,6 +25,6 @@ Children were introduced to the important of celebrating Earth Day and learnt ab
 </tbody></table>
 A family-based activity was given to parents to support the textile recycling and upcycling efforts of the school. Some donated old clothes by dropping into the textile recycling bins. At school, children showcased their reusable bags made from their old clothes!
 
-<img src="/images/MK/2023/Earth%20Day%202023/3-1%20earth%20day%202023.jpg" style="width:95%">
+<img src="/images/MK/2023/Earth%20Day%202023/3-2%20earth%20day%202023.jpg" style="width:95%">
 <img src="/images/MK/2023/Earth%20Day%202023/3-2%20earth%20day%202023.jpg" style="width:95%">
 <img src="/images/MK/2023/Earth%20Day%202023/3-3%20earth%20day%202023.jpg" style="width:95%">
