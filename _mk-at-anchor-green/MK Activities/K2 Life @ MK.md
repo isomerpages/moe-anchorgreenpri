@@ -4,7 +4,7 @@ permalink: /mk-at-anchor-green/mk-activities/permalink/
 description: ""
 third_nav_title: MK Activities
 ---
-# K2 Life @ MK![]
+# K2 Life @ MK!
 
 <img src="/images/MK/2023/K2%20Life%20at%20MK/1-1%20k2%20life.jpg" style="width:95%">
 Parents gathered for a briefing on how the centre and parents can collaborate together to support their K2 children in transiting to Primary School.<br><br>
