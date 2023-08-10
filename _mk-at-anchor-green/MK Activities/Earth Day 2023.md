@@ -11,14 +11,14 @@ Children were introduced to the important of celebrating Earth Day and learnt ab
 
 <table class="center"><tbody>
 	<tr>
-	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:62%"></th>
+	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-1%20earth%20day%202023.jpg" style="width:95%"></th>
 	   <th><img src="/images/MK/2023/Earth%20Day%202023/2-2%20earth%20day%202023.jpg" style="width:100%"></th>
 	</tr>
 	<tr colspan="2">
-		<td style="text-align: center; vertical-align: middle;"><img src="/images/MK/2023/Earth%20Day%202023/2-3%20earth%20day%202023.jpg" style="width:100%"></td>
+		<td style="text-align: center; vertical-align: middle;"></td>
 		</tr>
 	<tr>
-		<td>Centro comercial Moctezuma</td>
-		<td>Francisco Chang</td>
+		<td><img src="/images/MK/2023/Earth%20Day%202023/2-4%20earth%20day%202023.jpg" style="width:100%"></td>
+		<td><img src="/images/MK/2023/Earth%20Day%202023/2-5%20earth%20day%202023.jpg" style="width:94%"></td>
 	</tr>  
 </tbody></table>
