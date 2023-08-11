@@ -1,10 +1,9 @@
 ---
 title: Chinese New Year 2021
-permalink: /mk-at-anchor-green/mk-activities/
+permalink: /mk-at-anchor-green/mk-activities/chinese-new-year-2021/
 description: ""
 third_nav_title: MK Activities
 ---
-
 # Chinese New Year 2021
 
 ![Children are engaging in a ‘Fashion Show’ ](/images/MK/2021/CNY%202021/cny1.jpg)

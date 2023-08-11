@@ -1,6 +1,6 @@
 ---
 title: Earth Day 2023
-permalink: /mk-at-anchor-green/mk-activities/permalink/
+permalink: /mk-at-anchor-green/mk-activities/
 description: ""
 third_nav_title: MK Activities
 ---

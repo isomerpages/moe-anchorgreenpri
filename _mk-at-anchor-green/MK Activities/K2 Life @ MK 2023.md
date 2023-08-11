@@ -1,6 +1,6 @@
 ---
 title: K2 Life @ MK 2023
-permalink: /mk-at-anchor-green/mk-activities/permalink/
+permalink: /mk-at-anchor-green/mk-activities/k2-life-mk-2023/
 description: ""
 third_nav_title: MK Activities
 ---
