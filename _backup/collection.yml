@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - Neighbourhood Walk 2021.md
       - P6 Parents' Briefing 2022.md
       - Handbells.md
       - Hari Raya 2021.md
