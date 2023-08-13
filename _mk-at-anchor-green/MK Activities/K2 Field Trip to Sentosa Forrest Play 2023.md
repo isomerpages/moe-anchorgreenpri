@@ -4,7 +4,7 @@ permalink: /mk-at-anchor-green/mk-activities/k2-field-trip-sentosa-forrest-play/
 description: ""
 third_nav_title: MK Activities
 ---
-# K2 Field Trip to Sentosa Forrest Play 2023
+# K2 Field Trip to Sentosa Forest Play
 
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/1-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/1-2%20field%20trip%20to%20sentosa.jpg" style="width:95%">Having their snacks and gearing up before embarking on their Forest Play.<br><br>
