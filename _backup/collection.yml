@@ -2,5 +2,6 @@ collections:
   backup:
     output: true
     order:
+      - P6 Parents' Briefing 2022.md
       - Handbells.md
       - Hari Raya 2021.md
