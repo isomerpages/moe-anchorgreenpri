@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - Earth Day 2021.md
       - World Water Day 2021.md
       - K1 Tea Session 2021.md
       - Total Defence Day 2021.md
