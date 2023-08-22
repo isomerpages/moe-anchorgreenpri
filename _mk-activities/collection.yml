@@ -1,0 +1,4 @@
+collections:
+  mk-activities:
+    output: true
+    order: []
