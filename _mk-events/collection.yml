@@ -2,5 +2,6 @@ collections:
   mk-events:
     output: true
     order:
+      - Chinese New Year Celebrations.md
       - Earth Day.md
       - K2 Life @ MK.md
