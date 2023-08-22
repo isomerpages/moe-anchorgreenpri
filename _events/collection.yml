@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - K2 Life @ MK.md
       - Earth Day.md
