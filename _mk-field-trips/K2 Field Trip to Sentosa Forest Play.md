@@ -25,10 +25,11 @@ description: ""
 </tr>
 </tbody></table>
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-3%20sentosa.jpg" style="width:95%">We used natural materials in the forest to make houses for squirrels and monitor lizards.<br><br>
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/5-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">We also found a long wooden stick and worked together to lift it up, just like the elephants lifting logs! <br><br>
 
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/6-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">Even though there were many mud and water puddles formed due to the rain, we persevered in our walk. It was also a first play in the rain experience for many of us!<br><br>
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/5-1%20sentosa.jpg" style="width:95%">We also found a long wooden stick and worked together to lift it up, just like the elephants lifting logs! <br><br>
 
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/7-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/7-2%20field%20trip%20to%20sentosa.jpg" style="width:95%">
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/7-3%20field%20trip%20to%20sentosa.jpg" style="width:95%">In the end, we found “treasures” from the Nature! It is definitely an once in a life time experience!
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/6-1%20sentosa.jpg" style="width:95%">Even though there were many mud and water puddles formed due to the rain, we persevered in our walk. It was also a first play in the rain experience for many of us!<br><br>
+
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/7-1%20sentosa.jpg" style="width:95%">
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/7-2%20sentosa.jpg" style="width:95%">
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/7-3%20sentosa.jpg" style="width:95%">In the end, we found “treasures” from the Nature! It is definitely an once in a life time experience!
