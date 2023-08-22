@@ -21,7 +21,7 @@ description: ""
 <table>
 <tbody><tr>
 <th><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-1%20sentosa.jpg" style="width:100%"></th>
-<td><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-3%20sentosa.jpg" style="width:100%"></td>
+<td><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-2%20sentosa.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-3%20sentosa.jpg" style="width:95%">We used natural materials in the forest to make houses for squirrels and monitor lizards.<br><br>
