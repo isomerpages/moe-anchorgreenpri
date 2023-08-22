@@ -28,3 +28,12 @@ description: ""
 <td><img src="/images/MK/Events/CNY/4-2%20cny.jpg" style="width:100%">Children were served traditional Chinese New Year cookies during snack.</td>
 </tr>
 </tbody></table>
+<br>
+<img src="/images/MK/Events/CNY/5-1%20cny.jpg" style="width:100%">Children also enjoyed their yu-sheng as a class!Chinese New Year.
+<br><br>
+<table><tbody>
+<tr>
+<th><img src="/images/MK/Events/CNY/6-1%20cny.jpg" style="width:100%"></th>
+<td><img src="/images/MK/Events/CNY/6-2%20cny.jpg" style="width:100%">... and made beautiful crafts to showcase!</td>
+</tr>
+</tbody></table>
