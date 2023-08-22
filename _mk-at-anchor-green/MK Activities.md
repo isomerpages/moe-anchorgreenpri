@@ -5,4 +5,4 @@ description: ""
 ---
 # MK Activities
 
-### [Events](/holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics)
+### [Events](/mk-at-anchor-green/mk-activities/events/cny)
