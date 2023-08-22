@@ -1,4 +1,5 @@
 collections:
   mk-field-trips:
     output: true
-    order: []
+    order:
+      - K2 Field Trip to Sentosa Forest Play.md
