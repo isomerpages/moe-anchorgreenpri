@@ -1,5 +1,4 @@
 collections:
   mk-activities:
     output: true
-    order:
-      - Events/.keep
+    order: []
