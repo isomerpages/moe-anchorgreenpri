@@ -9,10 +9,16 @@ description: ""
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/1-1%20sentosa.jpg" style="width:95%">
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/1-2%20sentosa.jpg" style="width:95%">Having their snacks and gearing up before embarking on their Forest Play.<br><br>
 
+<table><tbody>
+<tr>
+<th><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/2-1%20sentosa.jpg" style="width:100%"></th>
+<td><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/2-2%20sentosa.jpg" style="width:100%"> Listening attentively to the Ranger’s sharing information about the Forest.</td>
+</tr>
+</tbody></table>
  
  
  
- Listening attentively to the Ranger’s sharing information about the Forest.<br><br>
+<br><br>
 
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/3-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">Even the rainy weather could not stop us from learning about the Forest.
 
