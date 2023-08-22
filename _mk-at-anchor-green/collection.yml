@@ -2,9 +2,9 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
-      - MK Activities.md
       - About MK.md
       - MK Staff.md
+      - MK Activities.md
       - MK Activities/.keep
       - MK Activities/Earth Day.md
       - MK Activities/K2 Field Trip to Sentosa Forest Play.md
