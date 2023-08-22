@@ -21,9 +21,10 @@ description: ""
 <td><img src="/images/MK/Events/CNY/3-2%20cny.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
+<br>
 <table><tbody>
 <tr>
-<th><img src="/images/MK/Events/CNY/3-1%20cny.jpg" style="width:100%">Children also get to walk down the “red carpet” to showcase their traditional dressings!</th>
-<td><img src="/images/MK/Events/CNY/3-2%20cny.jpg" style="width:100%"></td>
+<th><img src="/images/MK/Events/CNY/4-1%20cny.jpg" style="width:100%"></th>
+<td><img src="/images/MK/Events/CNY/4-2%20cny.jpg" style="width:100%">Children were served traditional Chinese New Year cookies during snack.</td>
 </tr>
 </tbody></table>
