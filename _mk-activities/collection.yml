@@ -2,5 +2,4 @@ collections:
   mk-activities:
     output: true
     order:
-      - Events/Earth Day.md
       - Events/.keep
