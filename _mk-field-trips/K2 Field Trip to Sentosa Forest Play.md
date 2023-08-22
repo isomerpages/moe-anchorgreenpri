@@ -5,8 +5,9 @@ description: ""
 ---
 # K2 Field Trip to Sentosa Forest Play
 
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/1-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">
-<img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/1-2%20field%20trip%20to%20sentosa.jpg" style="width:95%">Having their snacks and gearing up before embarking on their Forest Play.<br><br>
+
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/1-1%20sentosa.jpg" style="width:95%">
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/1-2%20sentosa.jpg" style="width:95%">Having their snacks and gearing up before embarking on their Forest Play.<br><br>
 
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/2-1%20field%20trip%20to%20sentosa.jpg" style="width:95%">
 <img src="/images/MK/2023/K2%20Filed%20Trip%20to%20Sentosa%20FP/2-2%20field%20trip%20to%20sentosa.jpg" style="width:95%"> Listening attentively to the Ranger’s sharing information about the Forest.<br><br>
