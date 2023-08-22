@@ -2,4 +2,5 @@ collections:
   mk-field-trips:
     output: true
     order:
+      - Indian Heritage Centre.md
       - Sentosa Forest Play.md
