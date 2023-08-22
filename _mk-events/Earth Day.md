@@ -3,7 +3,7 @@ title: Earth Day
 permalink: /mk-at-anchor-green/mk-activities/events/earth-day/
 description: ""
 ---
-# Earth Day 2023
+# Earth Day
 
 <img src="/images/MK/Events/Earth%20Day/1-1%20earth%20day.jpg" style="width:95%">
 Children were introduced to the important of celebrating Earth Day and learnt about how they can do their part to protect the Earth.
