@@ -20,11 +20,11 @@ description: ""
 
 <table>
 <tbody><tr>
-<th><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-1%20sentosa.jpg" style="width:100%"></th>
+<th><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-1%20sentosa.jpg" style="width:100%">We used natural materials in the forest to make houses for squirrels and monitor lizards.</th>
 <td><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-2%20sentosa.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
-<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-3%20sentosa.jpg" style="width:95%">We used natural materials in the forest to make houses for squirrels and monitor lizards.<br><br>
+<img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/4-3%20sentosa.jpg" style="width:95%"><br><br>
 
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/5-1%20sentosa.jpg" style="width:95%">We also found a long wooden stick and worked together to lift it up, just like the elephants lifting logs! <br><br>
 
