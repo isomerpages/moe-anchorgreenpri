@@ -16,7 +16,7 @@ Time to get dirty! Children explored different tools and colours to create artwo
 
 <img src="/images/MK/Events/Mid%20Year%20Celebration/3-1%20myc.jpg" style="width:95%">A group photo as a class!
 <img src="/images/MK/Events/Mid%20Year%20Celebration/3-2%20myc.jpg" style="width:95%">
-<br><br>
+<br>
 
 <img src="/images/MK/Events/Mid%20Year%20Celebration/4-1%20myc.jpg" style="width:95%">Children observing the different artworks done by other classes.
 <br><br>
