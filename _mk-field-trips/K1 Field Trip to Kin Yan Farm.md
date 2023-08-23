@@ -11,3 +11,6 @@ description: ""
 <td><img src="/images/MK/Field%20Trips/Kin%20Yan%20Farm/2-1%20kin%20yan%20farm.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
+<br>
+
+<img src="/images/MK/Field%20Trips/Kin%20Yan%20Farm/2-1%20kin%20yan%20farm.jpg" style="width:100%">Listening intently to Uncle William talk about the different types of mushrooms.
