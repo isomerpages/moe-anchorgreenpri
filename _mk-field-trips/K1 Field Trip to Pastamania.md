@@ -39,3 +39,7 @@ Decorating our pizzas with delicious ingredients
 <td><img src="/images/MK/Field%20Trips/Pastamania/5-4%20pastamania.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
+<br><br>
+<img src="/images/MK/Field%20Trips/Pastamania/6-1%20pastamania.jpg" style="width:100%">
+We had so much fun and we love our pizzas!
+<img src="/images/MK/Field%20Trips/Pastamania/6-2%20pastamania.jpg" style="width:100%">
