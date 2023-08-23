@@ -3,7 +3,7 @@ title: Forest Play @ Sentosa
 permalink: /mk-at-anchor-green/mk-activities/field-trips/k2-sentosa-forest-play/
 description: ""
 ---
-# K2 Field Trip to Sentosa Forest Play
+# K2 Field Trip to Forest Play @ Sentosa
 
 
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/1-1%20sentosa.jpg" style="width:95%">Having their snacks and gearing up before embarking on their Forest Play.
