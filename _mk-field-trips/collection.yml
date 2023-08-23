@@ -2,6 +2,6 @@ collections:
   mk-field-trips:
     output: true
     order:
-      - K1 Neighbourhood Walk.md
       - Indian Heritage Centre.md
+      - K1 Neighbourhood Walk.md
       - Forest Play @ Sentosa.md
