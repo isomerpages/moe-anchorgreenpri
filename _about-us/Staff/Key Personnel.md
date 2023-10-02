@@ -46,9 +46,10 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administrative)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Saniyah Amin</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>
+(Mrs Thiro)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Staff Developer</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:saniyah_amin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">saniyah_amin@schools.gov.sg</span></a><br></td>
+    <td class="tg-lb3e"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">vinitha_nair@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
@@ -60,11 +61,7 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br> Mother Tongue Languages</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A"> ang_gek_moi@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>(Mrs Thiro)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Science</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vinitha_nair@schools.gov.sg</span></a></td>
-  </tr>
+ 
 	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chua Yu Gek</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Aesthetics</span><br></td>
@@ -82,7 +79,7 @@ Key Personnel
   </tr>
 	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education & Co-Curricular Activities</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education &amp; Co-Curricular Activities</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a></td>
   </tr> <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span><br></td>
@@ -121,7 +118,7 @@ Key Personnel
   </tr>
 		<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Outdoor Learning & Programme for Active Learning</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Outdoor Learning &amp; Programme for Active Learning</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a></td>
   </tr>
 		<tr> 
