@@ -13,8 +13,8 @@ School Advisory Committee
 *   Mr Ong Tiong Wee - Treasurer
 *   Mr Wesley Cheong - Hon Sec
 *   Mr Christopher Wong Wing Cheong - Member
-*   Ms Jacqueline Lim - Member
+*   Dr Roy Goh - Member
 *   Mr Chua Hian Yong - Member
 *   Mr Teo Chiang Chai - Member
 
-![](/images/Partners/SAC/SAC.jpg)
+![](/images/Partners/SAC/sac_2023.jpg)
