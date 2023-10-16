@@ -13,7 +13,7 @@ Stall No. 5: Chinese Noodles Food Stall
 
 ### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
 
-![Serving Size of Stall 5 Menu](/images/Resources/Canteen/Stall%205%20serving%20size.png)
+![](/images/Resources/Canteen/Stall%205%20serving%20size.png)
 
 Main Meals
 -------------
