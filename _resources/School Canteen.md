@@ -5,6 +5,7 @@ description: ""
 ---
 School Canteen Advertisement 
 ========================
+<br>
 <table class="tg">
 <thead>
   <tr>
@@ -27,8 +28,8 @@ School Canteen Advertisement
   </tr>
 </tbody>
 </table>
-#### Application Procedure
 
+#### Application Procedure
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
 <a href="/files/Resources
 Canteen/application%20form%20for%20canteen%20stall.pdf" target="_blank">Application Form</a><br><br>
