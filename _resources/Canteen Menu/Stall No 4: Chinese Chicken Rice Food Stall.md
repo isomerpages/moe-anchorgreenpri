@@ -7,11 +7,10 @@ third_nav_title: Canteen Menu
 Stall No. 4: Chinese Chicken Rice Food Stall
 ============================================
 
-### 
 
-### **Set Meal Concept: Rice / Chicken + Vegetables + Fruit**
+### **Set Meal Concept:&nbsp;Rice / Chicken + Vegetables + Fruit**
 
-### **Serving Sizes: Medium ($2.00) Large ($2.50)**
+### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
 
 ![Serving Size of Stall 4 Menu](/images/Resources/Canteen/Stall%204%20serving%20size.png)
 
