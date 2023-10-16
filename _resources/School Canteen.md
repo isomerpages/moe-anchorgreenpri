@@ -18,9 +18,8 @@ Application Form
 * List of proposed menu and pricing for all items
 * Photocopy of Workforce Skills Qualification (WSQ) Food Safety Course Level 1 of Applicant and Assistant (if any)
 
-3. 	Submit the completed application form and documents by closing date via email OR to the School’s General Office.
-* Address: Anchor Green Primary School 31 Anchorvale Drive Singapore 544969
-* Contact No: 68861356
+3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+*  Address: Anchor Green Primary School 31 Anchorvale Drive Singapore 544969
 * Email: anchorgreen_ps@moe.edu.sg
 * Contact Person: Mdm Jeal Leow / Mdm Grace Sim
 
