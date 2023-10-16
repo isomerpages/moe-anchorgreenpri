@@ -31,8 +31,7 @@ School Canteen Advertisement
 
 #### Application Procedure
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-<a href="/files/Resources
-Canteen/application%20form%20for%20canteen%20stall.pdf" target="_blank">Application Form</a><br><br>
+<a href="/files/Resources/Canteen/application%20form%20for%20canteen%20stall.pdf" target="_blank">Application Form</a><br><br>
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
