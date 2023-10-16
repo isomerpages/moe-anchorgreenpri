@@ -3,8 +3,10 @@ title: School Canteen
 permalink: /resources/school-canteen/
 description: ""
 ---
-School Canteen Advertisement
+School Canteen Advertisement 
 ========================
+
+
 #### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
