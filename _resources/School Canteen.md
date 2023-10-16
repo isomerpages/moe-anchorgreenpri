@@ -9,15 +9,13 @@ School Canteen Advertisement
 
 #### Application Procedure
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-
-<a href="/files/Booklist/2023/AGPS%20P1%20Booklist%202023.pdf" target="_blank">Application Form</a>
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
+<a href="/files/Booklist/2023/AGPS%20P1%20Booklist%202023.pdf" target="_blank">Application Form</a><br><br>
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
-* Photocopy of Workforce Skills Qualification (WSQ) Food Safety Course Level 1 of Applicant and Assistant (if any)
-
+* Photocopy of Workforce Skills Qualification (WSQ) Food Safety Course Level 1 of Applicant and Assistant (if any) 
 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 *  Address: Anchor Green Primary School 31 Anchorvale Drive Singapore 544969
 * Email: anchorgreen_ps@moe.edu.sg
