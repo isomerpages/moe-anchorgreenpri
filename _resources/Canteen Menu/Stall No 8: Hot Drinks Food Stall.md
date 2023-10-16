@@ -7,7 +7,7 @@ third_nav_title: Canteen Menu
 Stall No. 8: Hot Drinks Food Stall
 ==================================
 
-![Stall 8 Logo](/images//Resources/Canteen/stall%208.jpg)
+![](/images/Resources/Canteen/stall%208.jpg)
 
 Hot Drinks
 ----------
