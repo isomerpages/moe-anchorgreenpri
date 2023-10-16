@@ -5,6 +5,29 @@ description: ""
 ---
 School Canteen Advertisement 
 ========================
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Type of Stall</th>
+    <th class="tg-1h0n">Closing Date</th>
+    <th class="tg-1h0n">Requirements</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Asian Cuisine<br>(Japanese Food / Thai / Korean Food)
+</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 31 October 2023</span></td>
+    <td class="tg-lb3e" style="text-align: left"><span style="font-weight:500;text-decoration:none;color:#21088A">The Stall can sell Asian Rice sets including Japanese, Thai or Korean.</span></td>
+  </tr>
+	<tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-agmf"><br></td>
+  </tr>
+</tbody>
+</table>
+
 
 
 #### Application Procedure
