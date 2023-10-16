@@ -9,11 +9,11 @@ Stall No. 5: Chinese Noodles Food Stall
 
 ![Stall 5 Logo](/images//Resources/Canteen/stall%205.jpg)
 
-### **Set Meal Concept: Noodles + Vegetables + Meat + Fruit**
+### **Set Meal Concept:&nbsp;Noodles + Vegetables + Meat + Fruit**
 
-### **Serving Sizes: Medium ($2.00) Large ($2.50)**
+### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
 
-![Serving Size of Stall 5 Menu](/images//Resources/Canteen/Stall%205%20serving%20size.png)
+![](/images/Resources/Canteen/Stall%205%20serving%20size.png)
 
 Main Meals
 -------------

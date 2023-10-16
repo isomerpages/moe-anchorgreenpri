@@ -9,11 +9,11 @@ Stall No. 3: Halal Western Food Stall
 
 ![Stall 3 Logo](/images//Resources/Canteen/stall%203.jpg)
 
-### **Set Meal Concept: Rice / Noodles + Vegetables + Meat + Fruit**
+### **Set Meal Concept:&nbsp;Rice / Noodles + Vegetables + Meat + Fruit**
 
-### **Serving Sizes: Medium ($2.00) Large ($2.50)**
+### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
 
-![Serving Sizes of Stall 3 Menu](/images//Resources/Canteen/Stall%203%20serving%20size.png)
+![](/images/Resources/Canteen/Stall%203%20serving%20size.png)
 
 Main Meals
 ------------
