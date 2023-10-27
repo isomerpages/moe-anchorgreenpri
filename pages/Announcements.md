@@ -9,11 +9,20 @@ Announcements
 
 ###  President's Award for Teachers 2024
 
-Dear Parents / Students
+Dear Parents / Students,
+
+You can now submit your nomination for PAT 2024 via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding educator.
 
 ![](/images/Announcements/pat%202024.jpg)
 
-Submit your nomination via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding educator.
+
+###  Outstanding Youth in Education Award 2024
+
+Dear Parents / Students
+
+You can now submit your nomination for OYEA 2024 via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding young educator.
+
+![](/images/Announcements/oyea%202024.jpg)
 
 
 ###  Caring Teacher Award 2024
