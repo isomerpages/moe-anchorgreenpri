@@ -5,6 +5,18 @@ description: ""
 ---
 Announcements
 =============
+
+###  Caring Teacher Award 2024
+
+Parents and students, you can now nominate teachers for the Caring Teacher Awards 2024. Please go to the link <a href="www.cta.nie.edu.sg" target="_blank">www.cta.nie.edu.sg</a>. to make your nominations. Thank you!
+
+Nominees for the awards should fulfil the following criteria:
+
+Be a full-time teacher in a primary school, a secondary school, or junior college/centralised institute in Singapore;
+Possess at least three years of teaching experience in Singapore; and
+Demonstrate exemplary character, initiative, integrity, altruism, and a proven record of service to their schools and students.
+
+
 ### 2023 P1 Registration Exercise - Phase 1 Registration 
 
 Dear Parents / Guardians
