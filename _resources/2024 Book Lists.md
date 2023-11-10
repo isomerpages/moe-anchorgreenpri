@@ -14,7 +14,7 @@ variant: markdown
 <a href="/files/Booklist/2024/AGPS%20P5%20Booklist%202024.pdf" target="_blank">AGPS P5 Booklist 2024</a><br>
 <a href="/files/Booklist/2024/AGPS%20P5%20(FND)%20Booklist%202024.pdf" target="_blank">AGPS P5 (FDN) Booklist 2024</a><br>
 <a href="/files/Booklist/2024/AGPS%20P6%20Booklist%202024.pdf" target="_blank">AGPS P6 Booklist 2024</a><br>
-<a href="/files/Booklist/2024/AGPS%20P6%20(FND)%Booklist%202024.pdf" target="_blank">AGPS P6 (FDN) Booklist 2024</a><br>
+<a href="/files/Booklist/2024/AGPS%20P6%20(FND)%20Booklist%202024.pdf" target="_blank">AGPS P6 (FDN) Booklist 2024</a><br>
 
 
 
