@@ -5,6 +5,21 @@ description: ""
 ---
 Announcements
 =============
+
+###  President's Award for Teachers 2024
+
+Dear Parents / Students, <br>You can now submit your nomination for PAT 2024 via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding educator. <br><img src="/images/Announcements/pat%202024.jpg" style="width:100%">
+
+###  Outstanding Youth in Education Award 2024
+
+Dear Parents / Students<br>You can now submit your nomination for OYEA 2024 via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding young educator.<br><img src="/images/Announcements/oyea%202024.jpg" style="width:100%">
+
+###  Caring Teacher Award 2024
+
+Parents and students, you can now nominate teachers for the Caring Teacher Awards 2024. Please go to the link <a href="www.cta.nie.edu.sg" target="_blank">www.cta.nie.edu.sg</a>. to make your nominations.<br><img src="/images/Announcements/cta%202024.jpg" style="width:100%"><br>Nominees for the awards should fulfil the following criteria:<br>Be a full-time teacher in a primary school, a secondary school, or junior college/centralised institute in Singapore;
+Possess at least three years of teaching experience in Singapore; and
+Demonstrate exemplary character, initiative, integrity, altruism, and a proven record of service to their schools and students.
+
 ### 2023 P1 Registration Exercise - Phase 1 Registration 
 
 Dear Parents / Guardians

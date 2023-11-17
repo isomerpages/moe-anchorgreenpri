@@ -1,7 +1,8 @@
 ---
 title: School Canteen
-permalink: /resources/school-canteen/
+permalink: /school-canteen/
 description: ""
+variant: markdown
 ---
 School Canteen Advertisement 
 ========================
@@ -18,7 +19,7 @@ School Canteen Advertisement
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Asian Cuisine<br>(Japanese Food / Thai / Korean Food)
 </span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 31 October 2023</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 30 November 2023</span></td>
     <td class="tg-lb3e" style="text-align: left"><span style="font-weight:500;text-decoration:none;color:#21088A">The Stall can sell Asian Rice sets including Japanese, Thai or Korean.</span></td>
   </tr>
 	<tr>
