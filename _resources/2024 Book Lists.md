@@ -16,7 +16,7 @@ variant: markdown
 <a href="/files/Booklist/2024/agps%20p6%20booklist%202024.pdf" target="_blank">AGPS P6 Booklist 2024</a><br>
 <a href="/files/Booklist/2024/agps%20p6%20(fdn)%20booklist%202024.pdf" target="_blank">AGPS P6 (FDN) Booklist 2024</a><br>
 
-<a href="/files/Booklist/2024/AGPS%20Proposed%20Selling%20Dates%202023.pdf" target="_blank">AGPS Proposed Selling Dates</a><br>
+<a href="/files/Booklist/2024/AGPS_Proposed_Selling_Dates_2023.pdf" target="_blank">AGPS Proposed Selling Dates</a><br>
 
 
 
