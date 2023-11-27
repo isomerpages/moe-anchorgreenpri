@@ -1,0 +1,28 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Info/.keep
+      - School Info/Principal's Message.md
+      - School Info/Our Milestones.md
+      - School Info/Our Vision and Mission.md
+      - School Info/Our Crest and Motto.md
+      - School Info/Our Core Values.md
+      - School Info/School Rules and Regulations.md
+      - School Info/School Homework Policy.md
+      - School Info/School Song.md
+      - School Info/School Hours.md
+      - Staff/.keep
+      - Staff/Key Personnel.md
+      - Staff/Primary 1 Teaching Staff.md
+      - Staff/Primary 2 Teaching Staff.md
+      - Staff/Primary 3 Teaching Staff.md
+      - Staff/Primary 4 Teaching Staff.md
+      - Staff/Primary 5 Teaching Staff.md
+      - Staff/Primary 6 Teaching Staff.md
+      - Staff/Mother Tongue Teachers.md
+      - Staff/PE, Arts and Music Teachers.md
+      - Staff/Senior Teachers.md
+      - Staff/LSM and LSP Teachers.md
+      - Staff/Executive and Administrative Staff (EAS).md
+      - Staff/Allied Educators.md

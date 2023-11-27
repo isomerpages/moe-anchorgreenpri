@@ -1,0 +1,6 @@
+collections:
+  alp:
+    output: true
+    order:
+      - "Tier 1: Learning Opportunities for All (P1 to P6).md"
+      - "Tier 2: Learning Opportunities for a Targeted Group.md"

@@ -1,0 +1,10 @@
+collections:
+  aesthetics:
+    output: true
+    order:
+      - Aesthetics.md
+      - Choir.md
+      - Drama.md
+      - Festive Drums.md
+      - Guzheng.md
+      - Modern Dance.md
