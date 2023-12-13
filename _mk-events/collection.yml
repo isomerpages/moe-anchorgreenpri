@@ -2,6 +2,7 @@ collections:
   mk-events:
     output: true
     order:
+      - Chldren's Day.md
       - Chinese New Year.md
       - World Water Day.md
       - Earth Day.md
