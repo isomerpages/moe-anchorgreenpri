@@ -2,7 +2,6 @@ collections:
   mk-events:
     output: true
     order:
-      - Year End Celebration.md
       - Chinese New Year.md
       - World Water Day.md
       - Earth Day.md
@@ -10,3 +9,4 @@ collections:
       - K2 Life @ MK.md
       - Mid Year Celebration.md
       - Children's Day.md
+      - Year End Celebration.md
