@@ -93,8 +93,8 @@ Primary 1 Teaching Staff
     <td class="tg-agmf"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
-    <td class="tg-fskk"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chin Sze Wei</span><br></td>
+    <td class="tg-fskk"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-4k5m" rowspan="2"><span style="background-color:#FBFFFA">1 Grace</span><br></td>
