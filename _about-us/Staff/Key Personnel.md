@@ -87,7 +87,13 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education &amp; Co-Curricular Activities</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a></td>
-  </tr> <tr> 
+  </tr> 
+	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Mathematics</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
+  </tr>
+	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Lower Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a></td>
@@ -101,11 +107,6 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Kalyani S Ramasamy <br>(Mrs Vara)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Upper Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:kalyani_s_ramasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kalyani_s_ramasamy@schools.gov.sg</span></a></td>
-  </tr>
-	<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Mathematics</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Mustapha</span><br></td>
