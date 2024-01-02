@@ -107,17 +107,13 @@ Primary 2 Teaching Staff
     <td class="tg-fskk"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="3"><span style="color:#222;background-color:#FBFFFA">2 Sincerity</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Suelasteri Samani</span><br></td>
-    <td class="tg-agmf"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mrs Sri<br>(Thilakavathy D/O Govindasamy)i</span><br></td>
+    <td class="tg-agmf"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg:"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms M Sagiitha</span></td>
     <td class="tg-fskk"><a href="mailto:m_sagiitha@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">m_sagiitha@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
-  </tr>
-	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Thangavel Divya</span></td>
-    <td class="tg-fskk"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">thangavel_divya@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
