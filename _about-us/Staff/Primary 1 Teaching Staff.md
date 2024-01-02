@@ -3,6 +3,7 @@ title: Primary 1 Teaching Staff
 permalink: /about-us/staff/primary-1-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Primary 1 Teaching Staff
 ========================
@@ -42,9 +43,9 @@ Primary 1 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Respect</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Deepa D/O Thanaseelan</span><br></td>
-    <td class="tg-33ww"><a href="mailto:deepa_thanaseelan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">deepa_thanaseelan@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Agility</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Nurheryani Mudzakir</span><br></td>
+    <td class="tg-33ww"><a href="mailto:nurheryani_mudzakir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurheryani_mudzakir@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Humaira Mahmood</span><br></td>
