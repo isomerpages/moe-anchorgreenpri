@@ -75,8 +75,8 @@ Primary 1 Teaching Staff
     <td class="tg-agmf"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span></td>
-    <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Jovina Tan Seoh Hwee</span></td>
+    <td class="tg-fskk"><a href="mailto:jovina_tan_seoh_hwee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jovina_tan_seoh_hwee@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Optimism</span></td>
