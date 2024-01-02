@@ -109,7 +109,7 @@ Primary 2 Teaching Staff
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mrs Sri<br>(Thilakavathy D/O Govindasamy)i</span><br></td>
-    <td class="tg-agmf"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg:"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg:"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms M Sagiitha</span></td>
