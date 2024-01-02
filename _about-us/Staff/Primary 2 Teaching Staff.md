@@ -89,7 +89,7 @@ Primary 2 Teaching Staff
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Resilience</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Liao Yi-Ling Allison</span><br></td>
     <td class="tg-agmf"><a href="mailto:liao_yi_ling_allison@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liao_yi_ling_allison@schools.gov.sg</span></a><br></td>
   </tr>
