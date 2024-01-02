@@ -76,8 +76,8 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Wang Huimin</span><br><span style="color:#222;background-color:#FBFFFA"> (Ms Bethany Wang)</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Aspiration</span></td>
