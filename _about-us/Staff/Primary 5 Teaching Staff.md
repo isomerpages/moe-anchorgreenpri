@@ -52,8 +52,8 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-3dle">Ms Saleha Abdul Majid</td>
-    <td class="tg-g24l"><a href="mailto:saleha_abdul_majid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">saleha_abdul_majid@schools.gov.sg</span></a></td>
+    <td class="tg-3dle">Ms Anu Asohan</td>
+    <td class="tg-g24l"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a></td>
   </tr>
   
   <tr>
