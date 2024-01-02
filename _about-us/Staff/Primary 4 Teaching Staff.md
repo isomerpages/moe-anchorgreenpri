@@ -79,7 +79,7 @@ Primary 4 Teaching Staff
     <td class="tg-g24l"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Grace</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Resilience</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Ailing<br>(Mrs Isabel Ng)</span><br></td>
     <td class="tg-33ww"><a href="mailto:wang_ailing@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_ailing@schools.gov.sg</span></a><br></td>
   </tr>
