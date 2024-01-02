@@ -71,7 +71,7 @@ Primary 2 Teaching Staff
     <td class="tg-fskk"><a href="mailto:nurheryani_mudzakir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurheryani_mudzakir@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Excellence</span></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Humility</span></td>
     <td class="tg-4k5m"><span style="color:#222">Ms Nur Syazwani Shaibani</span></td>
     <td class="tg-agmf"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_syazwani_shaibani@schools.gov.sg</span></a><br></td>
   </tr>
