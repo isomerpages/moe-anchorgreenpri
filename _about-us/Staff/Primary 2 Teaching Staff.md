@@ -49,8 +49,8 @@ Primary 2 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:deepa_thanaseelan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">deepa_thanaseelan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Tan Pei Shan </span><br></td>
-    <td class="tg-g24l"><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Nur Humaira Mahmood</span><br></td>
+    <td class="tg-g24l"><a href="mailto:humaira_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">humaira_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Integrity</span></td>
