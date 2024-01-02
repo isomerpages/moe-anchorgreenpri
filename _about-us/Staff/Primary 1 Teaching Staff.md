@@ -111,8 +111,8 @@ Primary 1 Teaching Staff
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_sumaiyah_rashid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_sumaiyah_rashid@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Sri <br>(Thilakavathy D/O Govindasamy)</span><br></td>
-    <td class="tg-fskk"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
+    <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
