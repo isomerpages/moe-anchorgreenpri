@@ -52,9 +52,9 @@ Primary 4 Teaching Staff
     <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Confidence</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Polly Yun Poo Lai </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Polly Steven Goh)</span></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Care</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Gordon Chua Koon Leng</span></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:gordon_chua_koon_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">gordon_chua_koon_leng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Risnawaty Baharudin</span><br></td>
