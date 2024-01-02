@@ -63,11 +63,10 @@ Key Personnel
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A"> ang_gek_moi@schools.gov.sg</span></a><br></td>
   </tr>
 	  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>
-(Mrs Thiro)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Khai Yin</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department
 Science</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">vinitha_nair@schools.gov.sg</span></a><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:lee_khai_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">lee_khai_yin@schools.gov.sg</span></a><br></td>
   </tr>
 	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chua Yu Gek</span><br></td>
