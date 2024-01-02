@@ -63,8 +63,8 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz Jelaludin</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Chiu Lin Rannessa</span><br></td>
+    <td class="tg-33ww"><a href="mailto:tan_chiu_lin_rannessa@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_chiu_lin_rannessa@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurheryani Mudzakir</span><br></td>
