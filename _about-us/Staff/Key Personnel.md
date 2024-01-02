@@ -133,6 +133,11 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head <br>Data Management</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a></td>
   </tr>
+	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Neoh Wee Ling</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head <br>Mother Tongue Languages</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
+  </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
