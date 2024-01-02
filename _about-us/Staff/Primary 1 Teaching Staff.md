@@ -70,16 +70,16 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:nurfarhana_omar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Excellence</span></td>
-    <td class="tg-4k5m"><span style="color:#222">Ms Wong Meng Yean</span></td>
-    <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Humility</span></td>
+    <td class="tg-4k5m"><span style="color:#222">Ms Tan Yu Ting</span></td>
+    <td class="tg-agmf"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span></td>
     <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Aspiration</span></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Optimism</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Chen Hui Qin</span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Janelle Koh)</span></td>
     <td class="tg-agmf" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a><br></td>
   </tr>
@@ -88,7 +88,7 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Grace</span></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Respect</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Evelyn Chua Sok Huang</span><br></td>
     <td class="tg-agmf"><a href="mailto:evelyn_chua_sok_huang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">evelyn_chua_sok_huang@schools.gov.sg</span></a><br></td>
   </tr>
@@ -97,7 +97,7 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-4k5m" rowspan="2"><span style="background-color:#FBFFFA">1 Patience</span><br></td>
+    <td class="tg-4k5m" rowspan="2"><span style="background-color:#FBFFFA">1 Grace</span><br></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Zhen</span></td>
     <td class="tg-fskk"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
   </tr>
@@ -106,7 +106,7 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Sincerity</span></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Innovation</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju</span><br><span style="color:#222;background-color:#FBFFFA"> (Ms Diane Chen)</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><br></td>
   </tr>
