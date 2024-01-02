@@ -3,6 +3,7 @@ title: Senior Teachers
 permalink: /about-us/staff/senior-teachers/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Senior Teachers
 ==================
@@ -70,6 +71,12 @@ Middle Primary)</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Chinese Language)</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
+  </tr>
+	  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Chinese Language)</span><br></td>
