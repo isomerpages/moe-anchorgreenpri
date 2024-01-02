@@ -70,9 +70,9 @@ Primary 4 Teaching Staff
     <td class="tg-g24l"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Aspiration</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chia Siew Lan</span><br></td>
-    <td class="tg-33ww"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Optimism</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen <br>(Mrs Juliana Tan)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Siti Nursyakila Masli</span></td>
