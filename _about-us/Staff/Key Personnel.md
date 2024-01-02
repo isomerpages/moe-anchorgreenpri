@@ -35,11 +35,11 @@ Key Personnel
     <td class="tg-lb3e" rowspan="4" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_school_leaders@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mumtaas Mohamed Kassim</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ Science</span><br></td>
   </tr>
 	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Level Head<br>Mathematics</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Mathematics</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
@@ -132,7 +132,6 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head <br>Data Management</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a></td>
   </tr>
-
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
