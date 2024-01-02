@@ -54,7 +54,7 @@ Primary 1 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Integrity</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har <br>(Mrs Ada Loy)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a><br></td>
+    <td class="tg-33ww"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Neo Ann</span><br></td>
