@@ -80,7 +80,7 @@ Primary 2 Teaching Staff
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Aspiration</span></td>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Optimism</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chin Sze Wei</span><br></td>
     <td class="tg-agmf"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a><br></td>
   </tr>
