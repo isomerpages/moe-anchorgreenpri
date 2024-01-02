@@ -112,8 +112,8 @@ Primary 2 Teaching Staff
     <td class="tg-rxka"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg:"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms M Sagiitha</span></td>
-    <td class="tg-fskk"><a href="mailto:m_sagiitha@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">m_sagiitha@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju<br>(Ms Diane Chen)</span></td>
+    <td class="tg-rxka"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">chen_szu_ju@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
