@@ -3,6 +3,7 @@ title: Primary 4 Teaching Staff
 permalink: /about-us/staff/primary-4-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Primary 4 Teaching Staff
 ========================
@@ -33,9 +34,9 @@ Primary 4 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Respect</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ho Le Lian </span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Amelia Pepito)</span><br></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Agility</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Insani</span></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Kanageswary D/O Danabalan</span><br></td>
@@ -48,12 +49,12 @@ Primary 4 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ng Jun Yan Nicholas</span><br></td>
-    <td class="tg-g24l"  style="text-align: center; vertical-align: middle;"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Confidence</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Polly Yun Poo Lai </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Polly Steven Goh)</span></td>
-    <td class="tg-33ww"  style="text-align: center; vertical-align: middle;"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Risnawaty Baharudin</span><br></td>
