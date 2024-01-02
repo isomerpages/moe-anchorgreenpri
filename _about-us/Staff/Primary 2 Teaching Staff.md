@@ -103,8 +103,8 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
-    <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jessica Cahyadi</span><br></td>
+    <td class="tg-fskk"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="3"><span style="color:#222;background-color:#FBFFFA">2 Sincerity</span></td>
