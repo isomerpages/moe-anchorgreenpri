@@ -90,7 +90,7 @@ Primary 1 Teaching Staff
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Respect</span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Wang Huimin<br>(Ms Bethany Wang)</span><br></td>
-    <td class="tg-agmf"><a href="mailto:evelyn_chua_sok_huang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">evelyn_chua_sok_huang@schools.gov.sg</span></a><br></td>
+    <td class="tg-agmf"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
