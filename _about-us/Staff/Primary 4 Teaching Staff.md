@@ -3,6 +3,7 @@ title: Primary 4 Teaching Staff
 permalink: /about-us/staff/primary-4-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Primary 4 Teaching Staff
 ========================
@@ -33,58 +34,58 @@ Primary 4 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Respect</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ho Le Lian </span><br><span style="color:#222;background-color:#FBFFFA"> (Mrs Amelia Pepito)</span><br></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Agility</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Insani</span></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Kanageswary D/O Danabalan</span><br></td>
-    <td class="tg-g24l"><a href="mailto:kanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Illiyana Bte Mohammad</span><br></td>
+    <td class="tg-g24l"><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Integrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohd_adha_b_kamaron@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_adha_b_kamaron@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 iNtegrity</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Tay Ling Ling</span><br></td>
+    <td class="tg-33ww"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ng Jun Yan Nicholas</span><br></td>
-    <td class="tg-g24l"  style="text-align: center; vertical-align: middle;"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Azna Abu Che</span><br></td>
+    <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Confidence</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Polly Yun Poo Lai </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Polly Steven Goh)</span></td>
-    <td class="tg-33ww"  style="text-align: center; vertical-align: middle;"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Care</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Gordon Chua Koon Leng</span></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:gordon_chua_koon_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">gordon_chua_koon_leng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Risnawaty Baharudin</span><br></td>
-    <td class="tg-g24l"><a href="mailto:risnawaty_baharudin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">risnawaty_baharudin@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Carine Chow Jing Yun</span><br></td>
+    <td class="tg-g24l"><a href="mailto:carine_chow_jingyun@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">carine_chow_jingyun@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Excellence</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Hazelee Asfar</span><br></td>
-    <td class="tg-33ww"><a href="mailto:hazelee_asfar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hazelee_asfar@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Humility</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Rafi Ahmad</span><br></td>
+    <td class="tg-33ww"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Jovina Tan Seoh Hwee</span><br></td>
-    <td class="tg-g24l"><a href="mailto:jovina_tan_seoh_hwee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jovina_tan_seoh_hwee@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
+    <td class="tg-g24l"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Aspiration</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chia Siew Lan</span><br></td>
-    <td class="tg-33ww"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Optimism</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen <br>(Mrs Juliana Tan)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Siti Nursyakila Masli</span></td>
-    <td class="tg-g24l"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Lim Wan Lin Veronica</span></td>
+    <td class="tg-g24l"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Grace</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Loy Qiu Yi</span><br></td>
-    <td class="tg-33ww"><a href="mailto:loy_qiu_yi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loy_qiu_yi@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Resilience</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Ailing<br>(Mrs Isabel Ng)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:wang_ailing@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_ailing@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Vivienne Wee Mei Yin</span></td>
-    <td class="tg-g24l"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ng Jun Yan Nicholas</span></td>
+    <td class="tg-g24l"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>

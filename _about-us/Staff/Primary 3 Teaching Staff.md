@@ -63,26 +63,26 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
-    <td class="tg-33ww"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Vivienne Wee Mei Yin</span><br></td>
+    <td class="tg-33ww"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Rafi Ahmad</span><br></td>
-    <td class="tg-g24l"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Maslina Mohtar</span><br></td>
+    <td class="tg-g24l"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a><br></td>
   </tr>
  
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Aspiration</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Teo Yen Yen</span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Juliana Tan)</span><br></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Optimism</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Polly Yun Poo Lai<br>(Mrs Polly Steven Goh)</span></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Lim Wan Lin Veronica</span><br></td>
-    <td class="tg-g24l"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Thangavel Divya</span><br></td>
+    <td class="tg-g24l"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thangavel_divya@schools.gov.sg</span></a></td>
   </tr><tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Grace</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Ailing </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Isabel Ng)</span><br></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:wang_ailing@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_ailing@schools.gov.sg</span></a></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Resilience</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Loy Qiu Yi</span><br></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:loy_qiu_yi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loy_qiu_yi@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span><br></td>
