@@ -38,17 +38,13 @@ Primary 5 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Agility</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Agility</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Lee Jierui Bernard</span><br></td>
     <td class="tg-33ww"><a href="mailto:lee_jierui_bernard@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_jierui_bernard@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-g24l"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
-  </tr>
-	  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Chai Ming Fang</span></td>
-    <td class="tg-g24l"><a href="mailto:chai_ming_fang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chai_ming_fang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Integrity</span></td>
