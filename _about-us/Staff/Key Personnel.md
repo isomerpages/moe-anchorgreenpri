@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Key Personnel
 =============
@@ -34,11 +35,11 @@ Key Personnel
     <td class="tg-lb3e" rowspan="4" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_school_leaders@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mumtaas Mohamed Kassim</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
@@ -48,7 +49,7 @@ Key Personnel
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>
 (Mrs Thiro)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Staff Developer<br> (Covering)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Staff Developer</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">vinitha_nair@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
@@ -62,11 +63,10 @@ Key Personnel
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A"> ang_gek_moi@schools.gov.sg</span></a><br></td>
   </tr>
 	  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>
-(Mrs Thiro)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Khai Yin</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department
 Science</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">vinitha_nair@schools.gov.sg</span></a><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:lee_khai_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">lee_khai_yin@schools.gov.sg</span></a><br></td>
   </tr>
 	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chua Yu Gek</span><br></td>
@@ -87,7 +87,13 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education &amp; Co-Curricular Activities</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a></td>
-  </tr> <tr> 
+  </tr> 
+	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Mathematics</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
+  </tr>
+	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Lower Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a></td>
@@ -101,11 +107,6 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Kalyani S Ramasamy <br>(Mrs Vara)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Upper Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:kalyani_s_ramasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kalyani_s_ramasamy@schools.gov.sg</span></a></td>
-  </tr>
-	<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Level Head<br>Mathematics</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Mustapha</span><br></td>
@@ -129,13 +130,13 @@ Science</span><br></td>
   </tr>
 		<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Chen Hui Qin<br>(Mrs Janelle Koh)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Assistant Year Head<br>Lower Primary</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head <br>Data Management</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Teck Hock Robert</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Assistant Year Head<br>Upper Primary</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Neoh Wee Ling</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head <br>Mother Tongue Languages</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
