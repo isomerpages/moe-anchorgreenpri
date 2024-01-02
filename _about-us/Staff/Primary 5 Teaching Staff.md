@@ -3,6 +3,7 @@ title: Primary 5 Teaching Staff
 permalink: /about-us/staff/primary-5-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Primary 5 Teaching Staff
 ========================
@@ -37,9 +38,9 @@ Primary 5 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Respect</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span><br></td>
-    <td class="tg-33ww"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Agility</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Lee Jierui Bernard</span><br></td>
+    <td class="tg-33ww"><a href="mailto:lee_jierui_bernard@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_jierui_bernard@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Ismail</span></td>
