@@ -43,9 +43,9 @@ Primary 4 Teaching Staff
     <td class="tg-g24l"><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Integrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohd_adha_b_kamaron@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_adha_b_kamaron@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 iNtegrity</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Tay Ling Ling</span><br></td>
+    <td class="tg-33ww"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ng Jun Yan Nicholas</span><br></td>
