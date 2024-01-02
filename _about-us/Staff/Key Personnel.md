@@ -129,7 +129,7 @@ Science</span><br></td>
   </tr>
 		<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Chen Hui Qin<br>(Mrs Janelle Koh)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Assistant Year Head<br>Lower Primary</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head <br>Data Management</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
