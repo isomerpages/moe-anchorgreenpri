@@ -3,6 +3,7 @@ title: Primary 2 Teaching Staff
 permalink: /about-us/staff/primary-2-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Primary 2 Teaching Staff
 ========================
@@ -44,8 +45,8 @@ Primary 2 Teaching Staff
 <tbody>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Respect</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har </span><br><span style="color:#222;background-color:#FBFFFA">(Mrs Ada Loy)</span><br></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Deepa D/O Thanaseelan</span><br></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:deepa_thanaseelan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">deepa_thanaseelan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Tan Pei Shan </span><br></td>
