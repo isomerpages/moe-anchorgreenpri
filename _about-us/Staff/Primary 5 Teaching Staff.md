@@ -80,7 +80,7 @@ Primary 5 Teaching Staff
     <td class="tg-djmn"><a href="mailto:siti_hazwani_mustapha@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Uma Maheswari</span><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms M Sagiitha</span><br></td>
     <td class="tg-33ww"><a href="mailto:uma_maheswari_velusamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">uma_maheswari_velusamy@schools.gov.sg</span></a><br></td>
   </tr>
 	  <tr>
