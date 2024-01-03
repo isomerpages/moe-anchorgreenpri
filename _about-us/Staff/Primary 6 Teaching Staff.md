@@ -72,8 +72,8 @@ Primary 6 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Optimism</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Maslina Mohtar</span><br></td>
-    <td class="tg-33ww"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Kanaran Shanta Kumari</span><br></td>
+    <td class="tg-djmn"><a href="mailto:kanaran_shanta_kumari_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanaran_shanta_kumari_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Chin Weng Kit Kelvin</span><br></td>
