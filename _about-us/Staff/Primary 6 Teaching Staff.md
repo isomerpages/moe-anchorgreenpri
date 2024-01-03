@@ -3,6 +3,7 @@ title: Primary 6 Teaching Staff
 permalink: /about-us/staff/primary-6-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Primary 6 Teaching Staff
 ========================
@@ -34,7 +35,7 @@ Primary 6 Teaching Staff
 <tbody>
   <tr>
  </tr><tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Respect</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Agility</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ang Swee Hong</span></td>
     <td class="tg-33ww"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
@@ -43,7 +44,7 @@ Primary 6 Teaching Staff
     <td class="tg-g24l"><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Integrity</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 iNtegrity</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mrs Jessica Yeow <br>(Jessica Ding Chooi Hui) </span></td>
     <td class="tg-33ww"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
   </tr>
