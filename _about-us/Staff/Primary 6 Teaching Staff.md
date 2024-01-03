@@ -76,8 +76,8 @@ Primary 6 Teaching Staff
     <td class="tg-djmn"><a href="mailto:kanaran_shanta_kumari_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanaran_shanta_kumari_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Chin Weng Kit Kelvin</span><br></td>
-    <td class="tg-g24l"><a href="mailto:chin_weng_kit_kelvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_weng_kit_kelvin@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mrs Olivia Lee<br>(Olivia Tan Sze Hui)</span><br></td>
+    <td class="tg-g24l"><a href="mailto:olivia_tan_sze_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">olivia_tan_sze_hui@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Resilience</span></td>
