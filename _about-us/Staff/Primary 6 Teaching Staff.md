@@ -53,7 +53,7 @@ Primary 6 Teaching Staff
     <td class="tg-g24l"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Confidence</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Care</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Bte Mustapha</span></td>
     <td class="tg-33ww"><a href="mailto:siti_hazwani_mustapha@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@moe.edu.sg</span></a></td>
   </tr>
@@ -62,7 +62,7 @@ Primary 6 Teaching Staff
     <td class="tg-g24l"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Excellence</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Humility</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Lee Jierui Bernard</span><br></td>
     <td class="tg-33ww"><a href="mailto:lee_jierui_bernard@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_jierui_bernard@schools.gov.sg</span></a><br></td>
   </tr>
@@ -71,7 +71,7 @@ Primary 6 Teaching Staff
     <td class="tg-g24l"><a href="mailto:loh_siang_choo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loh_siang_choo@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Aspiration</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Optimism</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Maslina Mohtar</span><br></td>
     <td class="tg-33ww"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a><br></td>
   </tr>
@@ -93,6 +93,19 @@ Primary 6 Teaching Staff
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
     <td class="tg-33ww"></td>
   </tr>
- 
+ <tr>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Grace</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span><br></td>
+    <td class="tg-33ww"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mark Reutens</span><br></td>
+    <td class="tg-g24l"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mark_reutens@schools.gov.sg</span></a>
+  </td></tr>
+	  <tr>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-33ww"></td>
+  </tr>
 </tbody>
 </table>
