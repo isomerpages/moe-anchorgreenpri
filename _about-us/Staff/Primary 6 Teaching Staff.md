@@ -79,10 +79,7 @@ Primary 6 Teaching Staff
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Chin Weng Kit Kelvin</span><br></td>
     <td class="tg-g24l"><a href="mailto:chin_weng_kit_kelvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_weng_kit_kelvin@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Grace</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span><br></td>
-    <td class="tg-33ww"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a></td></tr>
+ 
 	
 <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
