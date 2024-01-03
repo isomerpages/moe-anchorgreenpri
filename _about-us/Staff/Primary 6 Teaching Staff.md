@@ -85,8 +85,8 @@ Primary 6 Teaching Staff
     <td class="tg-33ww"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Chin Weng Kit Kelvin</span><br></td>
-    <td class="tg-g24l"><a href="mailto:chin_weng_kit_kelvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_weng_kit_kelvin@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Noraisha Bte Hamzah</span><br></td>
+    <td class="tg-g24l"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a><br></td>
   </tr>
 	 <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Grace</span></td>
