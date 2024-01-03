@@ -67,8 +67,8 @@ Primary 5 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Humility</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span></td>
-    <td class="tg-g24l"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span></td>
+    <td class="tg-djmn"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Ratnah Binte Rawi</span></td>
