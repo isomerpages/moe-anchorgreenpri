@@ -93,8 +93,8 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:chia_cui_ling_emily@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_cui_ling_emily@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Aik Hwang Wendy</span><br></td>
-    <td class="tg-agmf"><a href="mailto:tan_aik_hwang_wendy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_aik_hwang_wendy@schools.gov.sg</span></a></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chia Siew Lan</span><br></td>
+    <td class="tg-agmf"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a></td>
   </tr>
  	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
