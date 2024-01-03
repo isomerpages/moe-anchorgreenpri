@@ -81,7 +81,7 @@ Primary 5 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms M Sagiitha</span><br></td>
-    <td class="tg-33ww"><a href="mailto:uma_maheswari_velusamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">uma_maheswari_velusamy@schools.gov.sg</span></a><br></td>
+    <td class="tg-33ww"><a href="mailto:m_sagiitha@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">m_sagiitha@schools.gov.sg</span></a><br></td>
   </tr>
 	  <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Uma Maheswari</span><br></td>
