@@ -86,7 +86,7 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz Jelaludin</span><br></td>
-    <td class="tg-g24l"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
