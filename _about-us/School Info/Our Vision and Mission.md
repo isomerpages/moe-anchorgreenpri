@@ -5,13 +5,8 @@ description: ""
 third_nav_title: School Info
 variant: markdown
 ---
-Our Vision & Mission
+Our Vision &amp; Mission
 ====================
 
-### **OUR VISION STATEMENT**  
-
- **_Agile Learners, Gracious Citizens_**
-
-### **OUR MISSION STATEMENT**
-
- **_Grow Citizens of Character with Innovative Spirit_**
+![](/images/School%20Info/AGPS_Vision.png)<br>
+![](/images/School%20Info/AGPS_Mission.png)
