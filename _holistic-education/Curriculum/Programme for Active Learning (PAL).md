@@ -3,6 +3,7 @@ title: Programme for Active Learning (PAL)
 permalink: /holistic-education/curriculum/programme-for-active-learning-pal/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Programme for Active Learning (PAL)
 ===================================
@@ -21,12 +22,3 @@ These experiences will help ANCHORLITES develop a greater awareness of themselve
 
   
 
-### 4 Domains of PAL
-
-  
-
-TEACHER IN-CHARGE - MR MUHAMMAD FAHMY
-
-(Subject Head - PAL)
-
-[muhammad\_fahmy\_abdul\_rahman@schools.gov.sg](mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg)
