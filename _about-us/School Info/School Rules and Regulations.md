@@ -10,7 +10,7 @@ School Rules &amp; Regulations
 
   
 
-1.  **General Conduct**
+**1. General Conduct**
 
 Students are expected to:
 - Exhibit the A.N.C.H.O.R values - Agility, iNterigty, Care, Humility, Optimism and Resilience
@@ -22,7 +22,7 @@ Students are expected to:
 - Observe safety at all times.
 
 
-2.  **Attendance and Punctuality**
+**2. Attendance and Punctuality**
 
 - Daily attendance is compulsory.
 - Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.
@@ -37,8 +37,7 @@ Students are expected to:
 - Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.
 
   
-
-3.  **Assembly / Pledge Taking**
+**3. Assembly / Pledge Taking**
 
 - Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.
 - All students are required to sing the school song.
@@ -48,7 +47,7 @@ Students are expected to:
 
   
 
-4.  **Classroom Conduct**
+**4. Classroom Conduct**
 
 - Students are required to stand and greet the teachers before and after lessons.
 - No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.
@@ -56,7 +55,7 @@ Students are expected to:
 - No student is to leave the classroom without the teacher’s permission.
 
 
-5.  **Attire and Appearance**
+**5. Attire and Appearance**
 
 - Students should be properly and neatly attired at all times. Students are to wear the prescribed school uniform and no modification to the uniform is allowed.
 - Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.
@@ -102,9 +101,9 @@ Students are expected to:
 </tbody>
 </table>
 
- 6. **Permission to leave school/country during Curriculum/Term Time** 
+**6. Permission to leave school/country during Curriculum/Term Time** 
 - No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.
- 7. **Possession of Weapons**
+**7. Possession of Weapons**
 
 *   All student are not allowed to have in their possession any weapon.
 *   All student are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
