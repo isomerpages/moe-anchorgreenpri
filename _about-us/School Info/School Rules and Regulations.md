@@ -106,9 +106,9 @@ Students are expected to:
 - No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.
  7. **Possession of Weapons**
 
-*   All pupils are not allowed to have in their possession any weapon.
-*   All pupils are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-*   All pupils are strictly not allowed to bring sharp objects to school such as paper cutters, knives and sharp-pointed scissors. Scissors brought to school must be round-headed.
+*   All student are not allowed to have in their possession any weapon.
+*   All student are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+*   All student are strictly not allowed to bring sharp objects to school such as paper cutters, knives and sharp-pointed scissors. Scissors brought to school must be round-headed.
 
 ### Types of Minor and Major Offences
 
