@@ -102,7 +102,9 @@ Students are expected to:
 </tbody>
 </table>
 
- 6.  **Possession of Weapons**
+ 6. **Permission to leave school/country during Curriculum/Term Time** 
+- No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.
+ 7. **Possession of Weapons**
 
 *   All pupils are not allowed to have in their possession any weapon.
 *   All pupils are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
