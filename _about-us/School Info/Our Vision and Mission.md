@@ -8,5 +8,8 @@ variant: markdown
 Our Vision &amp; Mission
 ====================
 
-![](/images/School%20Info/AGPS_Vision.png)<br>
-![](/images/School%20Info/AGPS_Mission.png)
+<img style="width:70%" src="/images/School%20Info/AGPS_Vision.png">
+
+<br>
+
+<img style="width:70%" src="/images/School%20Info/AGPS_Mission.png">
