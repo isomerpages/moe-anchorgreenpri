@@ -3,61 +3,65 @@ title: School Rules and Regulations
 permalink: /about-us/school-info/school-rules-and-regulations/
 description: ""
 third_nav_title: School Info
+variant: markdown
 ---
-School Rules & Regulations
+School Rules &amp; Regulations
 ==========================
 
   
 
 1.  **General Conduct**
 
-Pupils are expected to:
+Students are expected to:
+- Exhibit the A.N.C.H.O.R values - Agility, iNterigty, Care, Humility, Optimism and Resilience
+- Be polite and well-behaved at all times in and outside of school.
+- Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.
+- Move quietly and in an orderly manner when moving around the school.
+- Handle all school equipment and property with care.
+- Keep the classrooms and school premises clean at all times.
+- Observe safety at all times.
 
-*   exhibit values such as Respect, Responsibility, Integrity, Confidence, Care and Harmony and work towards giving their best
-*   be polite and well-behaved at all times in and outside school
-*   greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely
-*   move quietly and in an orderly manner when moving around the school
-*   handle all school equipment and properties with care
-*   keep the classrooms and school premises clean at all times
-*   be safe at all times
-*   ensure the safety of oneself and of others
-
-  
 
 2.  **Attendance and Punctuality**
 
-*   Daily attendance is compulsory.
-*   Absenteeism must be covered by either a medical certificate from doctor or letter with valid reasons from parents.
-*   Be present at the assembly venue for flag raising by 7.30 a.m.
-*   Participate and be punctual for school and all designated school activities.
-*   Pupils who are unwell should not be sent to school. Parents are to keep their child's Form Teacher updated of his/her absence.
-*   Wilful absence from school is regarded as truancy and the school does not support applications for overseas leave of absence.
-
-**_Pupils' Holistic Development Profile (HDP) report will be affected should the above-mentioned rules relating to attendance and punctuality not adhered to._**
+- Daily attendance is compulsory.
+- Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.
+- Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with valid supporting document.
+- A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.
+- An automated message will be sent to the student’s parent/guardian should a student be absent from school and if the student’s parent/guardian has not updated the school on the student’s absence.
+- Please contact the school’s General Office, as soon as possible, upon receiving the message to update the school on the reason for your child’s/ward’s absence and provide the relevant supporting document (e.g. MC) when your child/ward returns to school.
+- Students are to report at the assembly venue for flag raising by 7.20 am.
+- Students who arrive at the assembly area after 7.30am will be marked as ‘Late’.
+- Students are to participate and be punctual for school and all designated school activities.
+- Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless, the absence is due to valid reason(s) (e.g. Medical Leave).
+- Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.
 
   
 
 3.  **Assembly / Pledge Taking**
 
-*   Pupils who are Singapore citizens and Permanent residents must sing the National Anthem and recite the Pledge. Pupils will take the Pledge with their right fist over their heart.
-*   All pupils are required to sing the school song.
-*   Pupils to observe all the commands for assembly without fidgeting. Upholding the integrity of the flag-raising ceremony is mandatory for everyone.
+- Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.
+- All students are required to sing the school song.
+- Students are to observe all the commands for assembly without fidgeting.
+- It is mandatory for all students to uphold the integrity of the flag raising ceremony.
+
 
   
 
 4.  **Classroom Conduct**
 
-*   Pupils are required to stand and greet the teachers before and after lessons.
-*   No food and sweet drinks are to be consumed in the classroom including during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.
-*   No pupil is to remain in the classroom during recess.
-*   No pupil is to leave the classroom without the teacher’s permission.
+- Students are required to stand and greet the teachers before and after lessons.
+- No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.
+- No student is to remain in the classroom during recess.
+- No student is to leave the classroom without the teacher’s permission.
 
-  
 
 5.  **Attire and Appearance**
 
-*   Pupils should be properly and neatly attired at all times. Pupils are to wear the prescribed school uniform and no modification to the uniform is allowed.
-*   Pupils are allowed to wear the PE attire (T-shirt & shorts) to school on days when they have PE lessons and Co-Curricular Activities. (Refer to the page 8 of the pupil’s handbook for examples.)
+- Students should be properly and neatly attired at all times. Students are to wear the prescribed school uniform and no modification to the uniform is allowed.
+- Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.
+- Students are allowed to wear their PE attire to school on days where they have PE lessons and/or Co-Curricular Activities. (Refer to the page 9 of the student’s diary for the examples.)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
@@ -98,11 +102,13 @@ Pupils are expected to:
 </tbody>
 </table>
 
- 6.  **Possession of Weapons**
+ 6. **Permission to leave school/country during Curriculum/Term Time** 
+- No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.
+ 7. **Possession of Weapons**
 
-*   All pupils are not allowed to have in their possession any weapon.
-*   All pupils are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-*   All pupils are strictly not allowed to bring sharp objects to school such as paper cutters, knives and sharp-pointed scissors. Scissors brought to school must be round-headed.
+*   All student are not allowed to have in their possession any weapon.
+*   All student are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+*   All student are strictly not allowed to bring sharp objects to school such as paper cutters, knives and sharp-pointed scissors. Scissors brought to school must be round-headed.
 
 ### Types of Minor and Major Offences
 
