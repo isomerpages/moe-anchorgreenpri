@@ -77,23 +77,30 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 <thead>
   <tr>
     <th class="tg-51ln">Levels</th>
-    <th class="tg-51ln">Day</th>
-    <th class="tg-51ln">Time</th>
+    <th class="tg-51ln">Monday &amp; Friday</th>
+		 <th class="tg-51ln">Tuesday to Thursday</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-735f">P1 &amp; P5</td>
-    <td class="tg-tznj" rowspan="6">Monday to Friday</td>
-    <td class="tg-735f">9.10 a.m. to 9.40 a.m.</td>
+    <td class="tg-735f">P1</td>
+    <td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
+		<td class="tg-735f">9.50 a.m. to 10.20 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-569y">P2 &amp; P6</td>
-    <td class="tg-569y">10.10 a.m. to 10.40 a.m.</td>
+    <td class="tg-569y">P2</td>
+    <td class="tg-569y">10.30 a.m. to 11.00 a.m.</td>
+		<td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
   </tr>
   <tr>
+    <td class="tg-735f">P3 &amp; P5</td>
+    <td class="tg-735f">11.00 a.m. to 11.30 a.m.</td>
+		<td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
+  </tr>
+	  <tr>
     <td class="tg-735f">P3 &amp; P4</td>
     <td class="tg-735f">11.10 a.m. to 11.40 a.m.</td>
+			<td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
   </tr>
  
 </tbody>
