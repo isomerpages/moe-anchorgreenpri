@@ -90,17 +90,17 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
   <tr>
     <td class="tg-569y">P2</td>
     <td class="tg-569y">10.30 a.m. to 11.00 a.m.</td>
-		<td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
+		<td class="tg-735f">10.50 a.m. to 11.20 a.m.</td>
   </tr>
   <tr>
     <td class="tg-735f">P3 &amp; P5</td>
     <td class="tg-735f">11.00 a.m. to 11.30 a.m.</td>
-		<td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
+		<td class="tg-735f">11.20 a.m. to 11.50 a.m.</td>
   </tr>
 	  <tr>
-    <td class="tg-735f">P3 &amp; P4</td>
-    <td class="tg-735f">11.10 a.m. to 11.40 a.m.</td>
-			<td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
+    <td class="tg-735f">P4 &amp; P4</td>
+    <td class="tg-735f">9.00 a.m. to 9.30 a.m.</td>
+			<td class="tg-735f">9.20 a.m. to 9.50 a.m.</td>
   </tr>
  
 </tbody>
