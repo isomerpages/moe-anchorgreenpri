@@ -160,7 +160,7 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-51ln">Levels</th>
+    <th class="tg-51ln">Gate</th>
     <th class="tg-51ln">Day</th>
     <th class="tg-51ln">Time</th>
     <th class="tg-k4rv">School Holidays</th>
@@ -170,12 +170,12 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
   <tr>
     <td class="tg-2oxp" rowspan="2">1</td>
     <td class="tg-mu5c">Monday, Tuesday, Wednesday and Friday</td>
-    <td class="tg-2oxp">6.30 a.m. to 7.30 a.m.<br>1.15 p.m. to 1.45 p.m.</td>
+    <td class="tg-2oxp">6.30 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.</td>
     <td class="tg-2oxp">Closed</td>
   </tr>
   <tr>
     <td class="tg-984z">Thursday (CCA for P3 to P6)</td>
-    <td class="tg-pe7e">6.30 a.m. to 7.30 a.m.<br>1.15 p.m. to 1.45 p.m.<br>4.15 p.m. to 4.45 p.m.</td>
+    <td class="tg-pe7e">6.30 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.<br>4.00 p.m. to 4.30 p.m.</td>
     <td class="tg-tdcm">Closed</td>
   </tr>
   <tr>
