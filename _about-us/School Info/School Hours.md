@@ -3,6 +3,7 @@ title: School Hours
 permalink: /about-us/school-info/school-hours/
 description: ""
 third_nav_title: School Info
+variant: markdown
 ---
 School Hours
 ============
@@ -82,16 +83,16 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 </thead>
 <tbody>
   <tr>
-    <td class="tg-735f">P1 & P5</td>
+    <td class="tg-735f">P1 &amp; P5</td>
     <td class="tg-tznj" rowspan="6">Monday to Friday</td>
     <td class="tg-735f">9.10 a.m. to 9.40 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-569y">P2 & P6</td>
+    <td class="tg-569y">P2 &amp; P6</td>
     <td class="tg-569y">10.10 a.m. to 10.40 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-735f">P3 & P4</td>
+    <td class="tg-735f">P3 &amp; P4</td>
     <td class="tg-735f">11.10 a.m. to 11.40 a.m.</td>
   </tr>
  
@@ -120,13 +121,13 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vhpo">P3  &amp; P4</td>
+    <td class="tg-vhpo">P3  &amp; P5</td>
     <td class="tg-vhpo" rowspan="2">Thursday</td>
-    <td class="tg-vhpo">1.30 p.m. to 2.20 p.m.</td>
+    <td class="tg-vhpo">1.30 p.m. to 2.00 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-v8f3">P5 &amp; P6</td>
-    <td class="tg-v8f3">12.40 p.m. to 1.30 p.m.</td>
+    <td class="tg-v8f3">P4 &amp; P6</td>
+    <td class="tg-v8f3">12.20 p.m. to 12.50 p.m.</td>
   </tr>
 </tbody>
 </table>
