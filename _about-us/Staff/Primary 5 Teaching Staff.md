@@ -77,7 +77,7 @@ Primary 5 Teaching Staff
   <tr>
     <td class="tg-ug26" rowspan="3"><span style="color:#222;background-color:#FBFFFA">5 Optimism</span></td>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Bte Mustapha</span><br></td>
-    <td class="tg-djmn"><a href="mailto:siti_hazwani_mustapha@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@moe.edu.sg</span></a><br></td>
+    <td class="tg-djmn"><a href="mailto:siti_hazwani_mustapha@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms M Sagiitha</span><br></td>
