@@ -128,10 +128,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 **Information for Parents**
 
-8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form as provided in the form sent via Parents’ Gateway (PG). Should you require a hard copy version of the form, please contact Mr Mohamed Rafi at <a href="mailto:mohamed_rafi_ahmad@schools.gov.sg">mohamed_rafi_ahmad@schools.gov.sg </a> to request for the form to be emailed to you for your return to the school. The acknowledgement and opt-out form (where applicable) has been sent to all P5 parents via PG earlier in January 2023.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by 01/02/2024.
 
-10\. Parents can contact the school at 68861356 for discussion or to seek clarification about the school’s sexuality education programme.
-
-11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+10\. Parents can contact the school at 68861356 or anchorgreen_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
