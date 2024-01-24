@@ -122,13 +122,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   <tr>
     <td class="tg-7yig">Are We More Than Friends?<br>Lesson 2<br>(60 min)</td>
     <td class="tg-ktyi">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-    <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 10</span></td></tr>
+    <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 10</span></td></tr><tr></tr>
 </tbody>
 </table>
-
-***PLEASE NOTE:**<br>
-For 2023, the P5 Lesson “Did You Know” will also be conducted for the P6 Cohort 
- 
 
 **Information for Parents**
 
