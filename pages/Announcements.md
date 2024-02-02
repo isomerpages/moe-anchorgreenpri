@@ -7,6 +7,10 @@ variant: markdown
 Announcements
 =============
 
+### MK@AG Open House
+
+
+MK@AG will be having an Open House on 3rd February 2024 from 9:00am to 11:00am.  Registration begins at 8:30 am.  Please visit the [MK @ ANCHOR GREEN](https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/) for more information. 
 
 ### Group Personal Accident Insurance
 
