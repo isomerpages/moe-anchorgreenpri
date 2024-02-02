@@ -6,4 +6,5 @@ description: ""
 ---
 <h1><strong>2024 MOE Kindergarten (MK) Open House</strong></h1>
 <p></p>
-<p></p>
+<p><a href="/files/MK/MKOH_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MOE Kindergarten (MK) Open Housee</a>
+</p>
