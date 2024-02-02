@@ -2,38 +2,19 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 Announcements
 =============
 
-###  President's Award for Teachers 2024
+### MK@AG Open House
 
-Dear Parents / Students, <br>You can now submit your nomination for PAT 2024 via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding educator. <br><img src="/images/Announcements/pat%202024.jpg" style="width:100%">
 
-###  Outstanding Youth in Education Award 2024
-
-Dear Parents / Students<br>You can now submit your nomination for OYEA 2024 via <a href="go.gov.sg/pat2024" target="_blank">go.gov.sg/pat2024</a> to express your appreciation for an outstanding young educator.<br><img src="/images/Announcements/oyea%202024.jpg" style="width:100%">
-
-###  Caring Teacher Award 2024
-
-Parents and students, you can now nominate teachers for the Caring Teacher Awards 2024. Please go to the link <a href="www.cta.nie.edu.sg" target="_blank">www.cta.nie.edu.sg</a>. to make your nominations.<br><img src="/images/Announcements/cta%202024.jpg" style="width:100%"><br>Nominees for the awards should fulfil the following criteria:<br>Be a full-time teacher in a primary school, a secondary school, or junior college/centralised institute in Singapore;
-Possess at least three years of teaching experience in Singapore; and
-Demonstrate exemplary character, initiative, integrity, altruism, and a proven record of service to their schools and students.
-
-### 2023 P1 Registration Exercise - Phase 1 Registration 
-
-Dear Parents / Guardians
-
-Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 January 2017 and 1 January 2018 (both dates inclusive) and has a sibling currently studying in Anchor Green Primary.
-For the 2023 P1 Registration Exercise (2023 P1 Ex), parents who are registering their younger child under Phase 1 are to register during the Phase 1 registration period from 4 July 2023 (Tuesday), 9am to 5 July 2023 (Wednesday), 4.30pm through the P1 Registration Portal. The P1 Registration Portal can be accessed at: <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank">https://www.moe.gov.sg/primary/p1-registration.</a>
-
-You may refer to <a href="https://www.moe.gov.sg/primary/p1-registration." target="_blank">MOE P1 website for information on the 2023 P1 Ex.</a> for more information.
-
-Thank you.
+MK@AG will be having an Open House on 3rd February 2024 from 9:00am to 11:00am.  Registration begins at 8:30 am.  Please visit the [MK @ ANCHOR GREEN](https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/) for more information. 
 
 ### Group Personal Accident Insurance
 
-The school’s group insurer for 2023 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
+The school’s group insurer for 2024 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
 
 
 ### Keeping Singapore Dengue-Free
