@@ -3,6 +3,7 @@ title: "Stall No 3: Halal Western Food Stall"
 permalink: /resources/canteen-menu/stall-no-3-halal-western-food-stall/
 description: ""
 third_nav_title: Canteen Menu
+variant: markdown
 ---
 Stall No. 3: Halal Western Food Stall
 ===============================
