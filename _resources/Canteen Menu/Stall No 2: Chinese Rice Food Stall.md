@@ -3,6 +3,7 @@ title: "Stall No 2: Chinese Rice Food Stall"
 permalink: /resources/canteen-menu/stall-no-2-chinese-rice-food-stall/
 description: ""
 third_nav_title: Canteen Menu
+variant: markdown
 ---
 Stall No: 2 Chinese Rice Food Stall
 ===================================
