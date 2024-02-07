@@ -7,13 +7,12 @@ variant: markdown
 School Advisory Committee
 =========================
 
-### Our SAC Members (2024)
+### Our SAC Members
 
-*   Mr Albert Fong Say Kim - Chairman
-*   Mr T Mogan - Vice - Chairman
-*   Mr Ong Tiong Wee - Treasurer
-*   Mr Wesley Cheong - Hon Sec
-*   Mr Christopher Wong Wing Cheong - Member
-*   Dr Roy Goh - Member
+*   Mr T Mogan - Chairman
+*   Mr Ong Tiong Wee - Vice - Chairman
+*   Dr Roy Goh - Treasurer
 *   Mr Chua Hian Yong - Member
 *   Mr Teo Chiang Chai - Member
+*   Dr Christopher Wong - Member
+*   Mdm Tang Ling - Member
