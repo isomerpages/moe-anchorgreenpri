@@ -2,11 +2,12 @@
 title: School Advisory Committee
 permalink: /partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 School Advisory Committee
 =========================
 
-### Our SAC Members (2022)
+### Our SAC Members (2024)
 
 *   Mr Albert Fong Say Kim - Chairman
 *   Mr T Mogan - Vice - Chairman
@@ -16,5 +17,3 @@ School Advisory Committee
 *   Dr Roy Goh - Member
 *   Mr Chua Hian Yong - Member
 *   Mr Teo Chiang Chai - Member
-
-![](/images/Partners/SAC/sac_2023.jpg)
