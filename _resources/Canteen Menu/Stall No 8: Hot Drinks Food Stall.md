@@ -8,7 +8,6 @@ variant: markdown
 Stall No. 8: Hot Drinks Food Stall
 ==================================
 
-![](/images/Resources/Canteen/stall%208.jpg)
 
 Hot Drinks
 ----------
