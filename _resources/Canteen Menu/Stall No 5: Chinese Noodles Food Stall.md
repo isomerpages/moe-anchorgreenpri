@@ -6,9 +6,7 @@ third_nav_title: Canteen Menu
 variant: markdown
 ---
 Stall No. 5: Chinese Noodles Food Stall
-=======================================
-
-![Stall 5 Logo](/images//Resources/Canteen/stall%205.jpg)
+======================================
 
 ### **Set Meal Concept:&nbsp;Noodles + Vegetables + Meat + Fruit**
 
