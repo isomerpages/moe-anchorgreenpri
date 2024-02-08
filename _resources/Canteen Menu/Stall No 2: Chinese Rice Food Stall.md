@@ -8,7 +8,6 @@ variant: markdown
 Stall No: 2 Chinese Rice Food Stall
 ===================================
 
-![Stall 2 Logo](/images//Resources/Canteen/stall%202.jpg)
 
 ### **Set Meal Concept:&nbsp;Rice + Vegetables + Meat + Fruit**
 ### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
