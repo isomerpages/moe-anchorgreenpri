@@ -8,7 +8,6 @@ variant: markdown
 Stall No. 3: Halal Western Food Stall
 ===============================
 
-![Stall 3 Logo](/images//Resources/Canteen/stall%203.jpg)
 
 ### **Set Meal Concept:&nbsp;Rice / Noodles + Vegetables + Meat + Fruit**
 
