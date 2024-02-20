@@ -3,6 +3,7 @@ title: PE, Arts and Music Teachers
 permalink: /about-us/staff/pe-art-and-music-teachers/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Art
 ===
@@ -123,12 +124,7 @@ Physical Education
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Teck Hock Robert</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Physical Education</span></td>
-    <td class="tg-lb3e"><a href="mailto:lee_teck_hock_robert@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">lee_teck_hock_robert@schools.gov.sg</span></a></td>
-  </tr>
-  
+
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Adha Kamaron</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
