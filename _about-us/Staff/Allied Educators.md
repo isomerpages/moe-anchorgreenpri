@@ -3,6 +3,7 @@ title: Allied Educators
 permalink: /about-us/staff/allied-educators/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Allied Educators
 ================
@@ -31,7 +32,7 @@ Allied Educators
 <tbody>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Seow Jin Bing Annabelle</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Senior Special Educational Needs Officer</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Lead Special Educational Needs Officer</span></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:seow_jin_bing_annabelle@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">seow_jin_bing_annabelle@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -42,7 +43,7 @@ Allied Educators
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Yan Liang Kevin</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior School Counsellor</span><br></td>
-    <td rowspan="2" class="tg-lb3e"  style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_counselling@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_counselling@schools.gov.sg</span></a></td>
+    <td rowspan="2" class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_counselling@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_counselling@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mun Kwai Sam</span><br></td>
