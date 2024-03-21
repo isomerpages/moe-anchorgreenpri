@@ -41,7 +41,7 @@ Allied Educators
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ching_zai_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ching_zai_ting@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Yan Liang Kevin</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ong Boon Sze Clare</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior School Counsellor</span><br></td>
     <td rowspan="2" class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_counselling@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_counselling@schools.gov.sg</span></a></td>
   </tr>
