@@ -81,7 +81,7 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Optimism</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Chen Hui Qin<br>(Mrs Janelle Koh)</span><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Jembu Krishnamurthy Nalini</span><br></td>
     <td class="tg-agmf"><a href="mailto:chen_hui_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_hui_qin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
