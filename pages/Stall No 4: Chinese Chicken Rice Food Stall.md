@@ -2,12 +2,13 @@
 title: "Stall No 4: Chinese Chicken Rice Food Stall"
 permalink: /resources/canteen-menu/stall-no-4-chinese-chicken-rice-food-stall/
 description: ""
+variant: markdown
 ---
-Stall No. 4: Chinese Chicken Rice Food Stall
+Stall No. 4: Japanese &amp; Korean Stall
 ============================================
 
 
-### **Set Meal Concept:&nbsp;Rice / Chicken + Vegetables + Fruit**
+### **Set Meal Concept:&nbsp;Rice + Vegetables + Meat + Fruit**
 
 ### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
 
