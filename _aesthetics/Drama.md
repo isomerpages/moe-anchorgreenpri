@@ -2,6 +2,7 @@
 title: Drama
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/drama/
 description: ""
+variant: markdown
 ---
 AGPS Drama Club provides members with opportunities to explore various drama techniques that will enable them to be groomed into budding actors. AGPS Drama club sets out with the aim of teaching members about the different elements of theatre by providing them with the opportunity to work both on-stage and backstage. Through these learning opportunities, we also hope to instill in our members love for theatre and foster a sense of confidence in acting as well as in speaking English. Students are also given a platform to participate in various drama competitions such as the International Science Drama Competition (ISDC) in which AGPS Drama club members emerged as 2nd runner up winners in 2018.
 
@@ -27,13 +28,10 @@ AGPS Drama Club provides members with opportunities to explore various drama tec
     <td class="tg-f4yw">Ms Deepa Thanaseelan</td>
     <td class="tg-0pyt"><a href="mailto:deepa_thanaseelan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">deepa_thanaseelan@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Veronica Lathar Naidu</td>
-    <td class="tg-0pyt"><a href="mailto:sarina_shariman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sarina_shariman@schools.gov.sg</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-f4yw">Mdm Suelasteri Samani<br></td>
-    <td class="tg-0pyt"><a href="mailto:veronica_lathar_naidu@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">veronica_lathar_naidu@schools.gov.sg</span></a></td>
+    <td class="tg-0pyt"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
