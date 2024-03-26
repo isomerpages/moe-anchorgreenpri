@@ -46,7 +46,7 @@ Allied Educators
     <td rowspan="2" class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_counselling@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_counselling@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mun Kwai Sam</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mun Kwai Sam <br> (Mrs Kathy Tay)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Counsellor</span><br></td>
 	</tr>
 	<tr>
