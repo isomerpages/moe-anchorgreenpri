@@ -12,7 +12,6 @@ Stall No. 4: Japanese &amp; Korean Stall
 
 ### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
 
-![Serving Size of Stall 4 Menu](/images/Resources/Canteen/Stall%204%20serving%20size.png)
 
 Main Meals
 ---------
