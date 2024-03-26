@@ -2,6 +2,7 @@
 title: Wushu
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/wushu/
 description: ""
+variant: markdown
 ---
 AGPS Wushu is a place dedicated to pupils who love Chinese martial arts. It is a performance sport where pupils are trained in different kinds of Wushu routines, skills, and movements. The training aims to develop self-discipline, respect, confidence, and resilience among the pupils. Pupils who are familiar with the routines, skills, and movements in the process of learning, are offered opportunities for growth and achievement through participating in the National Wushu Competition. National Wushu Competition is organized by the National School Game with support from the Ministry of Education in the month of March. During the competition and school performances, our Wushu members have shown confidence, excellence, and team spirit in executing the learnt routines. AGPS Wushu not only hopes to continue to spread the martial spirit of Wushu but also to nurture the pupils and build on this success for greater achievements.
 
@@ -38,7 +39,7 @@ AGPS Wushu is a place dedicated to pupils who love Chinese martial arts. It is a
   </tr>
   <tr>
     <td class="tg-f4yw">Mdm Wang Huimin Bethany<br></td>
-    <td class="tg-0pyt"><a href="mailto:wang_huimin@school.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@school.gov.sg</span></a></td>
+    <td class="tg-0pyt"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
