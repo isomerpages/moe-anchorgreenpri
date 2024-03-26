@@ -28,10 +28,7 @@ AGPS Drama Club provides members with opportunities to explore various drama tec
     <td class="tg-f4yw">Ms Deepa Thanaseelan</td>
     <td class="tg-0pyt"><a href="mailto:deepa_thanaseelan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">deepa_thanaseelan@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Veronica Lathar Naidu</td>
-    <td class="tg-0pyt"><a href="mailto:sarina_shariman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sarina_shariman@schools.gov.sg</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-f4yw">Mdm Suelasteri Samani<br></td>
     <td class="tg-0pyt"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a></td>
