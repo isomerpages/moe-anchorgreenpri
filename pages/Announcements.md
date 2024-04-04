@@ -7,10 +7,12 @@ variant: markdown
 Announcements
 =============
 
-### MK@AG Open House
+### AGPS Parents School Guided Visit
 
+The school will have our Parents School Guided Visit for parents with K2 children on 16 May (Thu) from 2.00pm to 4.00pm.
+Kindly register by 3 May (Fri) with [this link](https://go.gov.sg/agps-psgv-2024) or scan the QR code below  and a confirmation email will be sent to you prior to the event.
 
-MK@AG will be having an Open House on 3rd February 2024 from 9:00am to 11:00am.  Registration begins at 8:30 am.  Please visit the [MK @ ANCHOR GREEN](https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/) for more information. 
+<img src="/images/Announcements/agps_psgv_2024.png" style="width:20%">
 
 ### Group Personal Accident Insurance
 
