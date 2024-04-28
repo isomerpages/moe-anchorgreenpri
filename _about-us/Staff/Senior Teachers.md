@@ -66,8 +66,7 @@ Jelaludin</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br>
 (Mrs Juliana Tan)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(English Language
-Middle Primary)</span><br></td>
+(Learning Needs HAL)</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
