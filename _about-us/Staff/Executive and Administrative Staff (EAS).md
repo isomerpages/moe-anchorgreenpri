@@ -3,6 +3,7 @@ title: Executive and Administrative Staff (EAS)
 permalink: /about-us/staff/executive-n-administrative-staff-eas/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Executive &amp; Administrative Staff (EAS)
 ========================
@@ -110,8 +111,8 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-fskk"></td>
   </tr>
 	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Peh Ai Yian</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Teacher Aide</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
     <td class="tg-fskk"></td>
   </tr>
 	<tr>
