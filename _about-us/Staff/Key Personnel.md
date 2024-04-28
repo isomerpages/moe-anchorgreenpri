@@ -64,7 +64,7 @@ Key Personnel
   </tr>
 	  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Khai Yin</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>
 Science</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:lee_khai_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">lee_khai_yin@schools.gov.sg</span></a><br></td>
   </tr>
