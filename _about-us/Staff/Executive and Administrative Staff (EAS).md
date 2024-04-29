@@ -111,7 +111,7 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-fskk"></td>
   </tr>
 	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Giam Swee Wan</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm  Giam Swee Wan</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Science Lab Assistant</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
