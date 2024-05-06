@@ -23,6 +23,6 @@ sections:
         by 10 May (Fri) through
       button: THIS LINK OR THE QR CODE
       url: https://go.gov.sg/agps-psgv-2024
-      image: /images/Announcements/agps_psgv_2024.png
+      image: /images/Announcements/agps_psgv_20240516.png
       alt: SCAN THE QR CODE
 ---
