@@ -19,7 +19,7 @@ School Canteen Advertisement
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Malay Noodles Stall
 </span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 17 May 2024</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 10 May 2024</span></td>
     <td class="tg-lb3e" style="text-align: left"><span style="font-weight:500;text-decoration:none;color:#21088A">Halal</span></td>
   </tr>
 	<tr>
