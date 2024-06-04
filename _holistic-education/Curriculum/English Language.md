@@ -27,8 +27,8 @@ Literacy support programme for middle primary students
 **School-based Dyslexia Programme (SDR)**<br>
 Specialised literacy remediation programme for middle primary students with dyslexia
 
-**Reading Circles**<br>
-Programme to engage advanced upper primary readers in fiction texts
+**Reading Circles (RC)**<br>
+Enrichment programme for upper primary advanced readers to cultivate their literary awareness, critical thinking skills and language skills 
 
 <img src="/images/Curriculum/English/MOE%20Programmes.jpg" style="width:100%">
 
