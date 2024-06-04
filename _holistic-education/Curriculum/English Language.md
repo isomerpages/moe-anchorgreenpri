@@ -47,7 +47,7 @@ Digital Reads promotes independent readers and fosters literacy and the love of 
 ElevateR is an initiative tailored to Elevate the Reading proficiency of our Primary 1 and Primary 2 students
 <img src="/images/Curriculum/English/ElevateR.jpg" style="width:100%" align="left">
 
-<img src="/images/Curriculum/English/starlit_logo.jpg" style="width:50%" align="left">
+<img src="/images/Curriculum/English/Starlit_Logo.jpg" style="width:100%" align="left">
 <br>
 STARLit is AGPS Literature-appreciation programme that instils our students with the love for the language and encourage them to become critical and creative thinkers who express themselves confidently, effectively and empathetically. 
 
