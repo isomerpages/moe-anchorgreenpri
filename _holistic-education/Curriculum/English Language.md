@@ -48,7 +48,7 @@ ElevateR is an initiative tailored to Elevate the Reading proficiency of our Pri
 <img src="/images/Curriculum/English/ElevateR.jpg" style="width:100%" align="left">
 
 <img src="/images/Curriculum/English/starlit_logo.jpg" style="width:50%" align="left">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 STARLit is AGPS Literature-appreciation programme that instils our students with the love for the language and encourage them to become critical and creative thinkers who express themselves confidently, effectively and empathetically. 
 
 <img src="/images/Curriculum/English/Starlit_Pix.jpg" style="width:100%">
