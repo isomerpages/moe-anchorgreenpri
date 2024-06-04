@@ -3,17 +3,17 @@ title: English Language
 permalink: /holistic-education/curriculum/english-language/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 English Language
 ================
 ### Focus
-A Community of Confident and Competent English Learners
+To nurture confident and empathetic communicators with the love for the language 
 ### Objectives
-*   To nurture confident and effective communicators with the love for the language
-*   We strive on building a strong foundation of the English Language through students’ enjoyment of the language and the promotion of reading, oracy and writing skills to develop knowledge and independent use of the language. 
+We strive to build a strong foundation in the English Language by fostering students’ enjoyment of the language and promoting reading, oracy, listening and writing skills. This approach aims to develop knowledge and encourage independent use of the language.  
 
 ### Pedagogy Approaches
-The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills and promotes a positive attitude towards learning using stories and strategies to engage students in the learning of English Language. 
+The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills while promoting a positive attitude towards learning through the use of stories and strategies to engage students in the learning of the English Language.  
 <img src="/images/Curriculum/English/Stellar.jpg" style="width:100%">
 
 ### Key Programmes
