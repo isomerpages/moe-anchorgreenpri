@@ -30,21 +30,25 @@ Specialised literacy remediation programme for middle primary students with dysl
 **Reading Circles (RC)**<br>
 Enrichment programme for upper primary advanced readers to cultivate their literary awareness, critical thinking skills and language skills 
 
-<img src="/images/Curriculum/English/MOE%20Programmes.jpg" style="width:100%">
+<img src="/images/Curriculum/English/MOE_Programmes.jpg" style="width:100%">
 
 #### School Programmes
 ##### Speech and Drama
-Our Primary 1 students build their confidence and enhance their communication skills when they explore rhythm, expression and voice projection during English Language lessons that culminate in a showcase at the end of the programme. 
+Our Primary 1 students build their confidence and enhance their creativity and communication skills during English Language lessons that culminate in a showcase at the end of the programme. 
 
-![](/images/Curriculum/English/Speech%20&amp;%20Drama.jpg)
+<img src="/images/Curriculum/English/Speech_and_Drama.jpg" style="width:100%" align="left">
 
-<img src="/images/Curriculum/English/StarLit_01.jpg" style="width:50%" align="left">
+##### Digital Reads
+Digital Reads promotes independent readers and fosters literacy and the love of reading by providing students convenient access to books and leveraging the affordances of technology.  
 
-<br><br><br><br><br><br>
+<img src="/images/Curriculum/English/Digital_Reads.jpg" style="width:100%" align="left">
 
+##### ElevateR
+ElevateR is an initiative tailored to Elevate the Reading proficiency of our Primary 1 and Primary 2 students
+<img src="/images/Curriculum/English/ElevateR.jpg" style="width:100%" align="left">
+
+<img src="/images/Curriculum/English/starlit_logo.jpg" style="width:50%" align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 STARLit is AGPS Literature-appreciation programme that instils our students with the love for the language and encourage them to become critical and creative thinkers who express themselves confidently, effectively and empathetically. 
 
-
-<img src="/images/Curriculum/English/StarLit_02.jpg" style="width:100%"><br>
-<img src="/images/Curriculum/English/StarLit_03.jpg" style="width:100%"><br>
-<img src="/images/Curriculum/English/StarLit_04.jpg" style="width:100%">
+<img src="/images/Curriculum/English/Starlit_Pix.jpg" style="width:100%">
