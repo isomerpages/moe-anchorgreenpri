@@ -7,13 +7,6 @@ variant: markdown
 Announcements
 =============
 
-### AGPS Parents School Guided Visit
-
-The school will have our Parents School Guided Visit for parents with K2 children on 16 May (Thu) from 2.00pm to 4.00pm.
-Kindly register by 10 May (Fri) with [this link](https://go.gov.sg/agps-psgv-2024) or scan the QR code below  and a confirmation email will be sent to you prior to the event.
-
-<img src="/images/Announcements/agps_psgv_2024.png" style="width:20%">
-
 ### Group Personal Accident Insurance
 
 The school’s group insurer for 2024 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
