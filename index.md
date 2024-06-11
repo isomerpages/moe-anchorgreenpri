@@ -12,4 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+        - title: SCHOOL CALENDAR
+          description: ""
+          url: ""
 ---
