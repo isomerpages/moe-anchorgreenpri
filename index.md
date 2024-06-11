@@ -14,5 +14,5 @@ sections:
           url: /announcements
         - title: SCHOOL CALENDAR
           description: ""
-          url: https://calendar.google.com/calendar/u/0/r/day/2024/9/6?pli=1
+          url: https://calendar.google.com/calendar/u/0?cid=bW9lLmVkdS5zZ190dWc1a2N0OTcxYnU3dnZrZzRyMGg0Mjhzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 ---
