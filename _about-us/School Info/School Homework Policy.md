@@ -28,4 +28,4 @@ Generally, teachers assign homework to pupils to:
 
   
 
-There will be no written weekend homework for all P1 to P3 pupils. The dual objectives are to allow our pupils to enjoy their weekends with their family and afford them the space and time for parents to think of innovative ways to teach and engage their children. 
+There will be no written weekend homework for all P1 to P3 pupils. The dual objectives are to allow our pupils to enjoy their weekends with their family and afford them the space and time for parents to think of innovative ways to teach and engage their children.
