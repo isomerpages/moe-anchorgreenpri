@@ -3,13 +3,14 @@ title: School Homework Policy
 permalink: /about-us/school-info/school-homework-policy/
 description: ""
 third_nav_title: School Info
+variant: markdown
 ---
 School Homework Policy
 ======================
 
   
 
-Homework is defined as school work or assignment that a pupil is required to complete after school curriculum hours.
+Homework is defined as schoolwork or assignment a pupil must complete after school curriculum hours. 
 
   
 
@@ -27,4 +28,4 @@ Generally, teachers assign homework to pupils to:
 
   
 
-There will be no written weekend homework for all P1 to P3 pupils. The dual objectives are to allow our pupils to enjoy their weekends with their family and provided space and time for parents to think of innovative ways to teach and engage their children.
+There will be no written weekend homework for all P1 to P3 pupils. The dual objectives are to allow our pupils to enjoy their weekends with their family and afford them the space and time for parents to think of innovative ways to teach and engage their children. 
