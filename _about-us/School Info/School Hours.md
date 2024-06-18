@@ -10,11 +10,10 @@ School Hours
 
   
 
-Before 7.10 a.m. students are to report to the ISH and must be seated by level, 1m apart at the designated area at all time. No mingling allowed. Each student must have a book to do silent reading.
+Students who arrive before 7.00am must report to ISH Level 1 and they must have a book to do silent reading.
 
-  
 
-By 7.10 a.m. and onwards students are to proceed to their classroom using the correct route and staircase. They are to carry out Wipe Down Routine, wash their hands upon arrival in the classroom and to continue with Silent Reading in the classroom.
+From 7.10 a.m. onwards students are to proceed to their classroom using the correct route and staircase. They are to carry out Wipe Down Routine, wash their hands upon arrival in the classroom and to continue with Silent Reading in the classroom. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
@@ -58,7 +57,7 @@ By 7.10 a.m. and onwards students are to proceed to their classroom using the co
 </tbody>
 </table>
 
-\* Monday - students taking HMT will be dismissed at 3.00 p.m.
+\* Dismissal times for P3 to P6 students on Monday, Tuesday and Friday may differ, depending on the after-school activities they are involved in. 
 
 ### Recess Time
 
