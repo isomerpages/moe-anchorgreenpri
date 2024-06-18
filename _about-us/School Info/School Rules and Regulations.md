@@ -103,14 +103,13 @@ T-Shirt. </span><br><br><span style="font-weight:bold;text-decoration:underline;
 </table>
 
 **6. Permission to leave school/country during Curriculum/Term Time** 
-- No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.
+- Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations. 
 
 
 **7. Possession of Weapons**
 
-*   All student are not allowed to have in their possession any weapon.
-*   All student are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-*   All student are strictly not allowed to bring sharp objects to school such as paper cutters, knives and sharp-pointed scissors. Scissors brought to school must be round-headed.
+*  All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited. 
+*   All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited. 
 
 ### Types of Minor and Major Offences
 
