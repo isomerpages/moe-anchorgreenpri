@@ -18,15 +18,15 @@ Students are expected to:
 - Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.
 - Move quietly and in an orderly manner when moving around the school.
 - Handle all school equipment and property with care.
-- Keep the classrooms and school premises clean at all times.
-- Observe safety at all times.
+- Keep the classrooms and school premises clean 
+- Observe safety guidelines and behave in a safe manner 
 
 
 **2. Attendance and Punctuality**
 
 - Daily attendance is compulsory.
 - Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.
-- Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with valid supporting document.
+- Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.
 - A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.
 - An automated message will be sent to the student’s parent/guardian should a student be absent from school and if the student’s parent/guardian has not updated the school on the student’s absence.
 - Please contact the school’s General Office, as soon as possible, upon receiving the message to update the school on the reason for your child’s/ward’s absence and provide the relevant supporting document (e.g. MC) when your child/ward returns to school.
