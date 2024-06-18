@@ -57,7 +57,7 @@ Students are expected to:
 
 **5. Attire and Appearance**
 
-- Students should be properly and neatly attired at all times. Students are to wear the prescribed school uniform and no modification to the uniform is allowed.
+- Students should be properly and neatly attired at all times. They must wear the prescribed school uniform and no modification to the uniform is allowed. 
 - Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.
 - Students are allowed to wear their PE attire to school on days where they have PE lessons and/or Co-Curricular Activities. (Refer to the page 9 of the student’s diary for the examples.)
 
@@ -84,7 +84,7 @@ Students are expected to:
 <tbody>
   <tr>
     <td class="tg-2oxp"><span style="font-weight:bold">Hair</span></td>
-    <td class="tg-8wy3"><span style="font-weight:bold;text-decoration:underline">Fringe</span><br><br>- Fringe must be neat and kept above the eyebrows (for both and girls)<br>- Long fringe must be pinned up (for girls)<br><br><span style="font-weight:bold;text-decoration:underline">Length</span><br><br>- Long hair (below the collar) must be tied up and plaited neatly (for girls)<br>- Hair must be kept short and neat (for boys)<br>- Fanciful hairstyle is not allowed<br><br><span style="font-weight:bold;text-decoration:underline">Facial Hair</span><br><br>- Facial hair such as moustache and beard not allowed  <br><br><span style="font-weight:bold;text-decoration:underline">Grooming</span><br><br>- Hair must not be tinted or dyed (for girls)<br>- Hair must not be tinted, dyed or spiked (for boys)<br><br><span style="font-weight:bold;text-decoration:underline">Hair Accessories</span><span style="text-decoration:underline"> </span><br><br>- All hair accessories must be black or navy-blue and no embellishments are not allowed</td>
+    <td class="tg-8wy3"><span style="font-weight:bold;text-decoration:underline">Fringe</span><br><br>- Fringe must be neat and kept above the eyebrows (for both and girls)<br>- Long fringe must be pinned up (for girls)<br><br><span style="font-weight:bold;text-decoration:underline">Length</span><br><br>- Long hair (below the collar) must be tied up and plaited neatly (for girls)<br>- Hair must be kept short and neat (for boys)<br>- Fanciful hairstyle is not allowed<br><br><span style="font-weight:bold;text-decoration:underline">Facial Hair</span><br><br>- Facial hair such as moustache and beard not allowed  <br><br><span style="font-weight:bold;text-decoration:underline">Grooming</span><br><br>- Hair must not be tinted or dyed (for girls)<br>- Hair must not be tinted, dyed or spiked (for boys)<br><br><span style="font-weight:bold;text-decoration:underline">Hair Accessories</span><span style="text-decoration:underline"> </span><br><br>- All hair accessories must be black or navy blue and not jeweled. (girls)</td>
   </tr>
   <tr>
     <td class="tg-tdcm"><span style="font-weight:bold">Attire</span></td>
