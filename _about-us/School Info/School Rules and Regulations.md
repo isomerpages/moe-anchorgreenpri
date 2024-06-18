@@ -50,9 +50,9 @@ Students are expected to:
 **4. Classroom Conduct**
 
 - Students are required to stand and greet the teachers before and after lessons.
-- No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.
-- No student is to remain in the classroom during recess.
-- No student is to leave the classroom without the teacher’s permission.
+- No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class.
+- All students will proceed to the canteen during recess.  They are not to stay in the classroom. 
+- Students will require the teacher’s permission before stepping out of the classroom. 
 
 
 **5. Attire and Appearance**
