@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /holistic-education/curriculum/physical-education/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Physical Education
 ==================
@@ -11,7 +12,7 @@ Physical Education
 
 Physical Education (PE) in AGPS is guided by MOE’s Revised PE and Sports Development Framework which advocates a whole-school approach towards development of pupils in Sports and Outdoor Education. ANCHORLITES are presented with an environment to build a strong foundation for continual growth that leads to improved physical, social and emotional health. Opportunities are created for ANCHORLITES to acquire fundamental motor skills, to be exposed to a variety of sporting experiences, to participate recreationally in physical activities and to pursue competitively in the areas they excel in.
 
-Through PE, ANCHORLITES develop soft skills with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. The activities in PE also help ANCHORLITES deepen their 21st century competencies through a combination of applied learning experiences and life-skills experiences.
+Through PE, ANCHORLITES develop soft skills with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. The activities in PE also help ANCHORLITES deepen their 21st&nbsp;century competencies through a combination of applied learning experiences and life-skills experiences.
 
   
 
@@ -20,10 +21,10 @@ Through PE, ANCHORLITES develop soft skills with real-life experiential learning
 *   Dance
 *   Gymnastics
 *   Outdoor Education
-*   Physical Health & Fitness
-*   Sports & Games
+*   Physical Health &amp; Fitness
+*   Sports &amp; Games
 *   Swimsafer
-*   Track & Field
+*   Track &amp; Field
 
   
 
@@ -77,7 +78,7 @@ Through PE, ANCHORLITES develop soft skills with real-life experiential learning
 
 [National School Games](https://nsg.moe.edu.sg/)
 
-This website provides information on inter-school competitions (sports) in Singapore. It provides latest updates on the fixtures, results, rules and regulations of the various sports that schools take part in. 
+This website provides information on inter-school competitions (sports) in Singapore. It provides latest updates on the fixtures, results, rules and regulations of the various sports that schools take part in.&nbsp;
 
   
 
@@ -87,6 +88,6 @@ This website provides useful tips and information on establishing life-long heal
 
   
 
-[MOE Direct School Admission (DSA)](https://beta.moe.gov.sg/secondary/dsa/)
+[MOE Direct School Admission (DSA)](https://moe.gov.sg/secondary/dsa/)
 
 The DSA-Sec allows students to seek admission to a secondary school on the basis of talents and achievements that may not be demonstrated at the PSLE. The DSA-Sec enables students to enter suitable programmes in Secondary Schools that can develop the students in these areas.
