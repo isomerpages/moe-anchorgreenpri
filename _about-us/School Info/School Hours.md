@@ -122,13 +122,13 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vhpo">P3  &amp; P5</td>
+    <td class="tg-vhpo">P3  &amp; P6</td>
     <td class="tg-vhpo" rowspan="2">Thursday</td>
     <td class="tg-vhpo">1.30 p.m. to 2.00 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-v8f3">P4 &amp; P6</td>
-    <td class="tg-v8f3">12.20 p.m. to 12.50 p.m.</td>
+    <td class="tg-v8f3">P4 &amp; P5</td>
+    <td class="tg-v8f3">1.00 p.m. to 1.30 p.m.</td>
   </tr>
 </tbody>
 </table>
