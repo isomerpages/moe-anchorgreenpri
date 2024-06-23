@@ -89,11 +89,11 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
     <td class="tg-569y">10.30 a.m. to 11.00 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-735f">P3 &amp; P5</td>
+    <td class="tg-735f">P3 &amp; P6</td>
     <td class="tg-735f">11.00 a.m. to 11.30 a.m.</td>
   </tr>
 	  <tr>
-    <td class="tg-735f">P4 &amp; P6</td>
+    <td class="tg-735f">P4 &amp; P5</td>
     <td class="tg-735f">9.00 a.m. to 9.30 a.m.</td>
   </tr>
  
