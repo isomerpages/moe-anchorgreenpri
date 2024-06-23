@@ -57,7 +57,7 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 </tbody>
 </table>
 
-\* Dismissal times for P3 to P6 students on Monday, Tuesday and Friday may differ, depending on the after-school activities they are involved in. 
+\* Dismissal times for P3 to P6 students on Monday, Tuesday and Friday may differ, depending on the after-school activities they are involved in. For students who have no CCA on Thursday, the dismissal time will be 1:30 p.m. for P3 and 2:00 p.m. for P4 and P5.
 
 ### Recess Time
 
