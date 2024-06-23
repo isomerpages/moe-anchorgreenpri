@@ -57,7 +57,7 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 </tbody>
 </table>
 
-\* Dismissal times for P3 to P6 students on Monday, Tuesday and Friday may differ, depending on the after-school activities they are involved in. 
+\* Dismissal times for P3 to P6 students on Monday, Tuesday and Friday may differ, depending on the after-school activities they are involved in. For students who have no CCA on Thursday, the dismissal time will be 1:30 p.m. for P3 and 2:00 p.m. for P4 and P5.
 
 ### Recess Time
 
@@ -69,37 +69,32 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-tznj{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-51ln{background-color:#009901;border-color:#ffccc9;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-735f{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:left;vertical-align:top}
-.tg .tg-569y{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-735f{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-569y{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-51ln">Levels</th>
-    <th class="tg-51ln">Monday &amp; Friday</th>
-		 <th class="tg-51ln">Tuesday to Thursday</th>
+    <th class="tg-51ln">Monday to Friday</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-735f">P1</td>
     <td class="tg-735f">9.30 a.m. to 10.00 a.m.</td>
-		<td class="tg-735f">9.50 a.m. to 10.20 a.m.</td>
   </tr>
   <tr>
     <td class="tg-569y">P2</td>
     <td class="tg-569y">10.30 a.m. to 11.00 a.m.</td>
-		<td class="tg-735f">10.50 a.m. to 11.20 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-735f">P3 &amp; P5</td>
+    <td class="tg-735f">P3 &amp; P6</td>
     <td class="tg-735f">11.00 a.m. to 11.30 a.m.</td>
-		<td class="tg-735f">11.20 a.m. to 11.50 a.m.</td>
   </tr>
 	  <tr>
-    <td class="tg-735f">P4 &amp; P6</td>
+    <td class="tg-735f">P4 &amp; P5</td>
     <td class="tg-735f">9.00 a.m. to 9.30 a.m.</td>
-			<td class="tg-735f">9.20 a.m. to 9.50 a.m.</td>
   </tr>
  
 </tbody>
@@ -127,13 +122,13 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vhpo">P3  &amp; P5</td>
+    <td class="tg-vhpo">P3  &amp; P6</td>
     <td class="tg-vhpo" rowspan="2">Thursday</td>
     <td class="tg-vhpo">1.30 p.m. to 2.00 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-v8f3">P4 &amp; P6</td>
-    <td class="tg-v8f3">12.20 p.m. to 12.50 p.m.</td>
+    <td class="tg-v8f3">P4 &amp; P5</td>
+    <td class="tg-v8f3">1.00 p.m. to 1.30 p.m.</td>
   </tr>
 </tbody>
 </table>
