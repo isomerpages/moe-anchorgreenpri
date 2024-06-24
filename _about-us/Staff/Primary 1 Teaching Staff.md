@@ -49,7 +49,7 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Li Leng</span><br></td>
-    <td class="tg-g24l"><a href="mailto:mohd_adha_b_kamaron@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_adha_b_kamaron@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l"><a href="mailto:tan_li_leng_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_li_leng_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 iNtegrity</span></td>
