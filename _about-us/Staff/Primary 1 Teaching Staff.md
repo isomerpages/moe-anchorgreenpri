@@ -102,8 +102,8 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="background-color:#FBFFFA">1 Grace</span><br></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Munirah Manap</span></td>
-    <td class="tg-fskk"><a href="mailto:munirah_manap@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">munirah_manap@schools.gov.sg</span></a><br></td>
+   <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span><br></td>
+    <td class="tg-fskk"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span><br></td>
