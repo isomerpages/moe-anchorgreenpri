@@ -6,6 +6,9 @@ description: ""
 ---
 <p><strong>Arif Budiman Teacher Award (AGAB)</strong>&nbsp;\</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Mr Mohamad Firuz Jelaludin" src="/images/Celebrations/AGAB/Picture1_Firuz.png">
+</div>
 <p>Our Malay Senior Teacher Mr Mohamad Firuz Jelaludin, who has been teaching
 for 17 years, has crowned the AGAB under the Exemplary Category in 2022.&nbsp;</p>
 <p>He utilizes technology to attract the interest of his students. He agreed
