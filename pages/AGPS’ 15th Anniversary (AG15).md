@@ -71,3 +71,13 @@ one another while demonstrating their skills and appreciation for the game
 throughout the exhibition match. These fifteen years have indeed put us
 in good stead and together, we will continue to Aspire, Grow and Serve!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Let’s hoist anchor and set sail on an exciting journey of discovery and learning!" src="/images/AG15/AG15_02.jpg">
+</div>
+<p>Let’s hoist anchor and set sail on an exciting journey of discovery and
+learning!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating our 15th anniversary and continuing to aspire, grow and serve." src="/images/AG15/AG15_03.jpg">
+</div>
+<p>Celebrating our 15th anniversary and continuing to aspire, grow and serve.</p>
