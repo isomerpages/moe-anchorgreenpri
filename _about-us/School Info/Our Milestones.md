@@ -190,6 +190,23 @@ the SCSA (Schools) for three consecutive years.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Our school was awarded the NS Advocate Award for Organizations in recognition
+of our outstanding support for National Service.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Our school celebrated its 15th anniversary with an array of colourful
 activities. <a href="https://anchorgreenpri.moe.edu.sg/our-journey/" rel="noopener noreferrer nofollow" target="_blank">Click here to read more.</a>
 </p>
