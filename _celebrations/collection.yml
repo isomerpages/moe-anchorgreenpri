@@ -1,4 +1,5 @@
 collections:
   celebrations:
     output: true
-    order: []
+    order:
+      - AG15.md
