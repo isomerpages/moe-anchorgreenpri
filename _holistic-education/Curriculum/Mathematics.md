@@ -3,13 +3,14 @@ title: Mathematics
 permalink: /holistic-education/curriculum/mathematics/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Mathematics
 ===========
 
 ##### Focus
 
-To develop pupils with **confidence**, **passion** and **determination** to achieve excellence in mathematics
+The Mathematics Department is committed to develop pupils with confidence, passion and determination to achieve excellence in mathematics. 
 
   
 
