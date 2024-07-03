@@ -26,7 +26,18 @@ To create **meaningful learning experiences** which help pupils:
 
 Our department employs a variety of teaching methods including the Concrete-Pictorial-Abstract (CPA) approach, Inquiry-Based Learning (IBL) and the use of technology (e-pedagogy).  
 
-##### Key Programmes
+##### Key Programmes/Initiatives
+
+MOE-initiated:  
+
+**P4 to P6 E2K (Excellence 2000)** <br>
+The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach. Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking. 
+
+**LSM (Learning Support for Mathematics)** <br>
+The LSM Programme aims to provide support and build confidence in students who need more time to develop their numeracy skills. The school offers LSM to our P1 to P4 students. [Insert LSM.png] 
+
+**ICAN (Improving Confidence and Achievement in Numeracy)** <br>
+The ICAN Programme aims to help low progress students who do not have a good understanding and mastery of fundamental mathematics concepts and skills. The school offers ICAN to our P3 and P4 students. 
 
 **Wow! Wow! Math!**
 is a programme which promotes learning of Mathematics in a different and engaging way. It was held over a week and the activities of each days are based on the sub-theme of Whole Numbers, Geometry, Measurement, Logic and Online Games. With the help of our ever supportive PSG, the activities were successfully run and they helped pupils see how Mathematics is closely related to their everyday lives.
