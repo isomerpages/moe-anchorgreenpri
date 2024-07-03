@@ -31,3 +31,4 @@ Awarded Frank Cooper Sands Award (2024)
 <br>
 ![Cub Scouts planned a farewell party for our P6 Cub Scouts.](/images/CCA/Physical/Cub%20Scouts/Farewell_Party_for_P6_Cub_Scouts.jpg)During the last CCA session of Semester 1, Cub Scouts planned a farewell party for our P6 Cub Scouts.
 <br>
+![Silver Progress Award ceremony was also conducted during the last CCA session for the P6 Cub Scouts.](/images/CCA/Physical/Cub%20Scouts/Silver_Progress_Award_Ceremony.jpg)Silver Progress Award ceremony was also conducted during the last CCA session for the P6 Cub Scouts.
