@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Info/Our Journey.md
       - School Info/.keep
       - School Info/Principal's Message.md
+      - School Info/Our Journey.md
       - School Info/Our Milestones.md
       - School Info/Our Vision and Mission.md
       - School Info/Our Crest and Motto.md
