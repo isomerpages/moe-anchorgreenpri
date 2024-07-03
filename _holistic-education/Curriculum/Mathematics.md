@@ -52,38 +52,15 @@ The Math Around Us Home Activities Programme aims to provide opportunities for s
 The Activity Booklet which students and parents can do at home together
 
 
-**Excellence 2000 (E2K)**<br>
-The Excellence 2000 programme aims to develop pupils’ independent learning, higher-order thinking and creativity. While providing pupils with the empowerment to learn, this programme strengthens our pupils’ confidence and reinforces their perceptions of self as an independent learner and investigator. All this is done while developing effective personal and cognitive skills and strengthening a love for learning.
+**P4 Math Project Competition and P5 Math Game Design Competition**<br>
+These competitions aim to provide opportunities for students to extend their learning beyond the classroom, apply Mathematics in daily life, and encourage students to do innovative and creative work in Mathematics. ![Math Poster Design](/images/Curriculum/Mathematics/P4_Math_Poster_Design.jpg)![P5 Math Game Design](/images/Curriculum/Mathematics/P5_Math_Game_Design.jpg)
 
-<img src="/images/Curriculum/Mathematics/E2K_01.png" style="width:80%">
+**P5 Math Olympiad Training** <br>
+Students who possess exceptional problem-solving skills are selected to participate, with the objective to expose them to challenging questions in order to stimulate their interest and ignite their passion in Mathematics. 
 
+**P5 &amp; P6 Level Up Programme (LUP)**
 <br>
+Held after school for P5 to P6 Standard Math students, this programme aims to narrow the learning gaps of our low progress students by remediating their areas of weakness in a smaller class size context.
 
-**LSM and ICAN** <br>
-The LSM and ICAN programmes aim to support students’ confidence in Mathematics through building their foundation of mathematics concepts which are keys to deeper understanding and learning. With a stronger foundation, students' cognitive loads are lessened, significantly allowing them to focus more on problem-solving.
-
-<img src="/images/Curriculum/Mathematics/LSM_ICAN_01.png" style="width:80%">
-
-**P4 Math Project Competition and P5 Math Game Design Competition**
-<br>
-Primary 4 students are to submit a poster on how Mathematics is applied in the daily lives, while P5 students tap on ICT Tools to collaborate and create a board game. This learning experience aims to provide student with the opportunity to apply mathematical concepts and for students to show their creativity and innovation. 
-
-
-<img style="width:80%" src="/images/Curriculum/Mathematics/P4MathProject_01.png"><br><img style="width:80%" src="/images/Curriculum/Mathematics/P5MathGameDesign_01.png">
-
-### Mathematics @ AGPS
-
-Following closely to the Mathematics Framework by MOE, we aim to equip pupils with the necessary mathematical knowledge and skills for everyday life. To make learning meaningful and effective, teachers capitalize on the Concrete-Pictorial-Abstract approach in their teaching. Pupils are encouraged to explore mathematical concepts through hands-on activities using manipulatives, before they are exposed to the pictorial and abstract stages.
-
-<img src="/images/Curriculum/Mathematics/MOE%20Math%20Curriculum%20Framework.jpg" style="width:80%">
-
-Our Pupils engaging in activities during Mathematics lessons:
-
-
-<img src="/images/Curriculum/Mathematics/Mathematics%20Lesson.png" style="width:80%">
-
-
-<img src="/images/Curriculum/Mathematics/Mathematics%20Lesson2.png" style="width:80%">
-
-
-<img src="/images/Curriculum/Mathematics/Mathematics%20Lesson3.png" style="width:80%">
+**Useful Resources and Links:**<br>
+Koobits (https://member.koobits.com)
