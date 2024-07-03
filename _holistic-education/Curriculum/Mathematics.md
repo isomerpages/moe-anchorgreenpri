@@ -28,7 +28,7 @@ Our department employs a variety of teaching methods including the Concrete-Pict
 
 ##### Key Programmes/Initiatives
 
-MOE-initiated:  
+##### MOE-initiated:  
 
 **P4 to P6 E2K (Excellence 2000)** <br>
 The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach. Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking. 
@@ -39,10 +39,7 @@ The LSM Programme aims to provide support and build confidence in students who n
 **ICAN (Improving Confidence and Achievement in Numeracy)** <br>
 The ICAN Programme aims to help low progress students who do not have a good understanding and mastery of fundamental mathematics concepts and skills. The school offers ICAN to our P3 and P4 students. 
 
-**Wow! Wow! Math!**
-is a programme which promotes learning of Mathematics in a different and engaging way. It was held over a week and the activities of each days are based on the sub-theme of Whole Numbers, Geometry, Measurement, Logic and Online Games. With the help of our ever supportive PSG, the activities were successfully run and they helped pupils see how Mathematics is closely related to their everyday lives.
-
-<img style="width:80%" src="/images/Curriculum/Mathematics/WowWowMath_01.png">
+##### School-based: 
 
 <br>
 
