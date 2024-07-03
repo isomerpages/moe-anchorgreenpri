@@ -17,4 +17,3 @@ Scout Wall Mural Design Competition
 
 **Achievements:** <br>
 Awarded Frank Cooper Sands Award (2024)
-
