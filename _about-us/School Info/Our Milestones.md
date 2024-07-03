@@ -135,6 +135,23 @@ learners to be Environmental Activists) as its Applied Learning Programme
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our school was awarded the Civil Defence Ready School Awards for its active
+involvement in Emergency Preparedness.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
