@@ -3,6 +3,7 @@ title: Our Milestones
 permalink: /about-us/school-info/our-milestones/
 description: ""
 third_nav_title: School Info
+variant: tiptap
 ---
 Our Milestones
 ==============
@@ -18,6 +19,6 @@ Our Milestones
  |
 | 2017 | Our school received the President's Award for the Environment (PAE) from Ministry of the Environment and Water Resources (MEWR) for its contributions towards environmental and water resource sustainability in Singapore  
  |
-| 2018 | Our school received the CD (Civil Defence) Ready School Award and the BCA GREEN MARK AWARD (GOLD PLUS)  
+| 2018 | Our school received the&nbsp;CD (Civil Defence) Ready School Award&nbsp;and the BCA GREEN MARK AWARD (GOLD&nbsp;PLUS)  
  |
 | 2019 | Our school established its environment education programme ELEA (Empowering learners to be Environmental Activists) as its Applied Learning Programme  <br>MK@Anchor Green received its first cohort of K1 children in January |
