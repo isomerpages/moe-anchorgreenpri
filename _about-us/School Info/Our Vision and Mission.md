@@ -15,5 +15,5 @@ At the end of 6 years of education with us, our Anchorlites are Agile Learners w
 <img style="width:90%" src="/images/School%20Info/AGPS_Mission.png">
 We strive to growing rooted individuals who are anchored in moral values and driven to explore creative ideas for positive change.
 
-**Our Values**
+# Our Values
 ![Our Values](/images/School%20Info/OurValues.png)
