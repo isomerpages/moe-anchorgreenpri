@@ -23,3 +23,6 @@ Awarded Frank Cooper Sands Award (2024)
 <br>
 ![Cub Scouts were given the opportunity to grow their own Kangkong Plant.](/images/CCA/Physical/Cub%20Scouts/Cub_Scouts_Grow_their_Own_Kangkong_Plant_.jpg)To attain the Gardener proficiency badge, Cub Scouts were given the opportunity to grow their own Kangkong Plant.
 <br>
+![Cub Scouts had a log booklet where they recorded their observations of their Kangkong plant’s growth](/images/CCA/Physical/Cub%20Scouts/Cub_Scouts_Log_Booklet_.jpg)Cub Scouts had a log booklet where they recorded their observations of their Kangkong plant’s growth to share with their packs.
+<br>
+![In commemoration of the World Water Day, Cub Scouts ](/images/CCA/Physical/Cub%20Scouts/World_Water_Day_Commemoration.jpg)In commemoration of the World Water Day, Cub Scouts created bookmarks to pen down ways/tips on saving water.
