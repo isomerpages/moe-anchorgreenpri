@@ -25,7 +25,8 @@ To create **meaningful learning experiences** which help pupils:
 ##### Pedagogy Approaches
 
 Our department employs a variety of teaching methods including the Concrete-Pictorial-Abstract (CPA) approach, Inquiry-Based Learning (IBL) and the use of technology (e-pedagogy).  
-
+##### Framework:
+![Primary Mathematics Curriculum Framework](/images/Curriculum/Mathematics/Primary_Mathematics_Curriculum_Framework.jpg)
 ##### Key Programmes/Initiatives
 
 ##### MOE-initiated:  
@@ -34,28 +35,22 @@ Our department employs a variety of teaching methods including the Concrete-Pict
 The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach. Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking. 
 
 **LSM (Learning Support for Mathematics)** <br>
-The LSM Programme aims to provide support and build confidence in students who need more time to develop their numeracy skills. The school offers LSM to our P1 to P4 students. [Insert LSM.png] 
+The LSM Programme aims to provide support and build confidence in students who need more time to develop their numeracy skills. The school offers LSM to our P1 to P4 students. ![Learning Support for Mathematics](/images/Curriculum/Mathematics/LSM.jpg)
 
 **ICAN (Improving Confidence and Achievement in Numeracy)** <br>
 The ICAN Programme aims to help low progress students who do not have a good understanding and mastery of fundamental mathematics concepts and skills. The school offers ICAN to our P3 and P4 students. 
 
-##### School-based: 
-
-<br>
+##### School-based:
 
 **Curious Mathematician Trail**  <br>
 The AGPS Curious Mathematician Trail aims to provide students with the opportunity to apply Math to their school environment. Students embark on a virtual tour around the school and engage in classroom discussions and activities on how math is related to the school environment.
-
-<img src="/images/Curriculum/Mathematics/CuriosMathematicianTrail_01.png" style="width:80%">
-
-<br>
+![P2 students engaged in weighing an object together](/images/Curriculum/Mathematics/Curious_Mathematician_Trail.jpg)
+P2 students engaged in weighing an object together
 
 **Math Around Us Home Activities** <br>
-The Math Around Us Home Activities aim to provide opportunities for students to extend and apply learning beyond the classroom. It aims to develop positive attitudes towards Mathematics and encourage parent-child bonding.
+The Math Around Us Home Activities aim to provide opportunities for students to extend and apply learning beyond the classroom. It aims to develop positive attitudes towards Mathematics and encourage parent-child bonding. ![The Activity Booklet which students and parents can do at home together](/images/Curriculum/Mathematics/Math_Around_Us.jpg)
+The Activity Booklet which students and parents can do at home together
 
-<img style="width:100%" src="/images/Curriculum/Mathematics/MathAroundUs_01.png">
-
-<br>
 
 **Excellence 2000 (E2K)**<br>
 The Excellence 2000 programme aims to develop pupils’ independent learning, higher-order thinking and creativity. While providing pupils with the empowerment to learn, this programme strengthens our pupils’ confidence and reinforces their perceptions of self as an independent learner and investigator. All this is done while developing effective personal and cognitive skills and strengthening a love for learning.
