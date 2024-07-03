@@ -1,4 +1,5 @@
 collections:
   ag15:
     output: true
-    order: []
+    order:
+      - Our Journey.md
