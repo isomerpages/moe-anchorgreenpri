@@ -43,7 +43,7 @@ The ICAN Programme aims to help low progress students who do not have a good und
 ##### School-based:
 
 **Curious Mathematician Trail**  <br>
-The AGPS Curious Mathematician Trail aims to provide students with the opportunity to apply Math to their school environment. Students embark on a virtual tour around the school and engage in classroom discussions and activities on how math is related to the school environment.
+The AGPS Curious Mathematician Trail aims to give students the opportunity to apply Math to the world around them. Physical or virtual activities are designed to allow students to work collaboratively and engage in rich classroom discussions. 
 ![P2 students engaged in weighing an object together](/images/Curriculum/Mathematics/Curious_Mathematician_Trail.jpg)
 P2 students engaged in weighing an object together
 
