@@ -1,5 +1,5 @@
 collections:
-  celebrations:
+  archives:
     output: true
     order:
       - 2019/.keep
