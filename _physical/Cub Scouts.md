@@ -26,3 +26,8 @@ Awarded Frank Cooper Sands Award (2024)
 ![Cub Scouts had a log booklet where they recorded their observations of their Kangkong plant’s growth](/images/CCA/Physical/Cub%20Scouts/Cub_Scouts_Log_Booklet_.jpg)Cub Scouts had a log booklet where they recorded their observations of their Kangkong plant’s growth to share with their packs.
 <br>
 ![In commemoration of the World Water Day, Cub Scouts ](/images/CCA/Physical/Cub%20Scouts/World_Water_Day_Commemoration.jpg)In commemoration of the World Water Day, Cub Scouts created bookmarks to pen down ways/tips on saving water.
+<br>
+![These bookmarks are given out during their recess time to spread awareness on World Water Day.](/images/CCA/Physical/Cub%20Scouts/World_Scouts_Day_Commemoration_Awareness_Activity.jpg)These bookmarks are given out during their recess time to spread awareness on World Water Day.
+<br>
+![Cub Scouts planned a farewell party for our P6 Cub Scouts.](/images/CCA/Physical/Cub%20Scouts/Farewell_Party_for_P6_Cub_Scouts.jpg)During the last CCA session of Semester 1, Cub Scouts planned a farewell party for our P6 Cub Scouts.
+<br>
