@@ -9,10 +9,7 @@ Mathematics
 ===========
 
 ##### Focus
-
 The Mathematics Department is committed to develop pupils with confidence, passion and determination to achieve excellence in mathematics. 
-
-  
 
 ##### Objectives
 
