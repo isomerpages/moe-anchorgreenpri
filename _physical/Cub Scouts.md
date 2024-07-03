@@ -21,3 +21,5 @@ Awarded Frank Cooper Sands Award (2024)
 ![Cub Scouts commemorating World Scouts Day on 22nd Feb 2024. ](/images/CCA/Physical/Cub%20Scouts/World_Scouts_Day_Commemoration.jpg)Cub Scouts commemorating World Scouts Day on 22nd Feb 2024. <br>
 ![A booth was set up by Cub Scouts to conduct recess activities.](/images/CCA/Physical/Cub%20Scouts/World_Scouts_Day_Recess_Activity.jpg)A booth was set up by Cub Scouts to conduct recess activities to share more information on the Founder’s Day.
 <br>
+![Cub Scouts were given the opportunity to grow their own Kangkong Plant.](/images/CCA/Physical/Cub%20Scouts/Cub_Scouts_Grow_their_Own_Kangkong_Plant_.jpg)To attain the Gardener proficiency badge, Cub Scouts were given the opportunity to grow their own Kangkong Plant.
+<br>
