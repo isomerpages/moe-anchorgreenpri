@@ -2,7 +2,6 @@
 title: Our Core Values
 permalink: /about-us/school-info/our-core-values/
 description: ""
-third_nav_title: School Info
 variant: markdown
 ---
 A.N.C.H.O.R. Values

@@ -1,9 +1,8 @@
 ---
 title: Our Journey
-permalink: /about-us/school-info/our-journey/
+permalink: /our-journey/
 variant: tiptap
 description: ""
-third_nav_title: School Info
 ---
 <p></p>
 <div class="isomer-image-wrapper">
