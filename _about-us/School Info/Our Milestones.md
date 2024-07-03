@@ -139,8 +139,7 @@ learners to be Environmental Activists) as its Applied Learning Programme
 </td>
 <td rowspan="1" colspan="1">
 <p>Our school celebrated its 15th anniversary with an array of colourful
-activities. <a href="https://anchorgreenpri.moe.edu.sg/our-journey/" rel="noopener noreferrer nofollow" target="_blank">AG15 - Our Journey</a>
-</p>
+activities. Click here to read more.</p>
 </td>
 </tr>
 </tbody>
