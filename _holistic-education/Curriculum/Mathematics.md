@@ -48,7 +48,7 @@ The AGPS Curious Mathematician Trail aims to give students the opportunity to ap
 P2 students engaged in weighing an object together
 
 **Math Around Us Home Activities** <br>
-The Math Around Us Home Activities Programme aims to provide opportunities for students to bond with their parents through interesting activities that can be carried out at home . This allows students to apply and extend their learning beyond the classroom context. [The Activity Booklet which students and parents can do at home together](/images/Curriculum/Mathematics/Math_Around_Us.jpg)
+The Math Around Us Home Activities Programme aims to provide opportunities for students to bond with their parents through interesting activities that can be carried out at home . This allows students to apply and extend their learning beyond the classroom context.  [The Activity Booklet which students and parents can do at home together](/images/Curriculum/Mathematics/Math_Around_Us.jpg)
 The Activity Booklet which students and parents can do at home together
 
 
