@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Celebrating our 15th Anniversary on 7 July 2023" src="/images/AG15/AG15_01.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Celebrating our 15th Anniversary on 7 July 2023" src="/images/AG15/AG15_01.jpg">
 </div>
 <p><strong>AG15 Edition – Our Journey&nbsp;</strong>
 </p>
@@ -24,7 +24,7 @@ was completed under the PERI upgrading project in 2018. The first intake
 of MOE Kindergarten pupils began in 2019.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Reduce, Reuse, Recycle! Let’s do our part for the environment!" src="/images/AG15/3Rs.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Reduce, Reuse, Recycle! Let’s do our part for the environment!" src="/images/AG15/3Rs.jpg">
 </div>
 <p>In line with the school’s vision of building a community of aspiring and
 gracious learners, AGPS developed environmental programmes and partnered
@@ -39,7 +39,7 @@ as the school’s Applied Learning Programme (ALP) in 2019 - Empowering Learners
 to be Environmental Activists (ELEA).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AGPS quilt from recycled cloth sewn together" src="/images/AG15/SG50_Quilt.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="AGPS quilt from recycled cloth sewn together" src="/images/AG15/SG50_Quilt.jpg">
 </div>
 <p>The AGPS family came together to create a quilt from recycled pieces of
 cloth and sewn together with sewing machines generously provided by Brother
@@ -72,12 +72,12 @@ throughout the exhibition match. These fifteen years have indeed put us
 in good stead and together, we will continue to Aspire, Grow and Serve!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Let’s hoist anchor and set sail on an exciting journey of discovery and learning!" src="/images/AG15/AG15_02.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Let’s hoist anchor and set sail on an exciting journey of discovery and learning!" src="/images/AG15/AG15_02.jpg">
 </div>
 <p>Let’s hoist anchor and set sail on an exciting journey of discovery and
 learning!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Celebrating our 15th anniversary and continuing to aspire, grow and serve." src="/images/AG15/AG15_03.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Celebrating our 15th anniversary and continuing to aspire, grow and serve." src="/images/AG15/AG15_03.jpg">
 </div>
 <p>Celebrating our 15th anniversary and continuing to aspire, grow and serve.</p>
