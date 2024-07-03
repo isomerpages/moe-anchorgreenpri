@@ -24,9 +24,7 @@ To create **meaningful learning experiences** which help pupils:
 
 ##### Pedagogy Approaches
 
-The Concrete-Pictorial-Abstract (CPA) approach, based on Jerome Bruner's conception of enactive, iconic and symbolic modes of representation, is the main pedagogical approach use in AGPS's math classrooms.
-
-  
+Our department employs a variety of teaching methods including the Concrete-Pictorial-Abstract (CPA) approach, Inquiry-Based Learning (IBL) and the use of technology (e-pedagogy).  
 
 ##### Key Programmes
 
