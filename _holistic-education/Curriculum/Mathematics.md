@@ -22,8 +22,6 @@ To create **meaningful learning experiences** which help pupils:
 *   develop cognitive and metacognitive skills, and
 *   develop positive attitudes towards mathematics
 
-  
-
 ##### Pedagogy Approaches
 
 The Concrete-Pictorial-Abstract (CPA) approach, based on Jerome Bruner's conception of enactive, iconic and symbolic modes of representation, is the main pedagogical approach use in AGPS's math classrooms.
