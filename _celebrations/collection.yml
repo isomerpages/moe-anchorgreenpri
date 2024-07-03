@@ -1,0 +1,4 @@
+collections:
+  celebrations:
+    output: true
+    order: []
