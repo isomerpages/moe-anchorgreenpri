@@ -17,3 +17,7 @@ Scout Wall Mural Design Competition
 
 **Achievements:** <br>
 Awarded Frank Cooper Sands Award (2024)
+
+![Cub Scouts commemorating World Scouts Day on 22nd Feb 2024. ](/images/CCA/Physical/Cub%20Scouts/World_Scouts_Day_Commemoration.jpg)Cub Scouts commemorating World Scouts Day on 22nd Feb 2024. <br>
+![A booth was set up by Cub Scouts to conduct recess activities.](/images/CCA/Physical/Cub%20Scouts/World_Scouts_Day_Recess_Activity.jpg)A booth was set up by Cub Scouts to conduct recess activities to share more information on the Founder’s Day.
+<br>
