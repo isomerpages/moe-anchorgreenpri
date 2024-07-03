@@ -208,7 +208,7 @@ of our outstanding support for National Service.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our school celebrated its 15th anniversary with an array of colourful
-activities. <a href="https://anchorgreenpri.moe.edu.sg/our-journey/" rel="noopener noreferrer nofollow" target="_blank">Click here to read more.</a>
+activities. <a href="/our-journey/" rel="noopener noreferrer nofollow" target="_blank">Click here to read more.</a>
 </p>
 </td>
 </tr>
