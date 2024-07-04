@@ -15,7 +15,9 @@ The ICT Department is committed to equipping every Anchorlite with the necessary
 ### Objectives
 To create **meaningful and enriched learning experiences** which help students to be digitally empowered, future-ready learners and innovators:
 
-  
+### Key Programs
+
+
 
 ### Key Programs
 
