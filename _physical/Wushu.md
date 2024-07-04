@@ -14,3 +14,9 @@ AGPS Wushu is a place dedicated to students who love Chinese martial arts. It is
 3. Zayrius Liang Sheng Han(6R) 4 Duan sword- 3th<br>
 4. Chan Jia Yi Jerilyn (5N) 4 Duan cudgel - 8th<br>
 5. Cheryn Li Ying Xuan (6A) 4 Duan cudgel -6th
+
+![](/images/CCA/Physical/Wushu/Rehersal_for_CNY.jpg)<br>
+![](/images/CCA/Physical/Wushu/CNY_2024.jpg)<br>
+![](/images/CCA/Physical/Wushu/NSG_2024__1_.jpg)<br>
+![](/images/CCA/Physical/Wushu/NSG_2024__2_.jpg)<br>
+![](/images/CCA/Physical/Wushu/NSG__3_.jpg)
