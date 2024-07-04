@@ -3,24 +3,22 @@ title: Information and Communication Technology
 permalink: /holistic-education/curriculum/ict/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-
 Information Technology
 ======================
 
-### Mission
+### Focus:
 
-To equip every Anchorlite (staff and students) with the necessary ICT skills so as to be future-ready in the rapid-changing world.
+The ICT Department is committed to equipping every Anchorlite with the necessary ICT skills to be future-ready in the rapid-changing world.
 
-  
-
-### Beliefs
+### Objectives:
 
 •	Every Anchorlite (staff and students) to be given equal opportunity to learn ICT skills<br>
 •	ICT increases efficiency (Administrative)<br>
 •	Tapping on the affordances of ICT where necessary<br>
 •	Engage students through the use of ICT in teaching and learning<br>
-•	Transfer of learning (staff to staff & staff to students)<br>
+•	Transfer of learning (staff to staff &amp; staff to students)<br>
 
   
 
@@ -33,5 +31,5 @@ To equip every Anchorlite (staff and students) with the necessary ICT skills so 
 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z3vu7NwxO1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z3vu7NwxO1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
