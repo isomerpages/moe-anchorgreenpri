@@ -8,10 +8,10 @@ variant: markdown
 Mathematics
 ===========
 
-##### Focus
+#### Focus
 The Mathematics Department is committed to develop pupils with confidence, passion and determination to achieve excellence in mathematics. 
 
-##### Objectives
+#### Objectives
 
 To create **meaningful learning experiences** which help pupils:
 
@@ -19,12 +19,12 @@ To create **meaningful learning experiences** which help pupils:
 *   develop cognitive and metacognitive skills, and
 *   develop positive attitudes towards mathematics
 
-##### Pedagogical Approaches 
+#### Pedagogical Approaches 
 
 Our department employs a variety of teaching methods including the Concrete-Pictorial-Abstract (CPA) approach, Inquiry-Based Learning (IBL) and the use of technology (e-pedagogy).  
-##### Framework:
+#### Framework:
 ![Primary Mathematics Curriculum Framework](/images/Curriculum/Mathematics/Primary_Mathematics_Curriculum_Framework.jpg)
-##### Key Programmes/Initiatives
+#### Key Programmes/Initiatives
 
 ##### MOE-initiated:  
 
