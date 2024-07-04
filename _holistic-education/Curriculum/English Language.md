@@ -12,7 +12,7 @@ To nurture confident and empathetic communicators with the love for the language
 ### Objectives
 We strive to build a strong foundation in the English Language by fostering students’ enjoyment of the language and promoting reading, oracy, listening and writing skills. This approach aims to develop knowledge and encourage independent use of the language.  
 
-### Pedagogy Approaches
+### Pedagogical Approaches 
 The school adopts **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) in the teaching of English Language. STELLAR strengthens students’ language and reading skills while promoting a positive attitude towards learning through the use of stories and strategies to engage students in the learning of the English Language.  
 <img src="/images/Curriculum/English/Stellar.jpg" style="width:100%">
 
