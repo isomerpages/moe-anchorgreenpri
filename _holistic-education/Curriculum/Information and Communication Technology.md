@@ -8,17 +8,12 @@ variant: markdown
 Information Technology
 ======================
 
-### Focus:
+### Focus
 
 The ICT Department is committed to equipping every Anchorlite with the necessary ICT skills to be future-ready in the rapid-changing world.
 
-### Objectives:
-
-•	Every Anchorlite (staff and students) to be given equal opportunity to learn ICT skills<br>
-•	ICT increases efficiency (Administrative)<br>
-•	Tapping on the affordances of ICT where necessary<br>
-•	Engage students through the use of ICT in teaching and learning<br>
-•	Transfer of learning (staff to staff &amp; staff to students)<br>
+### Objectives
+To create **meaningful and enriched learning experiences** which help students to be digitally empowered, future-ready learners and innovators:
 
   
 
