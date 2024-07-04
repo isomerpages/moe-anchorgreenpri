@@ -9,7 +9,6 @@ Information Technology
 ======================
 
 #### Focus
-
 The ICT Department is committed to equipping every Anchorlite with the necessary ICT skills to be future-ready in the rapid-changing world.
 
 #### Objectives
