@@ -27,31 +27,23 @@ Our department employs a variety of teaching methods including pedagogical appro
 
 #### Framework
 
-
+![](/images/Curriculum/Aesthetics/Aesthetics_Framework.jpg)
 
 #### Key Programmes
 
-The experiences extend from the school’s art and music curriculum as an exposure for all, to Anchorlites who are passionate in the arts and those in Performing and Visual Arts CCAs.  
-
-  
-
-### A.G.P.S. Arts Programme
-
-includes a wide range of experiences in the Arts that comprises the following areas:  
+**A.G.P.S. Arts Programme** includes a wide range of experiences in the Arts that comprises the following areas:  
 
 1.  **A**&nbsp;\-&nbsp;**A**WARENESS of and&nbsp;**A**PPRECIATION in the Arts
 2.  **G**&nbsp;\- Personal&nbsp;**G**ROWTH: Talent identification and development; strengthening of positive character values (School values of&nbsp;**R**espect,&nbsp;**I**ntegrity,&nbsp;**C**onfidence,&nbsp;**E**xcellence); nurturing leaders
 3.  **P**&nbsp;\-&nbsp;**P**ASSION for the Arts: Arts Advocates (Performers/Presenters and/or Audience)
 4.  **S**&nbsp;\- Heart to&nbsp;**S**ERVE: Community Outreach through the Arts
 
-  
+![](/images/Curriculum/Aesthetics/AGPS_Arts_Experience.jpg)
+**4 Elements in each A.G.P.S ARTS Experience**<br>
 
-**A.G.P.S. Arts Programme**&nbsp;
-
-Adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enrich Approach that aims to create a vibrant arts culture that provides pupils with the opportunity to develop his potential in the arts, develop his positive character and values and groom his leadership competencies so that he may grow to be a Lifelong Learner and Lifelong Advocate of the Arts.&nbsp;
+**A.G.P.S. Arts Programme**&nbsp;adopts a values-driven, student-centric and Engage &amp; Experience-Excite-Enrich Approach that aims to create a vibrant arts culture that provides pupils with the opportunity to develop his potential in the arts, develop his positive character and values and groom his leadership competencies so that he may grow to be a Lifelong Learner and Lifelong Advocate of the Arts.&nbsp;
 
 Arts platforms that support to this end include Say It Art Loud!, Everyone Can Perform!,Unplugged Fridays and the month long celebration of the arts, Music &amp; Art Celebrate! (MAC!).
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -93,21 +85,5 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 </tbody>
 </table>
 
-**Say It Art Loud!**
-
-Say It Art Loud! is a platform for Anchorlites to showcase their artistic talents and share their ideas, thoughts, opinions and perspectives with fellow Anchorlites clearly and confidently during Assembly.
-
-**Everyone Can Perform!**
-
-A first-time instrument playing stage experience for many Anchorlites, Everyone Can Perform! is a platform for every Anchorlite to have the opportunity to perform as a class a song, handchimes or ukulele piece amongst others, learnt during the music curriculum to be shared with others at assembly. Each class representative shares the class’s sentiments on at least one character value or competency they developed and the interesting fact they would like to share with their friends about their piece.  
-
-**Unplugged Fridays/Plugged-in Fridays**
-
-Unplugged Fridays/Plugged-in Fridays(online) is an informal Performing Arts platform for pupils and family members, as well as AGPS staff. Held on Fridays from 7.25 a.m. to 7.35 a.m. when conducted on the school grounds, anyone who would like to share their passion in anything performance, be it rapping, beatboxing, singing, dancing or playing music instruments is most welcomed! To join in as part of family fun with the rest of school, please have your child look out for the next SLS Unplugged Fridays and apply through the links provided.
- 
-
-**Music and Art Celebrate!**
-
-A month-long celebration of all Performing and Visual Arts at AGPS involving assembly programmes, curriculum sessions, pre-assembly programmes, recess activities, art exhibitions and excursions. Arts is for Everyone!
-
-Through the opportunities of learning and engagement in the Arts,&nbsp;**A.G.P.S. Arts Programme**&nbsp;strives to Nurture Talents, Develop Character and Groom pupils to be Leaders so that Anchorlites can contribute to the community, in line with the school motto of Aspire, Grow and Serve.
+**Useful Resources and Links:**<br>
+[https://www.canva.com/](https://www.canva.com/design/DAGBuanFZmM/1Omuwi8FkPk_s3kODNyrLA/edit?utm_content=DAGBuanFZmM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton )
