@@ -26,3 +26,4 @@ Hearts (Incorporates values education and social-emotional learning)<br>
 Hands (Experiential in nature, provides opportunities for children to create) 
 
 #### Framework
+![PAL Framework](/images/Curriculum/PAL/PAL_Framework.jpg)
