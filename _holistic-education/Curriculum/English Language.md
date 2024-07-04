@@ -9,6 +9,7 @@ English Language
 ================
 #### Focus
 To nurture confident and empathetic communicators with the love for the language 
+
 #### Objectives
 We strive to build a strong foundation in the English Language by fostering students’ enjoyment of the language and promoting reading, oracy, listening and writing skills. This approach aims to develop knowledge and encourage independent use of the language.  
 
