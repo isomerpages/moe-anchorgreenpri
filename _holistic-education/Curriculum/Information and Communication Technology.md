@@ -41,8 +41,14 @@ Students are given opportunities to enhance their learning experience using tool
 **Research Work**<br>
 P4 to P6 students are taught the importance of online safety and plagiarism while doing research work. They are also taught how to narrow down searches and summarize their searches. Students are also exposed to age-appropriate AI websites to do their projects.
 
-![](/images/Curriculum/ICT/IMG_4306.jpg)
-![](/images/Curriculum/ICT/IMG_4305.jpg)
+
+
+|<img src="/images/Curriculum/ICT/IMG_4305.jpg" style="width:40%"> | Column 2 |
+
+
+
+<img src="/images/Curriculum/ICT/IMG_4305.jpg" style="width:40%">
+<img src="/images/Curriculum/ICT/IMG_4305.jpg" style="width:40%">
 
 **Useful Resources and Links:**<br>
 Student Learning Space (https://www.learning.moe.edu.sg)
