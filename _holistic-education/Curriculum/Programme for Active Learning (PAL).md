@@ -6,19 +6,39 @@ third_nav_title: Curriculum
 variant: markdown
 ---
 Programme for Active Learning (PAL)
-===================================
+======================
 
-### ANCHORLITES’ DEVELOPMENT OF LIFE SKILLS
+#### Focus
+The Programme for Active Learning, also known as PAL, is one of MOE PERI’s recommendations to address the increased emphasis on holistic education and development of life skills. It provides a smooth transition for children from pre-school to primary education.
 
-The Programme for Active Learning, also known as PAL, is one of MOE PERI’s recommendations to address the increased emphasis on holistic education and development of life skills. It provides a smooth transition for children from pre-school child to primary education.
+#### Objectives
+• Provide varied avenues for students to develop social and emotional competencies <br>
+• Facilitate holistic development of students in the 5 domains, that is, moral, cognitive, physical, social and aesthetics <br>
+• Provide students with broad exposure and experiences through fun and varied activities in 2 broad areas:<br>
+		- Sports and Games and Outdoor Education, and<br>
+		- Performing Arts (music and Dance) and Visual Arts
 
-  
+#### Pedagogical Approaches
 
-PAL emphasizes learning through hands-on experiences, having fun and enjoyment in the learning, and ongoing opportunities for peer interaction and self-discovery. In PAL lessons, ANCHORLITES will be actively participating in a range of activities through four domains i.e. **VISUAL ARTS**, **SPORTS/GAMES**, **OUTDOOR EDUCATION** and **PERFORMING ARTS**. Through the four domains, opportunities will be given for students to work individually and with others, create and express their thoughts and feelings, make decisions, and reflect on their experiences and learning.
+PAL in AGPS emphasizes learning through the following:<br>
+Heads (Learning in a creative way and fun and enjoyable)<br>
+Hearts (Incorporates values education and social-emotional learning)<br>
+Hands (Experiential in nature, provides opportunities for children to create) 
 
-  
+#### Framework
 
-These experiences will help ANCHORLITES develop a greater awareness of themselves and that of the environment. They will discover new interests, learn new skills, forge new friendships, develop their confidence and character.
+<img src="/images/Curriculum/PAL/PAL_Framework.jpg" style="width:50%">
 
-  
+#### Key Programmes
+##### MOE-initiated:
+The Programme for Active Learning, also known as PAL, is one of MOE PERI’s recommendations to address the increased emphasis on holistic education and development of life skills. 
+##### School-based:
+School-based: In PAL lessons, ANCHORLITES will be actively participating in a range of activities through four domains i.e. VISUAL ARTS, SPORTS/GAMES, OUTDOOR EDUCATION and PERFORMING ARTS. Through the four domains, opportunities will be given for students to work individually and with others, create and express their thoughts and feelings, make decisions, and reflect on their experiences and learning.
 
+<table>
+<tbody><tr>
+<td><img src="/images/Curriculum/PAL/PAL_Performing_Arts.jpg" style="width:90%"><br>PAL-Performing Arts (Drama)</td>
+<td><img src="/images/Curriculum/PAL/PAL_Sports_and_Games.jpg" style="width:100%"><br>PAL-Sports and Games </td>
+<td><img src="/images/Curriculum/PAL/PAL_Outdoor_Education.jpg" style="width:100%"><br>PAL-Outdoor Education</td>
+</tr>
+</tbody></table>
