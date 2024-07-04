@@ -37,7 +37,8 @@ It offers opportunities for students to enhance their understanding and mastery 
 An enrichment programme 
 
 **Talent Development***<br>
-It exposes students to knowledge beyond the scope of the formal primary science syllabuses.
-
-(Key: *enrichment; ^academic support)<br>
+It exposes students to knowledge beyond the scope of the formal primary science syllabuses.<br>
+(Key: *enrichment; ^academic support)<br><br>
+![](/images/Curriculum/Science/Science_Learning_Activities_1.jpg)
 Learning activities to which students could be exposed.
+![](/images/Curriculum/Science/Science_Learning_Activities_2.jpg)
