@@ -19,7 +19,7 @@ To create **meaningful learning experiences** which help pupils:
 *   develop cognitive and metacognitive skills, and
 *   develop positive attitudes towards mathematics
 
-##### Pedagogy Approaches
+##### Pedagogical Approaches 
 
 Our department employs a variety of teaching methods including the Concrete-Pictorial-Abstract (CPA) approach, Inquiry-Based Learning (IBL) and the use of technology (e-pedagogy).  
 ##### Framework:
