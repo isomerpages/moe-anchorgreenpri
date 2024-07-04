@@ -26,4 +26,11 @@ Hearts (Incorporates values education and social-emotional learning)<br>
 Hands (Experiential in nature, provides opportunities for children to create) 
 
 #### Framework
-![PAL Framework](/images/Curriculum/PAL/PAL_Framework.jpg)
+
+<img src="/images/Curriculum/PAL/PAL_Framework.jpg" style="width:50%">
+
+#### Key Programmes
+##### MOE-initiated:
+The Programme for Active Learning, also known as PAL, is one of MOE PERI’s recommendations to address the increased emphasis on holistic education and development of life skills. 
+##### School-based:
+School-based: In PAL lessons, ANCHORLITES will be actively participating in a range of activities through four domains i.e. VISUAL ARTS, SPORTS/GAMES, OUTDOOR EDUCATION and PERFORMING ARTS. Through the four domains, opportunities will be given for students to work individually and with others, create and express their thoughts and feelings, make decisions, and reflect on their experiences and learning.
