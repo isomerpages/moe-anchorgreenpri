@@ -25,4 +25,14 @@ Physical Education (PE) in AGPS is guided by MOE’s Revised PE and Sports Devel
 Through PE, Achorlites develop soft skills with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. The activities in PE also help Anchorlites deepen their 21st century competencies through a combination of applied learning experiences and life-skills experiences.
 
 #### Key Programs
-
+![P1 &amp; P2 Sports Fiesta Series (Fundamental movements and skills)](/images/Curriculum/Physical%20Education/P1___P2_Sports_Fiesta_Series.jpg)
+•	P1 &amp; P2 Sports Fiesta Series (Fundamental movements and skills)<br>
+•	P3 Swimsafer Programme<br>
+•	P3 &amp; P4 Sports Fiesta Series (Territorial Games)<br><br>
+![P5 Outdoor Adventure Residential Camp 3D2N](/images/Curriculum/Physical%20Education/P5_Outdoor_Adventure_Residential_Camp_3D2N.jpg)
+•	P5 Outdoor Adventure Residential Camp 3D2N<br><br>
+![P5 &amp; P6 Sports Fiesta Series (Track &amp; Field Series) ](/images/Curriculum/Physical%20Education/P5___P6_Sports_Fiesta_Series__Track___Field_Series_.jpg)
+•	P5 &amp; P6 Sports Fiesta Series (Track &amp; Field Series) <br><br>
+![PE Captains Programme (P1 to P6)](/images/Curriculum/Physical%20Education/PE_Captains_Programme__P1_to_P6_.jpg)
+•	PE Captains Programme (P1 to P6)<br>
+•	Sport Leaders Programme (P4 to P6)
