@@ -3,43 +3,33 @@ title: Aesthetics
 permalink: /holistic-education/curriculum/aesthetics/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Aesthetics
 ==========
 
-  
+#### Focus
 
-### Focus
+The Aesthetics Department is committed to play an integral part in the Holistic Education of Each Child; by which achievement in Arts is part of the broader definition of success of each individual. The school’s vision from **A.G.P.S. Arts** is to develop every Anchorlite to be a Lifelong Learner and a Lifelong Advocate of the Arts by building upon our pupils’ knowledge, skills and love for the arts, nurturing their creative expressions, enriching their social, cultural and heritage awareness and growing them to be confident, critical and creative learners and active contributors to society through a wide spectrum of arts platforms.
 
-Arts Education at AGPS, a.k.a.&nbsp;**A.G.P.S. Arts (Aspire, Grow, Passion and Serve through the Arts)**&nbsp;plays an integral part in the Holistic Education of Each Child; by which achievement in Arts is part of the broader definition of success of each individual.  
+#### Objectives
 
-The school’s vision from&nbsp;**A.G.P.S. Arts**&nbsp;is to develop every Anchorlite to be a Lifelong Learner and a Lifelong Advocate of the Arts by building upon our pupils' knowledge, skills and love for the arts, nurturing their creative expressions, enriching their social, cultural and heritage awareness and growing them to be confident, critical and creative learners and active contributors to society through a wide spectrum of arts platforms.
-
-  
-
-### Objectives
-
-We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Advocates of the Arts who:  
-
-1.  See inter-relationships among ideas, adapt, generate and create new ideas and products
-2.  Are encouraged to express their thoughts, form opinions and appreciate differing perspectives
-3.  Have an overall development of social skills (value diversity in ideas, confidence building)
-4.  Foster appreciation of Singapore cultural heritage
-5.  Strengthen understanding of own national identity and ethnic culture
-
-### Pedagogy Approaches
-
-Pedagogical approaches and strategies selected develop each pupil in the appreciation of the Arts through the structured learning of the elements of art/music by direct experiences in listening, creating and performing music or seeing, expressing and appreciating art via an age appropriate, broad based 6 year arts experience programme that uses student centric pedagogical approach in teaching and learning.&nbsp;
-
-These include:
-
-1.  Kodaly
-2.  Dalcroze Eurhythmics
-3.  Orff Schulwerk
-4.  Inquiry-based Approach involving visible Thinking (eg. See, Think, Wonder; Circle of viewpoints)
+We aim to have our Anchorlites be developed as Lifelong Learners and Lifelong Advocates of the Arts who<br>1. see inter-relationships among ideas, adapt, generate and create new ideas and products
+<br>2. are encouraged to express their thoughts, form opinions and appreciate differing perspectives
+<br>3. have an overall development of social skills (value diversity in ideas, confidence building)
+<br>4. foster appreciation of Singapore cultural heritage
+<br>5. strengthen understand own national identity and ethnic culture
 
 
-### Key Programmes
+#### Pedagogical Approaches
+
+Our department employs a variety of teaching methods including pedagogical approaches and strategies which develop each pupil in the appreciation of the Arts through the structured learning of the elements of art/music by direct experiences in listening, creating and performing music or seeing, expressing and appreciating art via an age appropriate, broad based 6-year arts experience programme that uses student  centric pedagogical approach in teaching and learning. These include Kodaly, Dalcroze Eurhythmics, Orff Schulwerk, Inquiry-based Approach involving Visible Thinking (eg. See, Think, Wonder; Circle of Viewpoints)].
+
+#### Framework
+
+
+
+#### Key Programmes
 
 The experiences extend from the school’s art and music curriculum as an exposure for all, to Anchorlites who are passionate in the arts and those in Performing and Visual Arts CCAs.  
 
