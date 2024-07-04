@@ -20,11 +20,11 @@ Physical Education (PE) in AGPS is guided by MOE’s Revised PE and Sports Devel
 *   Sports &amp; Games
 *   Swimsafer
 *   Track &amp; Field
-*   
+
 #### Pedagogical Approaches
 Through PE, Achorlites develop soft skills with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. The activities in PE also help Anchorlites deepen their 21st century competencies through a combination of applied learning experiences and life-skills experiences.
 
-### Key Personnel In-Charge
+### Key Programs
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
