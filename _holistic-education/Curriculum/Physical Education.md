@@ -8,15 +8,10 @@ variant: markdown
 Physical Education
 ==================
 
-### The Anchorlite Physical Domain  
+#### Focus
+Physical Education (PE) in AGPS is guided by MOE’s Revised PE and Sports Development Framework which advocates a whole-school approach towards development of Anchorlites in Sports and Outdoor Education. Anchorlites are presented with an environment to build a strong foundation for continual growth that leads to improved physical, social and emotional health. Opportunities are created to acquire fundamental motor skills, to be exposed to a variety of sporting experiences, to participate recreationally in physical activities and to pursue competitively in the areas they excel in.
 
-Physical Education (PE) in AGPS is guided by MOE’s Revised PE and Sports Development Framework which advocates a whole-school approach towards development of pupils in Sports and Outdoor Education. ANCHORLITES are presented with an environment to build a strong foundation for continual growth that leads to improved physical, social and emotional health. Opportunities are created for ANCHORLITES to acquire fundamental motor skills, to be exposed to a variety of sporting experiences, to participate recreationally in physical activities and to pursue competitively in the areas they excel in.
-
-Through PE, ANCHORLITES develop soft skills with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. The activities in PE also help ANCHORLITES deepen their 21st&nbsp;century competencies through a combination of applied learning experiences and life-skills experiences.
-
-  
-
-### PE Curriculum
+**PE Curriculum**
 
 *   Dance
 *   Gymnastics
@@ -25,18 +20,9 @@ Through PE, ANCHORLITES develop soft skills with real-life experiential learning
 *   Sports &amp; Games
 *   Swimsafer
 *   Track &amp; Field
-
-  
-
-### Key Programmes
-
-*   Outdoor Education Readiness Programme for Primary 3
-*   Outdoor Education Programme for Primary 4
-*   Outdoor Adventure Residential Camp 3D2N for Primary 5
-*   Sports Fiesta Series for Primary 1 to 6
-*   PE Leadership Training Workshop for selected students (Sports Leaders)
-
-  
+*   
+#### Pedagogical Approaches
+Through PE, Achorlites develop soft skills with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. The activities in PE also help Anchorlites deepen their 21st century competencies through a combination of applied learning experiences and life-skills experiences.
 
 ### Key Personnel In-Charge
 
