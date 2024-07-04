@@ -13,3 +13,18 @@ Students also **serve** through partnership with APSN (Association for Persons w
 At the end of the Senior Division NSG season, P6 students also serve by helping the juniors to improve their skills and prepare them for the Junior Division games.
 
 For those **aspiring** to join the school team, students will be exposed to additional training and friendly matches with other schools to increase their experience and be a confident player.
+
+**Competitions / Events taking part in:**<br>
+•	National Schools Games Junior Division
+![National Schools Games Junior Division](/images/CCA/Physical/Floorball%20(Girls)/National_Schools_Games_Junior_Division.jpg)<br>
+•	National Schools Games Senior Division![National Schools Games Senior Division](/images/CCA/Physical/Floorball%20(Girls)/National_Schools_Games_Senior_Division.jpg)<br>
+•	Building friendship and skills through friendlies with other schools![Building friendship and skills through friendlies with other schools](/images/CCA/Physical/Floorball%20(Girls)/Building_friendship_and_skills_through_friendlies_with_other_schools.jpg)<br>
+•	Partnership with APSN Chaoyang School culminating in participation in floorball competition for Play Inclusive 2023![Partnership with APSN Chaoyang School culminating in participation in floorball competition](/images/CCA/Physical/Floorball%20(Girls)/Partnership_with_APSN_Chaoyang_School.jpg)<br>
+•	Pei Hwa Invitational 2023![Pei Hwa Invitational 2023](/images/CCA/Physical/Floorball%20(Girls)/Pei_Hwa_Invitational_2023.jpg)<br>
+
+**Achievements:**<br>
+•	2024 NSG Senior Division – League 1 Silver<br>
+•	2023 NSG Junior Division – Tier 1 Champion<br>
+•	2023 NSG Senior Division – Top 8<br>
+•	2023 Pei Hwa Secondary School Invitational – 1st<br>
+•	2023 Play Inclusive (Floorball mixed)
