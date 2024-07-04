@@ -14,12 +14,9 @@ Science Department is committed to nurturing Anchorlites to be curious learners,
 
 ####   Objectives  
 
-•	Anchorlites enjoy learning Science and are inspired to inquire more about themselves and their environment.
-
-•	Anchorlites are scientifically literate and use science where applicable to make informed decisions and take responsible actions in their daily lives.
-
-•	Anchorlites develop strong Science fundamentals to engage confidently in the practices of science to solve problems or innovate.
-
+•	Anchorlites enjoy learning Science and are inspired to inquire more about themselves and their environment.<br>
+•	Anchorlites are scientifically literate and use science where applicable to make informed decisions and take responsible actions in their daily lives.<br>
+•	Anchorlites develop strong Science fundamentals to engage confidently in the practices of science to solve problems or innovate.<br>
 •	Anchorlites articulate their ethical stance as they participate in discussions about socio-scientific issues in authentic contexts.
 
 #### Pedagogical Approaches
