@@ -42,13 +42,13 @@ Anchorlites who show the interest and ability to participate at a higher level w
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-g70e"><a href="https://nsg.moe.edu.sg/"><span style="font-weight:500;text-decoration:none;color:#21088A">National School Games</span></a></th>
+    <th class="tg-g70e"><a target="_blank" href="https://nsg.moe.edu.sg/"><span style="font-weight:500;text-decoration:none;color:#21088A">National School Games</span></a></th>
     <th class="tg-zr06">This website provides information on inter-school competitions (sports) in Singapore. It provides latest updates on the fixtures, results, rules and regulations of the various sports that schools take part in.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pyt"><a href="https://www.moe.gov.sg/secondary/dsa"><span style="font-weight:500;text-decoration:underline;color:#21088A">MOE Direct School Admission</span></a></td>
+    <td class="tg-0pyt"><a target="_blank" href="https://www.moe.gov.sg/secondary/dsa"><span style="font-weight:500;text-decoration:underline;color:#21088A">MOE Direct School Admission</span></a></td>
     <td class="tg-zr06">TThe DSA-Sec allows students to seek admission to a secondary school on the basis of talents and achievements that may not be demonstrated at the PSLE. The DSA-Sec enables students to enter suitable programmes in Secondary Schools that can develop the students in these areas</td>
   </tr>
 </tbody>
