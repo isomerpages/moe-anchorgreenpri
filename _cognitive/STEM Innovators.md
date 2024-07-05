@@ -19,3 +19,8 @@ This challenge allows opportunity for students to explore how AI can improve our
 
 ![Students preparing for IDE competition](/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg)
 Students preparing for IDE competition
+
+![Our participating team completed a mission at the NRC Competition](/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg)
+
+![Students working on MakeCode to create their games.](/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg)
+Students working on MakeCode to create their games.
