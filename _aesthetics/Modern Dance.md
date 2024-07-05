@@ -2,61 +2,19 @@
 title: Modern Dance
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/modern-dance/
 description: ""
+variant: markdown
 ---
-AGPS Modern Dance CCA specializes in contemporary dance which incorporates elements from many styles of dance such as hip-hop, classical, ballet and jazz.
+The Modern Dance CCA offers aspiring dancers who demonstrate a passion for dancing, the opportunity to nurture their talent in Hip Hop or Contemporary Dance. 
 
-  
+Performances during school events and external events provide our dancers with avenues to showcase their talent and also to share the joy of dancing with the rest of the school.
 
-Through dance, every CCA member appreciates Modern Dance culture and applies the different dance techniques while expressing their emotions through movement and rhythm. Dancers will have opportunities to participate in school events, such as Music and Art Celebrate! (MAC!) and Annual Prize Award Ceremony (PAC) which provides them with extensive opportunities to showcase our talents and also share the joy of dancing with the rest of our school. Besides showcasing their dance skills in performances, our dancers are caring team players with a heart to serve our school as well as the community in the school’s Value in action (VIA) programme. Dancers display strength, confidence, and tenacity in spite of adversities and challenges we face in this trying period for the world. With strength as an individual and unity as a team, dancers overcome all obstacles together. Our dancers also look forward to 2021 as they prepare for the Singapore Youth Festival 2022.
+**Events taking part in :**<br>
+Year End Prize Award Ceremony<br>
+AGPS Open House 16 May
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-8zvm{background-color:#2A2A2A;border-color:inherit;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8zvm"><span style="color:#EEE;background-color:#2A2A2A">Teacher-in-charge</span></th>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Email Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">Mdm Ang Swee Hong</td>
-    <td class="tg-0pyt"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Ho Le Lian<br>(Mrs Amelia Pepito)</td>
-    <td class="tg-0pyt"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Munirah Manap<br></td>
-    <td class="tg-0pyt"><a href="mailto:munirah_manap@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">munirah_manap@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Polly Yun Poo Lai<br>(Mrs Polly Goh)<br></td>
-    <td class="tg-0pyt"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Sun Yahui<br></td>
-    <td class="tg-0pyt"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+**Achievements:**<br>
+Singapore Youth Festival 2024 Arts Presentation For Modern Dance (Primary Level), attained Accomplishment
 
-![Singapore Youth Festival 2018](/images/CCA/Aesthetics/Modern%20Dance/SYF%202018.jpg)
-Singapore Youth Festival 2018
-
-<img src="/images/CCA/Aesthetics/Modern%20Dance/Exploring%20different%20dance%20techniques.png"  
-style="width:50%">
-Exploring different dance techniques
-
-![Learning through play - team spirit in Dance](/images/CCA/Aesthetics/Modern%20Dance/We%20play%20games%20to%20learn%20about%20team%20spirit%20in%20Dance!.jpg)
-Learning through play - team spirit in Dance
+![We are bonded over our love for dancing!](/images/CCA/Aesthetics/Modern%20Dance/We_are_bonded_over_our_love_for_dancing_.jpg)We are bonded over our love for dancing!<br><br>
+![Our dancers shone brightly on the stage!](/images/CCA/Aesthetics/Modern%20Dance/Our_dancers_shone_brightly_on_the_stage_.jpg)Our dancers shone brightly on the stage!<br><br>
+![Title of our SYF performance is Unity in Diversity.](/images/CCA/Aesthetics/Modern%20Dance/Title_of_our_SYF_performance_is_Unity_in_Diversity.jpg)Title of our SYF performance is Unity in Diversity.

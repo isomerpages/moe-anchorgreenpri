@@ -9,7 +9,8 @@ AGPS Wushu is a place dedicated to students who love Chinese martial arts. It is
 **Competitions taking part in:**<br>
 2024 National School Game Wushu Competition
 
-**Achievements:**<br>1. Ethan Heng (6O)5 Duan Broadsword- 7th<br>
+**Achievements:**<br>
+1. Ethan Heng (6O)5 Duan Broadsword- 7th<br>
 2. Cheryn Li Ying Xuan (6A) 5 Duan Broadsword- 7th<br>
 3. Zayrius Liang Sheng Han(6R) 4 Duan sword- 3th<br>
 4. Chan Jia Yi Jerilyn (5N) 4 Duan cudgel - 8th<br>

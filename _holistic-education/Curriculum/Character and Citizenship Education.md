@@ -3,87 +3,34 @@ title: Character and Citizenship Education
 permalink: /holistic-education/curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-#### CCE Philosophy
+#### Focus
 
-Character and Citizenship Education (CCE) is an essential and integral part of our pupils' learning experience. The goal of CCE is to inculcate the values and competencies in our pupils to develop them into good and moral individuals, who will contribute towards the well-being of the nation. Anchored on the school's vision of nurturing _**A Community of Aspiring and Gracious Learners**_, our department’s mission (**A**nchorlites: **G**racious, **P**rudent and **S**ervant Leaders) to nurture our pupils who are assured of their identities as individuals. As individuals, they are gracious in their conduct, exercise prudence and make informed, moral choices. In addition, we also seek to develop our pupils as Servant Leaders who strive and work towards the improvement of society and self.
-
-  
+The [CCE] Department is committed to nurturing Anchorlites who are Agile Learners and Gracious citizens.
 
 #### Objectives
 
-*   To create authentic experiences that promotes pupils’ cross-cultural awareness and a global outlook;
-*   To infuse CCE Core Values, School Values, 21st Century and Social and Emotional competencies across the Total Curriculum; and
-*   To develop the 21st Century Core Competencies and CCE Core Values in our pupils
+We want to imbue in our students with a positive and resilient outlook in life to better prepare them for the future<br>
+We seek to enable our students to make informed decisions in life by anchoring their decision making process based on the school’s ANCHOR values<br>
+We want to nurture our students to be gracious and responsible citizens who serve the community and country
 
-  
+#### Pedagogical Approaches
 
-#### CCE Core Values
+Our department employs a variety of teaching methods including explicit teaching of values during dedicated Character and Citizenship lessons and reinforcement &amp; application of learning through a variety of Student Development Experiences (SDE) such as Learning Journeys, CCA, National Education (NE) Commemorative days etc. We believe that values must be ‘caught and taught’ hence, these approaches provide the knowledge and authentic setting for students to learn, reinforce and apply the values, social-emotional competencies, and citizenship dispositions throughout the school day through various platforms.
 
-Respect, Responsibility, Resilience, Integrity, Care and Harmony
+#### Framework
 
-  
+![The CCE 2021 Curriculum Frame](/images/Curriculum/CCE/The_CCE_2021_Curriculum_Frame.jpg)
 
-#### School Values
+#### Key Programmes/Initiatives:
 
-Respect, Integrity, Confidence and Excellence
+##### School-based:
+**Start-The-Year-Right:**<br> This programme is designed to equip students with the habits, skills, dispositions, and mindset to excel in their academic pursuits. We believe that the acquisition of these habits, skills and dispositions are essential to enable our students to become Agile Learners and Gracious Citizens who will thrive in the uncertain and volatile future. Hence, students learn about these habits (e.g. healthy eating, importance of sleep etc) and skills (Lifeskills programme for the respective levels – e.g. financial literacy) are implemented in the first week of school before they resume the usual academic programme from week 2. 
 
-  
+**A.G Stars:**<br> This programme is a collaboration between the Science Department and Education and Career Guidance (ECG) Committee. Our P6 students will embark on a class learning journey to different industries and organisations (e.g. Scentopia, MHA, etc) to learn more about the industries – career related information, educational pathways and science/technology that the industry uses. The students will then complete a project and share their findings and research with their peers during A.G. Stars in a presentation to their juniors. The P1 and P5 students will be invited to head to the hall to view and learn more about these exhibits. 
 
-#### Approach
-
-MOE’s Desired Outcomes of Education, the 21st Century Core Competencies and CCE Learning Outcomes (LOs) are central to the actualisation of the CCE Curriculum. We believe that values are best ‘caught’ – transmitted via experiential learning experience, capitalising on teachable moments and infused across all platforms. Hence, we adopt a ‘whole-school-approach’ in the intentional teaching and reinforcement of these values and competencies throughout the Total Curriculum. Teachers are a key and essential component to our pupils’ values education journey. They capture these teachable moments, facilitate discussion amongst pupils to draw out and reinforce their understanding and acquisition of these values and competencies.
-
-<img src="/images/Curriculum/CCE/CCE.png"  
-style="width:50%">
-
-**To help pupils thrive in a rapidly-changing, volatile world, MOE has identified the above competencies that are increasingly important in the 21st Century. Schools are encouraged to imbue these competencies into a holistic education framework to better prepare our pupils for the future.**  
-**The Core Values and Competencies are:**  
-
-*   **Core Values:**
-
-	*   Foundation of character
-	*   Provide compass for behaviour
-
-*   **Social Emotional Competencies - Skills, knowledge and dispositions that enable students to:**
-
-	*   Manage self and relationships effectively
-	*   Make responsible decisions
-
-*   **Skills related to Citizenship that enable students to:**
-
-	*   Function effectively as active citizens
-	*   Stay rooted to Singapore
-
-#### School-wide Key Programmes
-
-*   Form Teacher Guidance Period (FTGP)  
-    
-*   School based Values Education  
-    
-*   Student Leadership Development  
-    
-*   Service to the community - Values in Action (VIA)  
-    
-*   Lifeskills  
-    
-*   Assembly Talks  
-    
-*   Education and Career Guidance (ECG)  
-    
-*   Growing Years Series (GYS)  
-    
-*   National Education infused in various NE core events and curriculum  
-    
-*   Award and Recognition Programme – Reinforce pupils’ display and upholding of positive values  
-    
-*   Counselling Service  
-    
-*   Learning and Behavioural Support (LBS) for special need students  
-    
-*   Life Circle and SEEDERS Programme - an intervention programme for at-risk students
-
-#### [Welfare & Safety](/holistic-education/curriculum/character-and-citizenship-education/welfare-n-safety)
+#### [Welfare &amp; Safety](/holistic-education/curriculum/character-and-citizenship-education/welfare-n-safety)
 
 #### [MOE Sexuality Education in Schools](/holistic-education/curriculum/character-and-citizenship-education/moe-sex-ed-in-schools)
 
