@@ -60,4 +60,4 @@ Students who possess exceptional problem-solving skills are selected to particip
 Held after school for P5 to P6 Standard Math students, this programme aims to narrow the learning gaps of our low progress students by remediating their areas of weakness in a smaller class size context.
 
 **Useful Resources and Links:**<br>
-Koobits (https://member.koobits.com)
+Koobits ([https://member.koobits.com](https://member.koobits.com))

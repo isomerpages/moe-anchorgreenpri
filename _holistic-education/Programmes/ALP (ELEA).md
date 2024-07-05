@@ -1,8 +1,9 @@
 ---
 title: ALP (ELEA)
-permalink: /programmes/alp-elea/
+permalink: /holistic-education/programmes/alp-elea/
 description: ""
 third_nav_title: Programmes
+variant: tiptap
 ---
 ALP (ELEA)
 ==========

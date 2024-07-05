@@ -2,57 +2,25 @@
 title: STEM Innovators
 permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/STEM/
 description: ""
+variant: markdown
 ---
-STEM Innovators in AGPS is a combination of Robotics and Environmental & Innovation to provide members with a wider array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots and other prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their robot creations or creations of prototypes that can be used to solve real-world problems. 
+STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.
 
-STEM Innovators hopes to provide the opportunity and experience for students to be innovative and participate in various competitions like the National Robotics Competition (NRC), National Robotics Programming Competition and Tan Kah Kee Young Investor’s Award. 
+**Competitions / Events taking part in:**<br>
+        
+**• IDE Robotics Competition**<br>
+This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.
 
+**• National Robotics Competition**<br>
+The teams need to design, construct and program an autonomous robot that can solve specific challenges on a field based on the theme “Green City”.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-8zvm{background-color:#2A2A2A;border-color:inherit;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8zvm"><span style="color:#EEE;background-color:#2A2A2A">Teacher-in-charge</span></th>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Email Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">Mdm Siti Nursyakila Masli</td>
-    <td class="tg-0pyt"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Wong Yee Chi Canny</td>
-    <td class="tg-0pyt"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+**• National Thinkers Challenge**<br>
+This challenge allows opportunity for students to explore how AI can improve our way of life so that they can be active contributors to our society and the community through solving authentic real worlds issues.
 
-
-<img src="/images/CCA/Cognitive/STEM/Picture%201.jpg"  
-style="width:60%">
-Pupils learning how to use Microbit to help them with the building of their prototypes for their project
-
-
-<img src="/images/CCA/Cognitive/STEM/Picture%202.jpg"  
-style="width:60%">
-Pupils presenting their final product
-
-![Getting creative!](/images/CCA/Cognitive/STEM/Picture%203.jpg)
-Getting creative!
-
-![Robotics](/images/CCA/Cognitive/STEM/Robotics%201.png)
-
-![Robotics](/images/CCA/Cognitive/STEM/Robotics%202.png)
-
-![Robotics](/images/CCA/Cognitive/STEM/Robotics%203.png)
+<img src="/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg" style="width:80%">
+Students preparing for IDE competition<br>
+<br>
+<img src="/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg" style="width:80%">Our participating team completed a mission at the NRC Competition<br>
+<br>
+<img src="/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg" style="width:80%">
+Students working on MakeCode to create their games.
