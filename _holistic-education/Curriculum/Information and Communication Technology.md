@@ -48,4 +48,4 @@ P4 to P6 students are taught the importance of online safety and plagiarism whil
 </tbody></table>
 
 **Useful Resources and Links:**<br>
-Student Learning Space (https://www.learning.moe.edu.sg)
+Student Learning Space ([https://www.learning.moe.edu.sg](https://www.learning.moe.edu.sg))
