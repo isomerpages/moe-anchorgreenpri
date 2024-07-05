@@ -16,3 +16,6 @@ The teams need to design, construct and program an autonomous robot that can sol
 
 **• National Thinkers Challenge**<br>
 This challenge allows opportunity for students to explore how AI can improve our way of life so that they can be active contributors to our society and the community through solving authentic real worlds issues.
+
+![Students preparing for IDE competition](/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg)
+Students preparing for IDE competition
