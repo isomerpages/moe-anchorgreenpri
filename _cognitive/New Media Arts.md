@@ -30,6 +30,26 @@ like PICTOBLOX.</p>
 <p>New Media Podcast Competition
 <br>
 </p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Anchorlites are introduced to Procreate app" src="/images/CCA/Cognitive/New Media Arts/Anchorlites_are_introduced_to_Procreate_app.jpg">
+</div>
+<p>Anchorlites are introduced to Procreate app. Working with Procreate allows
+Anchorlites to be more digitally literate, which is increasingly important
+in today's world. Other modules include podcast, videography, photography
+as well as simple coding applications.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="P6 CCA members gives back as they  serve as Arts Advocates to a group of Indonesian students" src="/images/CCA/Cognitive/New Media Arts/P6_CCA_members_gives_back_as_they__serve_as_Arts_Advocates.jpg">
+</div>
+<p>P6 CCA members gives back as they serve as Arts Advocates to a group of
+Indonesian students during a school immersion programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Claymation project." src="/images/CCA/Cognitive/New Media Arts/Claymation_project.jpg">
+</div>
+<p>Our P4 members show the students from MK@AG their process work as they
+create their characters for the upcoming Claymation project.</p>
 <p></p>
