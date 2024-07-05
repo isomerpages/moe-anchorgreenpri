@@ -7,3 +7,7 @@ variant: markdown
 The Modern Dance CCA offers aspiring dancers who demonstrate a passion for dancing, the opportunity to nurture their talent in Hip Hop or Contemporary Dance. 
 
 Performances during school events and external events provide our dancers with avenues to showcase their talent and also to share the joy of dancing with the rest of the school.
+
+**Events taking part in :**<br>
+Year End Prize Award Ceremony<br>
+AGPS Open House 16 May
