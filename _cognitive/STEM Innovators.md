@@ -17,10 +17,10 @@ The teams need to design, construct and program an autonomous robot that can sol
 **• National Thinkers Challenge**<br>
 This challenge allows opportunity for students to explore how AI can improve our way of life so that they can be active contributors to our society and the community through solving authentic real worlds issues.
 
-![Students preparing for IDE competition](/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg)
-Students preparing for IDE competition
-
-![Our participating team completed a mission at the NRC Competition](/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg)
-
-![Students working on MakeCode to create their games.](/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg)
+<img src="/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg" style="width:80%">
+Students preparing for IDE competition<br>
+<br>
+<img src="/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg" style="width:80%">Our participating team completed a mission at the NRC Competition<br>
+<br>
+<img src="/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg" style="width:80%">
 Students working on MakeCode to create their games.
