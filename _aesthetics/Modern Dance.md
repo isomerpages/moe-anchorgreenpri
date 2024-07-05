@@ -11,3 +11,6 @@ Performances during school events and external events provide our dancers with a
 **Events taking part in :**<br>
 Year End Prize Award Ceremony<br>
 AGPS Open House 16 May
+
+**Achievements:**<br>
+Singapore Youth Festival 2024 Arts Presentation For Modern Dance (Primary Level), attained Accomplishment 
