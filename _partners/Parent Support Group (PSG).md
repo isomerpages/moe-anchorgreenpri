@@ -60,4 +60,21 @@ The school aims to encourage and facilitate increased parental engagement in the
 <td align="left">Member</td>
 <td align="left">Serene Yeo</td>
 </tr>
+	<tr></tr>
+</tbody></table>
+
+<table>
+<tbody>
+<tr>
+<td align="center">Mentor</td>
+<td align="center">Loh Tang Ling</td>
+</tr>
+<tr>
+<td colspan="2" align="center">Mentor</td>
+</tr>
+<tr>
+<td align="center">Mentor</td>
+<td align="center">Loh Tang Ling</td>
+</tr>
+
 </tbody></table>
