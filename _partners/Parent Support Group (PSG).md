@@ -67,10 +67,10 @@ The school aims to encourage and facilitate increased parental engagement in the
 <tbody>
 <tr>
 <td align="center"><img src="/images/Partners/PSG/Start_the_Year_Right_.jpg" style="width:100%">Start the Year Right!</td>
-<td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Partners/PSG/Chinese_New_Year.jpg" style="width:100%">Chinese New Year</td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:50%"></td>
+<td colspan="2" align="center"><img src="/images/Partners/PSG/Total_Defence_Day.jpg" style="width:50%">Total Defence Day</td>
 </tr>
 <tr>
 <td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
