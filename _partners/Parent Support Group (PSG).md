@@ -24,7 +24,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 <table>
 <tbody>
 <tr>
-<td rowspan="10">1</td>
+<td rowspan="10"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:100%"></td>
 <td colspan="2" align="left">The AGPS PSG EXCO Team 2024</td>
 </tr>
 <tr>
