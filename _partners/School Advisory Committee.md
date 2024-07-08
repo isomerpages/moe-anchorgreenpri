@@ -21,7 +21,7 @@ School Advisory Committee
 <tbody>
 <tr>
 <td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:65%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
-<td align="center"><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:65%">Mr Teo Chiang Chai<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:65%">Dr Roy Goh<br>Treasurer</td>
 </tr>
 </tbody></table>
 
@@ -33,7 +33,3 @@ School Advisory Committee
 <td align="center"><img src="/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg" style="width:93%">Dr Christopher Wong <br>Member</td>
 </tr>
 </tbody></table>
-
-
-
-
