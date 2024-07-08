@@ -73,7 +73,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 <td colspan="2" align="center"><img src="/images/Partners/PSG/Total_Defence_Day.jpg" style="width:50%">Total Defence Day</td>
 </tr>
 <tr>
-<td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Partners/PSG/International_Friendship_Day.jpg" style="width:100%">International Friendship Day</td>
 <td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
 </tr>
 
