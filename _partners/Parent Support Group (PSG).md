@@ -74,7 +74,6 @@ The school aims to encourage and facilitate increased parental engagement in the
 </tr>
 <tr>
 <td align="center"><img src="/images/Partners/PSG/International_Friendship_Day.jpg" style="width:100%">International Friendship Day</td>
-<td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Partners/PSG/Hari_Raya_Puasa.jpg" style="width:100%">Hari Raya Puasa</td>
 </tr>
-
 </tbody></table>
