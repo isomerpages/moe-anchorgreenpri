@@ -9,16 +9,12 @@ School Advisory Committee
 
 #### Our SAC Members
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
 <td colspan="2" align="center"><img src="/images/Partners/SAC/Mr_T_Mogan___Chairman.jpg" style="width:31%">Mr T Mogan <br> Chairman</td>
 </tr>
-	<tr>
-<td colspan="2" align="center">Mr T Mogan <br> Chairman</td>
-</tr>
-<tr>
-<td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:65%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
+<tr><td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:65%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
 <td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:65%">Dr Roy Goh<br>Treasurer</td>
 </tr>
 </tbody></table>
