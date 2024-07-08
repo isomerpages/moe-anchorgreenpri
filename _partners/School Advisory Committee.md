@@ -17,16 +17,16 @@ School Advisory Committee
 *   Dr Christopher Wong - Member
 *   Mdm Tang Ling - Member
 
-![Mr Raymond Chua - Member](/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg)
-![Mr Teo Chiang Chai - Member](/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg)
-![Dr Christopher Wong - Member](/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg)
-
-
-
 <table>
-<tbody><tr>
+<tbody>
+<tr>
 <td><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:100%">Mr Raymond Chua<br>Member</td>
 <td><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:100%">Mr Teo Chiang Chai<br>Member</td>
 <td><img src="/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg" style="width:100%">Dr Christopher Wong <br>Member</td>
+</tr>	
+<tr>
+<td><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:100%">Mr Raymond Chua<br>Member</td>
+<td><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:100%">Mr Teo Chiang Chai<br>Member</td>
+<td><img src="/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg" style="width:93%">Dr Christopher Wong <br>Member</td>
 </tr>
 </tbody></table>
