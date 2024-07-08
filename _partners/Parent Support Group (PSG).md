@@ -66,7 +66,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Partners/PSG/Start_the_Year_Right_.jpg" style="width:100%">Start the Year Right!</td>
 <td align="center"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
 </tr>
 <tr>
