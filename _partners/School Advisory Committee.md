@@ -20,13 +20,20 @@ School Advisory Committee
 <table>
 <tbody>
 <tr>
-<td><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:100%">Mr Raymond Chua<br>Member</td>
-<td><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:100%">Mr Teo Chiang Chai<br>Member</td>
-<td><img src="/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg" style="width:100%">Dr Christopher Wong <br>Member</td>
-</tr>	
-<tr>
-<td><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:100%">Mr Raymond Chua<br>Member</td>
-<td><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:100%">Mr Teo Chiang Chai<br>Member</td>
-<td><img src="/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg" style="width:93%">Dr Christopher Wong <br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:65%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:65%">Mr Teo Chiang Chai<br>Member</td>
 </tr>
 </tbody></table>
+
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:100%">Mr Raymond Chua<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:100%">Mr Teo Chiang Chai<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Dr_Christopher_Wong___Member.jpg" style="width:93%">Dr Christopher Wong <br>Member</td>
+</tr>
+</tbody></table>
+
+
+
+
