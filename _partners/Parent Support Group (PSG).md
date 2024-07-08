@@ -19,13 +19,12 @@ The school aims to encourage and facilitate increased parental engagement in the
 #### Key Programmes/Initiatives
 •	The PSG collaborates actively with the school by supporting school activities to provide a holistic growing environment for the students. <br>
 •	The PSG provides a network of support and link for the school, families, and the community, as members come from diverse backgrounds and possess varied skills and experiences.<br>
-•	The PSG enhances better connection/ link between the school and parents by conducting activities that promote bonding between parents and school, and parents and children.
-
+•	The PSG enhances better connection/ link between the school and parents by conducting activities that promote bonding between parents and school, and parents and children.<br><br>
+**The_AGPS_PSG_EXCO_Team_2024**
 <table>
 <tbody>
 <tr>
-<td rowspan="10"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:100%"></td>
-<td colspan="2" align="left">The AGPS PSG EXCO Team 2024</td>
+<td rowspan="10"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:80%"></td>
 </tr>
 <tr>
 </tr>
@@ -35,7 +34,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 </tr>
 <tr>
 <td align="left">Mentor</td>
-<td align="left">Nuraslinda Binte Osman</td>
+<td align="left"><nobr>Nuraslinda Binte Osman</nobr></td>
 </tr>
 <tr>
 <td align="left">Chairperson</td>
