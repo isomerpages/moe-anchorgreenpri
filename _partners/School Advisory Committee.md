@@ -32,11 +32,3 @@ School Advisory Committee
 <td align="center"><img src="/images/Partners/SAC/Mr_Ridzuan_Ismail___Member.jpg" style="width:100%">Mr Ridzuan Ismail<br>Member</td>
 </tr>
 </tbody></table>
-<table>
-<tbody>
-<tr>
-<td align="center"><img src="/images/Partners/SAC/Mdm_Tang_Ling___Member.jpg" style="width:65%">Mdm Tang Ling<br>Member</td>
-<td></td>
-<td align="center"><img src="/images/Partners/SAC/Mr_Ridzuan_Ismail___Member.jpg" style="width:65%">Mr Ridzuan Ismail<br>Member</td>
-</tr>
-</tbody></table>
