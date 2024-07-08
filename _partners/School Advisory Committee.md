@@ -9,12 +9,12 @@ School Advisory Committee
 
 #### Our SAC Members
 
-<table cellpadding="0" cellspacing="0">
+<table>
 <tbody>
 <tr>
-<td align="center"></td>
+<td></td>
 <td align="center"><img src="/images/Partners/SAC/Mr_T_Mogan___Chairman.jpg" style="width:30%">Mr T Mogan <br> Chairman</td>
-<td align="center"></td>
+<td></td>
 </tr>
 </tbody></table>
 <table>
