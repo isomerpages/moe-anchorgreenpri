@@ -8,13 +8,13 @@ variant: markdown
 Physical Health Education
 ======================
 
-<img src="/images/Partners/External/HPB_logo.jpg" style="width:50%">
+<img src="/images/Partners/External/HPB_logo.jpg" style="width:40%">
 
 <a href="https://hpb.gov.sg/" target="_blank">**Health Promotion Board (HPB)**</a>
 <br>
 HPB is a close partner of AGPS in the creation of health promoting environments where students can play, learn, and grow in. HPB supports our school by equipping our school with the right tools to build a healthy environment for our students.
 
-<img src="/images/Partners/External/ActiveSG_logo.jpg" style="width:50%">
+<img src="/images/Partners/External/ActiveSG_logo.jpg" style="width:40%">
 
 <a href="https://www.myactivesg.com/" target="_blank">**Active SG**</a>
 <br>
