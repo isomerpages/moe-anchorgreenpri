@@ -4,3 +4,40 @@ permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/
 description: ""
 variant: markdown
 ---
+
+<table>
+<tbody>
+<tr>
+<th align="left">Year</th>
+<th align="left">Milestone</th>
+</tr>
+<tr>
+<td align="left">2008</td>
+<td align="left">Our school started as a single session school with 273 pupils in 9 classes from P1 – P3</td>
+</tr>
+<tr>
+<td align="left">2012</td>
+<td align="left">Our school received the PUB Watermark Award for its place-based learning package for Sengkang Floating Wetland</td>
+</tr>
+<tr>
+<td align="left">Scretary</td>
+<td align="left">Evelyn Teoh</td>
+</tr>
+<tr>
+<td align="left">Member</td>
+<td align="left">Jasmine Yeow</td>
+</tr>
+<tr>
+<td align="left">Member</td>
+<td align="left">Janice Ong</td>
+</tr>
+<tr>
+<td align="left">Member</td>
+<td align="left">Serena Ong</td>
+</tr>
+<tr>
+<td align="left">Member</td>
+<td align="left">Serene Yeo</td>
+</tr>
+	<tr></tr>
+</tbody></table>
