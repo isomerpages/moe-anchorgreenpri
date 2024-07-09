@@ -16,6 +16,6 @@ third_nav_title: Co Curricular Activities
 <tr>
 <td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/floorball-girls" rel="noopener noreferrer nofollow" target="_self">Floorball (Girls)</a></nobr></td>
 <td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/netball" rel="noopener noreferrer nofollow" target="_self">Netball</a></nobr></td>
-<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/floorball-girls" rel="noopener noreferrer nofollow" target="_self">Floorball (Girls)</a></nobr></td>
+<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/wushu" rel="noopener noreferrer nofollow" target="_self">Wushu</a></nobr></td>
 </tr>
 </tbody></table>
