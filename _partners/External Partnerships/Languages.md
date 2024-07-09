@@ -7,7 +7,7 @@ variant: markdown
 ---
 Languages
 =========
-<img src="/images/Partners/External/NLB_logo.jpg" style="width:50%">
+<img src="/images/Partners/External/NLB_logo.jpg" style="width:40%">
 
 <a href="https://www.nlb.gov.sg/" target="_blank">**National Library Board (NLB**)</a>
 <br>
