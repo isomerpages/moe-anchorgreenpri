@@ -10,11 +10,9 @@ To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&
   
 #### Objectives
 
-*   Nurture&nbsp;leaders with a sense of pride and identity.&nbsp;
-*   Develop&nbsp;leaders with good characters who make wise choices rooted in good values.&nbsp;
-*   Groom&nbsp;leaders who are self-directed in his/her learning and contribute actively to the community
-
-  
+•	Nurture leaders with a sense of pride and identity. <br>
+•	Develop leaders with good characters who make wise choices rooted in good values. <br>
+•	Groom leaders who are self-directed in his/her learning and contribute actively to the community
 
 ### Approach
 
