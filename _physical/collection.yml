@@ -2,7 +2,6 @@ collections:
   physical:
     output: true
     order:
-      - Physical.md
       - Basketball.md
       - Cub Scouts.md
       - Floorball (Boys).md
