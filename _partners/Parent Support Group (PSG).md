@@ -41,7 +41,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 <td align="left">Jass Un Janir</td>
 </tr>
 <tr>
-<td align="left">Scretary</td>
+<td align="left">Secretary</td>
 <td align="left">Evelyn Teoh</td>
 </tr>
 <tr>
