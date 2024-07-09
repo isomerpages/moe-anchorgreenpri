@@ -5,11 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<table>
-<tbody>
-<tr>
-<td align="left">Mentor</td>
-<td align="left">Loh Tang Ling</td>
-<td align="left">Loh Tang Ling</td>
-</tr>
-</tbody></table>
+
+
+
+
+
+
+### [Cognitive](/holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/chess-club)
