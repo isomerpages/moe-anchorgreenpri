@@ -21,8 +21,8 @@ Our Milestones
 <td align="left">Our school received the PUB Watermark Award for its place-based learning package for Sengkang Floating Wetland</td>
 </tr>
 <tr>
-<td align="left">Scretary</td>
-<td align="left">Evelyn Teoh</td>
+<td align="left">2014</td>
+<td align="left">Our SLEEC (Serve and Lead through Environmental Education) programme established as our Life Long Learning Programme (LLP)</td>
 </tr>
 <tr>
 <td align="left">Member</td>
