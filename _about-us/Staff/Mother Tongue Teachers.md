@@ -62,10 +62,7 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Huang Qin</span><br></td>
     <td class="tg-fskk"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">huang_qin@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jovina Tan Seoh Hwee</span></td>
-    <td class="tg-fskk"><a href="mailto:jovina_tan_seoh_hwee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jovina_tan_seoh_hwee@schools.gov.sg</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Chun Seng</span></td>
     <td class="tg-fskk"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a></td>
