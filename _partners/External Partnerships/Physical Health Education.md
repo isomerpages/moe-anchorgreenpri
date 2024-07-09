@@ -18,4 +18,4 @@ HPB is a close partner of AGPS in the creation of health promoting environments 
 
 <a href="https://www.myheart.org.sg/" target="_blank">**Singapore Heart Foundation (SHF)**</a>
 <br>
-Active SG provides us with morning workouts for the school prior to Covid 19, as well as supporting our P3 and P4 outdoor education programme (e.g. first aid).
+SHF collaborates with AGPS in sharing knowledge about how to take care of the hearts to the students through assembly talk and measuring BP.
