@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: markdown
 ---
-Co-Curricular Activities (CCA) 2023
+Co-Curricular Activities (CCA)
 ======================
 #### Focus
 
