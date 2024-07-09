@@ -13,3 +13,6 @@ Singapore Youth Festival
 **Achievements:**<br>
 Distinction (year 2024)
 
+![VIA 2023 - combined CNY performance for senior citizens at SKCH](/images/CCA/Aesthetics/Guzheng/VIA_2023___combined_CNY_performance_for_senior_citizens_at_SKCH.jpg)VIA 2023 - combined CNY performance for senior citizens at SKCH
+
+![Prize Award Ceremony 2023 - A group photo after our performance](/images/CCA/Aesthetics/Guzheng/Prize_Award_Ceremony_2023____A_group_photo_after_our_performance.jpg)Prize Award Ceremony 2023 - A group photo after our performance
