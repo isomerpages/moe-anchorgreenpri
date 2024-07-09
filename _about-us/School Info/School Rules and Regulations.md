@@ -6,9 +6,7 @@ third_nav_title: School Info
 variant: markdown
 ---
 School Rules &amp; Regulations
-==========================
-
-  
+======================
 
 **1. General Conduct**
 
@@ -171,4 +169,4 @@ Parents who would like their child to carry a mobile phone must take personal re
 
 Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school. 
 
-Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule. 
+Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.
