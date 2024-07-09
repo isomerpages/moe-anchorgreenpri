@@ -1,6 +1,6 @@
 ---
 title: Our Journey
-permalink: /our-journey/
+permalink: /about-us/school-info/our-milestones/our-journey/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Media Arts
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/new-media-arts/
+permalink: /holistic-education/co-curricular-activities-cca/cognitive/new-media-arts/
 description: ""
 variant: tiptap
 ---

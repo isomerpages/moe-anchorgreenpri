@@ -24,7 +24,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 <table>
 <tbody>
 <tr>
-<td rowspan="10"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:80%"></td>
+<td rowspan="10"><img src="/images/Partners/PSG/The_AGPS_PSG_EXCO_Team_2024.jpg" style="width:100%"></td>
 </tr>
 <tr>
 </tr>
@@ -34,14 +34,14 @@ The school aims to encourage and facilitate increased parental engagement in the
 </tr>
 <tr>
 <td align="left">Mentor</td>
-<td align="left"><nobr>Nuraslinda Binte Osman</nobr></td>
+<td align="left">Nuraslinda Binte Osman</td>
 </tr>
 <tr>
 <td align="left">Chairperson</td>
 <td align="left">Jass Un Janir</td>
 </tr>
 <tr>
-<td align="left">Scretary</td>
+<td align="left">Secretary</td>
 <td align="left">Evelyn Teoh</td>
 </tr>
 <tr>

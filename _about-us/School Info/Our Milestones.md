@@ -3,7 +3,7 @@ title: Our Milestones
 permalink: /about-us/school-info/our-milestones/
 description: ""
 third_nav_title: School Info
-variant: tiptap
+variant: markdown
 ---
 <h1>Our Milestones</h1>
 <table style="minWidth: 50px">
@@ -208,7 +208,7 @@ of our outstanding support for National Service.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our school celebrated its 15th anniversary with an array of colourful
-activities. <a href="/our-journey/" rel="noopener noreferrer nofollow" target="_blank">Click here to read more.</a>
+activities. <a href="/about-us/school-info/our-milestones/our-journey/" rel="noopener noreferrer nofollow" target="_self">Click here to read more.</a>
 </p>
 </td>
 </tr>

@@ -2,7 +2,6 @@ collections:
   cognitive:
     output: true
     order:
-      - Cognitive.md
       - Chess Club.md
       - New Media Arts.md
       - STEM Innovators.md

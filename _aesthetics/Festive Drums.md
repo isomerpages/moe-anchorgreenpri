@@ -1,6 +1,6 @@
 ---
 title: Festive Drums
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/festive-drums/
+permalink: /holistic-education/co-curricular-activities-cca/aesthetics/festive-drums/
 description: ""
 variant: markdown
 ---

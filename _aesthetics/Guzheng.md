@@ -1,58 +1,24 @@
 ---
 title: Guzheng
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/guzheng/
+permalink: /holistic-education/co-curricular-activities-cca/aesthetics/guzheng/
 description: ""
+variant: markdown
 ---
+The Guzheng Ensemble which started in 2009 continues to remain strong with passionate members. This CCA aims to cultivate students’ interest and passion for the Chinese culture and values through the learning of this traditional Chinese music instrument. Our CCA recruits members who have an interest in learning, regardless of gender and race.
+The Guzheng members perform at various events such as Chinese New Year and Prize Award Ceremony. They also participate in the Singapore Youth Festival (SYF) Arts Presentation.
 
+**Competitions taking part in:**<br>
+Singapore Youth Festival 
 
-AGPS Guzheng Ensemble aims to cultivate pupils’ interest and passion for Chinese culture and values through the learning of a traditional Chinese instrument. The skills of playing guzheng bring many benefits, such as artistic expression, a sense of accomplishment, stress relief, social and physical activity. Under the tutelage of our experienced instructor, our Guzheng members will experience ensemble playing, decoding cipher notations, fingering techniques, and maintaining the guzheng. Through the various platforms available to perform, our pupils are given opportunities to showcase their talents. Some performing platforms for our Guzheng members include Chinese New Year Celebration Performance, Music and Art Celebrate! and the Year-End Prize Award Ceremony. Our Guzheng members also have the opportunity to participate in the Singapore Youth Festival Arts Presentation. Being able to represent the school for National Awards is a great booster for the students’ confidence and morale.
+**Achievements:**<br>
+Distinction (year 2024)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-vtmj{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Teacher-in-charge</span></th>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Email Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">Ms Chia Siew Lan</td>
-    <td class="tg-0pyt"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Ms Lim Wan Lin Veronica</td>
-    <td class="tg-0pyt"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Ngoh Hwee Suan<br>(Mrs Audrey Cheng)<br></td>
-    <td class="tg-0pyt"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Jovina Tan Seow Hwee<br></td>
-    <td class="tg-0pyt"><a href="mailto:jovina_tan_seoh_hwee@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jovina_tan_seoh_hwee@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Mdm Chan May Leng<br></td>
-    <td class="tg-vtmj"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">chan_may_leng@schools.gov.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+![VIA 2023 - combined CNY performance for senior citizens at SKCH](/images/CCA/Aesthetics/Guzheng/VIA_2023___combined_CNY_performance_for_senior_citizens_at_SKCH.jpg)VIA 2023 - combined CNY performance for senior citizens at SKCH
 
-![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%201.png)
+![Prize Award Ceremony 2023 - A group photo after our performance](/images/CCA/Aesthetics/Guzheng/Prize_Award_Ceremony_2023____A_group_photo_after_our_performance.jpg)Prize Award Ceremony 2023 - A group photo after our performance
 
-![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%202.png)
+![Chinese New Year 2024 – Our Guzheng performers in action](/images/CCA/Aesthetics/Guzheng/Chinese_New_Year_2024___Our_Guzheng_performers_in_action.jpg)Chinese New Year 2024 – Our Guzheng performers in action
 
-![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%203.jpg)
+![Singapore Youth Festival 2024 – A memorable Arts Presentation at the Singapore Conference Hall](/images/CCA/Aesthetics/Guzheng/Singapore_Youth_Festival_2024___A_memorable_Arts_Presentation_at_the_Singapore_Conference_Hall.jpg)Singapore Youth Festival 2024 – A memorable Arts Presentation at the Singapore Conference Hall
 
-![Guzheng](/images/CCA/Aesthetics/Guzheng/Guzheng%204.jpg)
+![Our P6s at their farewell party! All the best!](/images/CCA/Aesthetics/Guzheng/Our_P6s_at_their_farewell_party__All_the_best_.jpg)Our P6s at their farewell party! All the best!

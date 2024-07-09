@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/wushu/
+permalink: /holistic-education/co-curricular-activities-cca/physical/wushu/
 description: ""
 variant: markdown
 ---

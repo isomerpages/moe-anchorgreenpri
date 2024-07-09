@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/basketball/
+permalink: /holistic-education/co-curricular-activities-cca/physical/basketball/
 description: ""
 variant: markdown
 ---
@@ -14,4 +14,4 @@ For those **aspiring** to join the school team, students will be exposed to addi
 
 **Competitions / Events taking part in :**<br>
 NSG Junior and Senior Competition.
-![](/images/CCA/Physical/Basketball/Basketball_1.jpg)    
+![](/images/CCA/Physical/Basketball/Basketball_1.jpg)

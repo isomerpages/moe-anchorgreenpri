@@ -1,9 +1,10 @@
 ---
 title: Floorball (Boys)
-permalink: /holistic-education/co-curricular-activities-cca/p4-p6-cca/physical/floorball-boys/
+permalink: /holistic-education/co-curricular-activities-cca/physical/floorball-boys/
 description: ""
+variant: tiptap
 ---
-AGPS Floorball CCA is a fun and fast-paced sport that requires great teamwork and discipline among the team members. This sport is easy to pick up and one can easily learn in a matter of minutes. However, it requires resilience and determination to excel in this sport. As the students excel in this sport, they will also be given the opportunity to represent the school and participate in the National Schools Floorball Tournament. 
+AGPS Floorball CCA is a fun and fast-paced sport that requires great teamwork and discipline among the team members. This sport is easy to pick up and one can easily learn in a matter of minutes. However, it requires resilience and determination to excel in this sport. As the students excel in this sport, they will also be given the opportunity to represent the school and participate in the National Schools Floorball Tournament.&nbsp;
 
   
 
