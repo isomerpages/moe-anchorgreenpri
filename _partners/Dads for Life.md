@@ -31,3 +31,15 @@ self-identity, benefiting the entire family.</p>
 <p>Our first Dads for Life activity, themed “Formula AGPS Race 2024”, for
 P4 to P6 fathers and their children.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dads for Life activity - Formula AGPS Race 2024" src="/images/Partners/Dads for Life/Dads_for_Life___Formula_AGPS_Race_2024_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dads for Life activity - Formula AGPS Race 2024" src="/images/Partners/Dads for Life/Dads_for_Life___Formula_AGPS_Race_2024_02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dads for Life activity - Formula AGPS Race 2024" src="/images/Partners/Dads for Life/Dads_for_Life___Formula_AGPS_Race_2024_03.jpg">
+</div>
+<p></p>
