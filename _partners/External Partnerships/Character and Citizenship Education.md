@@ -6,7 +6,7 @@ third_nav_title: External Partnerships
 variant: markdown
 ---
 Character and Citizenship Education
-========================
+======================
 
 <img src="/images/Partners/External/SCH_logo.png" style="width:40%">
 
