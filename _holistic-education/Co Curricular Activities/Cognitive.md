@@ -13,5 +13,6 @@ third_nav_title: Co Curricular Activities
 <tr>
 <td align="center"><img src="/images/Partners/PSG/Start_the_Year_Right_.jpg" style="width:90%">Start the Year Right!</td>
 <td align="center"><img src="/images/Partners/PSG/Chinese_New_Year.jpg" style="width:100%">Chinese New Year</td>
+<td align="center"><img src="/images/Partners/PSG/Chinese_New_Year.jpg" style="width:100%">Chinese New Year</td>
 </tr>
 </tbody></table>
