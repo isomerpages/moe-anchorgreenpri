@@ -6,7 +6,7 @@ third_nav_title: External Partnerships
 variant: markdown
 ---
 Environmental Education
-=======================
+======================
 
 <img src="/images/Partners/External/NEA_logo.png" style="width:40%">
 
