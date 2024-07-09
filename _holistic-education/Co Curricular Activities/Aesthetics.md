@@ -14,8 +14,8 @@ third_nav_title: Co Curricular Activities
 <td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/aesthetics/festive-drums" rel="noopener noreferrer nofollow" target="_self">Festive Drums</a></nobr></td>
 </tr>
 <tr>
-<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/chess-club" rel="noopener noreferrer nofollow" target="_self">Chess-club</a></nobr></td>
-<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/new-media-arts" rel="noopener noreferrer nofollow" target="_self">New Media Arts</a></nobr></td>
-<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/p4-p6-cca/cognitive/stem" rel="noopener noreferrer nofollow" target="_self">STEM Innovators</a></nobr></td>
+<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/guzheng" rel="noopener noreferrer nofollow" target="_self">Guzheng</a></nobr></td>
+<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/aesthetics/drama" rel="noopener noreferrer nofollow" target="_self">Drama</a></nobr></td>
+<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/aesthetics/festive-drums" rel="noopener noreferrer nofollow" target="_self">Festive Drums</a></nobr></td>
 </tr>
 </tbody></table>
