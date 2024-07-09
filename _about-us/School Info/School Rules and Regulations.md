@@ -7,7 +7,6 @@ variant: markdown
 ---
 School Rules &amp; Regulations
 ======================
-
 **1. General Conduct**
 
 Students are expected to:
@@ -18,7 +17,6 @@ Students are expected to:
 - Handle all school equipment and property with care.
 - Keep the classrooms and school premises clean 
 - Observe safety guidelines and behave in a safe manner 
-
 
 **2. Attendance and Punctuality**
 
@@ -34,16 +32,12 @@ Students are expected to:
 - Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless, the absence is due to valid reason(s) (e.g. Medical Leave).
 - Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.
 
-  
 **3. Assembly / Pledge Taking**
 
 - Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.
 - All students are required to sing the school song.
 - Students are to observe all the commands for assembly without fidgeting.
 - It is mandatory for all students to uphold the integrity of the flag raising ceremony.
-
-
-  
 
 **4. Classroom Conduct**
 
@@ -103,13 +97,11 @@ T-Shirt. </span><br><br><span style="font-weight:bold;text-decoration:underline;
 **6. Permission to leave school/country during Curriculum/Term Time** 
 - Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations. 
 
-
 **7. Possession of Weapons**
 
 *  All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited. 
 *   All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited. 
-
-### Types of Minor and Major Offences
+#### Types of Minor and Major Offences
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
