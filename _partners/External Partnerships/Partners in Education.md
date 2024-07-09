@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: External Partnerships
 ---
-<h1>Partners in Education (External Partnerships)</h1>
+<h1>External Partnerships</h1>
 <h4>Focus</h4>
 <p>With the emphasis on building partnerships in our education system since
 the 2015 Work Plan Seminar, Anchor Green Primary School recognises that
