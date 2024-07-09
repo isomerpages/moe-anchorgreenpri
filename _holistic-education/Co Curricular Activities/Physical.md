@@ -11,7 +11,7 @@ third_nav_title: Co Curricular Activities
 <tr>
 <td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/basketball" rel="noopener noreferrer nofollow" target="_self">Basketball</a></nobr></td>
 <td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/cub-scouts" rel="noopener noreferrer nofollow" target="_self">Cub Scouts</a></nobr></td>
-<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/basketball" rel="noopener noreferrer nofollow" target="_self">Basketball</a></nobr></td>
+<td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/physical/floorball-boys" rel="noopener noreferrer nofollow" target="_self">Floorball (Boys)</a></nobr></td>
 </tr>
 <tr>
 <td align="center"><nobr><a href="/holistic-education/co-curricular-activities-cca/p4-p6-cca/aesthetics/guzheng" rel="noopener noreferrer nofollow" target="_self">Guzheng</a></nobr></td>
