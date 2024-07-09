@@ -28,4 +28,6 @@ to better cognitive, emotional, and academic development in children. Dads
 for Life stresses the long-term effects of involved fatherhood, which can
 strengthen relationships, reduce maternal stress, and enhance fathers'
 self-identity, benefiting the entire family.</p>
+<p>Our first Dads for Life activity, themed “Formula AGPS Race 2024”, for
+P4 to P6 fathers and their children.</p>
 <p></p>
