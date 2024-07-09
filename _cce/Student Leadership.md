@@ -2,13 +2,13 @@
 title: Student Leadership
 permalink: /holistic-education/curriculum/character-and-citizenship-education/student-leadership/
 description: ""
+variant: markdown
 ---
-### Focus
+#### Focus
 
 To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&nbsp;**_Lead with Virtues_**&nbsp;and&nbsp;**_Serve with Humility_**.  
   
-
-### Objectives
+#### Objectives
 
 *   Nurture&nbsp;leaders with a sense of pride and identity.&nbsp;
 *   Develop&nbsp;leaders with good characters who make wise choices rooted in good values.&nbsp;
