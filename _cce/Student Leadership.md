@@ -14,9 +14,11 @@ To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&
 •	Develop leaders with good characters who make wise choices rooted in good values. <br>
 •	Groom leaders who are self-directed in his/her learning and contribute actively to the community
 
-#### Pedagogical Approaches
+#### Framework
 
 **Student Leadership Framework**
+
+
 
 <img src="/images/Curriculum/CCE/Student%20Leadership/Student%20Leadership%20Framework.png" style="width:40%">
 
