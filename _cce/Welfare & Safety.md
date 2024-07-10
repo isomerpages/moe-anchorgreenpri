@@ -59,32 +59,19 @@ For security reasons, the school seeks the cooperation of parents in the followi
 • Parents/ Guardians are to refrain from coming into the school during dismissal time, i.e. 15 minutes before dismissal and 15 minutes after dismissal. This will expedite the movement of students into and out of the school making it a safer experience for all. <br>
 • Parents/ Guardians who need to take their child/ward out of school during school hours, due to urgent reasons, are to contact the General Office or proceed to the General Office for assistance.  An Early Excuse Chit will be issued to your child/ward. 
   
-
-**3\. Entry / Exit Points**
-
+**3\. Entry / Exit Points**<br>
 Pupils walking to school are only allowed to use Side Gate 1 (next to the entrance, Gate A). Side Gate 3 will be opened during arrival and dismissal time only.
 
-  
+**4\. Pupils Travelling in Private Vehicles**<br>
+Pupils commuting to school in private vehicles will alight at the Drop-off Point inside the school from 7.00 am – 7.30 am (Monday – Friday). Vehicles will exit via Exit Gate B. Parents are advised to move off quickly after alighting their child to reduce traffic congestion. Parking is prohibited in the school premises. 
 
-**4\. Pupils Travelling in Private Vehicles**
+**5\. Consent Forms**<br>
+Prior to pupil’s participation in any designated school programmes such as excursions / field trips, it is necessary for the parent/guardian to sign and return the Acknowledgement Slip indicating his/her acknowledgement of the child’s participation in the said activity and to provide the required details. The letter is only valid when it carries the signature of both the teacher-in-charge and parent/guardian. 
 
-Pupils commuting to school in private vehicles will alight at the Drop-off Point inside the school from 7.00 am – 7.30 am (Monday – Friday). Vehicles will exit via Exit Gate B. The automated gates at the school entrance will not be used for vehicular exit at all times.
-
-Parents are advised to move off quickly after alighting their child to reduce traffic congestion. Parking is prohibited in the school premises.
-
-  
-
-**5\. Consent Forms**
-
-Prior to pupil’s participation in any designated school programmes such as excursions / field trips, it is necessary for the parent/guardian to sign and return the Acknowledgement Slip indicating his/her acknowledgement of the child’s participation in the said activity and to provide the required details. The letter is only valid when it carries the signature of both the teacher-in-charge and parent/guardian.
-
-  
-
-**6\. Emergency Evacuation**
-
-*   As a precaution against fire and other emergencies, regular drills are held.
-*   The signal for the drill is the continuous ringing of the school siren for at least one minute. During a power failure, a megaphone will be used.
-*   When the alarm is heard, all pupils are to quickly assemble outside their classrooms in two rows and walk briskly down the nearest staircases to the ISH. If a pupil happens to be in the toilet, he/she should proceed to the ISH by the shortest route as soon as possible.
+**6\. Emergency Evacuation**<br>
+• As a precaution against fire and other emergencies, regular drills are held. <br>
+• The signal for the drill is the continuous ringing of the school siren for at least one minute. During a power failure, a megaphone will be used. <br>
+• When the alarm is sounded, all pupils are to quickly assemble outside their classrooms in two rows and walk briskly down the nearest staircases to the ISH. If a pupil happens to be in the toilet, he/she should proceed to the ISH by the shortest route as soon as possible. 
 
   
 
