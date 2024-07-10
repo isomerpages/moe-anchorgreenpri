@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### Focus
 
-To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&nbsp;**_Lead with Virtues_**&nbsp;and&nbsp;**_Serve with Humility_**.  
+To foster a community of student leaders who&nbsp;**Aspire with Confidence**,&nbsp;**Lead with Virtues**&nbsp;and&nbsp;**Serve with Humility**.  
   
 #### Objectives
 
@@ -17,8 +17,6 @@ To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&
 #### Framework
 
 **Student Leadership Framework**
-
-
 
 <img src="/images/Curriculum/CCE/Student%20Leadership/Student%20Leadership%20Framework.png" style="width:40%">
 
