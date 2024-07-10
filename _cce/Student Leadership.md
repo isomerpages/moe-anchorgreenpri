@@ -59,7 +59,6 @@ Trainings are conducted for our student leaders to enhance their leadership skil
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/" style="width:90%">Start the Year Right!</td>
-<td align="center"><img src="/images/Partners/PSG/Chinese_New_Year.jpg" style="width:100%">Chinese New Year</td>
-</tr>
-</tbody></table>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_1.jpg" style="width:75%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_2.jpg" style="width:100%"></td>
+</tr></tbody></table>
