@@ -9,7 +9,30 @@ variant: markdown
   
 **1\. Financial Assistance**  
  The MOE FAS is applicable for families whose gross monthly household income is $3,000 or below, or whose monthly per capita income is $750 or below.  Supporting documents required: 
- 
+ <table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="left">• NRIC of all household members </td>
+<td align="left">• Parents and household members’ latest payslips or employer’s letter certifying Gross Income </td>
+</tr>
+<tr>
+<td align="left">• Birth certificate of pupil and all siblings </td>
+<td align="left">• Parents and household members’ latest Income Tax Notice of Assessment</td>
+</tr>
+<tr>
+<td align="left">• CPF Transaction Statement or Contribution History for the past 12 months</td>
+<td align="left">• For unemployed parents or household members; declaration of unemployment with CPF transaction for past 12 months </td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr></tbody></table>
+
+
 **2\. Counselling for Pupils**  
 Pupils who may have academic or behavioural difficulties may be referred to the Case Management Team (CMT). The team members will work with the pupil and teachers to implement supportive strategies to best support the child. Parental consent will be sought prior to the referral to Educational Psychologist (EP) to take up the case.  
   
