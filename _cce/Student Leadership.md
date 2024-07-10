@@ -119,3 +119,14 @@ School Prefects contribute to the school by overseeing the safety and discipline
 <td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Sports_Leaders_1.jpg" style="width:90%"></td>
 <td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Sports_Leaders_2.jpg" style="width:100%"></td>
 </tr></tbody></table>
+
+**Environmental Champions**<br>
+**Activities and programme Involvement**<br>
+•	Lead environmental activities for school programmes <br>
+-	3Rs in class <br>
+-	Love Your Food @ AGPS <br>
+-	P1 Adopt a Plot <br>
+-	Sengkang Wetlands Learning Package <br>
+•	Sharing in assembly programmes <br>
+-	Earth Hour <br>
+-	Green Wave Commemoration <br>
