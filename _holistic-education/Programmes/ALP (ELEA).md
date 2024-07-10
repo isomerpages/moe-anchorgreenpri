@@ -51,58 +51,59 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
        Name of Program
       </th>
       <th style="width: 64px;">
-        Programmes
+        Level <br>Involved
+      </th>
+			<th style="width: 64px;">
+				<nobr>Program Summary</nobr>
+      </th>
+			<th style="width: 64px;">
+        Collaboration
       </th>
     </tr>
     <tr>
-      <td rowspan="4" style="width: 60px;">
-        Experience
+      <td rowspan="3" style="width: 60px;">
+       Green COPS (Biodiversity- Care for our
       </td>
-      <td rowspan="2" style="width: 60px;">
+      <td style="width: 60px;">
+        Adopt-A-Plant
+      </td>
+      <td style="text-align: left; width: 60px;">
         P1
       </td>
-      <td style="text-align: left; width: 60px;">
-        <b>
-          <u>Water Education Learning Package
-          </u>
-        </b>
-        <br>
-        <div>Integration with English STELLAR. Through the hands-on learning experience of investigation, pupils will learn that water can be recycled and reused and that water is precious.
-          <br>
-        </div>
+			 <td style="text-align: left; width: 60px;">To inculcate ownership of school properties: <br> 1. Each class will water the 2 gardens in school twice in Term 3. <br>2. Each plant will then adopt a pot of plant to take care in Sem 2. 
+      </td>
+			 <td style="text-align: left; width: 60px;">
+        P4 ECs will create videos to teach the basic parts of plants and how P1 students should water. 
       </td>
     </tr>
     <tr>
       <td style="text-align: left; width: 60px;">
-        <b>
-          <u>Adopt a Plot
-          </u>
-        </b>
-        <br>As their VIA, pupils are given a plot in the Anchor Glade or Anchor Grove to water daily in order to act on their pledge to save the environment.
-        <br>
+       Green Wave Commemoration
+      </td>
+			<td style="text-align: left; width: 60px;">
+       P2
+      </td>
+			<td style="text-align: left; width: 60px;">
+       To encourage students to plant an edible plant on their own and take care of it with their family members. 
+      </td>
+			<td style="text-align: left; width: 60px;">
+       PAL committee:<br>
+Creation of bottle pot for the plant.
       </td>
     </tr>
-    <tr>
-      <td rowspan="2" style="width: 60px;">
-        P2
+		<tr>
+      <td style="text-align: left; width: 60px;">
+       Green Wave Commemoration
       </td>
-      <td style="text-align: left;">
-        <b>
-          <u>Water Education Learning Package
-          </u>
-        </b>
-        <br>Integration with English STELLAR, pupils will create rain gauges from recycled bottles to track the amount of rainfall in school. From this, they will then observe and discuss about the impacts of rainfall.
-        <br>
+			<td style="text-align: left; width: 60px;">
+       P2
       </td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">
-        <b>
-          <u>Plant a Tree
-          </u>
-        </b>
-        <br>In commemoration of Green Wave Day, pupils will continue to add diversity to the plants in Anchor Grove through planting.
-        <br>
+			<td style="text-align: left; width: 60px;">
+       To encourage students to plant an edible plant on their own and take care of it with their family members. 
+      </td>
+			<td style="text-align: left; width: 60px;">
+       PAL committee:<br>
+Creation of bottle pot for the plant.
       </td>
     </tr>
   </tbody>
