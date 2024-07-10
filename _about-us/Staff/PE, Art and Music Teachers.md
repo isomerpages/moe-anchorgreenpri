@@ -126,7 +126,7 @@ Physical Education
 <tbody>
 
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Karen Yeo Poh Cheng</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Karen Yeo Poh Cheng <br>(Mrs Karen Lee)</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-lb3e"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a></td>
   </tr>
