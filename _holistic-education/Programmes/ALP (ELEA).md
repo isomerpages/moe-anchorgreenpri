@@ -136,61 +136,61 @@ Creation of bottle pot for the plant.
     </tr>
  <tr>
       <td rowspan="4" style="width: 60px;">
-       Green COPS (Biodiversity- Care for our School)
+       RRRescuers (Zero Waste)
       </td>
       <td style="width: 60px;">
-        Adopt-A-Plant
+        Clean Plate Campaign 
       </td>
       <td style="text-align: left; width: 60px;">
-        P1
+        All
       </td>
-			 <td style="text-align: left; width: 60px;">To inculcate ownership of school properties: <br> 1. Each class will water the 2 gardens in school twice in Term 3. <br>2. Each plant will then adopt a pot of plant to take care in Sem 2. 
+			 <td style="text-align: left; width: 60px;">To encourage students to understand the importance of food securtiy in Singapore. Students to finish their food and show the clean plate to the parent volunteers. Students to collect 5 stamps in a week to redeem a prize. Campaign runs for a wekk each term. 
       </td>
 			 <td style="text-align: left; width: 60px;">
-        P4 ECs will create videos to teach the basic parts of plants and how P1 students should water. 
       </td>
     </tr>
     <tr>
       <td style="text-align: left; width: 60px;">
-       Green Wave Commemoration
+       Recycle Right Mondays 
       </td>
 			<td style="text-align: left; width: 60px;">
-       P2
+       All
       </td>
 			<td style="text-align: left; width: 60px;">
-       To encourage students to plant an edible plant on their own and take care of it with their family members. 
+       To encourage students that ‘life’ of objects that can’t be upcycled or reused can be lengthened by recycling. Students to bring in the designated recyclable for the term. ECs scheduled to remind classmates to bring the recyclable.  
       </td>
 			<td style="text-align: left; width: 60px;">
-       PAL committee:<br>
-Creation of bottle pot for the plant.
+       Mono Food SG &amp; Apeiron Energy 
       </td>
     </tr>
 		<tr>
       <td style="text-align: left; width: 60px;">
-       Green Quest 2024
+      Love Your Food @ AGPS
       </td>
 			<td style="text-align: left; width: 60px;">
-       P3 - P6 
+       P3
       </td>
-			<td style="text-align: left; width: 60px;">In collaboration with Gardens by the Bay, students can take part in the Green Quest (Seeker Leve). Students will complete activities on biodiversity. 
+			<td style="text-align: left; width: 60px;">P3 students went through a workshop by Tembusu Pte Ltd on Food Security – Rice production. <br>
+Through learning of how Singapore gets its rice, the P3 students will learn about food recycling and how food waste can be turned into compost for plants. Students will then do their VIA in fertilising our school gardens using the food compost.  
       </td>
 			<td style="text-align: left; width: 60px;">
-       Gardens by the Bay 
+      Tembusu Pte Ltd 
       </td>
     </tr>		
 			<tr>
       <td style="text-align: left; width: 60px;">
-       Green Quest 2024
+       IPW
       </td>
 			<td style="text-align: left; width: 60px;">
-       P3 - P6 
+       P4 
       </td>
-			<td style="text-align: left; width: 60px;">In collaboration with Gardens by the Bay, students can take part in the Green Quest (Seeker Leve). Students will complete activities on biodiversity. 
+			<td style="text-align: left; width: 60px;">Students will go through the Thinking Design protocol to come up with solutions to environmental issues in school. 
       </td>
 			<td style="text-align: left; width: 60px;">
-       Gardens by the Bay 
+      Across all disciplines
       </td>
-    </tr>		
+    </tr>	
+		<tr></tr>
   </tbody>
 </table>
 
