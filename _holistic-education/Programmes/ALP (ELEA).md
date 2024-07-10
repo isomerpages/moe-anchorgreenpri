@@ -40,9 +40,7 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 #### Key Programmes/Initiatives
 ##### School-based:
 **Tier 1: Learning Opportunities for All (P1 to P6)**<br>
-
 **2024 SLOGAN - “Reduce and refuse for sure; let’s turn trash into treasure!”**
-
 <table>
   <tbody>
     <tr>
