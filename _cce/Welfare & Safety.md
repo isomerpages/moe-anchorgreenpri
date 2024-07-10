@@ -73,19 +73,7 @@ Prior to pupil’s participation in any designated school programmes such as exc
 • The signal for the drill is the continuous ringing of the school siren for at least one minute. During a power failure, a megaphone will be used. <br>
 • When the alarm is sounded, all pupils are to quickly assemble outside their classrooms in two rows and walk briskly down the nearest staircases to the ISH. If a pupil happens to be in the toilet, he/she should proceed to the ISH by the shortest route as soon as possible. 
 
-  
-
-**7\. Leaving School Premises**
-
-*   Pupils are not allowed to leave the school premises without approval from the School Leaders. Disciplinary action will be taken against pupils who leave the school premises without prior permission from the School Leaders.
-*   Pupils are only permitted to leave the classroom if they have obtained permission from their teacher and has been granted an exit pass.
-*   Family member / guardian must sign out at the General Office before leaving the school premises with the child.
-
-  
-
-**8\. Mobile Phone Policy**
-
-*   The school does not encourage pupils to bring mobile phones to school.
-*   Parents who would like their child to carry a mobile phone must take personal responsibility, the school will not be responsible for any loss or damage to the mobile phones.
-*   Pupils are not allowed to use their mobile phones in school.
-*   Pupils’ mobile phones may be confiscated as a disciplinary measure and/or for the purpose of investigation if pupils contravened the above rule.
+**7\. Leaving School Premises**<br>
+• Pupils are not allowed to leave the school premises without approval from the School Leaders. Disciplinary action will be taken against pupils who leave the school premises without prior permission from the School Leaders. <br>
+• Pupils are only permitted to leave the classroom if they have obtained permission from their teacher and granted an exit pass. <br>
+• Family members/ guardians must sign out at the General Office before leaving the school premises with the child. 
