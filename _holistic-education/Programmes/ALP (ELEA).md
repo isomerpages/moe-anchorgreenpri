@@ -134,7 +134,63 @@ Creation of bottle pot for the plant.
        Math Department 
       </td>
     </tr>
-		
+ <tr>
+      <td rowspan="4" style="width: 60px;">
+       Green COPS (Biodiversity- Care for our School)
+      </td>
+      <td style="width: 60px;">
+        Adopt-A-Plant
+      </td>
+      <td style="text-align: left; width: 60px;">
+        P1
+      </td>
+			 <td style="text-align: left; width: 60px;">To inculcate ownership of school properties: <br> 1. Each class will water the 2 gardens in school twice in Term 3. <br>2. Each plant will then adopt a pot of plant to take care in Sem 2. 
+      </td>
+			 <td style="text-align: left; width: 60px;">
+        P4 ECs will create videos to teach the basic parts of plants and how P1 students should water. 
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left; width: 60px;">
+       Green Wave Commemoration
+      </td>
+			<td style="text-align: left; width: 60px;">
+       P2
+      </td>
+			<td style="text-align: left; width: 60px;">
+       To encourage students to plant an edible plant on their own and take care of it with their family members. 
+      </td>
+			<td style="text-align: left; width: 60px;">
+       PAL committee:<br>
+Creation of bottle pot for the plant.
+      </td>
+    </tr>
+		<tr>
+      <td style="text-align: left; width: 60px;">
+       Green Quest 2024
+      </td>
+			<td style="text-align: left; width: 60px;">
+       P3 - P6 
+      </td>
+			<td style="text-align: left; width: 60px;">In collaboration with Gardens by the Bay, students can take part in the Green Quest (Seeker Leve). Students will complete activities on biodiversity. 
+      </td>
+			<td style="text-align: left; width: 60px;">
+       Gardens by the Bay 
+      </td>
+    </tr>		
+			<tr>
+      <td style="text-align: left; width: 60px;">
+       Green Quest 2024
+      </td>
+			<td style="text-align: left; width: 60px;">
+       P3 - P6 
+      </td>
+			<td style="text-align: left; width: 60px;">In collaboration with Gardens by the Bay, students can take part in the Green Quest (Seeker Leve). Students will complete activities on biodiversity. 
+      </td>
+			<td style="text-align: left; width: 60px;">
+       Gardens by the Bay 
+      </td>
+    </tr>		
   </tbody>
 </table>
 
