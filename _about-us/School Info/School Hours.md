@@ -7,11 +7,7 @@ variant: markdown
 ---
 School Hours
 ============
-
-  
-
 Students who arrive before 7.00am must report to ISH Level 1 and they must have a book to do silent reading.
-
 
 From 7.10 a.m. onwards students are to proceed to their classroom using the correct route and staircase. They are to carry out Wipe Down Routine, wash their hands upon arrival in the classroom and to continue with Silent Reading in the classroom. 
 

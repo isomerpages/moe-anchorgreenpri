@@ -2,28 +2,23 @@
 title: Student Leadership
 permalink: /holistic-education/curriculum/character-and-citizenship-education/student-leadership/
 description: ""
+variant: markdown
 ---
-### Focus
+#### Focus
 
-To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&nbsp;**_Lead with Virtues_**&nbsp;and&nbsp;**_Serve with Humility_**.  
+To foster a community of student leaders who&nbsp;**Aspire with Confidence**,&nbsp;**Lead with Virtues**&nbsp;and&nbsp;**Serve with Humility**.  
   
+#### Objectives
 
-### Objectives
+•	Nurture leaders with a sense of pride and identity. <br>
+•	Develop leaders with good characters who make wise choices rooted in good values. <br>
+•	Groom leaders who are self-directed in his/her learning and contribute actively to the community
 
-*   Nurture&nbsp;leaders with a sense of pride and identity.&nbsp;
-*   Develop&nbsp;leaders with good characters who make wise choices rooted in good values.&nbsp;
-*   Groom&nbsp;leaders who are self-directed in his/her learning and contribute actively to the community
-
-  
-
-### Approach
+#### Framework
 
 **Student Leadership Framework**
-
-<img src="/images/Curriculum/CCE/Student%20Leadership/Student%20Leadership%20Framework.png" style="width:40%">
-
+<img src="/images/Curriculum/CCE/Student%20Leadership/Student_Leadership_Framework.jpg" style="width:50%">
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -52,38 +47,86 @@ To foster a community of student leaders who&nbsp;**_Aspire with Confidence_**,&
   </tr>
 </tbody>
 </table>
+Leadership Structure:
+In AGPS, our students are provided with the opportunities to develop their leadership capabilities through a comprehensive four-tiered approach.
 
-### Key Programmes
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3kke{background-color:#22A114;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3kke">Prefectorial Board</th>
-    <th class="tg-3kke">Class Committee</th>
-  </tr>
-</thead>
+#### Key Programmes/Initiatives
+##### School-based:
+**Prefects’ Investiture 2024**<br>
+The Prefects’ investiture was held on 19 April. It is an important occasion dedicated to appointing and appreciating our school prefects as they embark on their leadership journey. Our prefects are instrumental in nurturing a caring and supportive environment within our school community. Furthermore, they serve as exemplars of our school's values, actively promoting them among their peers. <br>![Prefects Investiture](/images/Curriculum/CCE/Student%20Leadership/Prefects_Investiture.jpg)<br>
+**Trainings**<br>
+Trainings are conducted for our student leaders to enhance their leadership skills, foster teamwork and communication abilities, cultivate problem-solving and decision-making capabilities, instill a sense of responsibility and accountability, promote empathy and inclusivity, and empower them to positively influence their peers and the wider school community. Through our training programmes, our student leaders are equipped with the skills and mindset necessary to effectively lead and serve others.
+<table>
 <tbody>
-  <tr>
-    <td class="tg-8wja">Training (ALL)<br><br>1. Mentorship Programme<br><br>- Introduction to mentorship and mentor their fellow juniors in their roles and duties<br>- Encourages student-initiated projects to serve and contribute back to the school<br><br><br>2. Prefect Duties<br><br>- Learn the daily operational procedures in school<br>- Advise peers on pre-existing safety precautions<br><br>3. Prefects-Initiated Programmes<br><br>- Event planning, management and execution<br>- Pre-assembly sharing about good practices in school</td>
-    <td class="tg-8wja">Training (ALL)<br><br>1. Situational Awareness &amp; Management<br>2. Civic-Mindedness &amp; Values<br><br>Lower Primary<br><br>1. Time Management<br>2. Stress Management<br><br>Upper Primary<br><br>1. Conflict Management and Resolution<br><br>Emergency Preparedness<br><br>1. Evacuation routes and procedures<br>2. Safety precautions in classroom and special rooms</td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_1.jpg" style="width:75%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_2.jpg" style="width:100%"></td>
+</tr></tbody></table>
 
-### Student Leadership Camp
+**Service**<br>
+Opportunities are presented to various groups of student leaders though various settings such as class, CCA, school events, or beyond school, allowing them to showcase and hone their leadership capabilities while serving the school and the wider community.
 
-**Objectives**
 
-* To instill values (Respect, Integrity, Confidence, Excellence, Resilience).
-* To forge camaraderie and strengthen ties among the student leaders.
-* To develop a positive outlook towards challenges and turned them into opportunities for growth.
-* To acquire self-awareness of one’s strengths and appreciate the talents of others.
+**Prefects**
+School Prefects contribute to the school by overseeing the safety and discipline of their peers. They are provided with opportunities to participate in school events and activities, allowing them to demonstrate their leadership skills and lead their peers.
+**Activities and programme Involvement**
+•	Prefects’ VIA Project
+•	News Focus Sharing (fortnightly)
+•	P1 Orientation
+•	PAC ceremony
+•	Discipline and square breathing duties
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_1.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_2.jpg" style="width:75%"></td>
+</tr></tbody></table>
+
+**Peer Support Leaders**<br>
+**Activities and programme Involvement**<br>
+•	Lead in bonding activities for school programmes <br>
+-	Total Defence Day <br>
+-	International Friendship Day <br>
+-	Racial Harmony Day <br>
+•	Sharing in assembly programmes <br>
+-	Cyberwellness <br>
+-	Anti-Bullying <br>
+-	Peer Support <br>
+•	Cyber Wellness  Day <br>
+-	Preparation of resources for activities <br>
+-	Presentation and conducting activities at the booths
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_1.jpg" style="width:96%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_2.jpg" style="width:100%"></td>
+</tr></tbody></table>
+
+**Sports Leaders**<br>
+**Activities and programme Involvement**<br>
+•	Facilitators for:<br>
+-	Unstructured Recess Play<br>
+-	Sports Fiesta<br>
+-	Sports Outreach (with MK)<br>
+-	Recess Activity Booths (Total Defence Day)<br>
+-	CD Junior Lionhearters (JCDLH) events<br>
+• Sharing in assembly programmes<br>
+-	Health and sports related topics <br>
+-	Total Defence Day<br>
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Sports_Leaders_1.jpg" style="width:90%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Sports_Leaders_2.jpg" style="width:100%"></td>
+</tr></tbody></table>
+
+**Environmental Champions**<br>
+**Activities and programme Involvement**<br>
+•	Lead environmental activities for school programmes <br>
+-	3Rs in class <br>
+-	Love Your Food @ AGPS <br>
+-	P1 Adopt a Plot <br>
+-	Sengkang Wetlands Learning Package <br>
+•	Sharing in assembly programmes <br>
+-	Earth Hour <br>
+-	Green Wave Commemoration <br>
