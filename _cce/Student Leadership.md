@@ -102,3 +102,14 @@ School Prefects contribute to the school by overseeing the safety and discipline
 <td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_2.jpg" style="width:100%"></td>
 </tr></tbody></table>
 
+**Sports Leaders**<br>
+**Activities and programme Involvement**<br>
+•	Facilitators for:<br>
+-	Unstructured Recess Play<br>
+-	Sports Fiesta<br>
+-	Sports Outreach (with MK)<br>
+-	Recess Activity Booths (Total Defence Day)<br>
+-	CD Junior Lionhearters (JCDLH) events<br>
+• Sharing in assembly programmes<br>
+-	Health and sports related topics <br>
+-	Total Defence Day<br>
