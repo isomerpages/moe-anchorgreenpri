@@ -267,7 +267,7 @@ STEM Innovators (CCA)
       <td style="text-align: left; width: 60px;">
         P4-P6
       </td>
-			 <td style="text-align: left; width: 60px;">*See under CCA (STEM Innovator) tab 
+			 <td style="text-align: left; width: 60px;">*See under CCA (<a href="/holistic-education/co-curricular-activities-cca/cognitive/stem/" rel="noopener noreferrer nofollow" target="_self">STEM Innovator</a>) tab 
       </td>
 			 <td style="text-align: left; width: 60px;">
 	 </td></tr>
