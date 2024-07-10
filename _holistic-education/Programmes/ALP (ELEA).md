@@ -111,30 +111,29 @@ Creation of bottle pot for the plant.
       Water HERO
       </td>
       <td style="width: 60px;">
-        Adopt-A-Plant
+       Mrs Wishy Washy – Which water should we use to wash Mrs Wishy Washy’s animals? 
       </td>
       <td style="text-align: left; width: 60px;">
         P1
       </td>
-			 <td style="text-align: left; width: 60px;">To inculcate ownership of school properties: <br> 1. Each class will water the 2 gardens in school twice in Term 3. <br>2. Each plant will then adopt a pot of plant to take care in Sem 2. 
+			 <td style="text-align: left; width: 60px;">Integration with English STELLAR. Through the hands-on learning experience of investigation, pupils will learn that water can be recycled and reused and that water is precious. 
       </td>
 			 <td style="text-align: left; width: 60px;">
-        P4 ECs will create videos to teach the basic parts of plants and how P1 students should water. 
+        English Department  
       </td>
     </tr>
     <tr>
       <td style="text-align: left; width: 60px;">
-       Green Wave Commemoration
+       What will the weather be like today? 
       </td>
 			<td style="text-align: left; width: 60px;">
        P2
       </td>
 			<td style="text-align: left; width: 60px;">
-       To encourage students to plant an edible plant on their own and take care of it with their family members. 
+      Pupils will create rain gauges from recycled bottles to track the amount of rainfall in school. From this, they will then observe and discuss about the impacts of rainfall and record their data into a bar graph (Math syllabus).  
       </td>
 			<td style="text-align: left; width: 60px;">
-       PAL committee:<br>
-Creation of bottle pot for the plant.
+       Math Department 
       </td>
     </tr>
 		
