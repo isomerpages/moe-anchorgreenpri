@@ -36,47 +36,29 @@ FAS applications will be online with the FormSG link to be provided in October o
 **2\. Insurance Coverage for Pupils**  
 The MOE Group Personal Accident Insurance for students related to all school activities and/or co-curricular activities (CCAs) both in and out of school has been arranged for every student. The school’s GPA Plan is with NTUC Income Insurance Co-operative Limited.  
   
-**3\.Counselling for Pupils – HOD CCE**   
+**3\.Counselling for Pupils**   
 Pupils who may have academic or behavioural difficulties may be referred to the Case Management Team (CMT). The team members will work with the pupil and teachers to implement supportive strategies to best support the child. Parental consent will be sought prior to the referral to Educational Psychologist (EP) to take up the case. 
   
 **4\. Personal Responsibility** <br>
 We hope to instill personal responsibility in our students, hence students are expected to take responsibility of their own belongings. We seek your support in reinforcing the message and helping our students develop into responsible individuals. 
   
-**5\. Enrichment / Remedial Lessons**  
-Pupils may be identified by their teachers to remain in school for extra lessons after school hours. This will be on a needs-basis. Parents are advised to give their full support by ensuring that their children attend these lessons.  
-  
-**6\. Parent's Support** <br>
-The school seeks the support of parents in:  
-
-*   supervising their children’s homework and ensuring that all assignments are completed and submitted on time.
-*   going through the handbook to acknowledge that all assignments are completed.
-*   ensuring that their children attend regularly all supplementary /remedial lessons, CCAs and enrichment programmes organised by the school.
-
-  
-**7\. Insurance Coverage for Pupils**  
-All pupils are provided with insurance coverage. The child is covered for all relevant school and MOE-endorsed activities. Please contact the school if you have queries.  
-  
-**8\. School Policies**  
-The school has adopted a ‘No Weekend Homework’ policy for our pupils.&nbsp;The objectives are to allow our pupils to enjoy their weekends with their family and provide space and time for parents to think of innovative ways to teach and&nbsp;engage their children.&nbsp;  
-  
-  
-
+**5\. Talent Development and Level Up Programmes**  
+Students who are identified to remain in school for the above-mentioned programmes are required to attend the programmes, unless parental opt out is exercised. Parents are to ensure that their child attends the lessons and have sufficient pocket money to take their lunch.   
+ 
 #### Pupil Safety
-
   
 **1\. Arrival at school in the morning**  
-For security reasons, pupils who arrive early should wait at the canteen until instructions are provided to inform pupils to move to their respective venues.  
+For safety reasons, pupils who arrive before 7.00am are to wait in the Indoor Sports Hall 1 (ISH 1) until instructions are provided to inform them to move to their respective venues.  Students are encouraged to do silent reading while waiting to move to their designated venues. 
   
 **2\. Visitors to the School**  
-For security reasons, the school seeks the cooperation of parents in the following areas:  
+For security reasons, the school seeks the cooperation of parents in the following areas: 
 
-*   Unauthorised visitors are not allowed into the school.
-*   Parents / Guardians who wish to see their children or staff members of the school must report to the Security Post to obtain the Visitor Pass first.
-*   Parents / Guardians are to produce their identity cards for identification purposes.
-*   Parents / Guardians are to be properly attired when they are in the school premises.
-*   Parents/ Guardians are to refrain from coming into the school during dismissal time, i.e. 15 minutes before dismissal and 15 minutes after dismissal. This is to assist the school staff in carrying out their duties to ensure the safety of pupils.
-*   Parents/ Guardians who need to take their child/ward out of school during school hours, due to urgent reason, are to contact the General Office or proceed to the General Office for assistance.
-
+• Unauthorised visitors are not allowed into the school.<br>
+• Parents / Guardians who wish to see their children or staff members of the school must report to the Security Post to obtain the Visitor Pass first. <br>
+• Parents / Guardians are to produce their identity cards for identification purposes. <br>
+• Parents / Guardians are to be properly attired when they are within the school premises. <br>
+• Parents/ Guardians are to refrain from coming into the school during dismissal time, i.e. 15 minutes before dismissal and 15 minutes after dismissal. This will expedite the movement of students into and out of the school making it a safer experience for all. <br>
+• Parents/ Guardians who need to take their child/ward out of school during school hours, due to urgent reasons, are to contact the General Office or proceed to the General Office for assistance.  An Early Excuse Chit will be issued to your child/ward. 
   
 
 **3\. Entry / Exit Points**
