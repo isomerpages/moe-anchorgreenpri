@@ -116,6 +116,6 @@ School Prefects contribute to the school by overseeing the safety and discipline
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_1.jpg" style="width:96%"></td>
-<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_2.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Sports_Leaders_1.jpg" style="width:90%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Sports_Leaders_2.jpg" style="width:100%"></td>
 </tr></tbody></table>
