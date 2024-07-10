@@ -113,3 +113,9 @@ School Prefects contribute to the school by overseeing the safety and discipline
 • Sharing in assembly programmes<br>
 -	Health and sports related topics <br>
 -	Total Defence Day<br>
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_1.jpg" style="width:96%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/PSL_2.jpg" style="width:100%"></td>
+</tr></tbody></table>
