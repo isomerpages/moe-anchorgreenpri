@@ -37,6 +37,13 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 #### Framework
 <img src="/images/Programmes/EE2.png" style="width:80%">
 
+#### Key Programmes/Initiatives
+##### School-based:
+**Tier 1: Learning Opportunities for All (P1 to P6)**<br>
+
+
+
+
 #### [Tier 1: Learning Opportunities for All (P1 to P6)](/holistic-education/programme/alp-elea/Tier-1-Learning-Opportunities-for-All-P1-to-P6/)
 
 #### [Tier 2: Learning Opportunities for a Targeted Group](/holistic-education/programme/alp-elea/Tier-2-Learning-Opportunities-for-a-Targeted-Group)
