@@ -95,17 +95,15 @@ Creation of bottle pot for the plant.
     </tr>
 		<tr>
       <td style="text-align: left; width: 60px;">
-       Green Wave Commemoration
+       Green Quest 2024
       </td>
 			<td style="text-align: left; width: 60px;">
-       P2
+       P3 - P6 
+      </td>
+			<td style="text-align: left; width: 60px;">In collaboration with Gardens by the Bay, students can take part in the Green Quest (Seeker Leve). Students will complete activities on biodiversity. 
       </td>
 			<td style="text-align: left; width: 60px;">
-       To encourage students to plant an edible plant on their own and take care of it with their family members. 
-      </td>
-			<td style="text-align: left; width: 60px;">
-       PAL committee:<br>
-Creation of bottle pot for the plant.
+       Gardens by the Bay 
       </td>
     </tr>
   </tbody>
