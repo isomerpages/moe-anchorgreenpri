@@ -82,3 +82,22 @@ School Prefects contribute to the school by overseeing the safety and discipline
 <td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_2.jpg" style="width:75%"></td>
 </tr></tbody></table>
 
+**Peer Support Leaders**<br>
+**Activities and programme Involvement**<br>
+•	Lead in bonding activities for school programmes <br>
+-	Total Defence Day <br>
+-	International Friendship Day <br>
+-	Racial Harmony Day <br>
+•	Sharing in assembly programmes <br>
+-	Cyberwellness <br>
+-	Anti-Bullying <br>
+-	Peer Support <br>
+•	Cyber Wellness  Day <br>
+-	Preparation of resources for activities <br>
+-	Presentation and conducting activities at the booths
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_1.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_2.jpg" style="width:75%"></td>
+</tr></tbody></table>
