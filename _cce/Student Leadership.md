@@ -4,7 +4,6 @@ permalink: /holistic-education/curriculum/character-and-citizenship-education/st
 description: ""
 variant: markdown
 ---
-
 #### Focus
 
 To foster a community of student leaders who&nbsp;**Aspire with Confidence**,&nbsp;**Lead with Virtues**&nbsp;and&nbsp;**Serve with Humility**.  
@@ -79,7 +78,6 @@ School Prefects contribute to the school by overseeing the safety and discipline
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_1.jpg" style="width:75%"></td>
-<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_2.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_1.jpg" style="width:100%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Prefects_2.jpg" style="width:75%"></td>
 </tr></tbody></table>
-
