@@ -17,11 +17,8 @@ To foster a community of student leaders who&nbsp;**Aspire with Confidence**,&nb
 #### Framework
 
 **Student Leadership Framework**
-
-<img src="/images/Curriculum/CCE/Student%20Leadership/Student%20Leadership%20Framework.png" style="width:40%">
-
+<img src="/images/Curriculum/CCE/Student%20Leadership/Student_Leadership_Framework.jpg" style="width:50%">
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -50,38 +47,8 @@ To foster a community of student leaders who&nbsp;**Aspire with Confidence**,&nb
   </tr>
 </tbody>
 </table>
+Leadership Structure:
+In AGPS, our students are provided with the opportunities to develop their leadership capabilities through a comprehensive four-tiered approach.
 
-### Key Programmes
+#### Key Programmes/Initiatives
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3kke{background-color:#22A114;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8wja{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3kke">Prefectorial Board</th>
-    <th class="tg-3kke">Class Committee</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-8wja">Training (ALL)<br><br>1. Mentorship Programme<br><br>- Introduction to mentorship and mentor their fellow juniors in their roles and duties<br>- Encourages student-initiated projects to serve and contribute back to the school<br><br><br>2. Prefect Duties<br><br>- Learn the daily operational procedures in school<br>- Advise peers on pre-existing safety precautions<br><br>3. Prefects-Initiated Programmes<br><br>- Event planning, management and execution<br>- Pre-assembly sharing about good practices in school</td>
-    <td class="tg-8wja">Training (ALL)<br><br>1. Situational Awareness &amp; Management<br>2. Civic-Mindedness &amp; Values<br><br>Lower Primary<br><br>1. Time Management<br>2. Stress Management<br><br>Upper Primary<br><br>1. Conflict Management and Resolution<br><br>Emergency Preparedness<br><br>1. Evacuation routes and procedures<br>2. Safety precautions in classroom and special rooms</td>
-  </tr>
-</tbody>
-</table>
-
-### Student Leadership Camp
-
-**Objectives**
-
-* To instill values (Respect, Integrity, Confidence, Excellence, Resilience).
-* To forge camaraderie and strengthen ties among the student leaders.
-* To develop a positive outlook towards challenges and turned them into opportunities for growth.
-* To acquire self-awareness of one’s strengths and appreciate the talents of others.
