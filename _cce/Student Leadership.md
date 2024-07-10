@@ -56,3 +56,10 @@ In AGPS, our students are provided with the opportunities to develop their leade
 The Prefects’ investiture was held on 19 April. It is an important occasion dedicated to appointing and appreciating our school prefects as they embark on their leadership journey. Our prefects are instrumental in nurturing a caring and supportive environment within our school community. Furthermore, they serve as exemplars of our school's values, actively promoting them among their peers. <br>![Prefects Investiture](/images/Curriculum/CCE/Student%20Leadership/Prefects_Investiture.jpg)<br>
 **Trainings**<br>
 Trainings are conducted for our student leaders to enhance their leadership skills, foster teamwork and communication abilities, cultivate problem-solving and decision-making capabilities, instill a sense of responsibility and accountability, promote empathy and inclusivity, and empower them to positively influence their peers and the wider school community. Through our training programmes, our student leaders are equipped with the skills and mindset necessary to effectively lead and serve others.
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/" style="width:90%">Start the Year Right!</td>
+<td align="center"><img src="/images/Partners/PSG/Chinese_New_Year.jpg" style="width:100%">Chinese New Year</td>
+</tr>
+</tbody></table>
