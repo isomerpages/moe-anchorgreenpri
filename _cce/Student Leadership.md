@@ -4,6 +4,7 @@ permalink: /holistic-education/curriculum/character-and-citizenship-education/st
 description: ""
 variant: markdown
 ---
+
 #### Focus
 
 To foster a community of student leaders who&nbsp;**Aspire with Confidence**,&nbsp;**Lead with Virtues**&nbsp;and&nbsp;**Serve with Humility**.  
@@ -62,3 +63,23 @@ Trainings are conducted for our student leaders to enhance their leadership skil
 <td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_1.jpg" style="width:75%"></td>
 <td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_2.jpg" style="width:100%"></td>
 </tr></tbody></table>
+
+**Service**<br>
+Opportunities are presented to various groups of student leaders though various settings such as class, CCA, school events, or beyond school, allowing them to showcase and hone their leadership capabilities while serving the school and the wider community.
+
+
+**Prefects**
+School Prefects contribute to the school by overseeing the safety and discipline of their peers. They are provided with opportunities to participate in school events and activities, allowing them to demonstrate their leadership skills and lead their peers.
+**Activities and programme Involvement**
+•	Prefects’ VIA Project
+•	News Focus Sharing (fortnightly)
+•	P1 Orientation
+•	PAC ceremony
+•	Discipline and square breathing duties
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_1.jpg" style="width:75%"></td>
+<td align="center"><img src="/images/Curriculum/CCE/Student%20Leadership/Training_2.jpg" style="width:100%"></td>
+</tr></tbody></table>
+
