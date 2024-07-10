@@ -2,12 +2,14 @@
 title: Welfare & Safety
 permalink: /holistic-education/curriculum/character-and-citizenship-education/welfare-n-safety/
 description: ""
+variant: markdown
 ---
 #### Pupil Welfare
 
   
 **1\. Financial Assistance**  
-  
+ The MOE FAS is applicable for families whose gross monthly household income is $3,000 or below, or whose monthly per capita income is $750 or below.  Supporting documents required: 
+ 
 **2\. Counselling for Pupils**  
 Pupils who may have academic or behavioural difficulties may be referred to the Case Management Team (CMT). The team members will work with the pupil and teachers to implement supportive strategies to best support the child. Parental consent will be sought prior to the referral to Educational Psychologist (EP) to take up the case.  
   
@@ -32,7 +34,7 @@ The school seeks the support of parents in:
 All pupils are provided with insurance coverage. The child is covered for all relevant school and MOE-endorsed activities. Please contact the school if you have queries.  
   
 **8\. School Policies**  
-The school has adopted a ‘No Weekend Homework’ policy for our pupils. The objectives are to allow our pupils to enjoy their weekends with their family and provide space and time for parents to think of innovative ways to teach and engage their children.   
+The school has adopted a ‘No Weekend Homework’ policy for our pupils.&nbsp;The objectives are to allow our pupils to enjoy their weekends with their family and provide space and time for parents to think of innovative ways to teach and&nbsp;engage their children.&nbsp;  
   
   
 
