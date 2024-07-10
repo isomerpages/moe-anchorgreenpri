@@ -4,10 +4,10 @@ permalink: /holistic-education/curriculum/character-and-citizenship-education/we
 description: ""
 variant: markdown
 ---
-#### Pupil Welfare
+#### Pupil Welfare &amp; Well-Being
 
   
-**1\. Financial Assistance**  
+**1\. Financial Assistance (FAS)**  
  The MOE FAS is applicable for families whose gross monthly household income is $3,000 or below, or whose monthly per capita income is $750 or below.  Supporting documents required: 
  <table>
 <tbody>
@@ -31,7 +31,7 @@ variant: markdown
 </tr>
 <tr>
 </tr></tbody></table>
-
+FAS applications will be online with the FormSG link to be provided in October of each year.  To ensure your application is processed promptly, all the necessary documents must be submitted together with your duly completed online application form by the stipulated deadline (to be advised).  Successful applicants will be able to collect uniforms and books from mid-December. Current P6 students going to Secondary 1 in 2024 can continue to submit their online applications to AGPS.   
 
 **2\. Counselling for Pupils**  
 Pupils who may have academic or behavioural difficulties may be referred to the Case Management Team (CMT). The team members will work with the pupil and teachers to implement supportive strategies to best support the child. Parental consent will be sought prior to the referral to Educational Psychologist (EP) to take up the case.  
