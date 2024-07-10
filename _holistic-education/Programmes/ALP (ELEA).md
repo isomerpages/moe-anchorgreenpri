@@ -274,8 +274,3 @@ STEM Innovators (CCA)
 		<tr></tr>
   </tbody>
 </table>
-
-
-#### [Tier 1: Learning Opportunities for All (P1 to P6)](/holistic-education/programme/alp-elea/Tier-1-Learning-Opportunities-for-All-P1-to-P6/)
-
-#### [Tier 2: Learning Opportunities for a Targeted Group](/holistic-education/programme/alp-elea/Tier-2-Learning-Opportunities-for-a-Targeted-Group)
