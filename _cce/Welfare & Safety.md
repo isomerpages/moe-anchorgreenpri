@@ -33,14 +33,14 @@ variant: markdown
 </tr></tbody></table>
 FAS applications will be online with the FormSG link to be provided in October of each year.  To ensure your application is processed promptly, all the necessary documents must be submitted together with your duly completed online application form by the stipulated deadline (to be advised).  Successful applicants will be able to collect uniforms and books from mid-December. Current P6 students going to Secondary 1 in 2024 can continue to submit their online applications to AGPS.   
 
-**2\. Counselling for Pupils**  
-Pupils who may have academic or behavioural difficulties may be referred to the Case Management Team (CMT). The team members will work with the pupil and teachers to implement supportive strategies to best support the child. Parental consent will be sought prior to the referral to Educational Psychologist (EP) to take up the case.  
+**2\. Insurance Coverage for Pupils**  
+The MOE Group Personal Accident Insurance for students related to all school activities and/or co-curricular activities (CCAs) both in and out of school has been arranged for every student. The school’s GPA Plan is with NTUC Income Insurance Co-operative Limited.  
   
-**3\. Personal Responsibility**   
-We hope to instill personal responsibility in our pupils, hence pupils are expected to take responsibility of their own belongings. We seek your support in reinforcing the message and helping our pupils develop into responsible individuals.  
+**3\.Counselling for Pupils – HOD CCE**   
+Pupils who may have academic or behavioural difficulties may be referred to the Case Management Team (CMT). The team members will work with the pupil and teachers to implement supportive strategies to best support the child. Parental consent will be sought prior to the referral to Educational Psychologist (EP) to take up the case. 
   
-**4\. Library** <br>
-The library is located on the ground floor. Pupils are encouraged to frequent the library and use the resources. Library activities will also be organised to cultivate the love for reading.  
+**4\. Personal Responsibility** <br>
+We hope to instill personal responsibility in our students, hence students are expected to take responsibility of their own belongings. We seek your support in reinforcing the message and helping our students develop into responsible individuals. 
   
 **5\. Enrichment / Remedial Lessons**  
 Pupils may be identified by their teachers to remain in school for extra lessons after school hours. This will be on a needs-basis. Parents are advised to give their full support by ensuring that their children attend these lessons.  
