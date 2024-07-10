@@ -64,7 +64,7 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
     </tr>
     <tr>
       <td rowspan="3" style="width: 60px;">
-       Green COPS (Biodiversity- Care for our
+       Green COPS (Biodiversity- Care for our School)
       </td>
       <td style="width: 60px;">
         Adopt-A-Plant
@@ -108,7 +108,7 @@ Creation of bottle pot for the plant.
     </tr>
  <tr>
       <td rowspan="2" style="width: 60px;">
-       Green COPS (Biodiversity- Care for our
+      Water HERO
       </td>
       <td style="width: 60px;">
         Adopt-A-Plant
