@@ -50,9 +50,8 @@ Students who are identified to remain in school for the above-mentioned programm
 **1\. Arrival at school in the morning**  
 For safety reasons, pupils who arrive before 7.00am are to wait in the Indoor Sports Hall 1 (ISH 1) until instructions are provided to inform them to move to their respective venues.  Students are encouraged to do silent reading while waiting to move to their designated venues. 
   
-**2\. Visitors to the School**  
+**2\. Visitors to the School**<br>
 For security reasons, the school seeks the cooperation of parents in the following areas: 
-
 • Unauthorised visitors are not allowed into the school.<br>
 • Parents / Guardians who wish to see their children or staff members of the school must report to the Security Post to obtain the Visitor Pass first. <br>
 • Parents / Guardians are to produce their identity cards for identification purposes. <br>
