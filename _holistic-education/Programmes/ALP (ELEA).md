@@ -226,7 +226,7 @@ Creation of bottle pot for the plant.
 .tg .tg-3yc9{background-color:#22A114;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-n9k0{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 </style>
-<br><br><table class="tg">
+<br><table class="tg">
 <thead>
   <tr>
     <th colspan="4" class="tg-3yc9">Interdisciplinary Project Work - Environment Sustainability</th>
