@@ -180,16 +180,15 @@ Creation of bottle pot for the plant.
 </th>
   </tr>
   <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Adopt-A-Plant</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">To inculcate ownership of school properties:<br>1.	Each class will water the 2 gardens in school twice in Term 3.
-Each plant will then adopt a pot of plant to take care in Sem 2.
+    <td class="tg-n9k0"><span style="background-color:transparent">Clean Plate Campaign</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">All</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">TTo encourage students to understand the importance of food security in Singapore. Students to finish their food and show the clean plate to the parent volunteers. Students to collect 5 stamps in a week to redeem a prize. Campaign runs for a week each term.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P4 ECs will create videos to teach the basic parts of plants and how P1 students should water.</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"></span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:60%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Clean_Plate_Campaign.jpg" style="width:60%"></td>
   </tr>
 <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Green Wave Commemoration</span><br></td>
