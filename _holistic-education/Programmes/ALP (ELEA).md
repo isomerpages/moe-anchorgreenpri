@@ -166,7 +166,8 @@ Creation of bottle pot for the plant.
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-3yc9">Green COPS (Biodiversity - Care for our Plants in School)</th>
+    <th colspan="4" class="tg-3yc9">RRRescuers (Zero Waste)
+</th>
   </tr>
 </thead>
 <tbody>
