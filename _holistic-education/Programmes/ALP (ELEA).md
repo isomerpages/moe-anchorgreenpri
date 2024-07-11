@@ -141,12 +141,12 @@ Creation of bottle pot for the plant.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Mrs_Wishy_Washy.jpg" style="width:800%"></td>
   </tr>
 <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">What will the weather be like today?</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P2</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Pupils will create rain gauges from recycled bottles to track the amount of rainfall in school. From this, they will then observe and discuss about the impacts of rainfall and record their data into a bar graph (Math syllabus).
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>What will the weather be like today?</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>P2</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>Pupils will create rain gauges from recycled bottles to track the amount of rainfall in school. From this, they will then observe and discuss about the impacts of rainfall and record their data into a bar graph (Math syllabus).
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Math Department
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>Math Department
 </span></td>
   </tr>
   <tr>
