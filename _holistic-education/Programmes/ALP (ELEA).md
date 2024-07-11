@@ -67,9 +67,12 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 </th>
   </tr>
   <tr>
-    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students Passionate in the Arts <br><br>Tier 2</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
-    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;- Performing and Visual Arts CCAs at school events<br>&nbsp;&nbsp;- Unplugged Fridays/Plugged-in Fridays<br>&nbsp;&nbsp;- Art Exhibitions (eZine, ArtBeat, e-ArtBeat)</span><br><br> <span style="font-weight:bold;color:#000">Tier 3: Beyond School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-  Arts Outreach by P5<br>&nbsp;&nbsp;- Arts Charts participation at community events</span>
+    <td class="tg-n9k0"><span style="background-color:transparent">Adopt-A-Plant</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">To inculcate ownership of school properties:
+1.	Each class will water the 2 gardens in school twice in Term 3.
+Each plant will then adopt a pot of plant to take care in Sem 2.
+</span>
 </td>
     <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Arts Outreach by Performing and Visual Arts CCAs</span></td>
   </tr>
