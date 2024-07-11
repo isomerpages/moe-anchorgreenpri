@@ -114,7 +114,7 @@ Creation of bottle pot for the plant.
 .tg .tg-3yc9{background-color:#22A114;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-n9k0{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<br><br><table class="tg">
 <thead>
   <tr>
     <th colspan="4" class="tg-3yc9">Water HERO</th>
@@ -147,12 +147,14 @@ Creation of bottle pot for the plant.
 </span>
 </td>
     <td class="tg-n9k0"><span style="background-color:transparent"><br>Math Department
-</span></td>
+</span><br></td>
   </tr>
   <tr>
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/What_Will_the_Weather_be_Like_Today.jpg" style="width:60%"></td>
   </tr>
 </tbody>
+
+
 </table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
