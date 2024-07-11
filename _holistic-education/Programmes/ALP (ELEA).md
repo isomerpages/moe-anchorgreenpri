@@ -242,8 +242,8 @@ Creation of bottle pot for the plant.
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">IPW</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Integration with English STELLAR. Through the hands-on learning experience of investigation, pupils will learn that water can be recycled and reused and that water is precious.
+    <td class="tg-n9k0"><span style="background-color:transparent">P4</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">Students will go through the Thinking Design protocol to come up with solutions to environmental issues in school.
 </span>
 </td>
     <td class="tg-n9k0"><span style="background-color:transparent">English Department</span></td>
