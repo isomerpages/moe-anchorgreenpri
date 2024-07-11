@@ -43,7 +43,11 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 **2024 SLOGAN - “Reduce and refuse for sure; let’s turn trash into treasure!”**
 <table>
   <tbody>
-    <tr>
+  <tr>
+		<th align="center" colspan="4" style="width:120px;">Green COPS (Biodiversity - Care for our Plants in School)
+		</th>
+		</tr>
+		<tr>
       <th style="width: 64px;">
        Name of Program
       </th>
@@ -99,9 +103,6 @@ Creation of bottle pot for the plant.
       </td>
     </tr>
  <tr>
-      <td rowspan="2" style="width: 60px;">
-      Water HERO
-      </td>
       <td style="width: 60px;">
        Mrs Wishy Washy – Which water should we use to wash Mrs Wishy Washy’s animals? 
       </td>
@@ -129,9 +130,6 @@ Creation of bottle pot for the plant.
       </td>
     </tr>
  <tr>
-      <td rowspan="4" style="width: 60px;">
-       RRRescuers (Zero Waste)
-      </td>
       <td style="width: 60px;">
         Clean Plate Campaign 
       </td>
