@@ -41,6 +41,50 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 ##### School-based:
 **Tier 1: Learning Opportunities for All (P1 to P6)**<br>
 **2024 SLOGAN - “Reduce and refuse for sure; let’s turn trash into treasure!”**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3yc9{background-color:#22A114;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-n9k0{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="4" class="tg-3yc9">Green COPS (Biodiversity - Care for our Plants in School)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Mass<br><br>Tier 1</span><br></td>
+<td class="tg-n9k0"><span style="background-color:transparent">Awareness and Appreciation/Engage and Experience (AE) Modules<br>&nbsp;&nbsp;-	Art Curriculum<br>&nbsp;&nbsp;-	Music Curriculum</span><br></td>
+		<td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 1: Within Class<br></span><span style="background-color:transparent">&nbsp;&nbsp;- Art Curriculum (Think It Art Loud, Talk It Art Loud!)<br>&nbsp;&nbsp;- Music Curriculum (Performances)<br>&nbsp;&nbsp; - Music and Art Celebrate!<br><br><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-	ACE Card (P2 – P6)<br>&nbsp;&nbsp;- NAC Assembly Programmes<br>&nbsp;&nbsp;- Everyone Can Perform&nbsp;&nbsp;<br>&nbsp;&nbsp;-	D-cube</span></span></td>
+    <td class="tg-n9k0">&nbsp;&nbsp;-	P4 Museum-Based Learning Journey<br>&nbsp;&nbsp;-	P6 Performing Arts Learning Journey<br> (e.g. Front of House@Esplanade)
+</td>
+  </tr>
+  <tr>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students Passionate in the Arts <br><br>Tier 2</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Music and Art Celebrate!</span><br><br></td>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;- Performing and Visual Arts CCAs at school events<br>&nbsp;&nbsp;- Unplugged Fridays/Plugged-in Fridays<br>&nbsp;&nbsp;- Art Exhibitions (eZine, ArtBeat, e-ArtBeat)</span><br><br> <span style="font-weight:bold;color:#000">Tier 3: Beyond School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-  Arts Outreach by P5<br>&nbsp;&nbsp;- Arts Charts participation at community events</span>
+</td>
+    <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Arts Outreach by Performing and Visual Arts CCAs</span></td>
+  </tr>
+  <tr>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students with Arts Potential<br><br>Tier 2+/3</span><br></td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;-Music and Art Celebrate!</span><br><br></td>
+    <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 2: Within School</span><br><span style="background-color:transparent">&nbsp;&nbsp;- 	Performing and Visual Arts CCAs at school events<br>&nbsp;&nbsp;- Say It Art Loud</span><br><br> <span style="font-weight:bold;color:#000">Tier 3: Beyond School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-  VPA CCA participation at community events (exhibition, performances)<br>&nbsp;&nbsp;- VPA Arts Outreach with school partners<br>&nbsp;&nbsp;- SYF (rep as Aesthetics  School Team)<br>&nbsp;&nbsp;- 	The Arts Charts (P2 – P6)</span></td>
+    <td class="tg-n9k0"><span style="font-weight:normal;color:#000">&nbsp;&nbsp;-The Arts Charts</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
 <table>
   <tbody>
   <tr>
