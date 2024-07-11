@@ -41,7 +41,6 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 ##### School-based:
 **Tier 1: Learning Opportunities for All (P1 to P6)**<br>
 **2024 SLOGAN - “Reduce and refuse for sure; let’s turn trash into treasure!”**
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -255,8 +254,8 @@ Creation of bottle pot for the plant.
 </tbody>
 </table>
 
-**Tier 2: Learning Opportunities for a Targeted Group**<br>
-<br><table class="tg">
+**Tier 2: Learning Opportunities for a Targeted Group**
+<table class="tg">
 <thead>
   <tr>
     <th colspan="4" class="tg-3yc9">Interdisciplinary Project Work - Environment Sustainability</th>
@@ -282,6 +281,5 @@ Creation of bottle pot for the plant.
   <tr>
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:800%"></td>
   </tr>
-
 </tbody>
 </table>
