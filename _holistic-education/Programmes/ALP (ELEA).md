@@ -252,91 +252,36 @@ Creation of bottle pot for the plant.
   <tr>
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:800%"></td>
   </tr>
-
 </tbody>
 </table>
 
-
-
-
-
-
 **Tier 2: Learning Opportunities for a Targeted Group**<br>
-<table>
-  <tbody>
-    <tr>
-      <th style="width: 64px;">
-        Theme
-      </th>
-      <th style="width: 64px;">
-       Name of Program
-      </th>
-      <th style="width: 64px;">
-        Level <br>Involved
-      </th>
-			<th style="width: 64px;">
-				<nobr>Program Summary</nobr>
-      </th>
-			<th style="width: 64px;">
-        Collaboration
-      </th>
-    </tr>
- <tr>
-      <td style="width: 60px;">
-      Project ECO 
-      </td>
-      <td style="width: 60px;">
-     Environment Champions 
-      </td>
-      <td style="text-align: left; width: 60px;">
-        P5
-      </td>
-			 <td style="text-align: left; width: 60px;">Initiate and implement 2 environment-themed projects, covering 1 public health and 1 environment protection topic within the school and/or in the community. <br><br>Conduct outreach to the P5 level, MK and/or AGPS population. 
-      </td>
-			 <td style="text-align: left; width: 60px;">NEA
-	 </td></tr>
- <tr>
-      <td style="width: 60px;">
-     Sengkang Wetlands 
-      </td>
-      <td style="width: 60px;">
-     Environment Champions 
-      </td>
-      <td style="text-align: left; width: 60px;">
-        P4
-      </td>
-			 <td style="text-align: left; width: 60px;">
-Facilitate MK students to learn more about biodiversity and preserving the environment at Sengkang Wetlands.
-      </td>
-			 <td style="text-align: left; width: 60px;">Science Department MK @ AGPS 
-	 </td></tr>
- <tr>
-      <td style="width: 60px;">
-      Recycle Right Mondays 
-      </td>
-      <td style="width: 60px;">
-     Environment Champions 
-      </td>
-      <td style="text-align: left; width: 60px;">
-        P6
-      </td>
-			 <td style="text-align: left; width: 60px;">ECs scheduled to remind classmates to bring the recyclables. ECs will be rotated to assist PVs in the collection of recyclable.  
-      </td>
-			 <td style="text-align: left; width: 60px;">
-	 </td></tr>
- <tr>
-      <td style="width: 60px;">
-STEM Innovators (CCA)  
-      </td>
-      <td style="width: 60px;">
-      </td>
-      <td style="text-align: left; width: 60px;">
-        P4-P6
-      </td>
-			 <td style="text-align: left; width: 60px;">*See under CCA (<a href="/holistic-education/co-curricular-activities-cca/cognitive/stem/" rel="noopener noreferrer nofollow" target="_self">STEM Innovator</a>) tab 
-      </td>
-			 <td style="text-align: left; width: 60px;">
-	 </td></tr>
-		<tr></tr>
-  </tbody>
+<br><table class="tg">
+<thead>
+  <tr>
+    <th colspan="4" class="tg-3yc9">Interdisciplinary Project Work - Environment Sustainability</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th class="tg-n9k0"><span style="font-weight:bold;color:#000">Name of Program</span><br></th>
+<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Level Involved</span></th>
+		<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Program Summary</span>
+</th>
+<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Collaboration</span>
+</th>
+  </tr>
+  <tr>
+    <td class="tg-n9k0"><span style="background-color:transparent">IPW</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P4</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">Students will go through the Thinking Design protocol to come up with solutions to environmental issues in school.
+</span>
+</td>
+    <td class="tg-n9k0"><span style="background-color:transparent">Across all disciplines</span></td>
+  </tr>
+  <tr>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:800%"></td>
+  </tr>
+
+</tbody>
 </table>
