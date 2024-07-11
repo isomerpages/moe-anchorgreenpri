@@ -228,7 +228,7 @@ Creation of bottle pot for the plant.
 <br><br><table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-3yc9">IPW</th>
+    <th colspan="4" class="tg-3yc9">Interdisciplinary Project Work - Environment Sustainability</th>
   </tr>
 </thead>
 <tbody>
