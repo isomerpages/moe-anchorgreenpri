@@ -150,11 +150,9 @@ Creation of bottle pot for the plant.
 </span><br></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/What_Will_the_Weather_be_Like_Today.jpg" style="width:60%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/What_Will_the_Weather_be_Like_Today.jpg" style="width:60%"><br></td>
   </tr>
 </tbody>
-
-
 </table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
