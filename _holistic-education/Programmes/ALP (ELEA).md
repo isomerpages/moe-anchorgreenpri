@@ -203,13 +203,12 @@ Creation of bottle pot for the plant.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Recycle_Right_Tier_1.jpg" style="width:100%"></td>
   </tr>
 <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Love Your Food @ AGPS</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P3</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">IP3 students went through a workshop by Tembusu Pte Ltd on Food Security – Rice production.
-Through learning of how Singapore gets its rice, the P3 students will learn about food recycling and how food waste can be turned into compost for plants. Students will then do their VIA in fertilising our school gardens using the food compost.
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>Love Your Food @ AGPS</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>P3</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>IP3 students went through a workshop by Tembusu Pte Ltd on Food Security – Rice production. Through learning of how Singapore gets its rice, the P3 students will learn about food recycling and how food waste can be turned into compost for plants. Students will then do their VIA in fertilising our school gardens using the food compost.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Tembusu Pte Ltd
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>Tembusu Pte Ltd
 </span></td>
   </tr>
   <tr>
