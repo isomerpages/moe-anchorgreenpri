@@ -188,7 +188,7 @@ Creation of bottle pot for the plant.
     <td class="tg-n9k0"><span style="background-color:transparent"></span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Clean_Plate_Campaign.jpg" style="width:60%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Clean_Plate_Campaign.jpg" style="width:100%"></td>
   </tr>
 <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Recycle Right Last Day of the Month </span><br></td>
@@ -213,7 +213,7 @@ Through learning of how Singapore gets its rice, the P3 students will learn abou
 </span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Recycle_Right_Tier_1.jpg" style="width:100%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Love_Your_Food.jpg" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
