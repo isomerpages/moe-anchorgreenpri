@@ -101,7 +101,7 @@ Creation of bottle pot for the plant.
 </span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Green_Wave_Commemoration.jpg" style="width:100%"></td>
+    <td colspan="4" class="tg-n9k0"></td>
   </tr>
 </tbody>
 </table>
