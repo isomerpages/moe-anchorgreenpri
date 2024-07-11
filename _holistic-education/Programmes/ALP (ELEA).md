@@ -241,7 +241,7 @@ Creation of bottle pot for the plant.
 </th>
   </tr>
   <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Mrs Wishy Washy – Which water should we use to wash Mrs Wishy Washy’s animals?</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">IPW</span><br></td>
     <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
     <td class="tg-n9k0"><span style="background-color:transparent">Integration with English STELLAR. Through the hands-on learning experience of investigation, pupils will learn that water can be recycled and reused and that water is precious.
 </span>
