@@ -104,10 +104,6 @@ Creation of bottle pot for the plant.
        Gardens by the Bay 
       </td>
     </tr>
-  <tr>
-      <td colspan="4" style="width: 60px;">
-      </td>
-    </tr>  
  <tr>
       <td rowspan="2" style="width: 60px;">
       Water HERO
