@@ -216,7 +216,6 @@ Creation of bottle pot for the plant.
   </tr>
 </tbody>
 </table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -252,18 +251,7 @@ Creation of bottle pot for the plant.
   <tr>
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Mrs_Wishy_Washy.jpg" style="width:800%"></td>
   </tr>
-<tr>
-    <td class="tg-n9k0"><span style="background-color:transparent"><br>What will the weather be like today?</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent"><br>P2</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent"><br>Pupils will create rain gauges from recycled bottles to track the amount of rainfall in school. From this, they will then observe and discuss about the impacts of rainfall and record their data into a bar graph (Math syllabus).
-</span>
-</td>
-    <td class="tg-n9k0"><span style="background-color:transparent"><br>Math Department
-</span><br></td>
-  </tr>
-  <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/What_Will_the_Weather_be_Like_Today.jpg" style="width:60%"><br></td>
-  </tr>
+
 </tbody>
 </table>
 
