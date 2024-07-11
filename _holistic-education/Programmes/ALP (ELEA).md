@@ -45,9 +45,6 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
   <tbody>
     <tr>
       <th style="width: 64px;">
-        Theme
-      </th>
-      <th style="width: 64px;">
        Name of Program
       </th>
       <th style="width: 64px;">
@@ -61,9 +58,6 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
       </th>
     </tr>
     <tr>
-      <td rowspan="3" style="width: 60px;">
-       Green COPS (Biodiversity- Care for our School)
-      </td>
       <td style="width: 60px;">
         Adopt-A-Plant
       </td>
