@@ -74,7 +74,7 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 Each plant will then adopt a pot of plant to take care in Sem 2.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">&nbsp;&nbsp;- Arts Outreach by Performing and Visual Arts CCAs</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P4 ECs will create videos to teach the basic parts of plants and how P1 students should water.</span></td>
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="font-weight:bold;color:#000">Students with Arts Potential<br><br>Tier 2+/3</span><br></td>
