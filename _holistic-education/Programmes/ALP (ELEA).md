@@ -79,12 +79,12 @@ Each plant will then adopt a pot of plant to take care in Sem 2.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:60%"></td>
   </tr>
 <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Green Wave Commemoration</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P2</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">To encourage students to plant an edible plant on their own and take care of it with their family members.
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>Green Wave Commemoration</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>P2</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>To encourage students to plant an edible plant on their own and take care of it with their family members.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">PAL committee:
+    <td class="tg-n9k0"><span style="background-color:transparent"><br>PAL committee:
 Creation of bottle pot for the plant.
 </span></td>
   </tr>
