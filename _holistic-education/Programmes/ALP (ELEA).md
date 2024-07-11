@@ -77,7 +77,7 @@ Each plant will then adopt a pot of plant to take care in Sem 2.
     <td class="tg-n9k0"><span style="background-color:transparent">P4 ECs will create videos to teach the basic parts of plants and how P1 students should water.</span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt-A-Plant.jpg" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
