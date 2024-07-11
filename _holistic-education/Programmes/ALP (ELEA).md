@@ -44,7 +44,7 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 <table>
   <tbody>
   <tr>
-		<th align="center" colspan="4" style="width:120px;">Green COPS (Biodiversity - Care for our Plants in School)
+		<th colspan="4" style="width:64px;" align="center">Green COPS (Biodiversity - Care for our Plants in School)
 		</th>
 		</tr>
 		<tr>
