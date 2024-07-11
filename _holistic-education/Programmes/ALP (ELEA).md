@@ -59,8 +59,8 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 </thead>
 <tbody>
   <tr>
-    <th class="tg-n9k0"><span style="font-weight:bold;color:#000">Adopt-A-Plont</span><br></th>
-<td class="tg-n9k0"><span style="background-color:transparent">Awareness and Appreciation/Engage and Experience (AE) Modules<br>&nbsp;&nbsp;-	Art Curriculum<br>&nbsp;&nbsp;-	Music Curriculum</span><br></td>
+    <th class="tg-n9k0"><span style="font-weight:bold;color:#000">Name of Program</span><br></th>
+<th class="tg-n9k0"><span style="background-color:transparent">Level Involved</span></th>
 		<td class="tg-n9k0"><span style="font-weight:bold;color:#000">Tier 1: Within Class<br></span><span style="background-color:transparent">&nbsp;&nbsp;- Art Curriculum (Think It Art Loud, Talk It Art Loud!)<br>&nbsp;&nbsp;- Music Curriculum (Performances)<br>&nbsp;&nbsp; - Music and Art Celebrate!<br><br><span style="font-weight:bold;color:#000">Tier 2: Within School Community</span><br><span style="background-color:transparent">&nbsp;&nbsp;-	ACE Card (P2 – P6)<br>&nbsp;&nbsp;- NAC Assembly Programmes<br>&nbsp;&nbsp;- Everyone Can Perform&nbsp;&nbsp;<br>&nbsp;&nbsp;-	D-cube</span></span></td>
     <td class="tg-n9k0">&nbsp;&nbsp;-	P4 Museum-Based Learning Journey<br>&nbsp;&nbsp;-	P6 Performing Arts Learning Journey<br> (e.g. Front of House@Esplanade)
 </td>
