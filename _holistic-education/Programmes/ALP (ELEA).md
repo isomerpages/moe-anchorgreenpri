@@ -105,7 +105,57 @@ Creation of bottle pot for the plant.
   </tr>
 </tbody>
 </table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3yc9{background-color:#22A114;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-n9k0{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="4" class="tg-3yc9">Water HERO</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th class="tg-n9k0"><span style="font-weight:bold;color:#000">Name of Program</span><br></th>
+<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Level Involved</span></th>
+		<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Program Summary</span>
+</th>
+<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Collaboration</span>
+</th>
+  </tr>
+  <tr>
+    <td class="tg-n9k0"><span style="background-color:transparent">Adopt-A-Plant</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">To inculcate ownership of school properties:<br>1.	Each class will water the 2 gardens in school twice in Term 3.
+Each plant will then adopt a pot of plant to take care in Sem 2.
+</span>
+</td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P4 ECs will create videos to teach the basic parts of plants and how P1 students should water.</span></td>
+  </tr>
+  <tr>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:60%"></td>
+  </tr>
+<tr>
+    <td class="tg-n9k0"><span style="background-color:transparent">Green Wave Commemoration</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P2</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">To encourage students to plant an edible plant on their own and take care of it with their family members.
+</span>
+</td>
+    <td class="tg-n9k0"><span style="background-color:transparent">PAL committee:
+Creation of bottle pot for the plant.
+</span></td>
+  </tr>
+  <tr>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Green_Wave_Commemoration.jpg" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
