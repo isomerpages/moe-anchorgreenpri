@@ -191,13 +191,12 @@ Creation of bottle pot for the plant.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Clean_Plate_Campaign.jpg" style="width:60%"></td>
   </tr>
 <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Green Wave Commemoration</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P2</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">To encourage students to plant an edible plant on their own and take care of it with their family members.
+    <td class="tg-n9k0"><span style="background-color:transparent">Recycle Right Last Day of the Month </span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">All</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">To encourage students that ‘life’ of objects that can’t be upcycled or reused can be lengthened by recycling. Students to bring in the designated recyclable for the term. ECs scheduled to remind classmates to bring the recyclable.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">PAL committee:
-Creation of bottle pot for the plant.
+    <td class="tg-n9k0"><span style="background-color:transparent">Mono Food SG &amp; Apeiron Energy
 </span></td>
   </tr>
   <tr>
