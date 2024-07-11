@@ -188,7 +188,7 @@ Creation of bottle pot for the plant.
     <td class="tg-n9k0"><span style="background-color:transparent"></span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Clean_Plate_Campaign.jpg" style="width:100%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Clean_Plate_Campaign.jpg" style="width:100%"><br><br></td>
   </tr>
 <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Recycle Right Last Day of the Month </span><br></td>
