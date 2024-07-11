@@ -9,4 +9,4 @@ This is a grouped school bus service. Bus vendor is expected to provide services
 * Seng Kang Primary School
 * Anchor Green Primary School
 
-To apply, please click this link: <a href="https://www.northvistapri.moe.edu.sg/" target="_blank">https://www.northvistapri.moe.edu.sg/</a>
+To apply, please click this link: <a href="https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/" target="_blank">https://www.northvistapri.moe.edu.sg/parents-and-students/school-bus-ad/</a>
