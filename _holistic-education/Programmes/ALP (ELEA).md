@@ -80,17 +80,17 @@ Each plant will then adopt a pot of plant to take care in Sem 2.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:80%"></td>
   </tr>
 <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Adopt-A-Plant</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">To inculcate ownership of school properties:
-1.	Each class will water the 2 gardens in school twice in Term 3.
-Each plant will then adopt a pot of plant to take care in Sem 2.
+    <td class="tg-n9k0"><span style="background-color:transparent">Green Wave Commemoration</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P2</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">To encourage students to plant an edible plant on their own and take care of it with their family members.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P4 ECs will create videos to teach the basic parts of plants and how P1 students should water.</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">PAL committee:
+Creation of bottle pot for the plant.
+</span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:80%"></td>
+    <td colspan="4" class="tg-n9k0"></td>
   </tr>
 </tbody>
 </table>
