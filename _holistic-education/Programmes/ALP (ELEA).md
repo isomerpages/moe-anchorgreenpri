@@ -77,7 +77,7 @@ Each plant will then adopt a pot of plant to take care in Sem 2.
     <td class="tg-n9k0"><span style="background-color:transparent">P4 ECs will create videos to teach the basic parts of plants and how P1 students should water.</span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:80%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Adopt_A_Plant.jpg" style="width:60%"></td>
   </tr>
 <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Green Wave Commemoration</span><br></td>
@@ -90,7 +90,7 @@ Creation of bottle pot for the plant.
 </span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Green_Wave_Commemoration.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
