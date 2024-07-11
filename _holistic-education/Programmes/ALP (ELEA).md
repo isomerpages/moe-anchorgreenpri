@@ -246,7 +246,7 @@ Creation of bottle pot for the plant.
     <td class="tg-n9k0"><span style="background-color:transparent">Students will go through the Thinking Design protocol to come up with solutions to environmental issues in school.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">English Department</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">Across all disciplines</span></td>
   </tr>
   <tr>
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Mrs_Wishy_Washy.jpg" style="width:800%"></td>
