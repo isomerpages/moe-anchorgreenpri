@@ -200,19 +200,20 @@ Creation of bottle pot for the plant.
 </span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Green_Wave_Commemoration.jpg" style="width:100%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Recycle_Right_Tier_1.jpg" style="width:100%"></td>
   </tr>
 <tr>
-    <td class="tg-n9k0"><span style="background-color:transparent">Green Quest 2024</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P3-P6</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">In collaboration with Gardens by the Bay, students can take part in the Green Quest (Seeker Leve). Students will complete activities on biodiversity.
+    <td class="tg-n9k0"><span style="background-color:transparent">Love Your Food @ AGPS</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P3</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">IP3 students went through a workshop by Tembusu Pte Ltd on Food Security – Rice production.
+Through learning of how Singapore gets its rice, the P3 students will learn about food recycling and how food waste can be turned into compost for plants. Students will then do their VIA in fertilising our school gardens using the food compost.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Gardens by the Bay
+    <td class="tg-n9k0"><span style="background-color:transparent">Tembusu Pte Ltd
 </span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Recycle_Right_Tier_1.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
