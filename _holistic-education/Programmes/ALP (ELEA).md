@@ -69,8 +69,7 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
   <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Adopt-A-Plant</span><br></td>
     <td class="tg-n9k0"><span style="background-color:transparent">P1</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">To inculcate ownership of school properties:
-1.	Each class will water the 2 gardens in school twice in Term 3.
+    <td class="tg-n9k0"><span style="background-color:transparent">To inculcate ownership of school properties:<br>1.	Each class will water the 2 gardens in school twice in Term 3.
 Each plant will then adopt a pot of plant to take care in Sem 2.
 </span>
 </td>
