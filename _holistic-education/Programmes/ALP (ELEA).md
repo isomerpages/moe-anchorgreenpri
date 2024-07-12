@@ -314,3 +314,33 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
   </tr>
 </tbody>
 </table>
+<br>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="4" class="tg-3yc9">Sengkang Wetlands</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th class="tg-n9k0"><span style="font-weight:bold;color:#000">Name of Program</span><br></th>
+<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Level Involved</span></th>
+		<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Program Summary</span>
+</th>
+<th class="tg-n9k0"><span style="font-weight:bold;color:#000">Collaboration</span>
+</th>
+  </tr>
+  <tr>
+    <td class="tg-n9k0"><span style="background-color:transparent">Environment Champions</span><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">P4</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">Facilitate MK students to learn more about biodiversity and preserving the environment at Sengkang Wetlands.<br>
+Conduct outreach to the P5 level, MK and/or AGPS population.
+</span>
+</td>
+    <td class="tg-n9k0"><span style="background-color:transparent">Science DepartmentMK @ AGPS</span></td>
+  </tr>
+  <tr>
+    <td colspan="4" class="tg-n9k0"></td>
+  </tr>
+</tbody>
+</table>
