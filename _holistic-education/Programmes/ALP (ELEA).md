@@ -280,7 +280,7 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
     <td class="tg-n9k0"><span style="background-color:transparent">NEA</span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:800%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/project_eco.jpg" style="width:800%"></td>
   </tr>
 </tbody>
 </table>
