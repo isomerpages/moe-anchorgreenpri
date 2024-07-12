@@ -288,7 +288,7 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-3yc9">Project ECO</th>
+    <th colspan="4" class="tg-3yc9">Sengkang Wetlands</th>
   </tr>
 </thead>
 <tbody>
