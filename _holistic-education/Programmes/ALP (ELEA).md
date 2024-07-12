@@ -35,7 +35,7 @@ The 3H approach;&nbsp;_Heart_&nbsp;,&nbsp;_Head_&nbsp;and&nbsp;_Hands_&nbsp;(rep
 *   Action&nbsp;(Hands). This is where pupils internalise the learning through participating in the projects that are self-initiated with guidance from teachers.
 
 #### Framework
-<img src="/images/Programmes/EE2.png" style="width:80%">
+<img src="/images/Programmes/EE2.png" style="width:60%">
 
 #### Key Programmes/Initiatives
 ##### School-based:
