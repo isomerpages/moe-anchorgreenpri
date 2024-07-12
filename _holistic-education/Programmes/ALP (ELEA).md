@@ -332,12 +332,10 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
   </tr>
   <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Environment Champions</span><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">P4</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Facilitate MK students to learn more about biodiversity and preserving the environment at Sengkang Wetlands.<br>
-Conduct outreach to the P5 level, MK and/or AGPS population.
-</span>
+    <td class="tg-n9k0"><span style="background-color:transparent">P6</span><br><br></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">ECs scheduled to remind classmates to bring the recyclables. ECs will be rotated to assist PVs in the collection of recyclable. </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Science DepartmentMK @ AGPS</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent"></span></td>
   </tr>
   <tr>
     <td colspan="4" class="tg-n9k0"></td>
