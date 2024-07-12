@@ -303,7 +303,7 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
   <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">Environment Champions</span><br></td>
     <td class="tg-n9k0"><span style="background-color:transparent">P4</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Initiate and implement 2 environment-themed projects, covering 1 public health and 1 environment protection topic within the school and/or in the community.<br>
+    <td class="tg-n9k0"><span style="background-color:transparent">Facilitate MK students to learn more about biodiversity and preserving the environment at Sengkang Wetlands.<br>
 Conduct outreach to the P5 level, MK and/or AGPS population.
 </span>
 </td>
