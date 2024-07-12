@@ -277,7 +277,7 @@ Creation of bottle pot for the plant.
 Conduct outreach to the P5 level, MK and/or AGPS population.
 </span>
 </td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Across all disciplines</span></td>
+    <td class="tg-n9k0"><span style="background-color:transparent">NEA</span></td>
   </tr>
   <tr>
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:800%"></td>
