@@ -104,7 +104,7 @@ P2 Speech and Drama offers a dynamic platform for students to immerse themselves
 <td><img src="/images/Curriculum/MTL/Students_show_confidence_when_they_perform_movement.jpg" style="width:100%">Students show confidence when they perform movement</td>
 </tr>
 <tr>
-<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/Students_eagerly_watching_their_classmates_perform.jpg" style="width:100%">Students eagerly watching their classmates perform</td>
 <td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
