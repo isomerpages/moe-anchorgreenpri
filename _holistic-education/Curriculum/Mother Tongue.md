@@ -58,8 +58,12 @@ TL: Flower tying (or related to banana tree)<br><br>
 **Primary 6: Traditional Games**<br>
 Chinese/Malay/Indian Traditional games<br>
 
-
-
+<table><tbody>
+<tr>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
+</tr>
+</tbody></table>
 
 
 ##### Useful Websites
