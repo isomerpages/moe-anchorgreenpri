@@ -70,7 +70,7 @@ The Conversational Chinese Malay (CCM) Programme is introduced as an enrichment 
 <table><tbody>
 <tr>
 <td><img src="/images/Curriculum/MTL/students_playing_the_malay_traditional_game__chapteh.jpg" style="width:100%">Students playing the malay traditional game chapteh</td>
-<td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/Chinese_students_learning_to_converse_in_Malay_Language.jpg" style="width:90%">Chinese students learning to converse in Malay Language</td>
 </tr>
 </tbody></table>
 
