@@ -26,7 +26,7 @@ The following framework guides us to develop the important skills in our student
 The icon of a stylised upright Anchor centred at the framework represents students with an upright character and embrace the love for learning of mother tongue languages.
 
 In preparing our students for the future, skills , knowledge , attitudes and values are incorporated into the MTL curriculum to support the goals of achieving the desired outcomes of education.
-
+<img src="/images/Curriculum/English/Starlit_Pix.jpg" style="width:100%">
 The wave represents the stakeholders such as Parents , School Advisory Committee and external organisations who play a big part in supporting the holistic development of the child in learning MTL..
 
 All these elements are encapsulated within the connecting perimeters of a triangle - triple ‘A’ approach to the MTL Framework in AGPS to bring about joy of learning.
