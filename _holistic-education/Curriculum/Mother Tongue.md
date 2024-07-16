@@ -128,7 +128,15 @@ Anchor Green Primary School fosters lifelong learning by offering engaging langu
 
 **Chinese New Year Celebration**<br>
 Anchor Green Primary School embraces sustainability and sustainability has always been part of  Chinese New Year (CNY) Celebration. We strive to raise environmental consciousness at the same time deepen our students’ cultural appreciation. Students enjoy eco-friendly activities like upcycling crafts, games, and vibrant performances by Guzheng Ensemble, Wushu, and Festive Drums, while immersing themselves in the festive spirit of Chinese New Year.
-
+<table><tbody>
+<tr>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/Curriculum/MTL/Students_up_cycling_ang_bao_to_decorate_classroom.jpg" style="width:100%">Students up-cycling ang bao to decorate classroom</td>
+</tr>
+</tbody></table>
 
 ##### Useful Websites
 
