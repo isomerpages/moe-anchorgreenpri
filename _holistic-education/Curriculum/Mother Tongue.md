@@ -66,7 +66,14 @@ Chinese/Malay/Indian Traditional games<br>
 </tbody></table>
 
 **P3 CCM**<br>
-The Conversational Chinese Malay (CCM) Programme is introduced as an enrichment programme for our Primary 3 students. This programme immerses students in Chinese/Malay language and culture, fostering basic oral skills in a third language. Through peer interaction, students practice everyday conversation and develop the ability to comprehend and respond effectively.
+The Conversational Chinese Malay (CCM) Programme is introduced as an enrichment programme for our Primary 3 students. This programme immerses students in Chinese/Malay language and culture, fostering basic oral skills in a third language. Through peer interaction, students practice everyday conversation and develop the ability to comprehend and respond effectively.<br>
+<table><tbody>
+<tr>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
+</tr>
+</tbody></table>
+
 ##### School-based:
 **Talent Management Programme: Junior Journalist Club**<br>
 2024 marks the inauguration of the 'Anchor Green Junior Journalist Club', with the aim to develop students’ communication skills, observational abilities, writing skills and computer technology proficiency. Students made their debut with self-introductions, gearing up for independent learning and producing stellar news reports.
