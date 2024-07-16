@@ -111,7 +111,7 @@ P2 Speech and Drama offers a dynamic platform for students to immerse themselves
 
 **P3 &amp; P4 ICT Day**<br>
 The MTL Department teachers also leverage on technology to foster self-directed and collaborative learning among Primary 3 and 4 students. By using the Student Learning Space (SLS) and interactive apps, the lessons incorporate engaging elements on environmental conservation and traditional musical instruments.
-
+<img src="/images/Curriculum/MTL/P4_ICT_Day.jpg" style="width:6100%">
 
 ##### Useful Websites
 
