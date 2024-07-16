@@ -146,7 +146,7 @@ Anchor Green Primary School celebrates Hari Raya Aidilfitri annually. This year,
 </tr>
 <tr>
 <td><img src="/images/Curriculum/MTL/Our_confident_emcee_engaging_the_crowd.jpg" style="width:93%">Our confident emcee engaging the crowd</td>
-<td><img src="/images/Curriculum/MTL/CNY_Recess_activity_learning_12_Zodiac_sign_stories.jpg" style="width:100%">CNY Recess activity learning 12 Zodiac sign stories</td>
+<td><img src="/images/Curriculum/MTL/Students_enjoying_the_activity_planned_for_them.jpg" style="width:100%">Students enjoying the activity planned for them</td>
 </tr>
 
 </tbody></table>
