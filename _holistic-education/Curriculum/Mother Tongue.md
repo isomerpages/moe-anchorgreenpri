@@ -69,7 +69,7 @@ Chinese/Malay/Indian Traditional games<br>
 The Conversational Chinese Malay (CCM) Programme is introduced as an enrichment programme for our Primary 3 students. This programme immerses students in Chinese/Malay language and culture, fostering basic oral skills in a third language. Through peer interaction, students practice everyday conversation and develop the ability to comprehend and respond effectively.<br>
 <table><tbody>
 <tr>
-<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/students_playing_the_malay_traditional_game__chapteh.jpg" style="width:100%">Students playing the malay traditional game chapteh</td>
 <td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
