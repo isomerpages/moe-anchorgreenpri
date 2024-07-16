@@ -41,27 +41,26 @@ The Mother Tongue Language (MTL) Fortnight aims to create an immersive environme
 
 Each level will be engaged  in cultural activities related to their Mother Tongue Languages based on the assigned theme. Students will cover all the 6 different themes at the end of their 6 years with Anchor Green Primary School. The level themes and activities are as follows:
 
+**Primary 1: Festivals**<br>
+CL: Lantern making<br>
+ML: Ketupat paper weaving<br>
+TL: Rangoli design<br><br>
+**Primary 2: Food**<br>	
+Chinese/Malay/Indian traditional food dough magnet<br><br>
+**Primary 3: Art**<br>
+CL: Chinese Painting<br>
+ML: Batik Art<br>
+TL: Pot Painting<br><br>
+**Primary 5: Plants**<br>
+CL: tea appreciation<br>
+ML: Ketupat weaving (or related to coconut tree)<br>
+TL: Flower tying (or related to banana tree)<br><br>
+**Primary 6: Traditional Games**<br>
+Chinese/Malay/Indian Traditional games<br>
 
-**1\. Key Programmes**<br>
- &nbsp; &nbsp;&nbsp;&nbsp; **P1: Word Games**<br>
- &nbsp; &nbsp;&nbsp;&nbsp; **P2: Speech and Drama**<br>
- &nbsp; &nbsp;&nbsp;&nbsp; **P3: ICT Day**&nbsp;<br>
- &nbsp; &nbsp;&nbsp;&nbsp; **P4: MT Cultural Camp and ICT Day**<br> 
- &nbsp; &nbsp;&nbsp;&nbsp; **P5: Drama Appreciation**<br>
- &nbsp; &nbsp;&nbsp;&nbsp; **P6: Good Writer and Language Games**<br>
 
-**2\. Mother Tongue Fortnight Activities**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P1: Festivals**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P2: Food**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P3: Cultural Arts**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P4: Music**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P5: Martial Arts**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **Theme for P6: Traditional Games**
 
-**3\. Reading Programme (P1-P6)**
 
-**4\. Conversational Malay and Chinese Courses**<br>
-&nbsp; &nbsp;&nbsp;&nbsp; **P3: Beginners and Basic Courses**
 
 ##### Useful Websites
 
