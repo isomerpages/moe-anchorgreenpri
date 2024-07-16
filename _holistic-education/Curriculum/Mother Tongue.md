@@ -90,7 +90,7 @@ In our endeavour to foster a passion for reading Mother Tongue Language (MTL) bo
 <table><tbody>
 <tr>
 <td><img src="/images/Curriculum/MTL/A_mini_prize_ceremony_for_our_Primary_1s_with_Ms_Chen_Si.jpg" style="width:100%">A mini prize ceremony for our Primary 1s with Ms Chen Si</td>
-<td><img src="/images/Curriculum/MTL/Chinese_students_learning_to_converse_in_Malay_Language.jpg" style="width:90%">Chinese students learning to converse in Malay Language</td>
+<td><img src="/images/Curriculum/MTL/Our_PV_Mentor_Ms_Loh_Tang_Ling_nad_Ms_Regine_Zhuang_with_our_excited_Primary_1s_.jpg" style="width:85%">Our PV Mentor Ms Loh Tang Ling and Ms Regine Zhuang with our excited Primary 1s</td>
 </tr>
 </tbody></table>
 ##### Useful Websites
