@@ -119,6 +119,15 @@ As part of the Mother Tongue Fortnight activities, our school conducts the annua
 <img src="/images/Curriculum/MTL/P4_ML_Cultural_Camp.jpg" style="width:6100%">P4 ML Cultural Camp<br><br>
 <img src="/images/Curriculum/MTL/P4_TL_Cultural_Camp.jpg" style="width:6100%">P4 TL Cultural Camp<br>
 
+**P5 Cultural appreciation**<br>
+P5 students get to embark on a mindful journey into flavors, aromas, and traditions through the ‘P5 Tea Appreciation Programme’. 
+Through selecting from a variety of teas, brewing, and savoring each sip, students uncover a symphony of flavors. This hands-on experience fosters mindfulness, celebrating craftsmanship, terroir, and cultural heritage, enhancing cultural appreciation and sensory awareness.
+
+**P6 Good Writer and Language Games**<br>
+Anchor Green Primary School fosters lifelong learning by offering engaging language games for P6 students during post-PSLE period. These activities seek to deepen students’ Chinese understanding and nurture a love for the language, promoting continuous learning beyond exams. Through games like guessing idioms and brain teasers, students reinforce skills and embrace lifelong learning values, fostering curiosity and critical thinking essential for life and for work in future.
+
+**Chinese New Year Celebration**<br>
+Anchor Green Primary School embraces sustainability and sustainability has always been part of  Chinese New Year (CNY) Celebration. We strive to raise environmental consciousness at the same time deepen our students’ cultural appreciation. Students enjoy eco-friendly activities like upcycling crafts, games, and vibrant performances by Guzheng Ensemble, Wushu, and Festive Drums, while immersing themselves in the festive spirit of Chinese New Year.
 
 
 ##### Useful Websites
