@@ -93,6 +93,11 @@ In our endeavour to foster a passion for reading Mother Tongue Language (MTL) bo
 <td><img src="/images/Curriculum/MTL/Our_PV_Mentor_Ms_Loh_Tang_Ling_nad_Ms_Regine_Zhuang_with_our_excited_Primary_1s_.jpg" style="width:85%">Our PV Mentor Ms Loh Tang Ling and Ms Regine Zhuang with our excited Primary 1s</td>
 </tr>
 </tbody></table>
+**P1 Word Games**<br>
+To ignite students' interest in Chinese Language and facilitate effective learning, Primary One teachers often incorporate interactive games into their lessons. Additionally, we have developed radical games to deepen students' understanding, where they write characters based on drawn radicals. These activities are conducted in small groups to encourage interaction and enhance engagement.
+
+**P2 Speech and Drama**<br>
+P2 Speech and Drama offers a dynamic platform for students to immerse themselves in the intricacies of their Mother Tongue Languages. By exploring diverse drama techniques and honing dramatic interpretation and dialogue delivery, students enhance their linguistic abilities and cultivate confidence in expressing themselves in their respective Mother Tongue Languages.
 
 ##### Useful Websites
 
