@@ -22,11 +22,12 @@ Our department employs a variety of teaching methods including Inquiry-Based Lea
 
 The following framework guides us to develop the important skills in our students whilst ensuring that students experience joy of learning through language learning.
 
+<img src="/images/Curriculum/MTL/MTL_Framework.jpg" style="width:60%">
 **MTL Framework -3As Approach**<br>
 The icon of a stylised upright Anchor centred at the framework represents students with an upright character and embrace the love for learning of mother tongue languages.
 
 In preparing our students for the future, skills , knowledge , attitudes and values are incorporated into the MTL curriculum to support the goals of achieving the desired outcomes of education.
-<img src="/images/Curriculum/English/Starlit_Pix.jpg" style="width:100%">
+
 The wave represents the stakeholders such as Parents , School Advisory Committee and external organisations who play a big part in supporting the holistic development of the child in learning MTL..
 
 All these elements are encapsulated within the connecting perimeters of a triangle - triple ‘A’ approach to the MTL Framework in AGPS to bring about joy of learning.
