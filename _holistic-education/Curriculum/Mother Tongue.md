@@ -119,6 +119,8 @@ As part of the Mother Tongue Fortnight activities, our school conducts the annua
 <img src="/images/Curriculum/MTL/P4_ML_Cultural_Camp.jpg" style="width:6100%">P4 ML Cultural Camp<br><br>
 <img src="/images/Curriculum/MTL/P4_TL_Cultural_Camp.jpg" style="width:6100%">P4 TL Cultural Camp<br>
 
+
+
 ##### Useful Websites
 
 **Chinese Language**<br>
