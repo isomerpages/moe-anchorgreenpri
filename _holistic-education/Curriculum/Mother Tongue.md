@@ -113,6 +113,12 @@ P2 Speech and Drama offers a dynamic platform for students to immerse themselves
 The MTL Department teachers also leverage on technology to foster self-directed and collaborative learning among Primary 3 and 4 students. By using the Student Learning Space (SLS) and interactive apps, the lessons incorporate engaging elements on environmental conservation and traditional musical instruments.
 <img src="/images/Curriculum/MTL/P4_ICT_Day.jpg" style="width:6100%">
 
+**P4 Cultural Camp**<br>
+As part of the Mother Tongue Fortnight activities, our school conducts the annual Mother Tongue Cultural Camp for Primary 4 students. This activity provides opportunities for students to use their Mother Tongue Language in an authentic setting and experience their culture's uniqueness through various activities. Students are introduced to traditional instruments like Chinese waist drums, angklung, and parai.
+<img src="/images/Curriculum/MTL/P4_CL_Cultural_Camp.jpg" style="width:6100%">P4 CL Cultural Camp<br><br>
+<img src="/images/Curriculum/MTL/P4_ML_Cultural_Camp.jpg" style="width:6100%">P4 ML Cultural Camp<br><br>
+<img src="/images/Curriculum/MTL/P4_TL_Cultural_Camp.jpg" style="width:6100%">P4 TL Cultural Camp<br>
+
 ##### Useful Websites
 
 **Chinese Language**<br>
