@@ -44,17 +44,17 @@ Each level will be engaged  in cultural activities related to their Mother Tongu
 **Primary 1: Festivals**<br>
 CL: Lantern making<br>
 ML: Ketupat paper weaving<br>
-TL: Rangoli design<br><br>
+TL: Rangoli design<br>
 **Primary 2: Food**<br>	
-Chinese/Malay/Indian traditional food dough magnet<br><br>
+Chinese/Malay/Indian traditional food dough magnet<br>
 **Primary 3: Art**<br>
 CL: Chinese Painting<br>
 ML: Batik Art<br>
-TL: Pot Painting<br><br>
+TL: Pot Painting<br>
 **Primary 5: Plants**<br>
 CL: tea appreciation<br>
 ML: Ketupat weaving (or related to coconut tree)<br>
-TL: Flower tying (or related to banana tree)<br><br>
+TL: Flower tying (or related to banana tree)<br>
 **Primary 6: Traditional Games**<br>
 Chinese/Malay/Indian Traditional games<br>
 
@@ -64,6 +64,9 @@ Chinese/Malay/Indian Traditional games<br>
 <td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
 </tr>
 </tbody></table>
+
+**P3 CCM**<br>
+The Conversational Chinese Malay (CCM) Programme is introduced as an enrichment programme for our Primary 3 students. This programme immerses students in Chinese/Malay language and culture, fostering basic oral skills in a third language. Through peer interaction, students practice everyday conversation and develop the ability to comprehend and respond effectively.
 
 
 ##### Useful Websites
