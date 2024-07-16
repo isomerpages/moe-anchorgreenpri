@@ -148,8 +148,13 @@ Anchor Green Primary School celebrates Hari Raya Aidilfitri annually. This year,
 <td><img src="/images/Curriculum/MTL/Our_confident_emcee_engaging_the_crowd.jpg" style="width:90%">Our confident emcee engaging the crowd</td>
 <td><img src="/images/Curriculum/MTL/Students_enjoying_the_activity_planned_for_them.jpg" style="width:100%">Students enjoying the activity planned for them</td>
 </tr>
-
 </tbody></table>
+
+**Pongal Celebration @AG Village**<br>
+The AGPS Tamil Language Unit plans the annual Pongal celebrations.  Our Anchorlites have the opportunity to develop a greater awareness about the significance and meaning behind the celebration of Pongal (to thank the Sun, Mother Nature, and the various farm animals that help to contribute to a bountiful harvest). Pongal-making with the School Leaders, Recess activities are carried out by our beloved Parent Volunteers are just a few in the plethora of festivities at AGPS. As we celebrate our diversity and embrace our multicultural heritage, we can only continue to be stronger together.
+
+**Deepavali**<br>
+The AGPS Tamil Language Tamil Unit organizes Deepavali Celebration concert every year.  The celebrations provide valuable insights into the importance of preserving our culture and taking pride in our identity, serving as a beautiful platform to usher in Deepavali. It provides a platform for Anchorlites  to celebrate the traditional festival and through the celebration, it helps to strengthen the racial harmony among all races. 
 
 
 
