@@ -178,5 +178,3 @@ The AGPS Tamil Language Tamil Unit organizes Deepavali Celebration concert every
  &nbsp;&nbsp;&nbsp;&nbsp; a. <a target="_blank" href="https://www.tamil.org.sg/en">https://www.tamil.org.sg/en</a>
 
  &nbsp;&nbsp;&nbsp;&nbsp; b. <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/" target="_blank">https://www.nlb.gov.sg/golibrary2/c/30307529/</a>
- 
- 
