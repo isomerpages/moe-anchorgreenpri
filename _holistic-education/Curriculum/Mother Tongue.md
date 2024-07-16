@@ -142,7 +142,7 @@ Anchor Green Primary School embraces sustainability and sustainability has alway
 Anchor Green Primary School celebrates Hari Raya Aidilfitri annually. This year, students' artworks adorn the school, with P1 to P3 crafting money packets and P4 to P6 creating ketupat paper quilling. The celebration also showcases  vibrant performances by students and teachers. Additionally, cultural activities are also conducted during recess, to promote awareness of Muslim traditions in Singapore.
 <table><tbody>
 <tr>
-<td colspan="2"><img src="/images/Curriculum/MTL/Students_up_cycling_ang_bao_to_decorate_classroom.jpg" style="width:100%">Students up-cycling ang bao to decorate classroom</td>
+<td colspan="2"><img src="/images/Curriculum/MTL/A_group_photo_with_our_principal__Mr_Cheong.jpg" style="width:100%">A group photo with our principal Mr Cheong</td>
 </tr>
 <tr>
 <td><img src="/images/Curriculum/MTL/CNY_concert_in_the_hall.jpg" style="width:93%">CNY concert in the hall</td>
