@@ -167,20 +167,9 @@ The AGPS Tamil Language Tamil Unit organizes Deepavali Celebration concert every
  &nbsp;&nbsp;&nbsp;&nbsp; b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a href="https://www.zbschools.sg/" target="_blank">https://www.zbschools.sg/</a>
 
- &nbsp;&nbsp;&nbsp;&nbsp; c. Local and Overseas News 新加坡和海外新闻<br> &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a target="_blank" href="https://www.8world.com/so-young/news-in-class">https://www.8world.com/so-young/news-in-class</a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp; d. Chinese Audio Books 有声书<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a href="https://www.cpcll.sg/audio-book" target="_blank">https://www.cpcll.sg/audio-book</a>
-
- &nbsp;&nbsp;&nbsp;&nbsp; e. Singapore Education News on Chinese Learning 华文教学新闻<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a target="_blank" href="https://www.schoolbag.edu.sg/education/primary">https://www.schoolbag.edu.sg/education/primary</a>
-  
- &nbsp;&nbsp;&nbsp;&nbsp; f. e-books recommended by Committee to Promote Chinese Language Learning (CPCLL)<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a href="https://go.gov.sg/children-books-we-love" target="_blank">https://go.gov.sg/children-books-we-love</a>
-
 **Malay Language**
 
- &nbsp;&nbsp;&nbsp;&nbsp; a. <a target="_blank" href="https://www.nlb.gov.sg/golibrary2/c/30307529/">https://www.nlb.gov.sg/golibrary2/c/30307529/</a>
+ &nbsp;&nbsp;&nbsp;&nbsp; a. <a target="_blank" href="https://www.nlb.gov.sg/main/whats-on/melayu-programme">https://www.nlb.gov.sg/main/whats-on/melayu-programme</a>
 
  &nbsp;&nbsp;&nbsp;&nbsp; b. <a href="https://www.beritaharian.sg/" target="_blank">https://www.beritaharian.sg/</a>
 
@@ -190,10 +179,4 @@ The AGPS Tamil Language Tamil Unit organizes Deepavali Celebration concert every
 
  &nbsp;&nbsp;&nbsp;&nbsp; b. <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/" target="_blank">https://www.nlb.gov.sg/golibrary2/c/30307529/</a>
  
- &nbsp;&nbsp;&nbsp;&nbsp; c. <a target="_blank" href="https://www.eng.singaporetamil.org/">https://www.eng.singaporetamil.org/</a>
  
- &nbsp;&nbsp;&nbsp;&nbsp; d. <a href="https://www.indianheritage.gov.sg/en" target="_blank">https://www.indianheritage.gov.sg/en</a>
- 
- &nbsp;&nbsp;&nbsp;&nbsp; e. <a target="_blank" href="https://www.tllpc.sg/">https://www.tllpc.sg/</a>
- 
- &nbsp;&nbsp;&nbsp;&nbsp; f. <a href="https://uptlc.moe.edu.sg/" target="_blank">https://uptlc.moe.edu.sg/</a>
