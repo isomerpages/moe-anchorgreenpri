@@ -33,7 +33,13 @@ The wave represents the stakeholders such as Parents , School Advisory Committee
 All these elements are encapsulated within the connecting perimeters of a triangle - triple ‘A’ approach to the MTL Framework in AGPS to bring about joy of learning.
 
 
+##### Key Programmes
+##### MOE-initiated:
 
+**MTL Fortnight**<br>
+The Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures by enriching the students with learning experiences beyond the textbooks and confines of the classroom.
+
+Each level will be engaged  in cultural activities related to their Mother Tongue Languages based on the assigned theme. Students will cover all the 6 different themes at the end of their 6 years with Anchor Green Primary School. The level themes and activities are as follows:
 
 
 **1\. Key Programmes**<br>
