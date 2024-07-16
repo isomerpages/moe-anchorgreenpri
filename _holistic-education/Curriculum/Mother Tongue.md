@@ -3,21 +3,37 @@ title: Mother Tongue
 permalink: /holistic-education/curriculum/mother-tongue/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Mother Tongue
 =============
-##### Mission 
-To nurture Anchorlites to be Active Mother Tongue Language Learners, Steeped in Culture, Anchored in Values
 ##### Focus
-The Mother Tongue Department focuses on building the pupils’ foundation in listening and speaking the language, as well as, being conversant in their Mother Tongue language when speaking to others in the early years in the school.
-
-At the Upper Primary levels, the school’s focus is to develop the pupils competency in reading, writing and oral aspects of the Mother Tongue language, as well as situational writing skills.
+To Nurture Anchorlites to be Active Mother Tongue Language Learners, Steeped in Culture, Anchored in Values
 
 ##### Objectives
+The MTL department seeks to achieve the following objectives:<br>
+ i. Foster cultural awareness, language literacy, and inculcation of values to help students develop a deep understanding and appreciation of their cultural heritage and linguistic abilities.<br>
+ ii. Shape upright individuals who are active learners and proficient communicators, capable of using their language skills effectively in various contexts.<br>
+iii. Engage and empower learners to take charge of their educational journey, ensuring they become confident and competent users of their Mother Tongue languages.
 
-To develop pupils into confident, collaborative and curious learners using their own mother tongue languages.
+##### Pedagogical Approaches
 
-##### Department Activities
+Our department employs a variety of teaching methods including Inquiry-Based Learning (IBL), Differentiated Instruction (DI), and e-pedagogy to enhance teaching and learning experiences. 
+
+The following framework guides us to develop the important skills in our students whilst ensuring that students experience joy of learning through language learning.
+
+**MTL Framework -3As Approach**<br>
+The icon of a stylised upright Anchor centred at the framework represents students with an upright character and embrace the love for learning of mother tongue languages.
+
+In preparing our students for the future, skills , knowledge , attitudes and values are incorporated into the MTL curriculum to support the goals of achieving the desired outcomes of education.
+
+The wave represents the stakeholders such as Parents , School Advisory Committee and external organisations who play a big part in supporting the holistic development of the child in learning MTL..
+
+All these elements are encapsulated within the connecting perimeters of a triangle - triple ‘A’ approach to the MTL Framework in AGPS to bring about joy of learning.
+
+
+
+
 
 **1\. Key Programmes**<br>
  &nbsp; &nbsp;&nbsp;&nbsp; **P1: Word Games**<br>
