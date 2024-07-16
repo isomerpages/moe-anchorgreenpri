@@ -98,6 +98,17 @@ To ignite students' interest in Chinese Language and facilitate effective learni
 
 **P2 Speech and Drama**<br>
 P2 Speech and Drama offers a dynamic platform for students to immerse themselves in the intricacies of their Mother Tongue Languages. By exploring diverse drama techniques and honing dramatic interpretation and dialogue delivery, students enhance their linguistic abilities and cultivate confidence in expressing themselves in their respective Mother Tongue Languages.
+<table><tbody>
+<tr>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
+</tr>
+<tr>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_1.jpg" style="width:100%"></td>
+<td><img src="/images/Curriculum/MTL/MTL_Fortnight_2.jpg" style="width:100%"></td>
+</tr>
+</tbody></table>
+
 
 ##### Useful Websites
 
