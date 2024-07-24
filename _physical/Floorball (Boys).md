@@ -13,4 +13,5 @@ Our floorball alumni also come back during the holidays to impart their knowledg
 
 **Competitions / Events taking part in:**<br>
 • National Schools Games Junior Division<br>
+<img src="/images/CCA/Physical/Floorball%20(Boys)/Junior_Boys_Division.jpg" style="width:80%">
 • National Schools Games Senior Division
