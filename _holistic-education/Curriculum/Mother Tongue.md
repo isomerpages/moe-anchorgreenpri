@@ -77,6 +77,7 @@ The Conversational Chinese Malay (CCM) Programme is introduced as an enrichment 
 ##### School-based:
 **Talent Management Programme: Junior Journalist Club**<br>
 2024 marks the inauguration of the 'Anchor Green Junior Journalist Club', with the aim to develop students’ communication skills, observational abilities, writing skills and computer technology proficiency. Students made their debut with self-introductions, gearing up for independent learning and producing stellar news reports.
+<img src="/images/Curriculum/MTL/students_playing_the_malay_traditional_game__chapteh.jpg" style="width:100%">Students playing the malay traditional game chapteh
 
 **Reading Programme with Library Storytelling**<br>
 In our endeavour to foster a passion for reading Mother Tongue Language (MTL) books, our MTL department introduced ‘MTL Storytelling @ Library’ for our lower primary students during their recess period. Weekly sessions in Chinese, Malay, and Tamil, are led by our dedicated parent volunteers, who have captivated our students with enchanting narratives, sparking a passion for reading.
