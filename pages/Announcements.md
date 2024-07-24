@@ -9,7 +9,7 @@ Announcements
 
 ### Introduction to AGPS
 
-Parents and Guardians can have a deeper understanding of the school's programmes and facilities by watching the following video - <a href="https://www.facebook.com/anchorgreenps/videos/298317394871952" target="_blank"></a>. 
+Parents and Guardians can have a deeper understanding of the school's programmes and facilities by watching the following video - <a href="https://www.facebook.com/anchorgreenps/videos/298317394871952" target="_blank">AGPS Corporate Video</a>. 
 
 ### Group Personal Accident Insurance
 
