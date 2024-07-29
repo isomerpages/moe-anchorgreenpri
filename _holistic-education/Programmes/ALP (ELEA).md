@@ -284,7 +284,6 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
   </tr>
 </tbody>
 </table>
-<br>
 <table class="tg">
 <thead>
   <tr>
