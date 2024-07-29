@@ -104,7 +104,6 @@ Creation of bottle pot for the plant.
   </tr>
 </tbody>
 </table>
-<br>
 <table class="tg">
 <thead>
   <tr>
