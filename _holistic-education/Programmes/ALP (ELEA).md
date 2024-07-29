@@ -197,7 +197,7 @@ Creation of bottle pot for the plant.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Love_Your_Food.jpg" style="width:80%"></td>
   </tr>
 </tbody>
-</table><br>
+</table><br><br>
 <table class="tg">
 <thead>
   <tr>
