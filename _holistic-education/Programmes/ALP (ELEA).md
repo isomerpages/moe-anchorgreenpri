@@ -216,16 +216,7 @@ Creation of bottle pot for the plant.
   </tr>
 </tbody>
 </table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3yc9{background-color:#22A114;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-n9k0{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-</style>
-<br><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th colspan="4" class="tg-3yc9">Interdisciplinary Project Work - Environment Sustainability</th>
@@ -243,16 +234,16 @@ Creation of bottle pot for the plant.
   <tr>
     <td class="tg-n9k0"><span style="background-color:transparent">IPW</span><br></td>
     <td class="tg-n9k0"><span style="background-color:transparent">P4</span><br><br></td>
-    <td class="tg-n9k0"><span style="background-color:transparent">Students will go through the Thinking Design protocol to come up with solutions to environmental issues in school.
-</span>
+    <td class="tg-n9k0"><span style="background-color:transparent">Students will go through the Thinking Design protocol to come up with solutions to environmental issues in school.</span>
 </td>
     <td class="tg-n9k0"><span style="background-color:transparent">Across all disciplines</span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:800%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/IPW.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
 
 **Tier 2: Learning Opportunities for a Targeted Group**
 <table class="tg">
@@ -280,7 +271,7 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
     <td class="tg-n9k0"><span style="background-color:transparent">NEA</span></td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/project_eco.jpg" style="width:800%"></td>
+    <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/project_eco.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
