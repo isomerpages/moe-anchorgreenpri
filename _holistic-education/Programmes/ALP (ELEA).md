@@ -196,7 +196,7 @@ Creation of bottle pot for the plant.
     <td colspan="4" class="tg-n9k0"><img src="/images/Programmes/ALP/Love_Your_Food.jpg" style="width:80%"></td>
   </tr>
 </tbody>
-</table><br><br>
+</table>
 <table class="tg">
 <thead>
   <tr>
@@ -224,7 +224,6 @@ Creation of bottle pot for the plant.
   </tr>
 </tbody>
 </table>
-
 
 **Tier 2: Learning Opportunities for a Targeted Group**
 <table class="tg">
@@ -256,7 +255,6 @@ Conduct outreach to the P5 level, MK and/or AGPS population.
   </tr>
 </tbody>
 </table>
-<br>
 <table class="tg">
 <thead>
   <tr>
