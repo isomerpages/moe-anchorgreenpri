@@ -15,9 +15,10 @@ Students to<br>
 •	be a safe and responsible user of technology and maintain a positive online presence.<br>
 •	be responsible for personal well-being in the cyberspace.
 
-  
-
-#### AGPS Cyberwellness Message
+#### AGPS Cyber Wellness Message
 
 <img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Message.jpg" style="width:80%">
 
+#### AGPS Cyber Wellness Poster - Be Safe 
+
+<img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Message.jpg" style="width:80%">
