@@ -34,8 +34,7 @@ Students to<br>
 •	Termly Cyber Wellness assembly sharing sessions to equip students to educate <br>students on cyber wellness activities<br>
 •	Class and recess activities to enable students to make informed decisions regarding cyber wellness matters
 </td>
-<td><img src="/images/Curriculum/CCE/Cyberwellness/Students_in_Action.png" style="width:100%"></td>
+<td><img src="/images/Curriculum/CCE/Cyberwellness/Students_in_Action.png" style="width:120%"></td>
 </tr>
 </tbody></table>
-
-<img src="/images/Curriculum/CCE/Cyberwellness/Students_in_Action.png" style="width:100%">
+<img src="/images/Curriculum/CCE/Cyberwellness/Whole_School_Approach.jpg" style="width:100%">
