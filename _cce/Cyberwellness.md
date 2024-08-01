@@ -38,6 +38,12 @@ Students to<br>
 </tr>
 </tbody></table>
 <img src="/images/Curriculum/CCE/Cyberwellness/Whole_School_Approach.jpg" style="width:100%">
+<div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wVtr2f-Hbjc?si=1UNrSvYO5rBN3Quw" height="315" width="560"></iframe>
+</div>
+
+
+
 
 ##### Useful Links
 <table><tbody>
