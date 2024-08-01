@@ -21,4 +21,5 @@ Students to<br>
 
 #### AGPS Cyber Wellness Poster - Be Safe 
 
-<img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Message.jpg" style="width:80%">
+<img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Poster_Be_Safe.jpg" style="width:80%">
+
