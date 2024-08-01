@@ -37,3 +37,5 @@ Students to<br>
 <td><img src="/images/Curriculum/CCE/Cyberwellness/Students_in_Action.png" style="width:100%"></td>
 </tr>
 </tbody></table>
+
+<img src="/images/Curriculum/CCE/Cyberwellness/Students_in_Action.png" style="width:100%">
