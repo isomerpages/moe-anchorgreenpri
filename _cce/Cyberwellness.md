@@ -23,9 +23,17 @@ Students to<br>
 
 <img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Poster_Be_Safe.jpg" style="width:80%">
 
+#### AGPS Cyber Programme
+
 <table><tbody>
 <tr>
-<th><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/2-1%20sentosa.jpg" style="width:100%"></th>
-<td><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/2-2%20sentosa.jpg" style="width:100%"></td>
+<td> Anchor Green Cyber Wellness programme aims to promote the positive well-being <br>of our anchorlites as internet users, <br>inculcates positive peer influence by <br> harnessing technology for collaboration, <br>learning and productivity.<br><br>
+	<b>AGPS Approach:</b><br>
+•	A comprehensive and effective whole <br>school approach to cyber wellness.<br> 
+•	AGPS Digital Citizen Pledge for students to commit to safe and wholesome <br>cyber wellness habits<br>
+•	Termly Cyber Wellness assembly sharing sessions to equip students to educate <br>students on cyber wellness activities<br>
+•	Class and recess activities to enable students to make informed decisions regarding cyber wellness matters
+</td>
+<td><img src="/images/Curriculum/CCE/Cyberwellness/Students_in_Action.png" style="width:100%"></td>
 </tr>
 </tbody></table>
