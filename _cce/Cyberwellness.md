@@ -42,11 +42,11 @@ Students to<br>
 ##### Useful Links
 <table><tbody>
 <tr>
-<td> o	Health Hub<br>
-	<nobr>o	Common Sense Media </nobr><br>
-o	MOE Website <br>
-o	Help123 <br>
-o	CSA Singapore
+<td> • Health Hub<br>
+	<nobr>•	Common Sense Media </nobr><br>
+•	MOE Website <br>
+•	Help123 <br>
+•	CSA Singapore
 </td>
 <td><img src="/images/Curriculum/CCE/Cyberwellness/Parenting_in_the_Digital_Age.jpg" style="width:50%"></td>
 </tr>
