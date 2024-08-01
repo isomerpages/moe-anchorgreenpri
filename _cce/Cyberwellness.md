@@ -23,3 +23,9 @@ Students to<br>
 
 <img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Poster_Be_Safe.jpg" style="width:80%">
 
+<table><tbody>
+<tr>
+<th><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/2-1%20sentosa.jpg" style="width:100%"></th>
+<td><img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/2-2%20sentosa.jpg" style="width:100%"></td>
+</tr>
+</tbody></table>
