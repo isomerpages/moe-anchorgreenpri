@@ -45,7 +45,7 @@ Students to<br>
 <td> • <a target="_blank" href="https://www.tamil.org.sg/en">Health Hub</a><br>
 	<nobr>•	<a target="_blank" href="https://www.tamil.org.sg/en">Common Sense Media </a></nobr><br>
 •	<a target="_blank" href="https://www.tamil.org.sg/en">MOE Website</a><br>
-•	<a target="_blank" href="https://www.tamil.org.sg/en">Help123</a> <br>
+•	<a target="_blank" href="https://www.help123.sg/">Help123</a> <br>
 •	<a target="_blank" href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline">CSA Singapore</a>
 </td>
 <td><img src="/images/Curriculum/CCE/Cyberwellness/Parenting_in_the_Digital_Age.jpg" style="width:50%"></td>
