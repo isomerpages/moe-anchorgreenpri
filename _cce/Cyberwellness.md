@@ -42,7 +42,7 @@ Students to<br>
 ##### Useful Links
 <table><tbody>
 <tr>
-<td> • <a target="_blank" href="https://www.tamil.org.sg/en">Health Hub</a><br>
+<td> • <a target="_blank" href="https://www.healthhub.sg/programmes/parent-hub">Health Hub</a><br>
 	<nobr>•	<a target="_blank" href="https://www.tamil.org.sg/en">Common Sense Media </a></nobr><br>
 •	<a target="_blank" href="https://www.tamil.org.sg/en">MOE Website</a><br>
 •	<a target="_blank" href="https://www.help123.sg/">Help123</a> <br>
