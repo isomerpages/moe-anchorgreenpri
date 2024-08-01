@@ -19,4 +19,5 @@ Students to<br>
 
 #### AGPS Cyberwellness Message
 
-<img src="/images/Curriculum/CCE/Cyberwellness/AGPS%20Cyberwellness%20Programme.jpg" style="width:80%">
+<img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Message.jpg" style="width:80%">
+
