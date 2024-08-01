@@ -2,10 +2,10 @@
 title: Helpline Information
 permalink: /hbl-info/students-guide/helpline-information/
 description: ""
+variant: markdown
 ---
-
 Subject-Related and Assignment Matters
--------------------------------------
+-----------------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -125,4 +125,4 @@ Online Portals
 Any Other Matters
 -----------------
 
-For any other matters pertaining to HBL, please call the General Office at **6886 1356**, Mondays to Fridays, 7.30 a.m. to 4 p.m.
+For any other matters pertaining to HBL, please call the General Office at&nbsp;**6886 1356**, Mondays to Fridays, 7.30 a.m. to 4 p.m.
