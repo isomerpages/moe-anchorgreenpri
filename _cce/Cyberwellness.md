@@ -23,7 +23,7 @@ Students to<br>
 
 <img src="/images/Curriculum/CCE/Cyberwellness/AGPS_Cyber_Wellness_Poster_Be_Safe.jpg" style="width:80%">
 
-##### AGPS Cyber Programme
+##### AGPS Cyber Wellness Programme
 
 <table><tbody>
 <tr>
