@@ -18,7 +18,7 @@ description: ""
     </style> 
         <h2>School Rules &amp; Regulations</h2>  
         <details>  
-            <summary>Section 1</summary>  
+	<summary><strong>General Conduct</strong></summary>  
             <h3>This is section 1</h3>  
         </details>  
         <details>  
