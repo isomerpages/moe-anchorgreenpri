@@ -4,9 +4,7 @@ permalink: /discipline-ver2/
 variant: markdown
 description: ""
 ---
-  
-      
-        <title>School Rules &amp; Regulations</title>  
+<title>School Rules &amp; Regulations</title>  
         <style>    
         details {    
             background: #eee;    
@@ -17,9 +15,7 @@ description: ""
             outline: none;    
             font-size: 15px;    
         }    
-    </style>  
-      
-      
+    </style> 
         <h2>School Rules &amp; Regulations</h2>  
         <details>  
             <summary>Section 1</summary>  
@@ -32,6 +28,4 @@ description: ""
         <details>  
             <summary>Section 3</summary>  
             <h3>This is section 3</h3>  
-        </details>  
-      
-    
+        </details>
