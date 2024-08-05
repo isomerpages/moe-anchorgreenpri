@@ -51,6 +51,6 @@ non-teaching staff, parents and visitors politely.</p>
             <h3>This is section 2</h3>  
         </details>  
         <details>  
-            <summary>Section 3</summary>  
+	<summary><strong>Section 3</strong></summary>  
             <h3>This is section 3</h3>  
         </details>
