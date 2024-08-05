@@ -170,8 +170,7 @@ the classroom.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p>Students should be properly and neatly attired.&nbsp; They must wear the
-prescribed school uniform and no modification to the uniform is allowed.&nbsp;</p>
+<p>Students should be properly and neatly attired.&nbsp; They must wear the prescribed school uniform and no modification to the uniform is allowed.&nbsp;</p>
 </li>
 </ul>
 <ul>
