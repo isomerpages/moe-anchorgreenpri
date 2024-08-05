@@ -133,6 +133,39 @@ ceremony.&nbsp;</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Classroom Conduct</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>Students are required to stand and greet the teachers before and after
+lessons.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>No food and sweet drinks are to be consumed in the classroom except during
+the prescribed snack time. Only plain water is allowed to be consumed in
+class.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>All students will proceed to the canteen during recess.&nbsp; They are
+not to stay in the classroom.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students will require the teacher’s permission before stepping out of
+the classroom.&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Permission to leave school/country during Curriculum/Term Time</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -251,39 +284,6 @@ or accessories of any kind to school for uniformity and safety reasons</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Classroom Conduct</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p>Students are required to stand and greet the teachers before and after
-lessons.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>No food and sweet drinks are to be consumed in the classroom except during
-the prescribed snack time. Only plain water is allowed to be consumed in
-class.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>All students will proceed to the canteen during recess.&nbsp; They are
-not to stay in the classroom.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Students will require the teacher’s permission before stepping out of
-the classroom.&nbsp;</p>
-</li>
-</ul>
 </div>
 </details>
 </div>
