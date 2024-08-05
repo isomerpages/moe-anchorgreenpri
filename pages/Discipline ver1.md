@@ -13,7 +13,7 @@ description: ""
 <p>Students are expected to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Exhibit the A.N.C.H.O.R values - Agility, iNtegrity, Care, Humility, Optimism
+	<p>Exhibit the <b>A.N.C.H.O.R. </b>values - Agility, iNtegrity, Care, Humility, Optimism
 and Resilience</p>
 </li>
 <li>
