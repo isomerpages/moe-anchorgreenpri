@@ -214,13 +214,7 @@ and/or Co-Curricular Activities.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-<p><strong>School Attire Guidelines</strong>
-</p>
-</th>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Hair</strong>
