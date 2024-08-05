@@ -204,6 +204,7 @@ for the examples.)&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p></p>
 <p><strong>School Attire Guidelines</strong>
 </p>
 </th>
