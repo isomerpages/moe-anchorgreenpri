@@ -102,6 +102,37 @@ rules relating to attendance and punctuality.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Assembly/Pledge Taking</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>Students who are Singapore Citizens must sing the National Anthem and
+recite the Pledge. Students will recite the Pledge with their right fist
+over their heart.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>All students are required to sing the school song.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students are to observe all the commands for assembly without fidgeting.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>It is mandatory for all students to uphold the integrity of the flag raising
+ceremony.&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Permission to leave school/country during Curriculum/Term Time</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -220,37 +251,6 @@ or accessories of any kind to school for uniformity and safety reasons</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Assembly/Pledge Taking</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p>Students who are Singapore Citizens must sing the National Anthem and
-recite the Pledge. Students will recite the Pledge with their right fist
-over their heart.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>All students are required to sing the school song.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Students are to observe all the commands for assembly without fidgeting.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>It is mandatory for all students to uphold the integrity of the flag raising
-ceremony.&nbsp;</p>
-</li>
-</ul>
 </div>
 </details>
 </div>
