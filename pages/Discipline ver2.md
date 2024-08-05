@@ -4,3 +4,4 @@ permalink: /discipline-ver2/
 variant: tiptap
 description: ""
 ---
+<p></p>
