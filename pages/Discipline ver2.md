@@ -4,26 +4,16 @@ permalink: /discipline-ver2/
 variant: tiptap
 description: ""
 ---
-<title>School Rules &amp; Regulations</title>  
-        <style>    
-        details {    
-            background: #eee;    
-            color: #444;    
-            padding: 18px;    
-            border: none;    
-            text-align: left;    
-            outline: none;    
-            font-size: 15px;    
-        }    
-    </style> 
-        <h2>School Rules &amp; Regulations</h2>  
-        <details>  
-	<summary><strong>General Conduct</strong></summary>  
-            <p>Students are expected to:</p>
+<h2>School Rules &amp; Regulations</h2>
+<details class="isomer-details">
+<summary><strong>General Conduct</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students are expected to:</p>
 <ul data-tight="true" class="tight">
 <li>
-	<p>Exhibit the <b>A.N.C.H.O.R. </b>values - Agility, iNtegrity, Care, Humility, Optimism
-and Resilience</p>
+<p>Exhibit the <strong>A.N.C.H.O.R. </strong>values - Agility, iNtegrity,
+Care, Humility, Optimism and Resilience</p>
 </li>
 <li>
 <p>Be polite and well-behaved in and outside of school.</p>
@@ -44,11 +34,14 @@ non-teaching staff, parents and visitors politely.</p>
 <li>
 <p>Observe safety guidelines and behave in a safe manner</p>
 </li>
-</ul>  
-        </details>  
-        <details>  
-	<summary><strong>Attendance and Punctuality</strong></summary>  
-           <ul data-tight="true" class="tight">
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Attendance and Punctuality</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
 <li>
 <p>Daily attendance is compulsory.</p>
 </li>
@@ -101,10 +94,13 @@ will also be affected should he/ she not adhere to the above-mentioned
 rules relating to attendance and punctuality.</p>
 </li>
 </ul>
-        </details>  
-        <details>  
-	<summary><strong>Assembly/Pledge Taking</strong></summary>  
-            <ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Assembly/Pledge Taking</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
 <p>Students who are Singapore Citizens must sing the National Anthem and
 recite the Pledge. Students will recite the Pledge with their right fist
@@ -126,11 +122,14 @@ over their heart.&nbsp;</p>
 <p>It is mandatory for all students to uphold the integrity of the flag raising
 ceremony.&nbsp;</p>
 </li>
-</ul>  
-        </details>
-				<details>  
-	<summary><strong>Classroom Conduct</strong></summary>  
-           <ul>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Classroom Conduct</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
 <p>Students are required to stand and greet the teachers before and after
 lessons.&nbsp;</p>
@@ -155,12 +154,16 @@ not to stay in the classroom.&nbsp;</p>
 the classroom.&nbsp;</p>
 </li>
 </ul>
-        </details>
-				<details>  
-	<summary><strong>Attire and Appearance</strong></summary>  
-           <ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Attire and Appearance</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
-<p>Students should be properly and neatly attired.&nbsp; They must wear the prescribed school uniform and no modification to the uniform is allowed.&nbsp;</p>
+<p>Students should be properly and neatly attired.&nbsp; They must wear the
+prescribed school uniform and no modification to the uniform is allowed.&nbsp;</p>
 </li>
 </ul>
 <ul>
@@ -189,10 +192,14 @@ and/or Co-Curricular Activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PE Uniform" src="/images/School Rules/PE_Uniform.jpg">
-        </div></details>
-				<details>  
-	<summary><strong>School Attire Guidelines:</strong></summary>  
-            <table style="minWidth: 50px">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>School Attire Guidelines:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -286,10 +293,13 @@ or accessories of any kind to school for uniformity and safety reasons</p>
 </tr>
 </tbody>
 </table>
-        </details>
-					<details>  
-	<summary><strong>Permission to leave school/country during Curriculum/Term Time</strong></summary>  
-           <ul data-tight="true" class="tight">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Permission to leave school/country during Curriculum/Term Time</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
 <li>
 <p>Students must refrain from travelling or leaving the country during the
 school term. For urgent cases, written permission must be sought from the
@@ -297,10 +307,13 @@ school and is subjected to approval by the School Leaders. Parents are
 to check the school calendar before planning their vacations.</p>
 </li>
 </ul>
-        </details>
-					<details>  
-	<summary><strong>Mobile Phone/Smart Watches Policy </strong></summary>  
-           <ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Mobile Phone/Smart Watches Policy</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
 <p>The school does not encourage students to bring mobile phones and/or smart
 devices (e.g. smart wrist watches – with the ability to communicate, capture
@@ -327,4 +340,6 @@ may be confiscated as a disciplinary measure and/or for the purpose of
 investigation if students contravened the above rule.&nbsp;</p>
 </li>
 </ul>
-        </details>
+</div>
+</details>
+<p></p>
