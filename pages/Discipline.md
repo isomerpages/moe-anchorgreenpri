@@ -39,7 +39,6 @@ non-teaching staff, parents and visitors politely.</p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2. Attendance and Punctuality</strong>&nbsp;</summary>
@@ -99,6 +98,28 @@ rules relating to attendance and punctuality.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>6. Permission to leave school/country during Curriculum/Term Time</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must refrain from travelling or leaving the country during the
+school term. For urgent cases, written permission must be sought from the
+school and is subjected to approval by the School Leaders. Parents are
+to check the school calendar before planning their vacations.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>School Attire Guidelines:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+</div>
+</details>
+</div>
 <p></p>
