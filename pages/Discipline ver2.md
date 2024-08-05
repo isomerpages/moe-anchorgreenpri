@@ -289,9 +289,42 @@ or accessories of any kind to school for uniformity and safety reasons</p>
         </details>
 					<details>  
 	<summary><strong>Permission to leave school/country during Curriculum/Term Time</strong></summary>  
-            <h3>This is a new section.</h3>  
+           <ul data-tight="true" class="tight">
+<li>
+<p>Students must refrain from travelling or leaving the country during the
+school term. For urgent cases, written permission must be sought from the
+school and is subjected to approval by the School Leaders. Parents are
+to check the school calendar before planning their vacations.</p>
+</li>
+</ul>
         </details>
 					<details>  
 	<summary><strong>Mobile Phone/Smart Watches Policy </strong></summary>  
-            <h3>This is a new section.</h3>  
+           <ul>
+<li>
+<p>The school does not encourage students to bring mobile phones and/or smart
+devices (e.g. smart wrist watches – with the ability to communicate, capture
+and/or record images or sounds) to school.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Parents who would like their child to carry a mobile phone must take personal
+responsibility. The school will not be responsible for any loss or damage
+to the mobile phones or smart watches.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students are not allowed to use their mobile phones and/or smart devices
+(e.g. smart wrist watches) in school.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students’ mobile phones and/or smart devices (e.g. smart wrist watches)
+may be confiscated as a disciplinary measure and/or for the purpose of
+investigation if students contravened the above rule.&nbsp;</p>
+</li>
+</ul>
         </details>
