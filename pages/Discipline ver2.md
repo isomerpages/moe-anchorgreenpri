@@ -129,14 +129,122 @@ ceremony.&nbsp;</p>
 </ul>  
         </details>
 				<details>  
-	<summary><strong>New Section</strong></summary>  
+	<summary><strong>Classroom Conduct</strong></summary>  
             <h3>This is a new section.</h3>  
         </details>
 				<details>  
-	<summary><strong>New Section</strong></summary>  
+	<summary><strong>Attire and Appearance</strong></summary>  
             <h3>This is a new section.</h3>  
         </details>
 				<details>  
-	<summary><strong>New Section</strong></summary>  
+	<summary><strong>School Attire Guidelines:</strong></summary>  
+            <table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<p><strong>School Attire Guidelines</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Fringe</u></strong>
+<br>
+<br>- Fringe must be neat and kept above the eyebrows (for both and girls)
+<br>- Long fringe must be pinned up (for girls)
+<br>
+<br><strong><u>Length</u></strong>
+<br>
+<br>- Long hair (below the collar) must be tied up and plaited neatly (for
+girls)
+<br>- Hair must be kept short and neat (for boys)
+<br>- Fanciful hairstyle is not allowed
+<br>
+<br><strong><u>Facial Hair</u></strong>
+<br>
+<br>- Facial hair such as moustache and beard not allowed
+<br>
+<br><strong><u>Grooming</u></strong>
+<br>
+<br>- Hair must not be tinted or dyed (for girls)
+<br>- Hair must not be tinted, dyed or spiked (for boys)
+<br>
+<br><strong><u>Hair Accessories</u></strong><u> </u>
+<br>
+<br>- All hair accessories must be black or navy blue and not jeweled. (girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Uniform / PE Attire</u></strong>
+<br>
+<br>- School uniform must be of appropriate size
+<br>- Shorts and skirts must be of knee length
+<br>- Students are not required to tuck-in their School Uniform and PE Polo
+T-Shirt.
+<br>
+<br><strong><u>Socks</u></strong>
+<br>
+<br>- Ankle socks are not allowed
+<br>- Socks should be above ankle length
+<br>
+<br><strong><u>Shoes </u></strong>
+<br>
+<br>- Black canvas shoes.
+<br>- No sports shoes except on CCA days after Curriculum hours or when pupil
+is participating in competitions
+<br>- Slip-ons are not allowed
+<br>
+<br><strong><u>Name Tag</u></strong>
+<br>
+<br>- Name tag should be ironed / sewn on the left side of the school uniform
+and PE T-shirt and above the school logo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Accessories</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Only small black or dark blue ear studs are allowed - for female students
+only.
+<br>- Colourful and/or multiple ear studs are not allowed.
+<br>- Students are not allowed to wear wrist or friendship bands, jewellery
+or accessories of any kind to school for uniformity and safety reasons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nails</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Nails must be kept short and clean
+<br>- No nail polish is allowed</p>
+</td>
+</tr>
+</tbody>
+</table>
+        </details>
+					<details>  
+	<summary><strong>Permission to leave school/country during Curriculum/Term Time</strong></summary>  
+            <h3>This is a new section.</h3>  
+        </details>
+					<details>  
+	<summary><strong>Mobile Phone/Smart Watches Policy </strong></summary>  
             <h3>This is a new section.</h3>  
         </details>
