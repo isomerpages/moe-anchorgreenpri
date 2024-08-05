@@ -47,7 +47,7 @@ non-teaching staff, parents and visitors politely.</p>
 </ul>  
         </details>  
         <details>  
-            <summary>Section 2</summary>  
+	<summary><strong>Attendance and Punctuality</strong></summary>  
             <h3>This is section 2</h3>  
         </details>  
         <details>  
