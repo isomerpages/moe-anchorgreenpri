@@ -158,8 +158,38 @@ the classroom.&nbsp;</p>
         </details>
 				<details>  
 	<summary><strong>Attire and Appearance</strong></summary>  
-            <h3>This is a new section.</h3>  
-        </details>
+           <ul>
+<li>
+<p>Students should be properly and neatly attired.&nbsp; They must wear the prescribed school uniform and no modification to the uniform is allowed.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Sweaters may be worn only when the weather is cold (e.g. on rainy days
+in the morning). Should there be extenuating circumstances, the school
+can consider the request on a case-by-case basis.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students are allowed to wear their PE attire on days they have PE lessons
+and/or Co-Curricular Activities.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>School Uniform</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Uniform" src="/images/School Rules/School_Uniform.jpg">
+</div>
+<p></p>
+<p><strong>PE Uniform</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PE Uniform" src="/images/School Rules/PE_Uniform.jpg">
+        </div></details>
 				<details>  
 	<summary><strong>School Attire Guidelines:</strong></summary>  
             <table style="minWidth: 50px">
