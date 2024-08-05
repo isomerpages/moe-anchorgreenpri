@@ -183,11 +183,11 @@ can consider the request on a case-by-case basis.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Students are allowed to wear their PE attire on days they have PE lessons
-and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary
-for the examples.)&nbsp;</p>
+<p>Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities.</p>
 </li>
 </ul>
+	![School Uniform](/images/School%20Rules/School_Uniform.jpg)
+	
 </div>
 </details>
 </div>
