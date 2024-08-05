@@ -6,6 +6,7 @@ description: ""
 ---
   
       
+        <title>School Rules &amp; Regulations</title>  
         <style>    
         details {    
             background: #eee;    
