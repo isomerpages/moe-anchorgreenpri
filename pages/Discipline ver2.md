@@ -145,13 +145,6 @@ ceremony.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p></p>
-<p><strong>School Attire Guidelines</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Hair</strong>
 </p>
