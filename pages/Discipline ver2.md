@@ -130,7 +130,31 @@ ceremony.&nbsp;</p>
         </details>
 				<details>  
 	<summary><strong>Classroom Conduct</strong></summary>  
-            <h3>This is a new section.</h3>  
+           <ul>
+<li>
+<p>Students are required to stand and greet the teachers before and after
+lessons.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>No food and sweet drinks are to be consumed in the classroom except during
+the prescribed snack time. Only plain water is allowed to be consumed in
+class.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>All students will proceed to the canteen during recess.&nbsp; They are
+not to stay in the classroom.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students will require the teacher’s permission before stepping out of
+the classroom.&nbsp;</p>
+</li>
+</ul>
         </details>
 				<details>  
 	<summary><strong>Attire and Appearance</strong></summary>  
