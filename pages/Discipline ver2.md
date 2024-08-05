@@ -106,3 +106,15 @@ rules relating to attendance and punctuality.</p>
 	<summary><strong>New Section</strong></summary>  
             <h3>This is a new section.</h3>  
         </details>
+				<details>  
+	<summary><strong>New Section</strong></summary>  
+            <h3>This is a new section.</h3>  
+        </details>
+				<details>  
+	<summary><strong>New Section</strong></summary>  
+            <h3>This is a new section.</h3>  
+        </details>
+				<details>  
+	<summary><strong>New Section</strong></summary>  
+            <h3>This is a new section.</h3>  
+        </details>
