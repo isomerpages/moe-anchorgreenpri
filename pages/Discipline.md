@@ -183,11 +183,24 @@ can consider the request on a case-by-case basis.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities.</p>
+<p>Students are allowed to wear their PE attire on days they have PE lessons
+and/or Co-Curricular Activities.</p>
 </li>
 </ul>
-	![School Uniform](/images/School%20Rules/School_Uniform.jpg)
-	
+<p></p>
+<p><strong>School Uniform</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Uniform" src="/images/School Rules/School_Uniform.jpg">
+</div>
+<p></p>
+<p><strong>PE Uniform</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PE Uniform" src="/images/School Rules/PE_Uniform.jpg">
+</div>
 </div>
 </details>
 </div>
