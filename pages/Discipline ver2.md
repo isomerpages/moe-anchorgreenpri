@@ -103,8 +103,30 @@ rules relating to attendance and punctuality.</p>
 </ul>
         </details>  
         <details>  
-	<summary><strong>New Section</strong></summary>  
-            <h3>This is a new section.</h3>  
+	<summary><strong>Assembly/Pledge Taking</strong></summary>  
+            <ul>
+<li>
+<p>Students who are Singapore Citizens must sing the National Anthem and
+recite the Pledge. Students will recite the Pledge with their right fist
+over their heart.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>All students are required to sing the school song.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students are to observe all the commands for assembly without fidgeting.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>It is mandatory for all students to uphold the integrity of the flag raising
+ceremony.&nbsp;</p>
+</li>
+</ul>  
         </details>
 				<details>  
 	<summary><strong>New Section</strong></summary>  
