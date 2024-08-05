@@ -7,7 +7,7 @@ description: ""
 <h1>School Rules &amp; Regulations</h1>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. General Conduct</strong>
+<summary><strong>General Conduct</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students are expected to:</p>
@@ -41,11 +41,11 @@ non-teaching staff, parents and visitors politely.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>2. Attendance and Punctuality</strong>&nbsp;</summary>
+<summary><strong>Attendance and Punctuality</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Daily attendance is compulsory.</p>
 <ul data-tight="true" class="tight">
-<li>
+	<li><p>Daily attendance is compulsory.</p></li>
+	<li>
 <p>Please do not send your child to school if he/she is unwell and please
 call the school to inform his/her Form teacher of your child’s absence.</p>
 </li>
@@ -100,7 +100,7 @@ rules relating to attendance and punctuality.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6. Permission to leave school/country during Curriculum/Term Time</strong>&nbsp;</summary>
+<summary><strong>Permission to leave school/country during Curriculum/Term Time</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
