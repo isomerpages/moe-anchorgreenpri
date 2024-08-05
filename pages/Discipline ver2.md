@@ -48,7 +48,59 @@ non-teaching staff, parents and visitors politely.</p>
         </details>  
         <details>  
 	<summary><strong>Attendance and Punctuality</strong></summary>  
-            <h3>This is section 2</h3>  
+           <ul data-tight="true" class="tight">
+<li>
+<p>Daily attendance is compulsory.</p>
+</li>
+<li>
+<p>Please do not send your child to school if he/she is unwell and please
+call the school to inform his/her Form teacher of your child’s absence.</p>
+</li>
+<li>
+<p>Absenteeism must be covered by a Medical Certificate from a doctor OR
+a letter with a valid supporting document.</p>
+</li>
+<li>
+<p>A valid Medical Certificate, from a clinic registered with the Singapore
+Medical Council, must be submitted to your child’s/ward’s Form Teacher
+if he/she has missed any scheduled assessments, when he/she returns to
+school.</p>
+</li>
+<li>
+<p>An automated message will be sent to the student’s parent/guardian should
+a student be absent from school and if the student’s parent/guardian has
+not updated the school on the student’s absence.</p>
+</li>
+<li>
+<p>Please contact the school’s General Office, as soon as possible, upon
+receiving the message to update the school on the reason for your child’s/ward’s
+absence and provide the relevant supporting document (e.g. MC) when your
+child/ward returns to school.</p>
+</li>
+<li>
+<p>Students are to report at the assembly venue for flag raising by 7.20
+am.</p>
+</li>
+<li>
+<p>Students who arrive at the assembly area after 7.30am will be marked as
+‘Late’.</p>
+</li>
+<li>
+<p>Students are to participate and be punctual for school and all designated
+school activities.</p>
+</li>
+<li>
+<p>Students must complete the full school term. Prolonged and frequent absence
+from school will hamper a child’s learning and development. In addition,
+this may have an impact on his/her Holistic Development Profile (HDP) Report
+unless the absence is due to valid reason(s) (e.g. Medical Leave).</p>
+</li>
+<li>
+<p>Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report
+will also be affected should he/ she not adhere to the above-mentioned
+rules relating to attendance and punctuality.</p>
+</li>
+</ul>
         </details>  
         <details>  
 	<summary><strong>New Section</strong></summary>  
