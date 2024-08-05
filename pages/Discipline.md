@@ -287,4 +287,31 @@ or accessories of any kind to school for uniformity and safety reasons</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Attire and Appearance</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>Students should be properly and neatly attired.&nbsp; They must wear the
+prescribed school uniform and no modification to the uniform is allowed.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Sweaters may be worn only when the weather is cold (e.g. on rainy days
+in the morning). Should there be extenuating circumstances, the school
+can consider the request on a case-by-case basis.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Students are allowed to wear their PE attire on days they have PE lessons
+and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary
+for the examples.)&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
