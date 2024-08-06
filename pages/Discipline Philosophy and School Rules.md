@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Discipline Philosophy and School Rules</h2>
 <details class="isomer-details">
-<summary><h4>Discipline Philosophy and Approach</h4>
+<summary><h4>• Discipline Philosophy and Approach</h4>
 	</summary><h5>Framework:</h5>
 <img style="width: 30%" height="auto" width="30%" alt="School Uniform" src="/images/Discipline/Discipline_Framework.jpg"><br>
 At the core of the framework, the balance symbolises equilibrium and fairness, suggesting the careful weighing of disciplinary actions with empathy and consideration for individual circumstances. This communicates the idea of maintaining discipline while also showing care and empathy towards those involved. It reinforces the concept of discipline not merely as enforcement but as a supportive and nurturing process. 
@@ -24,7 +24,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 <small>*Disciplinary consequences such as suspension and caning are considered in combination or separately, depending on the circumstances of each case.</small>
 </details>
 <details class="isomer-details">
-<summary><h4>Our School Rules</h4>
+<summary><h4>• Our School Rules</h4>
 </summary>
 
 **1. General Conduct**
