@@ -148,7 +148,8 @@ or accessories of any kind to school for uniformity and safety reasons
 </tr>
 </tbody>
 </table><br>
-<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
+
+	<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
 • Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
 
 <strong>7. Mobile Phone/Smart Watches Policy</strong><br><br>
