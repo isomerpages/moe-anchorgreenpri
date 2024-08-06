@@ -23,7 +23,6 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 •	Restoration: Restorative practices remain central even when implementing consequences. Consequences may still be necessary, but they will be chosen with a restorative lens, such as Behavioural Corrective Duty (BCD) or Reflection Time (RT) that contribute to repairing the harm. * Students may be required to participate in conferences or mediation to understand the impact of their actions and contribute to repairing the harm caused. Teachers will work with students to replace inappropriate behaviors with prosocial ones and restore relationships with those impacted by their actions. <br><br>
 <small>*Disciplinary consequences such as suspension and caning are considered in combination or separately, depending on the circumstances of each case.</small>
 </details>
-<p></p>
 <details class="isomer-details">
 <summary><h4>Our School Rules</h4>
 </summary>
