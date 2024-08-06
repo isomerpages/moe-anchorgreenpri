@@ -9,13 +9,11 @@ Festive Drums CCA was established in 2012. Over the years, the CCA has undergone
 **Events taking part in :**<br>
 Prize Award Ceremony<br>
 <br>
-<img style="width: 100%" height="auto" width="100%" alt="Chinese New Year Celebration Concert" src="/images/CCA/Aesthetics/Drama/Drama_Club_1.jpg">
-
-![Chinese New Year Celebration Concert](/images/CCA/Aesthetics/Festive%20Drums/Chinese_New_Year_Celebration_Concert.jpg)
+<img style="width: 100%" height="auto" width="100%" alt="Chinese New Year Celebration Concert" src="/images/CCA/Aesthetics/Festive%20Drums/Chinese_New_Year_Celebration_Concert.jpg">
 Chinese New Year Celebration Concert
 <table>
 <tbody><tr>
-<th><img src="/images/CCA/Aesthetics/Festive%20Drums/ASEANS_Delegates_welcome_performance.jpg" style="width:100%">ASEANS Delegates welcome performance.</th>
+<td><img src="/images/CCA/Aesthetics/Festive%20Drums/ASEANS_Delegates_welcome_performance.jpg" style="width:100%">ASEANS Delegates welcome performance.</td>
 <td><img src="/images/CCA/Aesthetics/Festive%20Drums/AG15.jpg" style="width:120%">AG15</td>
 </tr>
 </tbody></table>
