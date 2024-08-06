@@ -61,7 +61,7 @@ The Guzheng Ensemble which started in 2009 continues to remain strong with passi
 The Guzheng members perform at various events such as Chinese New Year and Prize Award Ceremony. They also participate in the Singapore Youth Festival (SYF) Arts Presentation.<br>Competitions taking part in:<br>
 Singapore Youth Festival 
 
-	<strong>Achievements:</strong><br>
+<strong>Achievements:</strong><br>
 Distinction (year 2024)
 
 <img style="width: 100%" height="auto" width="100%" alt="VIA 2023 - combined CNY performance for senior citizens at SKCH" src="/images/CCA/Aesthetics/Guzheng/VIA_2023___combined_CNY_performance_for_senior_citizens_at_SKCH.jpg">VIA 2023 - combined CNY performance for senior citizens at SKCH
@@ -78,13 +78,13 @@ Distinction (year 2024)
 <details class="isomer-details">
 <summary><h4>Modern Dance</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-The Modern Dance CCA offers aspiring dancers who demonstrate a passion for dancing, the opportunity to nurture their talent in Hip Hop or Contemporary Dance. <br><br>Performances during school events and external events provide our dancers with avenues to showcase their talent and also to share the joy of dancing with the rest of the school.
+The Modern Dance CCA offers aspiring dancers who demonstrate a passion for dancing, the opportunity to nurture their talent in Hip Hop or Contemporary Dance. <br><br>Performances during school events and external events provide our dancers with avenues to showcase their talent and also to share the joy of dancing with the rest of the school.<br>
 
-**Events taking part in :**<br>
+	<strong>Events taking part in :</strong><br>
 Year End Prize Award Ceremony<br>
-AGPS Open House 16 May
+AGPS Open House 16 May<br>
 
-**Achievements:**<br>
+<strong>Achievements:</strong><br>
 Singapore Youth Festival 2024 Arts Presentation For Modern Dance (Primary Level), attained Accomplishment
 
 <img style="width: 100%" height="auto" width="100%" alt="We are bonded over our love for dancing!" src="/images/CCA/Aesthetics/Modern%20Dance/We_are_bonded_over_our_love_for_dancing_.jpg">We are bonded over our love for dancing!<br>
