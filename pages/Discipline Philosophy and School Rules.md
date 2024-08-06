@@ -64,7 +64,7 @@ Students are expected to:<br>
 <strong>5. Attire and Appearance</strong><br>
 • Students should be properly and neatly attired.  They must wear the prescribed school uniform and no modification to the uniform is allowed.<br>
 • Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
-• Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br>
+• Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
 <strong>School Uniform</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
@@ -149,14 +149,14 @@ or accessories of any kind to school for uniformity and safety reasons
 </tbody>
 </table><br>
 
-	<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
+	<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br><br>
 • Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
 
 <strong>7. Mobile Phone/Smart Watches Policy</strong><br><br>
 • All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
 • All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
 
-<strong>8. Mobile Phone/Smart Watches Policy</strong><br>
+<strong>8. Mobile Phone/Smart Watches Policy</strong><br><br>
 • The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
