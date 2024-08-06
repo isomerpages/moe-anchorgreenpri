@@ -24,5 +24,4 @@ description: ""
         <details>  
             <summary><strong>Our School Rules</strong></summary>  
             <h3>This is section 2</h3>  
-        </details>  
-        
+        </details>
