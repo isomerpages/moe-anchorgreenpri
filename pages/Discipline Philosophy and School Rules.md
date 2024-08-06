@@ -97,11 +97,10 @@ girls)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Attire</strong>
-</p>
+<strong>Attire</strong>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Uniform / PE Attire</u></strong>
+<strong><u>Uniform / PE Attire</u></strong>
 <br>- School uniform must be of appropriate size
 <br>- Shorts and skirts must be of knee length
 <br>- Students are not required to tuck-in their School Uniform and PE Polo
@@ -116,7 +115,7 @@ is participating in competitions
 <br>- Slip-ons are not allowed
 <br><strong><u>Name Tag</u></strong>
 <br>- Name tag should be ironed / sewn on the left side of the school uniform
-and PE T-shirt and above the school logo</p>
+and PE T-shirt and above the school logo
 </td>
 </tr>
 <tr>
