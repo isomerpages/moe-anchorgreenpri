@@ -6,7 +6,7 @@ description: ""
 ---
 <h1>Aesthetics</h1>
 <details class="isomer-details">
-<summary>Section 1</summary>
+	<summary><h4>Section 1</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3>This is section for testing</h3>
 </div>
