@@ -124,21 +124,20 @@ and PE T-shirt and above the school logo
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Only small black or dark blue ear studs are allowed - for female students
+- Only small black or dark blue ear studs are allowed - for female students
 only.
 <br>- Colourful and/or multiple ear studs are not allowed.
 <br>- Students are not allowed to wear wrist or friendship bands, jewellery
-or accessories of any kind to school for uniformity and safety reasons</p>
+or accessories of any kind to school for uniformity and safety reasons
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nails</strong>
-</p>
+<strong>Nails</strong>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Nails must be kept short and clean
-<br>- No nail polish is allowed</p>
+- Nails must be kept short and clean
+<br>- No nail polish is allowed
 </td>
 </tr>
 </tbody>
