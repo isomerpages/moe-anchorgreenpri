@@ -75,11 +75,10 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Hair</strong>
-</p>
+<strong>Hair</strong>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Fringe</u></strong>
+<strong><u>Fringe</u></strong>
 <br>- Fringe must be neat and kept above the eyebrows (for both and girls)
 <br>- Long fringe must be pinned up (for girls)
 <br><strong><u>Length</u></strong>
@@ -93,7 +92,7 @@ girls)
 <br>- Hair must not be tinted or dyed (for girls)
 <br>- Hair must not be tinted, dyed or spiked (for boys)
 <br><strong><u>Hair Accessories</u></strong><u> </u>
-<br>- All hair accessories must be black or navy blue and not jeweled. (girls)</p>
+<br>- All hair accessories must be black or navy blue and not jeweled. (girls)
 </td>
 </tr>
 <tr>
