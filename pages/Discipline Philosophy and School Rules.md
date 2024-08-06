@@ -4,3 +4,4 @@ permalink: /discipline-philosophy-and-school-rules/
 variant: tiptap
 description: ""
 ---
+<p></p>
