@@ -15,6 +15,8 @@ AGPS Open House 16 May
 **Achievements:**<br>
 Singapore Youth Festival 2024 Arts Presentation For Modern Dance (Primary Level), attained Accomplishment
 
-![We are bonded over our love for dancing!](/images/CCA/Aesthetics/Modern%20Dance/We_are_bonded_over_our_love_for_dancing_.jpg)We are bonded over our love for dancing!<br><br>
-![Our dancers shone brightly on the stage!](/images/CCA/Aesthetics/Modern%20Dance/Our_dancers_shone_brightly_on_the_stage_.jpg)Our dancers shone brightly on the stage!<br><br>
-![Title of our SYF performance is Unity in Diversity.](/images/CCA/Aesthetics/Modern%20Dance/Title_of_our_SYF_performance_is_Unity_in_Diversity.jpg)Title of our SYF performance is Unity in Diversity.
+<img style="width: 100%" height="auto" width="100%" alt="We are bonded over our love for dancing!" src="/images/CCA/Aesthetics/Modern%20Dance/We_are_bonded_over_our_love_for_dancing_.jpg">We are bonded over our love for dancing!<br>
+
+<img style="width: 100%" height="auto" width="100%" alt="Our dancers shone brightly on the stage!" src="/images/CCA/Aesthetics/Modern%20Dance/Our_dancers_shone_brightly_on_the_stage_.jpg">Our dancers shone brightly on the stage!<br>
+
+<img style="width: 100%" height="auto" width="100%" alt="Title of our SYF performance is Unity in Diversity." src="/images/CCA/Aesthetics/Modern%20Dance/Title_of_our_SYF_performance_is_Unity_in_Diversity.jpg">Title of our SYF performance is Unity in Diversity.<br><br>
