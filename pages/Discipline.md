@@ -4,7 +4,7 @@ permalink: /discipline/
 variant: markdown
 description: ""
 ---
-<title>HTML 5 Accordion Template</title>  
+<title>Discipline Committee</title>  
         <style>    
         details {    
             background: #eee;    
