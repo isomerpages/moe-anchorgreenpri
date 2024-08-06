@@ -4,9 +4,7 @@ permalink: /accordion-template/
 variant: markdown
 description: ""
 ---
-  
-      
-        <title>HTML 5 Accordion Template</title>  
+<title>HTML 5 Accordion Template</title>  
         <style>    
         details {    
             background: #eee;    
@@ -32,5 +30,4 @@ description: ""
         <details>  
             <summary>Section 3</summary>  
             <h3>This is section 3</h3>  
-        </details>  
-      
+        </details>
