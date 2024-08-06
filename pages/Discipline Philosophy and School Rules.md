@@ -27,7 +27,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 
 
 <details class="isomer-details">
-<summary><strong>Our School Rules</strong>
+<summary><h4>Our School Rules</h4>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
