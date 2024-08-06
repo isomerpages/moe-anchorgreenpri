@@ -16,8 +16,6 @@ description: ""
             font-size: 15px;    
         }    
     </style>  
-      
-      
         <h1>HTML 5 Accordion Template</h1>  
         <details>  
             <summary>Section 1</summary>  
