@@ -26,7 +26,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 <details class="isomer-details">
 <summary><h4>• Our School Rules</h4>
 </summary>
-	<strong>1. General Conduct</strong><br>
+<strong>1. General Conduct</strong><br>
 Students are expected to:<br>
 	
 * Exhibit the A.N.C.H.O.R. values - Agility, iNtegrity, Care, Humility, Optimism and Resilience
@@ -37,7 +37,7 @@ Students are expected to:<br>
 * Keep the classrooms and school premises clean
 * Observe safety guidelines and behave in a safe manner<br>
 
-**2. Attendance and Punctuality**<br>
+<strong>2. Attendance and Punctuality</strong><br>
 * Daily attendance is compulsory.
 * Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.
 * Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.
@@ -50,19 +50,19 @@ Students are expected to:<br>
 * Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless the absence is due to valid reason(s) (e.g. Medical Leave).
 * Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.
 
-**3. Assembly/Pledge Taking**<br>
+<strong>3. Assembly/Pledge Taking	</strong><br>
 * Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.
 * All students are required to sing the school song.
 * Students are to observe all the commands for assembly without fidgeting.
 * It is mandatory for all students to uphold the integrity of the flag raising ceremony.
 
-**4. Classroom Conduct**<br>
+<strong>4. Classroom Conduct</strong><br>
 * Students are required to stand and greet the teachers before and after lessons.
 * No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class.
 * All students will proceed to the canteen during recess.  They are not to stay in the classroom.
 * Students will require the teacher’s permission before stepping out of the classroom.
 
-**5. Attire and Appearance**<br>
+<strong>5. Attire and Appearance</strong><br>
 * Students should be properly and neatly attired.  They must wear the prescribed school uniform and no modification to the uniform is allowed.
 * Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.
 * Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)
@@ -147,14 +147,14 @@ or accessories of any kind to school for uniformity and safety reasons
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg">
 
-**6. Permission to leave school/country during Curriculum/Term Time**<br>
+<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
 * Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.
 
-**7. Mobile Phone/Smart Watches Policy**<br>
+<strong>7. Mobile Phone/Smart Watches Policy</strong><br>
 * All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.
 * All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.
 
-**8. Mobile Phone/Smart Watches Policy**<br>
+<strong>8. Mobile Phone/Smart Watches Policy</strong><br>
 * The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.
 * Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.
 * Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.
