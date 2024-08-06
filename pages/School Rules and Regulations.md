@@ -1,9 +1,8 @@
 ---
 title: School Rules and Regulations
 permalink: /about-us/school-info/school-rules-and-regulations/
-variant: tiptap
+variant: markdown
 description: ""
-third_nav_title: School Info
 ---
 <h2>School Rules &amp; Regulations</h2>
 <details class="isomer-details">
