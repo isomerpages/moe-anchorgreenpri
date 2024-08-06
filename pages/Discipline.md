@@ -7,7 +7,7 @@ description: ""
 <title>Discipline Committee</title>  
         <style>    
         details {    
-            background: #eee;    
+            background: #FFF;    
             color: #444;    
             padding: 18px;    
             border: none;    
