@@ -18,14 +18,14 @@ description: ""
     </style>  
         <h1>HTML 5 Accordion Template</h1>  
         <details>  
-            <summary>Section 1</summary>  
+	<summary><strong>Section 1</strong></summary>  
             <h3>This is section 1</h3>  
         </details>  
         <details>  
-            <summary>Section 2</summary>  
+            <summary><strong>Section 2</strong></summary>  
             <h3>This is section 2</h3>  
         </details>  
         <details>  
-            <summary>Section 3</summary>  
+            <summary><strong>Section 3</strong></summary>  
             <h3>This is section 3</h3>  
         </details>
