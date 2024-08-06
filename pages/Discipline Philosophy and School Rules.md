@@ -124,7 +124,7 @@ and PE T-shirt and above the school logo
 </p>
 </td>
 <td rowspan="1" colspan="1">
-- Only small black or dark blue ear studs are allowed - for female students
+	- Only small black or dark blue ear studs are allowed - for female students
 only.
 <br>- Colourful and/or multiple ear studs are not allowed.
 <br>- Students are not allowed to wear wrist or friendship bands, jewellery
