@@ -4,7 +4,7 @@ permalink: /discipline-philosophy-and-school-rules/
 variant: markdown
 description: ""
 ---
-<title>HTML 5 Accordion Template</title>  
+<title>Discipline Philosophy and School Rules</title>  
         <style>    
         details {    
             background: #eee;    
