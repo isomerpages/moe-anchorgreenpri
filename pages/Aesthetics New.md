@@ -8,12 +8,11 @@ description: ""
 <details class="isomer-details">
 <summary><h4>Choir</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-With dedicated weekly rehearsals spanning two hours, our choir members, comprising of students from Primary 4 to Primary 6 refine build their vocal techniques and ensemble singing skills across diverse musical genres such as choral, pop, folk, etc. From representing our school at the Singapore Youth Festival Arts Presentation to school events such as the annual prize award ceremony, our choir exemplifies excellence in both performance and musical development.
-
-**Competitions taking part in:**<br>
-Singapore Youth Festival Choir Arts Presentation Primary Level
-
-**Achievements:**<br>
+With dedicated weekly rehearsals spanning two hours, our choir members, comprising of students from Primary 4 to Primary 6 refine build their vocal techniques and ensemble singing skills across diverse musical genres such as choral, pop, folk, etc. From representing our school at the Singapore Youth Festival Arts Presentation to school events such as the annual prize award ceremony, our choir exemplifies excellence in both performance and musical development.<br>
+	
+<strong>Competitions taking part in:</strong><br>
+Singapore Youth Festival Choir Arts Presentation Primary Level<br>
+<strong>Achievements:</strong><br>
 Accomplished (year 2024)
 
 <img style="width: 100%" height="auto" width="100%" alt="AGPS Choir having their weekly choir practice in the school’s Music Room." src="/images/CCA/Aesthetics/Choir/AGPS_Choir_having_their_weekly_choir_practice_in_the_school_s_Music_Room.jpg">
