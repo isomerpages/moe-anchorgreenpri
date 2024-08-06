@@ -19,6 +19,7 @@ description: ""
         <b>Discipline Committee</b>  
         <details>  
 	<summary><strong>Framework:</strong></summary><br>
+![Discipline Framework](/images/Discipline/Discipline_Framework.jpg)
 At the core of the framework, the balance symbolises equilibrium and fairness, suggesting the careful weighing of disciplinary actions with empathy and consideration for individual circumstances. This communicates the idea of maintaining discipline while also showing care and empathy towards those involved. It reinforces the concept of discipline not merely as enforcement but as a supportive and nurturing process. 
         </details>  
         <details>  
