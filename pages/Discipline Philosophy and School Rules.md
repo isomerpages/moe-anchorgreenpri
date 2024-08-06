@@ -119,8 +119,7 @@ and PE T-shirt and above the school logo
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Accessories</strong>
-</p>
+<strong>Accessories</strong>
 </td>
 <td rowspan="1" colspan="1">
 	- Only small black or dark blue ear studs are allowed - for female students
