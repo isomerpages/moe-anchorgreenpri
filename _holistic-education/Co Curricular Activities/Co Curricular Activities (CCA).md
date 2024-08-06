@@ -22,7 +22,7 @@ CCA provides ANCHORLITES the platforms and opportunities to enhance their person
 D-Cube Programme seeks to provide our Primary 3 Anchorlites with a breadth of experience in the areas of Aesthetics, coGnitive and Physical domains to discover their interests and talents. Through the six modules, we strive to develop the core foundation in our pupils through a wide variety of learning areas offered through our AGPS Experience. In addition, the programme seeks to support the development of social emotional competencies while providing a platform for friendships and social integration of students from diverse backgrounds.<br><br>
 **Tier 2 : Mass CCA**<br>
 CCA plays an integral role in the holistic education of students. Through the AGPS Experience, Anchorlites are offered a range of CCAs in the areas of Aesthetics, coGnitive and Physical domains. Through these programmes, Anchorlites engage in the pursuit of recreational CCAs which focus on the development of specific knowledge, skills and values based on the student’s choice of CCA.  These CCA platforms offer excellent opportunities for Anchorlites to learn core values, social and emotional competencies and the emerging 21st Century Competencies<br><br>
-**Tier 3 : Cpmpetitive CCA**<br>
+**Tier 3 : Competitive CCA**<br>
 Anchorlites who show the interest and ability to participate at a higher level will be able to specialise and commit to CCA- specific training. Individuals who demonstrate the ability and attitude at high performance will be selected to represent the school at Zonal or National competition, SYF Arts Presentation and other external competitions.
 
 
