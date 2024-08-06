@@ -18,5 +18,5 @@ Chinese New Year Celebration Concert
 </tr>
 </tbody></table>
 
-![Arts Outreach @ SKCH](/images/CCA/Aesthetics/Festive%20Drums/Arts_Outreach___SKCH.jpg)
-Arts Outreach @ SKCH
+<img style="width: 100%" height="auto" width="100%" alt="Arts Outreach @ SKCH" src="/images/CCA/Aesthetics/Festive%20Drums/Arts_Outreach___SKCH.jpg">Arts Outreach @ SKCH
+<br><br>
