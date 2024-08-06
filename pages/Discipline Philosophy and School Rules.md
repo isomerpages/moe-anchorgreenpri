@@ -24,8 +24,6 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 <small>*Disciplinary consequences such as suspension and caning are considered in combination or separately, depending on the circumstances of each case.</small>
 </details>
 <p></p>
-
-
 <details class="isomer-details">
 <summary><h4>Our School Rules</h4>
 </summary>
