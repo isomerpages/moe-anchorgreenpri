@@ -58,12 +58,10 @@ Prize Award Ceremony<br>
 <summary><h4>Guzheng</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 The Guzheng Ensemble which started in 2009 continues to remain strong with passionate members. This CCA aims to cultivate students’ interest and passion for the Chinese culture and values through the learning of this traditional Chinese music instrument. Our CCA recruits members who have an interest in learning, regardless of gender and race.
-The Guzheng members perform at various events such as Chinese New Year and Prize Award Ceremony. They also participate in the Singapore Youth Festival (SYF) Arts Presentation.
-
-**Competitions taking part in:**<br>
+The Guzheng members perform at various events such as Chinese New Year and Prize Award Ceremony. They also participate in the Singapore Youth Festival (SYF) Arts Presentation.<br>Competitions taking part in:<br>
 Singapore Youth Festival 
 
-**Achievements:**<br>
+	<strong>Achievements:</strong><br>
 Distinction (year 2024)
 
 <img style="width: 100%" height="auto" width="100%" alt="VIA 2023 - combined CNY performance for senior citizens at SKCH" src="/images/CCA/Aesthetics/Guzheng/VIA_2023___combined_CNY_performance_for_senior_citizens_at_SKCH.jpg">VIA 2023 - combined CNY performance for senior citizens at SKCH
