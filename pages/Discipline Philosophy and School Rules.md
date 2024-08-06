@@ -147,15 +147,15 @@ or accessories of any kind to school for uniformity and safety reasons
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg">
 
 <strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
-• Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.
+• Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br>
 
 <strong>7. Mobile Phone/Smart Watches Policy</strong><br>
-• All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.
-• All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.
+• All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
+• All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br>
 
 <strong>8. Mobile Phone/Smart Watches Policy</strong><br>
-• The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.
-• Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.
-• Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.
+• The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
+• Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
+• Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
 • Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</div></div><br>
 </details>
