@@ -26,17 +26,16 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 <details class="isomer-details">
 <summary><h4>• Our School Rules</h4>
 </summary>
-
-**1. General Conduct**
-
-	Students are expected to:
-* Exhibit the **A.N.C.H.O.R.** values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
-* Be polite and well-behaved in and outside of school.<br>
-* Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
-* Move quietly in an orderly manner when moving around the school.<br>
+	<strong>1. General Conduct</strong><br>
+Students are expected to:<br>
+	
+* Exhibit the A.N.C.H.O.R. values - Agility, iNtegrity, Care, Humility, Optimism and Resilience
+* Be polite and well-behaved in and outside of school.
+* Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.
+* Move quietly in an orderly manner when moving around the school.
 * Handle all school equipment and property with care.
 * Keep the classrooms and school premises clean
-* Observe safety guidelines and behave in a safe manner
+* Observe safety guidelines and behave in a safe manner<br>
 
 **2. Attendance and Punctuality**<br>
 * Daily attendance is compulsory.
