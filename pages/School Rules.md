@@ -43,6 +43,90 @@ Students are expected to:
 * Students should be properly and neatly attired.  They must wear the prescribed school uniform and no modification to the uniform is allowed.
 * Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.
 * Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Fringe</u></strong>
+<br>- Fringe must be neat and kept above the eyebrows (for both and girls)
+<br>- Long fringe must be pinned up (for girls)
+<br><strong><u>Length</u></strong>
+<br>- Long hair (below the collar) must be tied up and plaited neatly (for
+girls)
+<br>- Hair must be kept short and neat (for boys)
+<br>- Fanciful hairstyle is not allowed
+<br><strong><u>Facial Hair</u></strong>
+<br>- Facial hair such as moustache and beard not allowed
+<br><strong><u>Grooming</u></strong>
+<br>- Hair must not be tinted or dyed (for girls)
+<br>- Hair must not be tinted, dyed or spiked (for boys)
+<br><strong><u>Hair Accessories</u></strong><u> </u>
+<br>- All hair accessories must be black or navy blue and not jeweled. (girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Uniform / PE Attire</u></strong>
+<br>- School uniform must be of appropriate size
+<br>- Shorts and skirts must be of knee length
+<br>- Students are not required to tuck-in their School Uniform and PE Polo
+T-Shirt.
+<br><strong><u>Socks</u></strong>
+<br>- Ankle socks are not allowed
+<br>- Socks should be above ankle length
+<br><strong><u>Shoes </u></strong>
+<br>- Black canvas shoes.
+<br>- No sports shoes except on CCA days after Curriculum hours or when pupil
+is participating in competitions
+<br>- Slip-ons are not allowed
+<br><strong><u>Name Tag</u></strong>
+<br>- Name tag should be ironed / sewn on the left side of the school uniform
+and PE T-shirt and above the school logo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Accessories</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Only small black or dark blue ear studs are allowed - for female students
+only.
+<br>- Colourful and/or multiple ear studs are not allowed.
+<br>- Students are not allowed to wear wrist or friendship bands, jewellery
+or accessories of any kind to school for uniformity and safety reasons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nails</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Nails must be kept short and clean
+<br>- No nail polish is allowed</p>
+</td>
+</tr>
+</tbody>
+</table>
+<strong>School Uniform</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
+<strong>PE Uniform</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg">
 
 **6. Permission to leave school/country during Curriculum/Term Time**<br>
 * Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.
@@ -55,4 +139,4 @@ Students are expected to:
 * The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.
 * Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.
 * Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.
-* Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.
+* Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</div></div>
