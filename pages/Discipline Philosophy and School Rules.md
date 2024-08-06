@@ -4,22 +4,12 @@ permalink: /discipline-philosophy-and-school-rules/
 variant: tiptap
 description: ""
 ---
-<title>Discipline Philosophy and School Rules</title>  
-        <style>    
-        details {    
-            background: #eee;    
-            color: #444;    
-            padding: 18px;    
-            border: none;    
-            text-align: left;    
-            outline: none;    
-            font-size: 15px;    
-        }    
-    </style>  
-        <h2>Discipline Philosophy and School Rules</h2>  
-        <details>  
-	<summary><strong>Discipline Philosophy and Approach</strong></summary>  
-            <p><strong>Discipline Committee</strong>
+<h2>Discipline Philosophy and School Rules</h2>
+<details class="isomer-details">
+<summary><strong>Discipline Philosophy and Approach</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Discipline Committee</strong>
 </p>
 <details class="isomer-details">
 <summary><strong>Framework:</strong>
@@ -111,11 +101,16 @@ and restore relationships with those impacted by their actions.
 in combination or separately, depending on the circumstances of each case.</p>
 </div>
 </details>
-<p></p>  
-        </details>  
-        <details>  
-            <summary><strong>Our School Rules</strong></summary>  
-	<br><b>School Rules &amp; Regulations</b>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Our School Rules</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong>School Rules &amp; Regulations</strong>
+</p>
 <details class="isomer-details">
 <summary><strong>General Conduct</strong>
 </summary>
@@ -453,5 +448,7 @@ investigation if students contravened the above rule.&nbsp;</p>
 </ul>
 </div>
 </details>
-<p></p>  
-        </details>
+<p></p>
+</div>
+</details>
+<p></p>
