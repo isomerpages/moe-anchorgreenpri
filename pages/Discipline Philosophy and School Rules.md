@@ -64,13 +64,22 @@ Students are expected to:<br>
 <strong>5. Attire and Appearance</strong><br>
 • Students should be properly and neatly attired.  They must wear the prescribed school uniform and no modification to the uniform is allowed.<br>
 • Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
-• Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)
+• Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br>
+<strong>School Uniform</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
+<strong>PE Uniform</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg"><br>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+	<td colspan="2"><strong>School Attire Guidelines</strong></td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <strong>Hair</strong>
@@ -138,14 +147,7 @@ or accessories of any kind to school for uniformity and safety reasons
 </td>
 </tr>
 </tbody>
-</table>
-<strong>School Uniform</strong>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
-<strong>PE Uniform</strong>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg"><br>
-
+</table><br>
 <strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
 • Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
 
