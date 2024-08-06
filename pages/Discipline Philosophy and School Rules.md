@@ -203,19 +203,19 @@ and/or Co-Curricular Activities.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Uniform" src="/images/School Rules/School_Uniform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
 </div>
 <p></p>
 <p><strong>PE Uniform</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE Uniform" src="/images/School Rules/PE_Uniform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PE Uniform" src="/images/Discipline/PE_Uniform.jpg">
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>School Attire Guidelines:</strong>
+<summary><strong>School Attire Guidelines</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
