@@ -9,7 +9,7 @@ description: ""
 <summary><h4>Chess Club</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 The Anchor Green Primary School Chess Club was set up with the objective of promoting intellectual games as well as bringing together enthusiastic chess players. It aims to introduce basic chess skills to members and help them develop their interest in playing chess for recreational purpose. Through learning and playing chess, members develop critical thinking skills and become agile and resilient learners. They are also optimistic learners with the growth mindset, always ready to face challenges while playing friendly matches with different members.<br><br>
-<img style="width: 100%" height="auto" width="100%" alt="Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship​." src="/images/CCA/Cognitive/Chess/Chess.jpg">Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship.<br><br>
+<img style="width: 100%" height="auto" width="100%" alt="Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship." src="/images/CCA/Cognitive/Chess/Chess.jpg">Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship.<br><br>
 </div>
 </details>
 <details class="isomer-details">
@@ -57,15 +57,26 @@ create their characters for the upcoming Claymation project.</td>
 <details class="isomer-details">
 <summary><h4>STEM Innovators</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-Festive Drums CCA was established in 2012. Over the years, the CCA has undergone changes in instructors and members, but what has remained constant is the dedication of its members and teachers. We foster a spirit of cooperation, perseverance, and excellence in students through rigorous rehearsals and performances. The teachers-in-charge and CCA instructors work closely to develop our students to their fullest potential, refining their drumming and performance skills. A festive drummer can anticipate opportunities to perform both within the school and in public, contributing to the community by participating in various events such as the Sengkang West Family Day in 2019 and Arts Outreach @ Seng Kang Community Hospital in 2023. Through our CCA, students also cultivate self-discipline, self-confidence, and a passion for drumming and the performing arts.<br><br><strong>Events taking part in :</strong><br>
-Prize Award Ceremony<br><br><img style="width: 100%" height="auto" width="100%" alt="Chinese New Year Celebration Concert" src="/images/CCA/Aesthetics/Festive%20Drums/Chinese_New_Year_Celebration_Concert.jpg">Chinese New Year Celebration Concert
-<table>
-<tbody><tr>
-<td><img src="/images/CCA/Aesthetics/Festive%20Drums/ASEANS_Delegates_welcome_performance.jpg" style="width:100%">ASEAN Delegates welcome performance.</td>
-<td><img src="/images/CCA/Aesthetics/Festive%20Drums/AG15.jpg" style="width:100%">AG15</td>
-</tr>
-</tbody></table>
-<img style="width: 100%" height="auto" width="100%" alt="Arts Outreach @ SKCH" src="/images/CCA/Aesthetics/Festive%20Drums/Arts_Outreach___SKCH.jpg">Arts Outreach @ SKCH
+STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.
+
+**Competitions / Events taking part in:**<br>
+        
+**• IDE Robotics Competition**<br>
+This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.
+
+**• National Robotics Competition**<br>
+The teams need to design, construct and program an autonomous robot that can solve specific challenges on a field based on the theme “Green City”.
+
+**• National Thinkers Challenge**<br>
+This challenge allows opportunity for students to explore how AI can improve our way of life so that they can be active contributors to our society and the community through solving authentic real worlds issues.
+
+<img src="/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg" style="width:80%">
+Students preparing for IDE competition<br>
+<br>
+<img src="/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg" style="width:80%">Our participating team completed a mission at the NRC Competition<br>
+<br>
+<img src="/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg" style="width:80%">
+Students working on MakeCode to create their games.
 <br><br>
 </div>
 </details>
