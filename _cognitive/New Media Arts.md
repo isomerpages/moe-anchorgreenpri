@@ -46,7 +46,7 @@ create their characters for the upcoming Claymation project.<br><br>
 <td width="20%">Anchorlites are introduced to Procreate app. Working with Procreate allows Anchorlites to be more digitally literate, which is increasinglyimportant in today's world. Other modules include podcast, videography, photography as well as simple coding applications.</td>
 </tr>
 <tr>
-<td><img style="width: 100%;" height="auto" width="100%" alt="P6 CCA members gives back as they  serve as Arts Advocates to a group of Indonesian students" src="/images/CCA/Cognitive/New Media Arts/P6_CCA_members_gives_back_as_they__serve_as_Arts_Advocates.jpg"></td><td> P6 CCA members gives back as they serve as Arts Advocates to a group of
+<td colspan="2"><img style="width: 100%;" height="auto" width="100%" alt="P6 CCA members gives back as they  serve as Arts Advocates to a group of Indonesian students" src="/images/CCA/Cognitive/New Media Arts/P6_CCA_members_gives_back_as_they__serve_as_Arts_Advocates.jpg">P6 CCA members gives back as they serve as Arts Advocates to a group of
 Indonesian students during a school immersion programme.</td>
 </tr>
 </tbody></table>
