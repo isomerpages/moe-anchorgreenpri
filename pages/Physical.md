@@ -56,9 +56,9 @@ AGPS Floorball CCA is a fun and fast-paced sport which requires great teamwork a
 In Anchor Green Primary School, apart from playing and learning the skills of the game, we also focus on grooming leadership among the students, allowing them to take turns to conduct warm-ups and lead their juniors under the guidance of the coach and teachers-in-charge. Students learn how to communicate effectively, work cooperatively and make responsible decisions. <br><br>
 Our floorball alumni also come back during the holidays to impart their knowledge and skills to the next generation of floorball players, as well as role modeling and being an inspiration to the younger players.<br><br>
 <strong>Competitions / Events taking part in:	</strong><br><br>
-<strong>• National Schools Games Junior Division</strong>
+• National Schools Games Junior Division
 <img src="/images/CCA/Physical/Floorball%20(Boys)/Junior_Boys_Division.jpg" style="width:80%"><br>
-<strong>• National Schools Games Senior Division</strong>
+• National Schools Games Senior Division
 <img src="/images/CCA/Physical/Floorball%20(Boys)/Senior_Boys_Division.jpg" style="width:80%"><br>
 <strong>Achievements:</strong><br>
 2024 NSG Senior Boys Division – Runner-up
@@ -68,8 +68,33 @@ Our floorball alumni also come back during the holidays to impart their knowledg
 <details class="isomer-details">
 <summary><h4>Floorball (Girls)</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-The Anchor Green Primary School Chess Club was set up with the objective of promoting intellectual games as well as bringing together enthusiastic chess players. It aims to introduce basic chess skills to members and help them develop their interest in playing chess for recreational purpose. Through learning and playing chess, members develop critical thinking skills and become agile and resilient learners. They are also optimistic learners with the growth mindset, always ready to face challenges while playing friendly matches with different members.<br><br>
-<img style="width: 100%" height="auto" width="100%" alt="Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship." src="/images/CCA/Cognitive/Chess/Chess.jpg">Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship.<br><br>
+Floorball (Girls) was formed in 2016 and has been steadily rising to be one of the top teams in the National Schools Games with consistent performance.<br><br>
+The CCA provides opportunities for students to enact the school’s motto of Aspire, Grow and Serve through the various pathways. Through regular participation in the weekly CCA sessions, students <strong>grow</strong> not only in their floorball technical skills but in the CCE21 competencies
+such as self-awareness, relationship management, responsible decision making and collaborative skills.<br><br>
+Students also <strong>serve</strong> through partnership with APSN (Association for Persons with Special Needs) Chaoyang School where they will train alongside students with mild intellectual disability (MID) and help them to improve their skills. Our students also get to visit the school and learn about the facilities and how different the school setting is as compared to mainstream primary schools. Students in the recreation team will be given the option to participate in Play Inclusive, where teams with students from partnering special and mainstream schools will compete against one another.<br><br>
+At the end of the Senior Division NSG season, P6 students also serve by helping the juniors to improve their skills and prepare them for the Junior Division games.<br><br>
+For those <strong>aspiring</strong> to join the school team, students will be exposed to additional training and friendly matches with other schools to increase their experience and be a confident player.<br><br>
+<strong>Competitions / Events taking part in:</strong><br>
+<br>• National Schools Games Junior Division <img style="width: 100%" height="auto" width="100%" alt="National Schools Games Junior Division" src="/images/CCA/Physical/Floorball%20(Girls)/National_Schools_Games_Junior_Division.jpg"><br>
+• National Schools Games Senior Division
+<img style="width: 100%" height="auto" width="100%" alt="National Schools Games Senior Division" src="/images/CCA/Physical/Floorball%20(Girls)/National_Schools_Games_Senior_Division.jpg">
+<br>
+• Building friendship and skills through friendlies with other schools
+<img style="width: 100%" height="auto" width="100%" alt="Building friendship and skills through friendlies with other schools" src="/images/CCA/Physical/Floorball%20(Girls)/Building_friendship_and_skills_through_friendlies_with_other_schools.jpg">
+<br>
+• Partnership with APSN Chaoyang School culminating in participation in
+floorball competition for Play Inclusive 2023
+<img style="width: 100%" height="auto" width="100%" alt="Partnership with APSN Chaoyang School culminating in participation in floorball competition" src="/images/CCA/Physical/Floorball%20(Girls)/Partnership_with_APSN_Chaoyang_School.jpg">
+<br>
+• Pei Hwa Invitational 2023
+<img style="width: 100%" height="auto" width="100%" alt="Pei Hwa Invitational 2023" src="/images/CCA/Physical/Floorball%20(Girls)/Pei_Hwa_Invitational_2023.jpg">
+<br>
+<strong>Achievements:</strong>
+<br>• 2024 NSG Senior Division – League 1 Silver
+<br>• 2023 NSG Junior Division – Tier 1 Champion
+<br>• 2023 NSG Senior Division – Top 8
+<br>• 2023 Pei Hwa Secondary School Invitational – 1st
+<br>• 2023 Play Inclusive (Floorball mixed)<br><br>
 </div>
 </details>
 <details class="isomer-details">
