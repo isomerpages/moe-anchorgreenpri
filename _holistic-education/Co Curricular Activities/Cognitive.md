@@ -74,6 +74,4 @@ Students preparing for IDE competition<br>
 <img src="/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg" style="width:80%">
 Students working on MakeCode to create their games.
 <br><br>
-</div><strong>
-</strong></details><strong>
-<p></p></strong>
+</div></details>
