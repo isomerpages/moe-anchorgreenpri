@@ -7,9 +7,14 @@ description: ""
 <h1>Physical</h1>
 <details class="isomer-details">
 <summary><h4>Basketball</h4></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-The Anchor Green Primary School Chess Club was set up with the objective of promoting intellectual games as well as bringing together enthusiastic chess players. It aims to introduce basic chess skills to members and help them develop their interest in playing chess for recreational purpose. Through learning and playing chess, members develop critical thinking skills and become agile and resilient learners. They are also optimistic learners with the growth mindset, always ready to face challenges while playing friendly matches with different members.<br><br>
-<img style="width: 100%" height="auto" width="100%" alt="Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship." src="/images/CCA/Cognitive/Chess/Chess.jpg">Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship.<br><br>
+<div data-type="detailsContent" class="isomer-details-content">Basketball (Boy) was formed since the AGPS started and was one of the popular sports among student. <br><br>The CCA provides opportunities for students to enact the school’s value of agility and resilience through the various pathways. Through regular participation in the weekly CCA sessions, students <strong>grow</strong> not only in their basketball technical skills but learnt to be an agile learners and gracious citizen who are a respectful collaborators.<br><br>At the end of the Senior Division NSG season, P6 students also serve by helping the juniors to improve their skills and prepare them for the Junior Division games.<br><br>
+For those <strong>aspiring</strong> to join the school team, students will be exposed to additional training and friendly matches with other schools to increase their experience and be a confident player.
+
+<strong>Competitions / Events taking part in :</strong><br>
+NSG Junior and Senior Competition.<br><br>
+
+<img style="width: 100%" height="auto" width="100%" alt="Basketball." src="/images/CCA/Physical/Basketball/Basketball_1.jpg">
+<br><br>
 </div>
 </details>
 <details class="isomer-details">
