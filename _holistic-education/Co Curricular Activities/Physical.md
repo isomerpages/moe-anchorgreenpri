@@ -136,4 +136,3 @@ AGPS Wushu is a place dedicated to students who love Chinese martial arts. It is
 <br><br>
 </div>
 </details>
-<p></p>
