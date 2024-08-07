@@ -4,3 +4,4 @@ permalink: /cognitive/
 variant: tiptap
 description: ""
 ---
+<p></p>
