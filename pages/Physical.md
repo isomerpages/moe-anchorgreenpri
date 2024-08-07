@@ -115,8 +115,24 @@ For girls that showed potential in the sport, they are given the opportunity to 
 <details class="isomer-details">
 <summary><h4>Wushu</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-The Anchor Green Primary School Chess Club was set up with the objective of promoting intellectual games as well as bringing together enthusiastic chess players. It aims to introduce basic chess skills to members and help them develop their interest in playing chess for recreational purpose. Through learning and playing chess, members develop critical thinking skills and become agile and resilient learners. They are also optimistic learners with the growth mindset, always ready to face challenges while playing friendly matches with different members.<br><br>
-<img style="width: 100%" height="auto" width="100%" alt="Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship." src="/images/CCA/Cognitive/Chess/Chess.jpg">Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship.<br><br>
+AGPS Wushu is a place dedicated to students who love Chinese martial arts. It is a performance sport where students are trained in different kinds of Wushu routines, skills, and movements. The training aims to develop self-discipline, respect, confidence, and resilience among the students. Students who are familiar with the routines, skills, and movements in the process of learning, are offered opportunities for growth and achievement through participating in the National School Game Wushu Competition. During the competition and school performances, our Wushu members have shown confidence, excellence, and team spirit in executing the learnt routines. AGPS Wushu not only hopes to continue to spread the martial spirit of Wushu but also to nurture the students and build on this success for greater achievements.<br><br>
+<strong>Competitions taking part in:</strong>
+<br>2024 National School Game Wushu Competition<br><br>
+<strong>Achievements:</strong><br>
+1. Ethan Heng (6O)5 Duan Broadsword- 7th <br>
+2. Cheryn Li Ying Xuan (6A) 5 Duan Broadsword- 7th <br>
+3. Zayrius Liang Sheng Han(6R) 4 Duan sword- 3th <br>
+4. Chan Jia Yi Jerilyn (5N) 4 Duan cudgel - 8th <br>
+5. Cheryn Li Ying Xuan (6A) 4 Duan cudgel -6th<br><br>
+
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical/Wushu/Rehersal_for_CNY.jpg"><br>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical/Wushu/CNY_2024.jpg"><br>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical/Wushu/NSG_2024__1_.jpg">
+<br>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical/Wushu/NSG_2024__2_.jpg">
+<br>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical/Wushu/NSG__3_.jpg">
+<br><br>
 </div>
 </details>
 <p></p>
