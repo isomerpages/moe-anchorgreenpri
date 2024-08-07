@@ -8,12 +8,11 @@ AGPS Floorball CCA is a fun and fast-paced sport which requires great teamwork a
 
 In Anchor Green Primary School, apart from playing and learning the skills of the game, we also focus on grooming leadership among the students, allowing them to take turns to conduct warm-ups and lead their juniors under the guidance of the coach and teachers-in-charge. Students learn how to communicate effectively, work cooperatively and make responsible decisions. 
 
-Our floorball alumni also come back during the holidays to impart their knowledge and skills to the next generation of floorball players, as well as role modeling and being an inspiration to the younger players.
-
-**Competitions / Events taking part in:**<br>
-• National Schools Games Junior Division<br>
+Our floorball alumni also come back during the holidays to impart their knowledge and skills to the next generation of floorball players, as well as role modeling and being an inspiration to the younger players.<br>
+<strong>Competitions / Events taking part in:	</strong><br>
+<strong>• National Schools Games Junior Division</strong>
 <img src="/images/CCA/Physical/Floorball%20(Boys)/Junior_Boys_Division.jpg" style="width:80%"><br>
-• National Schools Games Senior Division
+<strong>• National Schools Games Senior Division</strong>
 <img src="/images/CCA/Physical/Floorball%20(Boys)/Senior_Boys_Division.jpg" style="width:80%"><br>
-**Achievements:**<br>
+<strong>Achievements:</strong><br>
 2024 NSG Senior Boys Division – Runner-up
