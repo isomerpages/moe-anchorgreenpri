@@ -100,8 +100,16 @@ floorball competition for Play Inclusive 2023
 <details class="isomer-details">
 <summary><h4>Netball</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-The Anchor Green Primary School Chess Club was set up with the objective of promoting intellectual games as well as bringing together enthusiastic chess players. It aims to introduce basic chess skills to members and help them develop their interest in playing chess for recreational purpose. Through learning and playing chess, members develop critical thinking skills and become agile and resilient learners. They are also optimistic learners with the growth mindset, always ready to face challenges while playing friendly matches with different members.<br><br>
-<img style="width: 100%" height="auto" width="100%" alt="Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship." src="/images/CCA/Cognitive/Chess/Chess.jpg">Members sharpen their skills and develop their ability to focus on creative problem-solving opportunities and decision-making situations through playing chess. Playing Chess also instills good sportsmanship.<br><br>
+AGPS netball CCA is a non-contact sport that targets girls in Primary 4 to Primary 6 levels. This sports CCA emphasizes on basic techniques such as passing, catching, footwork, and shooting. These skills are taught in a fun and engaging manner often through games and activities tailored to the age and ability of the players.<br><br>
+For girls that showed potential in the sport, they are given the opportunity to represent the school in the annual inter-school games. Matches and tournaments within primary school netball provide opportunities for students to apply their skills in a competitive but supportive environment. These competitions foster a sense of achievement, teamwork, and camaraderie, helping to build confidence and self-esteem in young players.<br><br>
+<strong>Competitions / Events taking part in :</strong>
+<br>2024 SPSSC Netball – Junior and Senior Divisions<br><br>
+<strong>Achievements:</strong>
+<br>3rd placing in the Tier 1 Group Preliminary Round Competitions
+<br>Top 16 in League 1 Group Round of Competitions.
+<br>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical/Netball/Netball.jpg">
+<br><br>
 </div>
 </details>
 <details class="isomer-details">
