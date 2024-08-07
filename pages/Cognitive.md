@@ -41,20 +41,4 @@ Prize Award Ceremony<br><br><img style="width: 100%" height="auto" width="100%" 
 <br><br>
 </div>
 </details>
-<details class="isomer-details">
-<summary><h4>Guzheng</h4></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-The Guzheng Ensemble which started in 2009 continues to remain strong with passionate members. This CCA aims to cultivate students’ interest and passion for the Chinese culture and values through the learning of this traditional Chinese music instrument. Our CCA recruits members who have an interest in learning, regardless of gender and race.
-The Guzheng members perform at various events such as Chinese New Year and Prize Award Ceremony. They also participate in the Singapore Youth Festival (SYF) Arts Presentation.<br><br><strong>Competitions taking part in:</strong><br>Singapore Youth Festival<br><br><strong>Achievements:</strong><br>Distinction (year 2024)<br><br><img style="width: 100%" height="auto" width="100%" alt="VIA 2023 - combined CNY performance for senior citizens at SKCH" src="/images/CCA/Aesthetics/Guzheng/VIA_2023___combined_CNY_performance_for_senior_citizens_at_SKCH.jpg">VIA 2023 - combined CNY performance for senior citizens at SKCH <br><img style="width: 100%" height="auto" width="100%" alt="Prize Award Ceremony 2023 - A group photo after our performance" src="/images/CCA/Aesthetics/Guzheng/Prize_Award_Ceremony_2023____A_group_photo_after_our_performance.jpg">Prize Award Ceremony 2023 - A group photo after our performance <br><img style="width: 100%" height="auto" width="100%" alt="Chinese New Year 2024 – Our Guzheng performers in action" src="/images/CCA/Aesthetics/Guzheng/Chinese_New_Year_2024___Our_Guzheng_performers_in_action.jpg">Chinese New Year 2024 – Our Guzheng performers in action <br><img style="width: 100%" height="auto" width="100%" alt="Singapore Youth Festival 2024 – A memorable Arts Presentation at the Singapore Conference Hall" src="/images/CCA/Aesthetics/Guzheng/Singapore_Youth_Festival_2024___A_memorable_Arts_Presentation_at_the_Singapore_Conference_Hall.jpg">Singapore Youth Festival 2024 – A memorable Arts Presentation at the Singapore Conference Hall<br><img style="width: 100%" height="auto" width="100%" alt="Our P6s at their farewell party! All the best!" src="/images/CCA/Aesthetics/Guzheng/Our_P6s_at_their_farewell_party__All_the_best_.jpg">Our P6s at their farewell party! All the best! <br><br>
-</div>
-</details>
-<details class="isomer-details">
-<summary><h4>Modern Dance</h4></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-The Modern Dance CCA offers aspiring dancers who demonstrate a passion for dancing, the opportunity to nurture their talent in Hip Hop or Contemporary Dance. <br><br>Performances during school events and external events provide our dancers with avenues to showcase their talent and also to share the joy of dancing with the rest of the school.<br><br><strong>Events taking part in :</strong><br>
-Year End Prize Award Ceremony<br>
-AGPS Open House 16 May<br><br><strong>Achievements:</strong><br>
-Singapore Youth Festival 2024 Arts Presentation For Modern Dance (Primary Level), attained Accomplishment<br><br><img style="width: 100%" height="auto" width="100%" alt="We are bonded over our love for dancing!" src="/images/CCA/Aesthetics/Modern%20Dance/We_are_bonded_over_our_love_for_dancing_.jpg">We are bonded over our love for dancing!<br><br><img style="width: 100%" height="auto" width="100%" alt="Our dancers shone brightly on the stage!" src="/images/CCA/Aesthetics/Modern%20Dance/Our_dancers_shone_brightly_on_the_stage_.jpg">Our dancers shone brightly on the stage!<br><br><img style="width: 100%" height="auto" width="100%" alt="Title of our SYF performance is Unity in Diversity." src="/images/CCA/Aesthetics/Modern%20Dance/Title_of_our_SYF_performance_is_Unity_in_Diversity.jpg">Title of our SYF performance is Unity in Diversity.<br><br><br>
-</div>
-</details>
 <p></p>
