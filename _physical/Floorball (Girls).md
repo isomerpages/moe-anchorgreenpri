@@ -24,7 +24,7 @@ floorball competition for Play Inclusive 2023
 <br>
 • Pei Hwa Invitational 2023
 <img style="width: 100%" height="auto" width="100%" alt="Pei Hwa Invitational 2023" src="/images/CCA/Physical/Floorball%20(Girls)/Pei_Hwa_Invitational_2023.jpg">
-<br><br>
+<br>
 <strong>Achievements:</strong>
 <br>• 2024 NSG Senior Division – League 1 Silver
 <br>• 2023 NSG Junior Division – Tier 1 Champion
