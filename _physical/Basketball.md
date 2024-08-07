@@ -14,4 +14,5 @@ For those <strong>aspiring</strong> to join the school team, students will be ex
 
 <strong>Competitions / Events taking part in :</strong><br>
 NSG Junior and Senior Competition.
+
 ![](/images/CCA/Physical/Basketball/Basketball_1.jpg)
