@@ -20,23 +20,12 @@ NSG Junior and Senior Competition.<br><br>
 <details class="isomer-details">
 <summary><h4>Cub Scouts</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-We aim to train our young ones (Cub Scout) by equipping them with the
-same set of values and skills, both the School and CCA, to be a confident,
-self-directed person who is an active contributor and a concerned citizen
-of Singapore – MOE’s Desired outcomes of Education.<br><br>
-We engage them with meaningful activities (both indoors and outdoors)
-in stages to aid them in their development from the moment they take on
-the CCA to the end of their primary school life.<br><br>
-Scouting skills like leadership skill, foot drill, life skills, track
-and trail, navigation, knotting, knowing the weather, planetary system,
-nature, and science, arts and crafts, knowing oneself and one’s country,
+We aim to train our young ones (Cub Scout) by equipping them with the same set of values and skills, both the School and CCA, to be a confident, self-directed person who is an active contributor and a concerned citizen of Singapore – MOE’s Desired outcomes of Education.<br><br>
+We engage them with meaningful activities (both indoors and outdoors) in stages to aid them in their development from the moment they take on the CCA to the end of their primary school life.<br><br>
+Scouting skills like leadership skill, foot drill, life skills, track and trail, navigation, knotting, knowing the weather, planetary system, nature, and science, arts and crafts, knowing oneself and one’s country,
 and many more will teach them to be confident and independent individuals.<br><br>
-Scouting is a wholesome CCA that encompasses various skills. The skills
-learnt, will allow pupils to earn badges from the wide-ranging proficiency
-skills like gardening, craftsman, navigator etc. Apart from scouting skills,
-they can also participate in National Campaign courses like World Water
-Day, and Climate Action Ambassador, which will teach them to be active
-contributors to the community as well as be concerned citizens.<br><br><strong>Competitions taking part in:</strong> 
+Scouting is a wholesome CCA that encompasses various skills. The skills learnt, will allow pupils to earn badges from the wide-ranging proficiency skills like gardening, craftsman, navigator etc. Apart from scouting skills, they can also participate in National Campaign courses like World Water Day, and Climate Action Ambassador, which will teach them to be active contributors to the community as well as be concerned citizens.<br><br>
+<strong>Competitions taking part in:</strong> 
 <br>Scout Wall Mural Design Competition<br><br>
 <strong>Achievements:</strong> 
 <br>Awarded Frank Cooper Sands Award (2024)<br><br>
@@ -63,26 +52,16 @@ party for our P6 Cub Scouts.
 <details class="isomer-details">
 <summary><h4>Floorball (Boys)</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.
-
-**Competitions / Events taking part in:**<br>
-        
-**• IDE Robotics Competition**<br>
-This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.
-
-**• National Robotics Competition**<br>
-The teams need to design, construct and program an autonomous robot that can solve specific challenges on a field based on the theme “Green City”.
-
-**• National Thinkers Challenge**<br>
-This challenge allows opportunity for students to explore how AI can improve our way of life so that they can be active contributors to our society and the community through solving authentic real worlds issues.
-
-<img src="/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg" style="width:80%">
-Students preparing for IDE competition<br>
-<br>
-<img src="/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg" style="width:80%">Our participating team completed a mission at the NRC Competition<br>
-<br>
-<img src="/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg" style="width:80%">
-Students working on MakeCode to create their games.
+AGPS Floorball CCA is a fun and fast-paced sport which requires great teamwork and discipline among the team members. This sport is easy to pick up and one can easily learn in a matter of minutes. However, it requires resilience and determination to excel in this sport. As the students excel in this sport, they will also be given the opportunity to represent the school and participate in the National Schools Floorball Tournament. <br><br>
+In Anchor Green Primary School, apart from playing and learning the skills of the game, we also focus on grooming leadership among the students, allowing them to take turns to conduct warm-ups and lead their juniors under the guidance of the coach and teachers-in-charge. Students learn how to communicate effectively, work cooperatively and make responsible decisions. <br><br>
+Our floorball alumni also come back during the holidays to impart their knowledge and skills to the next generation of floorball players, as well as role modeling and being an inspiration to the younger players.<br><br>
+<strong>Competitions / Events taking part in:	</strong><br><br>
+<strong>• National Schools Games Junior Division</strong>
+<img src="/images/CCA/Physical/Floorball%20(Boys)/Junior_Boys_Division.jpg" style="width:80%"><br>
+<strong>• National Schools Games Senior Division</strong>
+<img src="/images/CCA/Physical/Floorball%20(Boys)/Senior_Boys_Division.jpg" style="width:80%"><br>
+<strong>Achievements:</strong><br>
+2024 NSG Senior Boys Division – Runner-up
 <br><br>
 </div>
 </details>
