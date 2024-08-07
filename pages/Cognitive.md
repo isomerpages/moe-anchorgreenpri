@@ -61,7 +61,7 @@ STEM Innovators in AGPS provides students with an array of experience. The CCA a
 
 <strong>Competitions / Events taking part in:</strong><br>
 <strong>• IDE Robotics Competition</strong><br>
-This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.<br>
+This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.<br><br>
 <strong>• National Robotics Competition**</strong><br>
 The teams need to design, construct and program an autonomous robot that can solve specific challenges on a field based on the theme “Green City”.
 
