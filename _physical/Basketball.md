@@ -13,6 +13,7 @@ At the end of the Senior Division NSG season, P6 students also serve by helping 
 For those <strong>aspiring</strong> to join the school team, students will be exposed to additional training and friendly matches with other schools to increase their experience and be a confident player.
 
 <strong>Competitions / Events taking part in :</strong><br>
-NSG Junior and Senior Competition.
+NSG Junior and Senior Competition.<br><br>
 
-![](/images/CCA/Physical/Basketball/Basketball_1.jpg)
+<img style="width: 100%" height="auto" width="100%" alt="Basketball." src="/images/CCA/Physical/Basketball/Basketball_1.jpg">
+<br><br>
