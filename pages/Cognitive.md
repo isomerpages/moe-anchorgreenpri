@@ -57,14 +57,12 @@ create their characters for the upcoming Claymation project.</td>
 <details class="isomer-details">
 <summary><h4>STEM Innovators</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.
+STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.<br>
 
-**Competitions / Events taking part in:**<br>
-        
-**• IDE Robotics Competition**<br>
-This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.
-
-**• National Robotics Competition**<br>
+<strong>Competitions / Events taking part in:</strong><br>
+<strong>• IDE Robotics Competition</strong><br>
+This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.<br>
+<strong>• National Robotics Competition**</strong><br>
 The teams need to design, construct and program an autonomous robot that can solve specific challenges on a field based on the theme “Green City”.
 
 **• National Thinkers Challenge**<br>
