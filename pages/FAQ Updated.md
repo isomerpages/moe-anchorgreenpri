@@ -148,3 +148,27 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 
 <h4> FAQ for Anchor Green Primary School</h4>
 
+<details class="isomer-details">
+	<summary><strong>1. Where can I find information on MOE Kindergarten?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/</a><br><br>
+</div>
+</details> 
+<details class="isomer-details">
+<summary><strong>2. What are the modes of payment for school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible. For other payment options, pls visit the following link –<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">Parents/ guardians may sign up via eGIRO through the following link –<a href="https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E" target="_blank">https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>4. What is Edusave and can I use Edusave to pay for school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">https://www.moe.gov.sg/financial-matters/edusave-account</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804" target="_blank">https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804</a>
+<br><br>
+</div></details>
