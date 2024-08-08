@@ -82,3 +82,25 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <div data-type="detailsContent" class="isomer-details-content">If you are seeking a school transfer due to other reasons such as medical conditions, you should approach your child’s current school directly for assistance. Transferring your child to another school is an important decision, as the change in environment can disrupt the quality of their education. We encourage you to work with the school as they are best placed to advise you on your child’s learning needs.
 <br><br>
 </div></details>
+
+<strong><u>School Fees</u></strong>
+<details class="isomer-details">
+	<summary><strong>1. How much is the school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">School fees differ depending on the nationality status of your child.<br>
+For details of the fees charged, you may access the following link –<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br><br>
+</div>
+</details> 
+<details class="isomer-details">
+<summary><strong>2. I have shifted out of Sengkang to another area, and would like to apply for transfer of my child to another school nearer to my new residence. How should I go about applying for the transfer?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may wish to consider Primary School Transfer Service. You may find out more details here –<a href="https://www.moe.gov.sg/primary/transfers" target="_blank">https://www.moe.gov.sg/primary/transfers</a><br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>3. Can I apply for the Primary School Transfer Services online?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/primary/transfers" target="_blank">https://www.moe.gov.sg/primary/transfers</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>4. I am seeking a school transfer due to other reasons such as medical. What is the process?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">If you are seeking a school transfer due to other reasons such as medical conditions, you should approach your child’s current school directly for assistance. Transferring your child to another school is an important decision, as the change in environment can disrupt the quality of their education. We encourage you to work with the school as they are best placed to advise you on your child’s learning needs.
+<br><br>
+</div></details>
