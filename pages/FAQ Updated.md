@@ -124,8 +124,14 @@ For details of the fees charged, you may access the following link –<a href="h
 You may wish to use the eligibility checker to find out if you qualify.<br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance&quot;" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a><br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">Parents/ guardians may sign up via eGIRO through the following link –<a href="https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E" target="_blank">https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E</a>
+<summary><strong>3. What would my child receive if he/she is successful in his application?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">Under MOE FAS, your child will receive:<br>
+• A full subsidy of standard miscellaneous fees. Singapore Citizens do not need to pay school fees in primary schools.<br>
+• Free textbooks and school attire.<br>
+• One of the following transport subsidies:<br>
+       - Covers 65% of school bus fares per year if your child takes the school bus.<br>
+       - $17 transport credit per month, or up to $204 per year, if your child takes public transport.<br>
+• A $3.60 per meal subsidy for school meals, applicable to 5 days per school week.<br>
 <br><br>
 </div></details>
 <details class="isomer-details">
