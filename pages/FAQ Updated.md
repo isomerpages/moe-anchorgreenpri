@@ -101,7 +101,7 @@ For details of the fees charged, you may access the following link –<a href="h
 </div></details>
 <details class="isomer-details">
 <summary><strong>4. What is Edusave and can I use Edusave to pay for school fees?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a target="_blank">https://www.moe.gov.sg/financial-matters/edusave-account</a>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">https://www.moe.gov.sg/financial-matters/edusave-account</a>
 <br><br>
 </div></details>
 <details class="isomer-details">
