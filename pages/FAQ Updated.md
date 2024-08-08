@@ -109,3 +109,29 @@ For details of the fees charged, you may access the following link –<a href="h
 <div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804" target="_blank">https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804</a>
 <br><br>
 </div></details>
+
+<strong><u>MOE Financial Assistance Scheme (FAS)</u></strong>
+<details class="isomer-details">
+	<summary><strong>1. I would like to find out more about the MOE Financial Assistance Scheme.</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here -<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank"> https://www.moe.gov.sg/financial-matters/financial-assistance</a><br><br>
+</div>
+</details> 
+<details class="isomer-details">
+<summary><strong>2. What are the modes of payment for school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible. For other payment options, pls visit the following link –<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">Parents/ guardians may sign up via eGIRO through the following link –<a href="https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E" target="_blank">https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>4. What is Edusave and can I use Edusave to pay for school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">https://www.moe.gov.sg/financial-matters/edusave-account</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804" target="_blank">https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804</a>
+<br><br>
+</div></details>
