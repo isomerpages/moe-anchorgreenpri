@@ -82,8 +82,3 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <div data-type="detailsContent" class="isomer-details-content">If you are seeking a school transfer due to other reasons such as medical conditions, you should approach your child’s current school directly for assistance. Transferring your child to another school is an important decision, as the change in environment can disrupt the quality of their education. We encourage you to work with the school as they are best placed to advise you on your child’s learning needs.
 <br><br>
 </div></details>
-<details class="isomer-details">
-<summary><strong>5. How can I prepare my child for Primary 1?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf" rel="noopener noreferrer nofollow" target="_self"> https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf</a>
-<br><br>
-</div></details>
