@@ -141,7 +141,7 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804" target="_blank">https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804</a>
+<summary><strong>5. Once approved, how long will it be valid for? Is it an annual application?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year.
 <br><br>
 </div></details>
