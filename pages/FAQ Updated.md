@@ -65,7 +65,7 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <strong><u>Student Transfer</u></strong>
 <details class="isomer-details">
 	<summary><strong>1. I have just shifted to an area near Anchor Green Primary School. How can I go about applying for a transfer to your school?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may wish to consider Primary School Transfer Service. You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a><br><br>
+<div data-type="detailsContent" class="isomer-details-content">You may wish to consider Primary School Transfer Service. You may find out more details here –<a href="https://www.moe.gov.sg/primary/transfers" target="_blank">https://www.moe.gov.sg/primary/transfers</a><br><br>
 </div>
 </details> 
 <details class="isomer-details">
