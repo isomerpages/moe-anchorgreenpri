@@ -100,7 +100,7 @@ For details of the fees charged, you may access the following link –<a href="h
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>4. I am seeking a school transfer due to other reasons such as medical. What is the process?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">If you are seeking a school transfer due to other reasons such as medical conditions, you should approach your child’s current school directly for assistance. Transferring your child to another school is an important decision, as the change in environment can disrupt the quality of their education. We encourage you to work with the school as they are best placed to advise you on your child’s learning needs.
+<summary><strong>4. What is Edusave and can I use Edusave to pay for school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804" target="_blank">https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804</a>
 <br><br>
 </div></details>
