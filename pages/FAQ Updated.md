@@ -11,7 +11,7 @@ description: ""
 	<summary><strong>1. When is the P1 Orientation? May I have the details and timing?</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 P1 orientation is scheduled on 3 Jan 2022. <br>
-Details of the orientation is shared in the following link - [https://www.anchorgreenpri.moe.edu.sg/calendar/](https://www.anchorgreenpri.moe.edu.sg/calendar/)<br>
+Details of the orientation is shared in the following link -<a href="https://www.anchorgreenpri.moe.edu.sg/calendar/" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/calendar/</a><br>
 Further details on timing will be emailed to you at a closer date.<br><br>
 </div>
 </details>
