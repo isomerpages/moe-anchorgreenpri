@@ -154,8 +154,8 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 </div>
 </details> 
 <details class="isomer-details">
-<summary><strong>2. What are the modes of payment for school fees?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible. For other payment options, pls visit the following link –<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br><br>
+<summary><strong>2. How can I enrol my child at an MOE Kindergarten?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/</a><br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
