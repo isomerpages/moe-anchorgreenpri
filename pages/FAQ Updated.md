@@ -145,3 +145,6 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 <div data-type="detailsContent" class="isomer-details-content">MOE Financial Assistance Scheme is valid for 1 calendar year. It will be based on the date of approval till 31 December of the same year. Applicants must apply again for the next calendar year.
 <br><br>
 </div></details>
+
+<h4> FAQ for Anchor Green Primary School</h4>
+
