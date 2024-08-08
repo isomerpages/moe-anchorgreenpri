@@ -158,17 +158,17 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 <div data-type="detailsContent" class="isomer-details-content"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/</a><br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">Parents/ guardians may sign up via eGIRO through the following link –<a href="https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E" target="_blank">https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E</a>
+<summary><strong>3. What is the fee for MOE Kindergarten?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">The monthly fee for a 4-hour MOE Kindergarten programme in 2022/2023 is $160 for Singapore Citizen children and $320 for Singapore Permanent Resident children. Fees are also payable during school holidays, i.e. June and December.
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>4. What is Edusave and can I use Edusave to pay for school fees?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">https://www.moe.gov.sg/financial-matters/edusave-account</a>
+<summary><strong>4. What is the fee for Kindergarten Care (KCare)?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">For 2022/2023, the maximum KCare monthly fee is $415. KCare fees are also payable during the June and December holidays. All Singapore Citizen children are eligible for a basic KCare subsidy of $150 per month.
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>5. How will I be informed of the revised school fees rate after my child’s citizenship has been updated?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804" target="_blank">https://www.moe.gov.sg/faq?categoryid=8E7C086C95834AD68102F394C4A748EE&amp;faqid=3D4A6496F8244D99A6B57EC0952D9804</a>
+<summary><strong>5. How do I put my child on the waitlist for MOE Kindergarten (MK)?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">If you are keen to place your child on the waitlist, you can contact your preferred MK directly. The waitlist will be considered on a case-by-case basis, subject to available vacancies. The MK will contact you directly, should a vacancy arise for your child.
 <br><br>
 </div></details>
