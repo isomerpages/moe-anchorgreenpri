@@ -16,12 +16,8 @@ Further details on timing will be emailed to you at a closer date.<br><br>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2. How do I know whether I qualify for the MOE Financial Assistance Scheme?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">To qualify, you must fulfil the following criteria:
-• Are Singapore Citizens.
-• Attend government or government-aided schools.
-• Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less.
-You may wish to use the eligibility checker to find out if you qualify.<br><br>
+<summary><strong>2. What must I bring along on the day of the P1 Orientation?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">There is no need to bring any documents, unless you have been informed by the General Office staff to submit specific documents.<br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>3. I am unable to make it for the P1 Orientation. Where can I find the information for my child?</strong></summary>
