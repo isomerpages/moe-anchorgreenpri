@@ -43,14 +43,12 @@ There is no need to bring any documents, unless you have been informed by the Ge
 </div>
 </details> 
 <details class="isomer-details">
-<summary><strong>2. What must I bring along on the day of the P1 Orientation?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-There is no need to bring any documents, unless you have been informed by the General Office staff to submit specific documents.<br><br>
+<summary><strong>2. What time should we report on the first day of school?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">Reporting time for first day of school for P1 students on 3 Jan 2023 is 08.00am. You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a><br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>3. I am unable to make it for the P1 Orientation. Where can I find the information for my child?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-Important information on the P1 Orientation will be posted on the school’s website after the event. You may find out more here -<a href="https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points" rel="noopener noreferrer nofollow" target="_self">https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points</a>
+<summary><strong>3. What is the programme for the first day of school?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">The programme for first day of school will broadly encompass classroom activities with teachers, parents’ briefing as well as school experience with parents to support P1 students to transit into primary school. You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a>
 <br><br>
 </div></details>
 <details class="isomer-details">
