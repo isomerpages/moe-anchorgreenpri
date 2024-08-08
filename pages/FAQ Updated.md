@@ -91,12 +91,12 @@ For details of the fees charged, you may access the following link –<a href="h
 </div>
 </details> 
 <details class="isomer-details">
-<summary><strong>2. I have shifted out of Sengkang to another area, and would like to apply for transfer of my child to another school nearer to my new residence. How should I go about applying for the transfer?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may wish to consider Primary School Transfer Service. You may find out more details here –<a href="https://www.moe.gov.sg/primary/transfers" target="_blank">https://www.moe.gov.sg/primary/transfers</a><br><br>
+<summary><strong>2. What are the modes of payment for school fees?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible. For other payment options, pls visit the following link –<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>3. Can I apply for the Primary School Transfer Services online?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/primary/transfers" target="_blank">https://www.moe.gov.sg/primary/transfers</a>
+<summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">Parents/ guardians may sign up via eGIRO through the following link –<a href="https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E" target="_blank">https://www.moe.gov.sg/faq?categoryid=ADA62619A9DE4F32856BB59F0EDD881E</a>
 <br><br>
 </div></details>
 <details class="isomer-details">
