@@ -116,8 +116,12 @@ For details of the fees charged, you may access the following link –<a href="h
 </div>
 </details> 
 <details class="isomer-details">
-<summary><strong>2. What are the modes of payment for school fees?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">We strongly encourage parents/ guardians to arrange for GIRO payment of school fees as far as possible. For other payment options, pls visit the following link –<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a><br><br>
+<summary><strong>2. How do I know whether I qualify for the MOE Financial Assistance Scheme?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">To qualify, you must fulfil the following criteria:<br>
+• Are Singapore Citizens.<br>
+• Attend government or government-aided schools.<br>
+• Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less.<br>
+You may wish to use the eligibility checker to find out if you qualify.<br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance&quot;" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a><br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>3. How do I find out more information about GIRO Matters?</strong></summary>
