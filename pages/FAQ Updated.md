@@ -39,8 +39,7 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <strong><u>P1 First Day of School</u></strong>
 <details class="isomer-details">
 	<summary><strong>1. What must my child bring on the first day of school?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here, pls refer to slides 18 and 19 of Primary 1 Orientation –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a><br>
-Further details on timing will be emailed to you at a closer date.<br><br>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here, pls refer to slides 18 and 19 of Primary 1 Orientation –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a><br><br>
 </div>
 </details> 
 <details class="isomer-details">
