@@ -53,11 +53,11 @@ There is no need to bring any documents, unless you have been informed by the Ge
 </div></details>
 <details class="isomer-details">
 <summary><strong>4. My child is enrolled in the SCC. Where should he/she go upon dismissal to the SCC?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a rel="noopener noreferrer nofollow" target="_self">  https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/</a>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/" rel="noopener noreferrer nofollow" target="_self">  https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/</a>
 <br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>5. How can I prepare my child for Primary 1?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a rel="noopener noreferrer nofollow" target="_self">  https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/</a>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf" rel="noopener noreferrer nofollow" target="_self"> https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf</a>
 <br><br>
 </div></details>
