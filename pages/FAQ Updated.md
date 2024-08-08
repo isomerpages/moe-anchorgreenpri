@@ -61,3 +61,29 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf" rel="noopener noreferrer nofollow" target="_self"> https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf</a>
 <br><br>
 </div></details>
+
+<strong><u>Student Transfer</u></strong>
+<details class="isomer-details">
+	<summary><strong>1. I have just shifted to an area near Anchor Green Primary School. How can I go about applying for a transfer to your school?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may wish to consider Primary School Transfer Service. You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a><br><br>
+</div>
+</details> 
+<details class="isomer-details">
+<summary><strong>2. What time should we report on the first day of school?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">Reporting time for first day of school for P1 students on 3 Jan 2023 is 08.00am. You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a><br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>3. What is the programme for the first day of school?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">The programme for first day of school will broadly encompass classroom activities with teachers, parents’ briefing as well as school experience with parents to support P1 students to transit into primary school. You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf" rel="noopener noreferrer nofollow" target="_self">https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/P1%20Orientation%20for%202023%20Cohort.pdf</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>4. My child is enrolled in the SCC. Where should he/she go upon dismissal to the SCC?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/" rel="noopener noreferrer nofollow" target="_self">  https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>5. How can I prepare my child for Primary 1?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf" rel="noopener noreferrer nofollow" target="_self"> https://www.anchorgreenpri.moe.edu.sg/files/For%20Parents/Parent%20Kit%20-%20Starting%20Your%20Primary%201%20Journey.pdf</a>
+<br><br>
+</div></details>
