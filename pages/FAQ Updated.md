@@ -23,6 +23,6 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <details class="isomer-details">
 <summary><strong>3. I am unable to make it for the P1 Orientation. Where can I find the information for my child?</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-Important information on the P1 Orientation will be posted on the school’s website after the event. You may find out more here - [https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points](https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points)
+Important information on the P1 Orientation will be posted on the school’s website after the event. You may find out more here -<a href="https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points" rel="noopener noreferrer nofollow" target="_self">https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points</a>
 <br><br>
 </div></details>
