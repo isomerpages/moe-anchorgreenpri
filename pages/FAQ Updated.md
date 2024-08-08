@@ -26,3 +26,9 @@ There is no need to bring any documents, unless you have been informed by the Ge
 Important information on the P1 Orientation will be posted on the school’s website after the event. You may find out more here -<a href="https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points" rel="noopener noreferrer nofollow" target="_self">https://anchorgreenpri.moe.edu.sg/resources/p1-orientation-2023/arrival-and-dismissal-points</a>
 <br><br>
 </div></details>
+<details class="isomer-details">
+<summary><strong>4. Where can I purchase the books and uniform for my child?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+Important information on the P1 Orientation will be posted on the school’s website after the event. You may find out more here -<a href="https://anchorgreenpri.moe.edu.sg/resources/school-vendors" rel="noopener noreferrer nofollow" target="_self"> https://anchorgreenpri.moe.edu.sg/resources/school-vendors</a>
+<br><br>
+</div></details>
