@@ -135,8 +135,8 @@ You may wish to use the eligibility checker to find out if you qualify.<br><a hr
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>4. What is Edusave and can I use Edusave to pay for school fees?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a href="https://www.moe.gov.sg/financial-matters/edusave-account" target="_blank">https://www.moe.gov.sg/financial-matters/edusave-account</a>
+<summary><strong>4. How do I apply for the MOE Financial Assistance Scheme?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">YYou may wish to apply online via this link -<a href="https://form.gov.sg/632432ba67747a0011d4a0cc" target="_blank">https://form.gov.sg/632432ba67747a0011d4a0cc</a>
 <br><br>
 </div></details>
 <details class="isomer-details">
