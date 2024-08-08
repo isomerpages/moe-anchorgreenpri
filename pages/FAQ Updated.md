@@ -136,7 +136,8 @@ You may wish to use the eligibility checker to find out if you qualify.<br><a hr
 </div></details>
 <details class="isomer-details">
 <summary><strong>4. How do I apply for the MOE Financial Assistance Scheme?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">YYou may wish to apply online via this link -<a href="https://form.gov.sg/632432ba67747a0011d4a0cc" target="_blank">https://form.gov.sg/632432ba67747a0011d4a0cc</a>
+<div data-type="detailsContent" class="isomer-details-content">You may wish to apply online via this link -<a href="https://form.gov.sg/632432ba67747a0011d4a0cc" target="_blank">https://form.gov.sg/632432ba67747a0011d4a0cc</a><br><br>
+Alternatively, you may wish to download the hardcopy form, and submit to the school, together with all the necessary supporting documents.<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" target="_blank"> https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 <br><br>
 </div></details>
 <details class="isomer-details">
