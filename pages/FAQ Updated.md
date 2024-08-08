@@ -52,8 +52,12 @@ There is no need to bring any documents, unless you have been informed by the Ge
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>4. Where can I purchase the books and uniform for my child?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-Important information on the P1 Orientation will be posted on the school’s website after the event. You may find out more here -<a href="https://anchorgreenpri.moe.edu.sg/resources/school-vendors" rel="noopener noreferrer nofollow" target="_self"> https://anchorgreenpri.moe.edu.sg/resources/school-vendors</a>
+<summary><strong>4. My child is enrolled in the SCC. Where should he/she go upon dismissal to the SCC?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a rel="noopener noreferrer nofollow" target="_self">  https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/</a>
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>5. How can I prepare my child for Primary 1?</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">You may find out more details here –<a rel="noopener noreferrer nofollow" target="_self">  https://www.anchorgreenpri.moe.edu.sg/resources/student-care-information/</a>
 <br><br>
 </div></details>
