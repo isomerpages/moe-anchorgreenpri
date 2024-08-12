@@ -19,4 +19,3 @@ variant: markdown
   </a></td></tr><tr><td><a rel="noopener noreferrer" href="/holistic-education/curriculum/physical-education"><img height="300" width="400" alt="Physical Education" src="/images/Curriculum/Menu%20Grid/Physical%20Education.jpg">
     </a></td> <td><a rel="noopener noreferrer" href="/holistic-education/curriculum/aesthetics"><img height="300" width="400" alt="Aesthetics" src="/images/Curriculum/Menu%20Grid/Aesthetics.jpg">
     </a></td><td><a rel="noopener noreferrer" href="/holistic-education/curriculum/programme-for-active-learning-pal"><img height="200" width="300" alt="Programme for Active Learning" src="/images/Curriculum/Menu%20Grid/Programme%20for%20Active%20Learning.jpg"></a></td></tr></tbody></table>
-    &gt;
