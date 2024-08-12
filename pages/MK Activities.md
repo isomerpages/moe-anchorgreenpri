@@ -98,13 +98,25 @@ Information in here.
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>Earth Day</strong></summary>
+<summary><strong>K2 Life @ MK</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 Information in here.
 <br><br>
 </div></details>
 <details class="isomer-details">
-<summary><strong>Earth Day</strong></summary>
+<summary><strong>Mid Year Celebration</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+Information in here.
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>Children's Day</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+Information in here.
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>Year End Celebration</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 Information in here.
 <br><br>
