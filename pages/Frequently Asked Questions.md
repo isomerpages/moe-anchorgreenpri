@@ -159,12 +159,12 @@ Alternatively, you may wish to download the hardcopy form, and submit to the sch
 </div></details>
 <details class="isomer-details">
 <summary><strong>3. What is the fee for MOE Kindergarten?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">The monthly fee for a 4-hour MOE Kindergarten programme in 2022/2023 is $160 for Singapore Citizen children and $320 for Singapore Permanent Resident children. Fees are also payable during school holidays, i.e. June and December.
+<div data-type="detailsContent" class="isomer-details-content">The monthly fee for a 4-hour MOE Kindergarten programme is $160 for Singapore Citizen children and $320 for Singapore Permanent Resident children. Fees are also payable during school holidays, i.e. June and December.
 <br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>4. What is the fee for Kindergarten Care (KCare)?</strong></summary>
-<div data-type="detailsContent" class="isomer-details-content">For 2022/2023, the maximum KCare monthly fee is $415. KCare fees are also payable during the June and December holidays. All Singapore Citizen children are eligible for a basic KCare subsidy of $150 per month.
+<div data-type="detailsContent" class="isomer-details-content">The maximum KCare monthly fee is $415. KCare fees are also payable during the June and December holidays. All Singapore Citizen children are eligible for a basic KCare subsidy of $150 per month.
 <br><br>
 </div></details>
 <details class="isomer-details">
