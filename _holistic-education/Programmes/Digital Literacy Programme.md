@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Programmes
 variant: markdown
 ---
-Information Technology
+Digital Literacy Programme
 ======================
 
 #### Focus
