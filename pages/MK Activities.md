@@ -88,20 +88,6 @@ create their characters for the upcoming Claymation project.</td>
 <details class="isomer-details">
 <summary><strong>Earth Day</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.<br><br>
-<strong>Competitions / Events taking part in:</strong><br><br>
-<strong>• IDE Robotics Competition</strong><br>
-This competition is to design robots to solve a myriad of real world climate change crises. Our teams are expected to adapt their robot build and code to the rules on the competition day based on a pre-programed robot.<br><br>
-	<strong>• National Robotics Competition</strong><br>
-The teams need to design, construct and program an autonomous robot that can solve specific challenges on a field based on the theme “Green City”.<br><br>
-<strong>• National Thinkers Challenge	</strong><br>
-This challenge allows opportunity for students to explore how AI can improve our way of life so that they can be active contributors to our society and the community through solving authentic real worlds issues.<br><br>
-<img src="/images/CCA/Cognitive/STEM/Students_preparing_for_IDE_competition.jpg" style="width:80%">
-Students preparing for IDE competition<br>
-<br>
-<img src="/images/CCA/Cognitive/STEM/Our_participating_team_completed_a_mission_at_the_NRC_Competition.jpg" style="width:80%">Our participating team completed a mission at the NRC Competition<br>
-<br>
-<img src="/images/CCA/Cognitive/STEM/Students_working_on_MakeCode_to_create_their_games.jpg" style="width:80%">
-Students working on MakeCode to create their games.
+Information in here.
 <br><br>
 </div></details>
