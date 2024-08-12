@@ -45,19 +45,20 @@ description: ""
 <details class="isomer-details">
 <summary><strong>World Water Day</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-New Media Arts CCA offers Anchorlites a unique opportunity to explore
-and engage with the rapidly evolving world of digital and interactive media.<br><br>
-Focusing on the core Art principles, tools, and techniques of immersive
-media development, Anchorlites have an opportunity to learn to tell stories,
-prototype new worlds, and explore creative workflows that will help shape
-the future of design using both technology and art principles.<br><br>
-This CCA aims to provide a foundation in the design and development of
-experiences in the exploration of human connection and interaction through
-visual arts, media and technology. Furthermore, there is collaboration
-with Infocomm Media Authority of Singapore (IMDA) as our P5 and P6 students
-are taking part in their learning road map. Students are taught in areas
-of podcast. videography, photography as well as simple coding applications
-like PICTOBLOX.<br><br>
+<img src="/images/MK/Events/World%20Water%20Day/1-1%20world%20water%20day.jpg" style="width:95%">
+Sharing about the importance of turning off the tap after use every time. 
+<br><br>
+
+<img src="/images/MK/Events/World%20Water%20Day/2-1%20world%20water%20day.jpg" style="width:95%">
+Sharing about how he saves water by turning off the tap while brushing his teeth instead of letting the water run. 
+<br><br>
+
+<img src="/images/MK/Events/World%20Water%20Day/3-1%20world%20water%20day.jpg" style="width:95%">
+Children brought home a water droplet template and discussed with their parents about the different ways that they save water and drew on the template. They then brought it to school to share about their drawing. 
+<br><br>
+
+<img src="/images/MK/Events/World%20Water%20Day/4-1%20world%20water%20day.jpg" style="width:95%">
+We displayed all our posters in class for our friends to see and learn from.<br><br>
 <strong>Competitions / Events taking part in:</strong>
 <ul data-tight="true" class="tight">
 <li>Schools Media Design Award (SDMA)
