@@ -91,3 +91,21 @@ create their characters for the upcoming Claymation project.</td>
 Information in here.
 <br><br>
 </div></details>
+<details class="isomer-details">
+<summary><strong>K1 Life @ MK</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+Information in here.
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>Earth Day</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+Information in here.
+<br><br>
+</div></details>
+<details class="isomer-details">
+<summary><strong>Earth Day</strong></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+Information in here.
+<br><br>
+</div></details>
