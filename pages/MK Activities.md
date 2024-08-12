@@ -56,7 +56,7 @@ create their characters for the upcoming Claymation project.</td>
 </tbody></table>
 </div></details>
 <details class="isomer-details">
-<summary><h4>STEM Innovators</h4></summary>
+<summary><strong>Earth Day</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 STEM Innovators in AGPS provides students with an array of experience. The CCA aims to apply Science, technology, engineering and Mathematics to real-life context which engages Anchorlites in problem-solving and coming up with creative and innovative solutions to problems. Anchorlites will be trained in the different technology aspects – coding, 3D designing and programming in creating robots, games and prototypes. This is to provide Anchorlites the experience and empowerment to be creative and innovative in their creations that can be used to solve real-world problems.<br><br>
 <strong>Competitions / Events taking part in:</strong><br><br>
