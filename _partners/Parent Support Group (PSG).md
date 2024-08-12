@@ -20,7 +20,7 @@ The school aims to encourage and facilitate increased parental engagement in the
 •	The PSG collaborates actively with the school by supporting school activities to provide a holistic growing environment for the students. <br>
 •	The PSG provides a network of support and link for the school, families, and the community, as members come from diverse backgrounds and possess varied skills and experiences.<br>
 •	The PSG enhances better connection/ link between the school and parents by conducting activities that promote bonding between parents and school, and parents and children.<br><br>
-**The_AGPS_PSG_EXCO_Team_2024**
+**The AGPS PSG EXCO Team 2024**
 <table>
 <tbody>
 <tr>
