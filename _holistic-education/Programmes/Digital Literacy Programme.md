@@ -1,11 +1,11 @@
 ---
-title: Information and Communication Technology
-permalink: /holistic-education/curriculum/ict/
+title: Digital Literacy Programme
+permalink: /holistic-education/programmes/digital-literacy-programme/
 description: ""
-third_nav_title: Curriculum
+third_nav_title: Programmes
 variant: markdown
 ---
-Information Technology
+Digital Literacy Programme
 ======================
 
 #### Focus

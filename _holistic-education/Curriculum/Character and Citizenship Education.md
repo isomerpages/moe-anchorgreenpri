@@ -21,7 +21,7 @@ Our department employs a variety of teaching methods including explicit teaching
 
 #### Framework
 
-![The CCE 2021 Curriculum Frame](/images/Curriculum/CCE/The_CCE_2021_Curriculum_Frame.jpg)
+<img style="width: 70%" height="auto" width="100%" alt="CCE Curriculum Framework" src="/images/Curriculum/CCE/The_CCE_2021_Curriculum_Frame.jpg">
 
 #### Key Programmes/Initiatives:
 
