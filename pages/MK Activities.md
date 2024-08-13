@@ -188,7 +188,7 @@ Time to get dirty! Children explored different tools and colours to create artwo
 </details>
 
 <details class="isomer-details">
-<summary><h5>Events</h5></summary>
+<summary><h5>Field Trips</h5></summary>
 <details>
 <summary><strong>Chinese New Year Celebrations</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
