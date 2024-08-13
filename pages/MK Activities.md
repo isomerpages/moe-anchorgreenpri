@@ -123,7 +123,6 @@ Parents also had the opportunity to observe how the Mother Tongue Language is be
 
 <img src="/images/MK/Events/K2%20Life%20at%20MK/4-1%20k2%20life.jpg" style="width:95%">
 The happy faces were evident after the observations and participation in the activities! The children were also thrilled to show their parents around their classrooms.<br><br>
-<br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>Mid Year Celebration</strong></summary>
