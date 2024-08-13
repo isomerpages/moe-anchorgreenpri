@@ -185,7 +185,6 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <br><br>
 </div></details>
 </details>
-<br>
 <details class="isomer-details">
 <summary><h5>Field Trips</h5></summary>
 <details>
