@@ -4,9 +4,9 @@ permalink: /mk-at-anchor-green/mk-activities/
 variant: markdown
 description: ""
 ---
-<h1>MK Activities</h1>
-<details class="isomer-details">
-<summary><h5>Events</h5></summary>
+<h1>MK Activities</h1><br>
+<details>
+<summary><p style="font-size:30px; color:green; display:inline">Events</p></summary><br>
 <details>
 <summary><strong>Chinese New Year Celebrations</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -43,7 +43,7 @@ description: ""
 </tbody></table><br><br>
 </div>
 </details>
-<details class="isomer-details">
+<details>
 <summary><strong>World Water Day</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Events/World%20Water%20Day/1-1%20world%20water%20day.jpg" style="width:95%">
@@ -61,7 +61,7 @@ Children brought home a water droplet template and discussed with their parents 
 <img src="/images/MK/Events/World%20Water%20Day/4-1%20world%20water%20day.jpg" style="width:95%">
 We displayed all our posters in class for our friends to see and learn from.<br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>Earth Day</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Events/Earth%20Day/1-1%20earth%20day.jpg" style="width:95%">
@@ -90,7 +90,7 @@ A family-based activity was given to parents to support the textile recycling an
 The K2 children made their own paper boxes while the K1 children made their own paper aeroplanes using recycled paper.
 <br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>K1 Life @ MK</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Events/K1%20Life%20at%20MK/1-1%20k1%20life.jpg" style="width:95%">
@@ -107,7 +107,7 @@ Teachers engaging children and parents in one of our flagship programmes, Starli
 <img src="/images/MK/Events/K1%20Life%20at%20MK/4-1%20k1%20life.jpg" style="width:95%">Parents also had the opportunity to participate in our MTL lessons..
 <br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>K2 Life @ MK</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Events/K2%20Life%20at%20MK/1-1%20k2%20life.jpg" style="width:95%">
@@ -124,7 +124,7 @@ Parents also had the opportunity to observe how the Mother Tongue Language is be
 <img src="/images/MK/Events/K2%20Life%20at%20MK/4-1%20k2%20life.jpg" style="width:95%">
 The happy faces were evident after the observations and participation in the activities! The children were also thrilled to show their parents around their classrooms.<br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>Mid Year Celebration</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Events/Mid%20Year%20Celebration/1-1%20myc.jpg" style="width:95%">
@@ -146,7 +146,7 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <img src="/images/MK/Events/Mid%20Year%20Celebration/5-1%20myc.jpg" style="width:95%">In their classrooms, they were also engaged in musical chairs game.
 <br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>Children's Day</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img style="width: 100%;" height="auto" width="100%" alt="Parents and children working together to pass the hoop to the end." src="/images/MK/Children's Day/01.jpg">Parents and children working together to pass the hoop to the end.<br>      
@@ -172,7 +172,7 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <img style="width: 100%" height="auto" width="100%" alt="Everyone’s going home with a gift and a certificate for their wonderful participation." src="/images/MK/Children's Day/14.jpg">Everyone’s going home with a gift and a certificate for their wonderful participation.&nbsp;&nbsp;
 <br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>Year End Celebration</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table><tbody><tr><td rowspan="1" colspan="1">
@@ -184,9 +184,9 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <table><tbody><tr><td rowspan="1" colspan="1"><img style="width: 100%" height="auto" width="100%" alt="Soap was added and everyone got very excited about the bubbles!" src="/images/MK/Year End Celebration/3_1.jpg">   </td><td rowspan="1" colspan="1"><img style="width: 100%" height="auto" width="100%" alt="Soap was added and everyone got very excited about the bubbles!" src="/images/MK/Year End Celebration/3_2.jpg"></td></tr></tbody></table>Soap was added and everyone got very excited about the bubbles!
 <br><br>
 </div></details>
-</details>
-<details class="isomer-details">
-<summary><h5>Field Trips</h5></summary>
+</details><br>
+<details>
+<summary><p style="font-size:30px; color:green; display:inline">Field Trips</p></summary><br>
 <details>
 <summary><strong>K2 Field Trip to the Indian Heritage Centre in Little India</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -210,7 +210,7 @@ Children went on a ‘Mango Motif’ hunt during their trip to Indian Heritage C
 <img src="/images/MK/Field%20Trips/Indian%20Heritage%20Centre/3-1%20indian%20heritage%20centre.jpg" style="width:100%">Children enjoyed observing the huge selection of different variety of mangoes at the fruit carts in Little India.<br><br>
 </div>
 </details>
-<details class="isomer-details">
+<details>
 <summary><strong>K1 Neighbourhood Walk</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Field%20Trips/Neighbourhood%20Walk/1-1%20neighbourhood%20walk.jpg" style="width:100%">
@@ -231,7 +231,7 @@ The children had the opportunity to meet and greet the uncle selling the fruits 
 
 <img src="/images/MK/Field%20Trips/Neighbourhood%20Walk/6-1%20neighbourhood%20walk.jpg" style="width:100%">Looking around for any litter<br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>K1 Field Trip to Pastamania</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Field%20Trips/Pastamania/1-1%20pastamania.jpg" style="width:100%">
@@ -274,7 +274,7 @@ We had so much fun and we love our pizzas!
 <img src="/images/MK/Field%20Trips/Pastamania/6-2%20pastamania.jpg" style="width:100%">
 <br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>K1 Field Trip to Kin Yan Farm</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table><tbody>
@@ -298,7 +298,7 @@ We had so much fun and we love our pizzas!
 <img src="/images/MK/Field%20Trips/Kin%20Yan%20Farm/5-1%20kin%20yan%20farm.jpg" style="width:100%">Wow! Look at the textures of the mushrooms! Some parts are bumpy and some are smooth! So this is how they look like.
 <br><br>
 </div></details>
-<details class="isomer-details">
+<details>
 <summary><strong>K2 Field Trip to Forest Play @ Sentosa</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <img src="/images/MK/Field%20Trips/Forest%20Play%20@%20Sentosa/1-1%20sentosa.jpg" style="width:95%">Having their snacks and gearing up before embarking on their Forest Play.
