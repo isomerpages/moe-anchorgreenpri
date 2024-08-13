@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 ---
 <h1>MK Activities</h1>
-<h5>Events</h5>
+<details class="isomer-details">
+<summary><h5>Events</h5></summary>
 <details class="isomer-details">
 <summary><strong>Chinese New Year Celebrations</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -184,3 +185,4 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <table><tbody><tr><td rowspan="1" colspan="1"><img style="width: 100%" height="auto" width="100%" alt="Soap was added and everyone got very excited about the bubbles!" src="/images/MK/Year End Celebration/3_1.jpg">   </td><td rowspan="1" colspan="1"><img style="width: 100%" height="auto" width="100%" alt="Soap was added and everyone got very excited about the bubbles!" src="/images/MK/Year End Celebration/3_2.jpg"></td></tr></tbody></table>Soap was added and everyone got very excited about the bubbles!
 <br><br>
 </div></details>
+	</details>
