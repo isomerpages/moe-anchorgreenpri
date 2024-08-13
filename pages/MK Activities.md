@@ -198,7 +198,7 @@ Information here.<br><br>
 <details class="isomer-details">
 <summary><strong>K1 Neighbourhood Walk</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-Informatio nhere.<br><br>
+Information here.<br><br>
 </div></details>
 <details class="isomer-details">
 <summary><strong>Earth Day</strong></summary>
