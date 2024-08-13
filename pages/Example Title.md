@@ -186,7 +186,7 @@ Time to get dirty! Children explored different tools and colours to create artwo
 </div></details>
 </details>
 <details>
-<summary><h5>Field Trips</h5></summary>
+<summary><b>Field Trips</b></summary>
 <details>
 <summary><strong>K2 Field Trip to the Indian Heritage Centre in Little India</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
