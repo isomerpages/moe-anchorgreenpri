@@ -1,6 +1,6 @@
 ---
-title: Example Title
-permalink: /example-title/
+title: MK Activities
+permalink: /mk-at-anchor-green/mk-activities/
 variant: markdown
 description: ""
 ---
