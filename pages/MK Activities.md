@@ -4,11 +4,10 @@ permalink: /mk-activities/
 variant: markdown
 description: ""
 ---
-<aside>
 <h1>MK Activities</h1>
 <details class="isomer-details">
 <summary><h5>Events</h5></summary>
-<details class="isomer-details">
+<details class="isomer-details" close="">
 <summary><strong>Chinese New Year Celebrations</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table><tbody>
@@ -187,4 +186,3 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <br><br>
 </div></details>
 </details>
-</aside>
