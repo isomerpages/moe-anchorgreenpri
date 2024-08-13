@@ -4,7 +4,7 @@ permalink: /example-title/
 variant: markdown
 description: ""
 ---
-<h1>MK Activities</h1>
+<h1>MK Activities</h1><br>
 <details>
 <summary><p style="font-size:30px; display:inline">Events</p></summary>
 <details>
@@ -184,9 +184,9 @@ Time to get dirty! Children explored different tools and colours to create artwo
 <table><tbody><tr><td rowspan="1" colspan="1"><img style="width: 100%" height="auto" width="100%" alt="Soap was added and everyone got very excited about the bubbles!" src="/images/MK/Year End Celebration/3_1.jpg">   </td><td rowspan="1" colspan="1"><img style="width: 100%" height="auto" width="100%" alt="Soap was added and everyone got very excited about the bubbles!" src="/images/MK/Year End Celebration/3_2.jpg"></td></tr></tbody></table>Soap was added and everyone got very excited about the bubbles!
 <br><br>
 </div></details>
-</details>
+</details><br>
 <details>
-<summary><b>Field Trips</b></summary>
+<summary><p style="font-size:30px; display:inline">Field Trips</p></summary>
 <details>
 <summary><strong>K2 Field Trip to the Indian Heritage Centre in Little India</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
