@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 ---
 <h1>MK Activities</h1>
-<details class="isomer-details">
+<details>
 <summary><h5>Events</h5></summary>
-<details class="isomer-details" close="">
+<details class="isomer-details">
 <summary><strong>Chinese New Year Celebrations</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table><tbody>
