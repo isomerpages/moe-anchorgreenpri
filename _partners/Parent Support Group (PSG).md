@@ -78,5 +78,4 @@ The school aims to encourage and facilitate increased parental engagement in the
 </tr>
 </tbody></table>
 
-<b>Useful Resources and Links:</b><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform?pli=1" target="_blank">Join our AGPS PSG family now!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSerEYjJ_Lyt1hwOCuf3GpG2MyLDGp9_-zyr5q80n22bXgFpdQ/viewform?pli=1" target="_blank"><blink><b>Join our AGPS PSG family now!</b></blink></a>

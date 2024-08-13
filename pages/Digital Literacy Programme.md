@@ -2,7 +2,6 @@
 title: Digital Literacy Programme
 permalink: /holistic-education/programmes/digital-literacy-programme/
 description: ""
-third_nav_title: Programmes
 variant: markdown
 ---
 Digital Literacy Programme
