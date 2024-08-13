@@ -6,7 +6,7 @@ description: ""
 ---
 <h1>MK Activities</h1><br>
 <details>
-<summary><p style="font-size:30px; display:inline">Events</p></summary>
+<summary><p style="font-size:30px; color:green; display:inline">Events</p></summary>
 <details>
 <summary><strong>Chinese New Year Celebrations</strong></summary>
 <div data-type="detailsContent" class="isomer-details-content">
