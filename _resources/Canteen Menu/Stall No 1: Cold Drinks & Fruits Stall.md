@@ -6,7 +6,7 @@ third_nav_title: Canteen Menu
 variant: markdown
 ---
 Stall No. 1: Cold Drinks &amp; Fruits Stall
-======================================
+======================
 
 
 Cup Drinks
