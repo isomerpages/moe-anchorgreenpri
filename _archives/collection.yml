@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Advertisement/School Canteen.md
-      - Advertisement/P1 Camp 2019.md
       - Advertisement/.keep
       - 2020/.keep
       - 2020/P1 Camp 2020.md
