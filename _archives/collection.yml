@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Advertisement/School Canteen.md
       - Advertisement/.keep
       - 2020/.keep
       - 2020/P1 Camp 2020.md
