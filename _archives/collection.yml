@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - Advertisement/School Canteen.md
       - Advertisement/P1 Camp 2019.md
       - Advertisement/.keep
       - Advertisement/Ponggal Festival.md
