@@ -7,9 +7,19 @@ third_nav_title: Advertisement
 ---
 School Canteen Advertisement
 ======================
-| Type of Stall | Closing Date | Requirements |
-| --- | --- | --- |
-| Malay Noodles Stall | 10 May 2024 | Halal |
+<table>
+<tbody>
+<tr>
+<th align="left">Type of Stall</th>
+<th align="left">Closing Date</th>
+<th align="left">Requirements</th>
+</tr>
+<tr>
+<td align="left">Malay Noodles Stall </td>
+<td align="left">10 May 2024 </td>
+<td align="left">Halal</td>
+</tr>
+</tbody></table>
 
 #### Application Procedure
 
