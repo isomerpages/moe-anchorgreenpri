@@ -51,9 +51,3 @@ School Canteen Advertisement
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). They may apply the License from GoBusiness website.
 
 _Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense._
-
-[](mailto:?Subject=School%20Canteen&Body=https%3A%2F%2Fwww.anchorgreenpri.moe.edu.sg%2Fschool-canteen%2F)
-
-[](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.anchorgreenpri.moe.edu.sg%2Fschool-canteen%2F)
-
-[](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.anchorgreenpri.moe.edu.sg%2Fschool-canteen%2F&title=School%20Canteen)
