@@ -113,11 +113,10 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:shabreen_begham_shaik_liyakatali@schools.gov.sg">shabreen_begham_shaik_liyakatali@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal"></span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Zuliha Bagam D/O Abdul Raseed</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zuliha_bagam_abdul_raseed@schools.gov.sg">zuliha_bagam_abdul_raseed@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Malay Language Teacher</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</a></span></td>
   </tr>
-<tr></tr>
-			 
+<tr></tr>		 
 </tbody>
 </table>
