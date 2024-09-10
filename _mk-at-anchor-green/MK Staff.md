@@ -75,13 +75,13 @@ Kindergarten Teachers
   </tr>
 			 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Rosemary (AM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">Basil &amp; Lemongrass (PM)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">M. Tania</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
  </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen </span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
   </tr>
 			
  <tr>
