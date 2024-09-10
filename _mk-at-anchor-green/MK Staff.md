@@ -70,8 +70,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">M. Tania</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg </a></span></td>
   </tr>
 			 
  <tr>
