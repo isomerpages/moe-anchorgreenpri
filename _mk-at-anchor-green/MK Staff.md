@@ -75,7 +75,7 @@ Kindergarten Teachers
   </tr>
 			 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">Basil &amp; Lemongrass (PM)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1  Basil &amp; Lemongrass (PM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">M. Tania</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
  </tr>
@@ -85,13 +85,13 @@ Kindergarten Teachers
   </tr>
 			
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Basil (AM)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Hibiscus (AM &amp; PM)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
   </tr>
 	
   <tr>
