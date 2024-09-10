@@ -93,9 +93,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
   </tr>
-	
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Basil (PM)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2  Ixora</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Tan Hwee Shin Clarie</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</a></span></td>
   </tr>
@@ -105,35 +104,14 @@ Kindergarten Teachers
   </tr>
 			 
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass (AM)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Rosemary</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Binte Anwar</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
-  </tr>
-			 
-  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass (PM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
-  </tr>
-			 
-  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Pandan (AM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Tan Hwee Shin Clarie</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Shabreen Begham D/O Shaik Liyakatali</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:shabreen_begham_shaik_liyakatali@schools.gov.sg">shabreen_begham_shaik_liyakatali@schools.gov.sg</a></span></td>
   </tr>
-			 
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal"></span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Zuliha Bagam D/O Abdul Raseed</span></td>
