@@ -1,7 +1,7 @@
 ---
 title: Arif Budiman Teacher Award
 permalink: /celebrations/arif-budiman-teacher-award/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>Arif Budiman Teacher Award (AGAB)</strong>&nbsp;\</p>
