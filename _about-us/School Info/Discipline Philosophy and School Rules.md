@@ -30,7 +30,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 	
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
-	• Exhibit the <strong>A.N.C.H.O.R. </strong>values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
+<nobr>• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience</nobr><nobr><br>
 • Be polite and well-behaved in and outside of school.<br>
 • Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
 • Move quietly in an orderly manner when moving around the school.<br>
@@ -153,7 +153,7 @@ or accessories of any kind to school for uniformity and safety reasons
 	<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br><br>
 • Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
 
-<strong>7. Mobile Phone/Smart Watches Policy</strong><br><br>
+<strong>7. Possession of Weapons</strong><br><br>
 • All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
 • All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
 
@@ -162,4 +162,4 @@ or accessories of any kind to school for uniformity and safety reasons
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
 • Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</div></div><br>
-</details>
+</nobr></details>
