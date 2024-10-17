@@ -30,7 +30,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 	
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
-• Exhibit the A.N.C.H.O.R. values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
+<nobr>• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience</nobr><nobr><br>
 • Be polite and well-behaved in and outside of school.<br>
 • Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
 • Move quietly in an orderly manner when moving around the school.<br>
@@ -162,4 +162,4 @@ or accessories of any kind to school for uniformity and safety reasons
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
 • Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</div></div><br>
-</details>
+</nobr></details>
