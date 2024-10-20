@@ -163,7 +163,7 @@ or accessories of any kind to school for uniformity and safety reasons
 • Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</nobr></div></div><br>
 </details>
 <details class="isomer-details">
-<summary><h4>• Our School Rules</h4>
+<summary><h4>• Types of Minor and Major Offences</h4>
 </summary>
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
