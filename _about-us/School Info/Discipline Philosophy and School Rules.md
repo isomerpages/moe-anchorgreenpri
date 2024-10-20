@@ -166,6 +166,28 @@ or accessories of any kind to school for uniformity and safety reasons
 <summary><h4>• Types of Minor and Major Offences</h4>
 </summary>
 
-Info here
+<table>
+<tbody><tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
+<tr><td>•	Late coming (being late for school with no valid reason)<br>
+•	Failure to complete assignment<br>
+•	Littering<br>
+•	Improper attire/grooming (disobeying school rules on attire, hairdo, jewellery, etc)<br>
+•	Use of vulgar language (verbalising coarse or abusive language)<br>
+•	Vandalism (minor defacing of school property such as writing on desks and walls)
+</td>
+<td>•	Verbal warnings<br>
+•	Recess play restrictions<br>
+•	Supervised recess<br>
+•	Counselling<br>
+•	Conferencing between teachers and parents<br>
+•	Drop in conduct grade<br>
+•	Behaviour contract<br>
+•	Cleaning of property or paying for any item damaged upon proof of offence<br>
+•	Any other actions deemed appropriate by School Leaders
+</td></tr>
+<tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
+<tr><td>Bottom left</td>
+<td>Bottom right</td></tr>
+</tbody></table>
 	
 </details>
