@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Info
 ---
-<h2>Discipline Philosophy and School Rules</h2>
+<br><h2>Discipline Philosophy and School Rules</h2>
 <details class="isomer-details">
 <summary><h4>• Discipline Philosophy and Approach</h4>
 	</summary><h5>Framework:</h5>
@@ -183,11 +183,55 @@ or accessories of any kind to school for uniformity and safety reasons
 •	Drop in conduct grade<br>
 •	Behaviour contract<br>
 •	Cleaning of property or paying for any item damaged upon proof of offence<br>
-•	Any other actions deemed appropriate by School Leaders
+•	Any other actions deemed appropriate by School Leaders<br><br>
 </td></tr>
 <tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
-<tr><td>Bottom left</td>
-<td>Bottom right</td></tr>
+<tr><td>•	Skipping class (present in school but fails to attend lesson)<br>
+•	Leaving school grounds without permission during school hours (leaving school grounds after reporting but before end of the school session without the school’s approval)<br>
+•	Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
+•	Forgery (forging signatures, medical certificates, consent forms, etc. with the intention to deceive)<br>
+•	Cheating in assessments/tests/examinations (possessing notes, or other prohibited items, copying from others, allowing others to copy, tampering with marks/answers)<br>
+•	Disruptive behaviour (interfere with smooth running of class or school events)<br>
+•	Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
+•	Hurtful behaviour/bullying (hurting, frightening or intimidating others to deliberately harm, distress or humiliate. Physical, verbal, social, cyber and psychological.)<br>
+•	Arson (planting explosives or setting property on fire, whether attempted or actual)<br>
+•	Theft (stealing school property or property belonging to others)<br>
+•	Vandalism – level 2 (vandalising school or personal property, writing graffiti)<br>
+•	Assault (attacking others violently, whether causing hurt or not)<br>
+•	Fighting (being involved in a confrontation between individuals or opposing groups in which each attempt to harm or gain power over the other, as with bodily force or weapons)<br>
+•	Gambling (using money in games, betting, etc.)<br>
+•	Gangsterism (being involved in a gang assault/threat/harassment/extortion, whether actual or attempted)<br>
+•	Pornography (possessing/consuming/distributing/selling materials)<br>
+•	Possession of weapon(s) and sharp objects (that may be used in crime)<br>
+•	Sexual misconduct (being involved in attempted rape, outrage of modesty, underage sex, sexual grooming, peeping, etc.)<br>
+•	Smoking/Vaping (using/possessing/distributing/selling)<br>
+•	Voyeurism (involved in watching others to gain pleasure)<br>
+•	Types of Abuse        
+(a)	Alcohol (consuming/possessing/distributing/ selling)<br>
+(b)	Drug (consuming/possessing/distributing/selling)<br>
+(c)	Inhalant (using/possessing/distributing/selling)<br>
+•	Others (other serious offences that do not fall in above categories. School to describe offence.)<br>
+</td>
+<td>•	Verbal/stern warnings
+•	Recess play restrictions
+•	Supervised recess
+•	Behavioural corrective duty (BCD)
+•	Educational presentation
+•	Counselling
+•	Conferencing between teachers, parents and/or school leaders
+•	Reflection Time (in timeout room for up to 2 hours)
+•	Timeout (1/2 to up to 2 days)
+•	Behaviour contract
+•	Probation or removal from any leadership position
+•	Suspension (in-school, from CCA and home)
+•	Drop in conduct grade
+•	Cleaning of school property or paying for any item damaged upon proof of offence
+•	Record in the School Offence Module (SOM)
+•	External agency referral
+•	Caning
+•	Expulsion
+•	Any other actions deemed appropriate by School Leaders
+</td></tr>
 </tbody></table>
 	
 </details>
