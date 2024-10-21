@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Info
 ---
-<h2>Discipline Philosophy and School Rules</h2>
+<br><h2>Discipline Philosophy and School Rules</h2>
 <details class="isomer-details">
 <summary><h4>• Discipline Philosophy and Approach</h4>
 	</summary><h5>Framework:</h5>
@@ -27,7 +27,6 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 <details class="isomer-details">
 <summary><h4>• Our School Rules</h4>
 </summary>
-	
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
 <nobr>• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
@@ -67,10 +66,10 @@ Students are expected to:<br>
 • Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
 • Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
 <strong>School Uniform</strong>
-<div class="isomer-image-wrapper">
+</nobr><div class="isomer-image-wrapper"><nobr>
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
 <strong>PE Uniform</strong>
-<div class="isomer-image-wrapper">
+</nobr><div class="isomer-image-wrapper"><nobr>
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg"><br>
 <table style="minWidth: 50px">
 <colgroup>
@@ -161,5 +160,81 @@ or accessories of any kind to school for uniformity and safety reasons
 • The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
-• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</div></div><br>
-</nobr></details>
+• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</nobr></div></div><br>
+</details>
+<details class="isomer-details">
+<summary><h4>• Types of Minor and Major Offences</h4>
+</summary>
+
+<table>
+<tbody><tr><th></th><th></th></tr>
+<tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
+<tr><td>•	Late coming (being late for school with no valid reason)<br>
+•	Failure to complete assignment<br>
+•	Littering<br>
+•	Improper attire/grooming (disobeying school rules on attire, hairdo, jewellery, etc)<br>
+•	Use of vulgar language (verbalising coarse or abusive language)<br>
+•	Vandalism (minor defacing of school property such as writing on desks and walls)
+</td>
+<td>•	Verbal warnings<br>
+•	Recess play restrictions<br>
+•	Supervised recess<br>
+•	Counselling<br>
+•	Conferencing between teachers and parents<br>
+•	Drop in conduct grade<br>
+•	Behaviour contract<br>
+•	Cleaning of property or paying for any item damaged upon proof of offence<br>
+•	Any other actions deemed appropriate by School Leaders
+</td></tr>
+<tr><th></th><th></th></tr>
+<tr><th>Types of Major Offences</th><th>Possible Actions and Consequences</th></tr>
+<tr><td>•	Skipping class (present in school but fails to attend lesson)<br>
+•	Leaving school grounds without permission during school hours (leaving school grounds after reporting but before end of the school session without the school’s approval)<br>
+•	Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
+•	Forgery (forging signatures, medical certificates, consent forms, etc. with the intention to deceive)<br>
+•	Cheating in assessments/tests/examinations (possessing notes, or other prohibited items, copying from others, allowing others to copy, tampering with marks/answers)<br>
+•	Disruptive behaviour (interfere with smooth running of class or school events)<br>
+•	Open defiance and/or rudeness (refusing to conform to school rules, norms and practices; disobeying teacher’s instructions; displaying rudeness and disrespect in speech and body language)<br>
+•	Hurtful behaviour/bullying (hurting, frightening or intimidating others to deliberately harm, distress or humiliate. Physical, verbal, social, cyber and psychological.)<br>
+•	Arson (planting explosives or setting property on fire, whether attempted or actual)<br>
+•	Theft (stealing school property or property belonging to others)<br>
+•	Vandalism – level 2 (vandalising school or personal property, writing graffiti)<br>
+•	Assault (attacking others violently, whether causing hurt or not)<br>
+•	Fighting (being involved in a confrontation between individuals or opposing groups in which each attempt to harm or gain power over the other, as with bodily force or weapons)<br>
+•	Gambling (using money in games, betting, etc.)<br>
+•	Gangsterism (being involved in a gang assault/threat/harassment/extortion, whether actual or attempted)<br>
+•	Pornography (possessing/consuming/distributing/selling materials)<br>
+•	Possession of weapon(s) and sharp objects (that may be used in crime)<br>
+•	Sexual misconduct (being involved in attempted rape, outrage of modesty, underage sex, sexual grooming, peeping, etc.)<br>
+•	Smoking/Vaping (using/possessing/distributing/selling)<br>
+•	Voyeurism (involved in watching others to gain pleasure)<br>
+•	Types of Abuse        
+(a)	Alcohol (consuming/possessing/distributing/ selling)<br>
+(b)	Drug (consuming/possessing/distributing/selling)<br>
+(c)	Inhalant (using/possessing/distributing/selling)<br>
+•	Others (other serious offences that do not fall in above categories. School to describe offence.)<br>
+</td>
+<td>
+•	Verbal/stern warnings<br>
+•	Recess play restrictions<br>
+•	Supervised recess<br>
+	<nobr>•	Behavioural corrective duty (BCD)<br></nobr>
+•	Educational presentation<br>
+•	Counselling<br>
+•	Conferencing between teachers, parents and/or school leaders<br>
+•	Reflection Time (in timeout room for up to 2 hours)<br>
+•	Timeout (1/2 to up to 2 days)<br>
+•	Behaviour contract<br>
+•	Probation or removal from any leadership position<br>
+•	Suspension (in-school, from CCA and home)<br>
+•	Drop in conduct grade<br>
+•	Cleaning of school property or paying for any item damaged upon proof of offence<br>
+•	Record in the School Offence Module (SOM)<br>
+•	External agency referral<br>
+•	Caning<br>
+•	Expulsion<br>
+•	Any other actions deemed appropriate by School Leaders<br>
+	</td></tr>
+</tbody></table>
+	
+</details>
