@@ -236,5 +236,4 @@ or accessories of any kind to school for uniformity and safety reasons
 •	Any other actions deemed appropriate by School Leaders<br>
 	</td></tr>
 </tbody></table>
-	
 </details>
