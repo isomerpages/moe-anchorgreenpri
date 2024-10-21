@@ -212,10 +212,11 @@ or accessories of any kind to school for uniformity and safety reasons
 (c)	Inhalant (using/possessing/distributing/selling)<br>
 •	Others (other serious offences that do not fall in above categories. School to describe offence.)<br>
 </td>
-<td>•	Verbal/stern warnings<br>
+<td>
+•	Verbal/stern warnings<br>
 •	Recess play restrictions<br>
 •	Supervised recess<br>
-•	Behavioural corrective duty (BCD)<br>
+	<nobr>•	Behavioural corrective duty (BCD)<br></nobr>
 •	Educational presentation<br>
 •	Counselling<br>
 •	Conferencing between teachers, parents and/or school leaders<br>
@@ -231,7 +232,7 @@ or accessories of any kind to school for uniformity and safety reasons
 •	Caning<br>
 •	Expulsion<br>
 •	Any other actions deemed appropriate by School Leaders<br>
-</td></tr>
+	</td></tr>
 </tbody></table>
 	
 </details>
