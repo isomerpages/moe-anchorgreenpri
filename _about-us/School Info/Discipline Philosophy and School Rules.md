@@ -212,25 +212,25 @@ or accessories of any kind to school for uniformity and safety reasons
 (c)	Inhalant (using/possessing/distributing/selling)<br>
 •	Others (other serious offences that do not fall in above categories. School to describe offence.)<br>
 </td>
-<td>•	Verbal/stern warnings
-•	Recess play restrictions
-•	Supervised recess
-•	Behavioural corrective duty (BCD)
-•	Educational presentation
-•	Counselling
-•	Conferencing between teachers, parents and/or school leaders
-•	Reflection Time (in timeout room for up to 2 hours)
-•	Timeout (1/2 to up to 2 days)
-•	Behaviour contract
-•	Probation or removal from any leadership position
-•	Suspension (in-school, from CCA and home)
-•	Drop in conduct grade
-•	Cleaning of school property or paying for any item damaged upon proof of offence
-•	Record in the School Offence Module (SOM)
-•	External agency referral
-•	Caning
-•	Expulsion
-•	Any other actions deemed appropriate by School Leaders
+<td>•	Verbal/stern warnings<br>
+•	Recess play restrictions<br>
+•	Supervised recess<br>
+•	Behavioural corrective duty (BCD)<br>
+•	Educational presentation<br>
+•	Counselling<br>
+•	Conferencing between teachers, parents and/or school leaders<br>
+•	Reflection Time (in timeout room for up to 2 hours)<br>
+•	Timeout (1/2 to up to 2 days)<br>
+•	Behaviour contract<br>
+•	Probation or removal from any leadership position<br>
+•	Suspension (in-school, from CCA and home)<br>
+•	Drop in conduct grade<br>
+•	Cleaning of school property or paying for any item damaged upon proof of offence<br>
+•	Record in the School Offence Module (SOM)<br>
+•	External agency referral<br>
+•	Caning<br>
+•	Expulsion<br>
+•	Any other actions deemed appropriate by School Leaders<br>
 </td></tr>
 </tbody></table>
 	
