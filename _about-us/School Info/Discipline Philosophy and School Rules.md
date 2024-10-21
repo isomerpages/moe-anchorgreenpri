@@ -167,7 +167,8 @@ or accessories of any kind to school for uniformity and safety reasons
 </summary>
 
 <table>
-<tbody><tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
+<tbody><tr><th></th><th></th></tr>
+<tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
 <tr><td>•	Late coming (being late for school with no valid reason)<br>
 •	Failure to complete assignment<br>
 •	Littering<br>
@@ -185,7 +186,7 @@ or accessories of any kind to school for uniformity and safety reasons
 •	Cleaning of property or paying for any item damaged upon proof of offence<br>
 •	Any other actions deemed appropriate by School Leaders<br><br>
 </td></tr>
-<tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
+<tr><th>Types of Major Offences</th><th>Possible Actions and Consequences</th></tr>
 <tr><td>•	Skipping class (present in school but fails to attend lesson)<br>
 •	Leaving school grounds without permission during school hours (leaving school grounds after reporting but before end of the school session without the school’s approval)<br>
 •	Truancy (being absent from school without a valid reason during school days (Mon-Fri))<br>
