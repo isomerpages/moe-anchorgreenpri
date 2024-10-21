@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Info
 ---
-<br><h2>Discipline Philosophy and School Rules</h2>
+<h2>Discipline Philosophy and School Rules</h2>
 <details class="isomer-details">
 <summary><h4>• Discipline Philosophy and Approach</h4>
 	</summary><h5>Framework:</h5>
@@ -236,5 +236,4 @@ or accessories of any kind to school for uniformity and safety reasons
 •	Any other actions deemed appropriate by School Leaders<br>
 	</td></tr>
 </tbody></table>
-	
 </details>
