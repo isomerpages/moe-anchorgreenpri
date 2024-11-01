@@ -51,7 +51,7 @@ School Vendors
     <td class="tg-gct1"> Bus Service<br>(RushOwl Singapore Pte Ltd )</td>
     <td class="tg-gct1"> Ms Zoe - 6871 8817 or email @ school@rushowl.sg</td>
     <td class="tg-gct1">- </td>
-    <td class="tg-gct1">To register your interest in school bus service for your child, please complete the Google Form via this link:<a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank">https://forms.gle/BUpVn4aQXMS8LWhU9</a>. Alternatively, you may download and complete the <a href="/files/Resources/Bus%20Service/request_for_school_bus_services_Updated_30102024.pdf" target="_blank">Request for School Bus Services form</a> and return it to RushOwl Singapore via <a href="mailto:school@rushowl.sg">school@rushowl.sg</a>
+    <td class="tg-gct1">To register your interest in school bus service for your child, please complete the Google Form via this link:<a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank">https://forms.gle/BUpVn4aQXMS8LWhU9</a>. Alternatively, you may download and complete the <a href="/files/Resources/Bus%20Service/request_for_school_bus_services_updated_30102024.pdf" target="_blank">Request for School Bus Services form</a> and return it to RushOwl Singapore via <a href="mailto:school@rushowl.sg">school@rushowl.sg</a>
 email or as a hard copy. </td>
   </tr>
   <tr>
