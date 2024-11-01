@@ -23,7 +23,7 @@ School Vendors
 <thead>
   <tr>
     <th class="tg-bjp3">Name</th>
-    <th class="tg-bjp3">Contact Number</th>
+    <th class="tg-bjp3">Contact Details</th>
     <th class="tg-bjp3">Opening Hours<br></th>
     <th class="tg-k8z9">Remarks</th>
   </tr>
@@ -48,10 +48,11 @@ School Vendors
     <td class="tg-ll8o">Retail Address:<br>Blk 4012 Ang Mo Kio Ave 10<br>#01-09 Techplace 1  Singapore 569628<br>Website:<br><a href="https://jeepsinguniform.com/" target="_blank"><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">https://jeepsinguniform.com</span></a><br><br></td>
   </tr>
   <tr>
-    <td class="tg-gct1"> Bus Service<br>(Yellow Bus Services Pte Ltd)</td>
-    <td class="tg-gct1"> 9898 8171</td>
+    <td class="tg-gct1"> Bus Service<br>(RushOwl Singapore Pte Ltd )</td>
+    <td class="tg-gct1"> Ms Zoe - 6871 8817 or email @ school@rushowl.sg</td>
     <td class="tg-gct1">- </td>
-    <td class="tg-gct1">- </td>
+    <td class="tg-gct1">To register your interest in school bus service for your child, please complete the Google Form via this link:<a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank">https://forms.gle/BUpVn4aQXMS8LWhU9</a>. Alternatively, you may download and complete the <a href="/files/Resources/Bus%20Service/request_for_school_bus_services_updated_30102024.pdf" target="_blank">Request for School Bus Services form</a> and return it to RushOwl Singapore via <a href="mailto:school@rushowl.sg">school@rushowl.sg</a>
+email or as a hard copy. </td>
   </tr>
   <tr>
     <td class="tg-su6w"><span style="color:#222;background-color:#97E3BD">Student Bus Card</span><br><span style="color:#222;background-color:#97E3BD">(Transitlink Customer Service) </span></td>
