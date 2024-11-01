@@ -51,7 +51,8 @@ School Vendors
     <td class="tg-gct1"> Bus Service<br>(RushOwl Singapore Pte Ltd )</td>
     <td class="tg-gct1"> Ms Zoe - 6871 8817 or email @ school@rushowl.sg</td>
     <td class="tg-gct1">- </td>
-    <td class="tg-gct1">To register your interest in school bus service for your child, please complete the Google Form via this link:<a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank"><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">https://forms.gle/BUpVn4aQXMS8LWhU9</span></a> . Alternatively, you may download and complete the Request for School Bus Services form and return it to RushOwl Singapore via email or as a hard copy. </td>
+    <td class="tg-gct1">To register your interest in school bus service for your child, please complete the Google Form via this link:<a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank">https://forms.gle/BUpVn4aQXMS8LWhU9</a>. Alternatively, you may download and complete the <a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank">Request for School Bus Services form</a> and return it to RushOwl Singapore via <a href="mailto:school@rushowl.sg">school@rushowl.sg</a>
+email or as a hard copy. </td>
   </tr>
   <tr>
     <td class="tg-su6w"><span style="color:#222;background-color:#97E3BD">Student Bus Card</span><br><span style="color:#222;background-color:#97E3BD">(Transitlink Customer Service) </span></td>
