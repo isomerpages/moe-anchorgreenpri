@@ -23,7 +23,7 @@ School Vendors
 <thead>
   <tr>
     <th class="tg-bjp3">Name</th>
-    <th class="tg-bjp3">Contact Number</th>
+    <th class="tg-bjp3">Contact Details</th>
     <th class="tg-bjp3">Opening Hours<br></th>
     <th class="tg-k8z9">Remarks</th>
   </tr>
@@ -49,7 +49,7 @@ School Vendors
   </tr>
   <tr>
     <td class="tg-gct1"> Bus Service<br>(RushOwl Singapore Pte Ltd )</td>
-    <td class="tg-gct1"> 6871 8817 </td>
+    <td class="tg-gct1"> Ms Zoe - 6871 8817 or email @ school@rushowl.sg</td>
     <td class="tg-gct1">- </td>
     <td class="tg-gct1">To register your interest in school bus service for your child, please complete the Google Form via this link:<a href="https://forms.gle/BUpVn4aQXMS8LWhU9" target="_blank"><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">https://forms.gle/BUpVn4aQXMS8LWhU9</span></a> . Alternatively, you may download and complete the Request for School Bus Services form and return it to RushOwl Singapore via email or as a hard copy. </td>
   </tr>
