@@ -4,7 +4,7 @@ permalink: /resources/2024-book-lists/
 description: ""
 variant: markdown
 ---
-2024 Book Lists
+2025 Book Lists
 ===============
 
 <a href="/files/Booklist/2024/agps%20p1%20booklist%202024.pdf" target="_blank">AGPS P1 Booklist 2024</a><br>
