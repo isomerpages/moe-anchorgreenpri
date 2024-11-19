@@ -11,9 +11,9 @@ variant: markdown
 <a href="/files/Booklist/2025/AGPS_P2_Booklist_2025.pdf" target="_blank">AGPS P2 Booklist 2024</a><br>
 <a href="/files/Booklist/2025/AGPS_P3_Booklist_2025.pdf" target="_blank">AGPS P3 Booklist 2024</a><br>
 <a href="/files/Booklist/2025/AGPS_P4_Booklist_2025.pdf" target="_blank">AGPS P4 Booklist 2024</a><br>
-<a href="/files/Booklist/2025/agps%20p5%20booklist%202024.pdf" target="_blank">AGPS P5 Booklist 2024</a><br>
+<a href="/files/Booklist/2025/AGPS_P5_Booklist_2025.pdf" target="_blank">AGPS P5 Booklist 2024</a><br>
 <a href="/files/Booklist/2025/agps%20p5%20(fdn)%20booklist%202024.pdf" target="_blank">AGPS P5 (FDN) Booklist 2024</a><br>
-<a href="/files/Booklist/2025/agps%20p6%20booklist%202024.pdf" target="_blank">AGPS P6 Booklist 2024</a><br>
+<a href="/files/Booklist/2025/AGPS_P6_Booklist_2025.pdf" target="_blank">AGPS P6 Booklist 2024</a><br>
 <a href="/files/Booklist/2025/agps%20p6%20(fdn)%20booklist%202024.pdf" target="_blank">AGPS P6 (FDN) Booklist 2024</a><br>
 
 <a href="/files/Booklist/2025/AGPS_Proposed_Selling_Dates_2024.pdf" target="_blank">AGPS Proposed Selling Dates</a><br>
