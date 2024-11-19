@@ -17,7 +17,7 @@ variant: markdown
 <a href="/files/Booklist/2025/AGPS_P6_FDN_Booklist_2025.pdf" target="_blank">AGPS P6 (FDN) Booklist 2024</a><br>
 
 <a href="/files/Booklist/2025/AGPS_Proposed_Selling_Dates_2024.pdf" target="_blank">AGPS Proposed Selling Dates</a><br>
-
-
+<a href="/files/Booklist/2025/AGPS_Proposed_Selling_Dates_2024.pdf" target="_blank">Online Purchase Info for All Levels </a><br>
+<a href="/files/Booklist/2025/AGPS_Proposed_Selling_Dates_2024.pdf" target="_blank">AGPS Proposed Selling Dates</a><br>
 
 _Info correct as of&nbsp;**19 Nov 2024**_
