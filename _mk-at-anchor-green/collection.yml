@@ -2,6 +2,7 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - Activities/2024.md
       - Activities/2023.md
       - Activities/.keep
       - About MK.md
