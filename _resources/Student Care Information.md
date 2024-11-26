@@ -5,14 +5,14 @@ description: ""
 variant: markdown
 ---
 Student Care Information
-========================
+======================
 
   
 
 ### Anchor Green Student Care Centre
 
   
-Anchor Green Primary School has a student care centre, which caters specially to the students of Anchor Green Primary. This centre is managed by QSF-The Enablers, which provides academic and character support to help the student improve holistically.  
+Anchor Green Primary School has a student care centre, which caters specially to the students of Anchor Green Primary. This centre is managed by Little Professors Learning Centre Pte Ltd. Little Professors believes in balancing both nature and nurture in providing our children with a holistic student care experience. 
   
 **Centre Opening Hours**
 
@@ -22,14 +22,11 @@ Anchor Green Primary School has a student care centre, which caters specially to
   
 **Student Care Fee**
 
-*   School/Holiday per month: $232.30 (wef year 2024)
+*   School/Holiday per month: $250 (wef year 2025)
 *   Student Care Fee Assistance (SCFA) by MSF are available for pupils who need financial assistance. Terms and conditions apply.
 
   
 **Student Care Centre Contact**  
 
-*   Contact no: 8031 3729
-*   Email: [agscc@qsfirst.sg](mailto:agscc@qsfirst.sg)  
-    
-
-For more information on QSF-The Enablers, do visit [QSF-The Enablers Pte Ltd.](https://qsfte.qsfirst.sg/).
+*   Contact no: **8157 4130**
+*   Email: [anchorgreen@littleprofessors.com.sg](mailto:anchorgreen@littleprofessors.com.sg)

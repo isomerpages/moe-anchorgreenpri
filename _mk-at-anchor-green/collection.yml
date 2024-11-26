@@ -4,6 +4,7 @@ collections:
     order:
       - About MK.md
       - MK Staff.md
-      - MK Activities.md
+      - MK Activities/.keep
+      - MK Activities/2023.md
       - MK Open House.md
       - Student Admission.md
