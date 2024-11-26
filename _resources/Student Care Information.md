@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 Student Care Information
-========================
+======================
 
   
 
@@ -29,5 +29,4 @@ Anchor Green Primary School has a student care centre, which caters specially to
 **Student Care Centre Contact**  
 
 *   Contact no: **8157 4130**
-*   Email: [anchorgreen@littleprofessors.com.sg](mailto:anchorgreen@littleprofessors.com.sg)  
-   
+*   Email: [anchorgreen@littleprofessors.com.sg](mailto:anchorgreen@littleprofessors.com.sg)
