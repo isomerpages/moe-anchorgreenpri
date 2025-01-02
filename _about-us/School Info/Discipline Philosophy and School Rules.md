@@ -66,10 +66,10 @@ Students are expected to:<br>
 • Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
 • Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
 <strong>School Uniform</strong>
-</nobr><div class="isomer-image-wrapper"><nobr>
+</nobr><nobr></nobr><div class="isomer-image-wrapper"><nobr></nobr>
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
 <strong>PE Uniform</strong>
-</nobr><div class="isomer-image-wrapper"><nobr>
+<nobr></nobr><div class="isomer-image-wrapper"><nobr></nobr>
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg"><br>
 <table style="minWidth: 50px">
 <colgroup>
@@ -160,7 +160,7 @@ or accessories of any kind to school for uniformity and safety reasons
 • The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
-• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</nobr></div></div><br>
+• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</div></div><br>
 </details>
 <details class="isomer-details">
 <summary><h4>• Types of Minor and Major Offences</h4>
