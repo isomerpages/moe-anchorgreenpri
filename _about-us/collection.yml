@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - School Info/Discipline Philosophy School Rules.md
       - School Info/.keep
       - School Info/Principal's Message.md
       - School Info/Our Milestones.md
       - School Info/Our Vision, Mission and Values.md
       - School Info/Our Crest and Motto.md
       - School Info/Discipline Philosophy and School Rules.md
+      - School Info/Discipline Philosophy School Rules.md
       - School Info/School Homework Policy.md
       - School Info/School Song.md
       - School Info/School Hours.md
