@@ -6,6 +6,7 @@ description: ""
 third_nav_title: School Info
 ---
 <h2>Discipline Philosophy and School Rules</h2>
+
 <details class="isomer-details">
 <summary><h4>• Discipline Philosophy and Approach</h4>
 </summary>
