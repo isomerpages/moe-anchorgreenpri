@@ -7,7 +7,7 @@ third_nav_title: School Info
 ---
 <h2>Discipline Philosophy and School Rules</h2>
 <details class="isomer-details">
-<summary><h4><nobr>• Discipline Philosophy and Approach</nobr></h4>
+<summary><h4>• Discipline Philosophy and Approach</h4>
 </summary>
 <h5>Framework:</h5>
 <img style="width: 30%" height="auto" width="30%" alt="School Uniform" src="/images/Discipline/Discipline_Framework.jpg"><br>
