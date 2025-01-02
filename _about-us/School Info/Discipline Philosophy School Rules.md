@@ -11,7 +11,7 @@ third_nav_title: School Info
 <summary><h4>• Discipline Philosophy and Approach</h4>
 </summary><br>
 
-	Testing 1234
+<img style="width: 30%" height="auto" width="30%" alt="School Uniform" src="/images/Discipline/Discipline_Framework.jpg">
 </details>
 	
 <details class="isomer-details">
