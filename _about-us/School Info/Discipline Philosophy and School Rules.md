@@ -5,10 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: School Info
 ---
-<h2>Discipline Philosophy and School Rules</h2>
-<details class="isomer-details">
-<summary><h4>• Discipline Philosophy and Approach</h4>
-	</summary><h5>Framework:</h5>
+<h2>Discipline Philosophy and School Rules</h2><br>
+<details>
+<summary><p style="font-size:30px; color:green; display:inline">Discipline Philosophy and Approach</p>
+</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+<h5>Framework:</h5>
 <img style="width: 30%" height="auto" width="30%" alt="School Uniform" src="/images/Discipline/Discipline_Framework.jpg"><br>
 At the core of the framework, the balance symbolises equilibrium and fairness, suggesting the careful weighing of disciplinary actions with empathy and consideration for individual circumstances. This communicates the idea of maintaining discipline while also showing care and empathy towards those involved. It reinforces the concept of discipline not merely as enforcement but as a supportive and nurturing process. 
 <h5>Philosophy:</h5>
@@ -23,22 +24,21 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 •	Intervention: We enforce discipline consistently, ensuring fairness. When misconduct occurs, we prioritise restorative practices as our primary intervention strategy.  Teachers will facilitate conferences or mediations.  This allows students to directly address the harm caused, identify underlying issues that may have contributed to the behavior, and collaboratively develop a plan to address the misconduct.  This approach ensures we promptly address inappropriate behavior while also promoting empathy, accountability, and sustainable positive change. The focus is on helping students develop self-discipline and good character. <br><br>
 •	Restoration: Restorative practices remain central even when implementing consequences. Consequences may still be necessary, but they will be chosen with a restorative lens, such as Behavioural Corrective Duty (BCD) or Reflection Time (RT) that contribute to repairing the harm. * Students may be required to participate in conferences or mediation to understand the impact of their actions and contribute to repairing the harm caused. Teachers will work with students to replace inappropriate behaviors with prosocial ones and restore relationships with those impacted by their actions. <br><br>
 <small>*Disciplinary consequences such as suspension and caning are considered in combination or separately, depending on the circumstances of each case.</small><br><br>
-</details>
-<details class="isomer-details">
-<summary><h4>• Our School Rules</h4>
-</summary>
+</div></details><br>
+	
+<details>
+<summary><p style="font-size:30px; color:green; display:inline">Our School Rules</p>
+</summary><div data-type="detailsContent" class="isomer-details-content"><br>
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
-<nobr>• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
+• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
 • Be polite and well-behaved in and outside of school.<br>
 • Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
 • Move quietly in an orderly manner when moving around the school.<br>
 • Handle all school equipment and property with care.<br>
 • Keep the classrooms and school premises clean<br>
 • Observe safety guidelines and behave in a safe manner<br><br>
-
-<strong>2. Attendance and Punctuality</strong><br>
-• Daily attendance is compulsory.<br>
+<strong>2. Attendance and Punctuality</strong><br>• Daily attendance is compulsory.<br>
 • Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.<br>
 • Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.<br>
 • A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.<br>
@@ -49,13 +49,11 @@ Students are expected to:<br>
 • Students are to participate and be punctual for school and all designated school activities.<br>
 • Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless the absence is due to valid reason(s) (e.g. Medical Leave).<br>
 • Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
-	
 <strong>3. Assembly/Pledge Taking	</strong><br>
 • Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.<br>
 • All students are required to sing the school song.<br>
 • Students are to observe all the commands for assembly without fidgeting.<br>
 • It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
-	
 <strong>4. Classroom Conduct</strong><br>
 • Students are required to stand and greet the teachers before and after lessons.<br>
 • No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class.<br>
@@ -66,10 +64,10 @@ Students are expected to:<br>
 • Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
 • Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
 <strong>School Uniform</strong>
-</nobr><div class="isomer-image-wrapper"><nobr>
+<div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
 <strong>PE Uniform</strong>
-</nobr><div class="isomer-image-wrapper"><nobr>
+<div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg"><br>
 <table style="minWidth: 50px">
 <colgroup>
@@ -148,24 +146,21 @@ or accessories of any kind to school for uniformity and safety reasons
 </tr>
 </tbody>
 </table><br>
-
-	<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br><br>
+<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
 • Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
-
-<strong>7. Possession of Weapons</strong><br><br>
+<strong>7. Possession of Weapons</strong><br>
 • All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
 • All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
-
-<strong>8. Mobile Phone/Smart Watches Policy</strong><br><br>
+<strong>8. Mobile Phone/Smart Watches Policy</strong><br>
 • The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
-• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.</nobr></div></div><br>
-</details>
-<details class="isomer-details">
-<summary><h4>• Types of Minor and Major Offences</h4>
-</summary>
-
+• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.
+</div></div></div></details><br>
+	
+<details>
+<summary><p style="font-size:30px; color:green; display:inline">Types of Minor and Major Offences</p>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <table>
 <tbody><tr><th></th><th></th></tr>
 <tr><th>Types of Minor Offences</th><th>Possible Actions and Consequences</th></tr>
@@ -236,4 +231,4 @@ or accessories of any kind to school for uniformity and safety reasons
 •	Any other actions deemed appropriate by School Leaders<br>
 	</td></tr>
 </tbody></table>
-</details>
+</div></details>
