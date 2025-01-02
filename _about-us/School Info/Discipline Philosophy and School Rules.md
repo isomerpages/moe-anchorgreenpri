@@ -29,7 +29,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 </summary>
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
-<nobr>• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
+• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
 • Be polite and well-behaved in and outside of school.<br>
 • Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
 • Move quietly in an orderly manner when moving around the school.<br>
@@ -38,7 +38,7 @@ Students are expected to:<br>
 • Observe safety guidelines and behave in a safe manner<br><br>
 
 <strong>2. Attendance and Punctuality</strong><br>
-• Daily attendance is compulsory.<br>
+• Daily attendance is compulsory.
 • Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.<br>
 • Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.<br>
 • A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.<br>
@@ -66,10 +66,10 @@ Students are expected to:<br>
 • Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
 • Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
 <strong>School Uniform</strong>
-</nobr><nobr></nobr><div class="isomer-image-wrapper"><nobr></nobr>
+<div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
 <strong>PE Uniform</strong>
-<nobr></nobr><div class="isomer-image-wrapper"><nobr></nobr>
+<div class="isomer-image-wrapper"><nobr></nobr>
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/PE_Uniform.jpg"><br>
 <table style="minWidth: 50px">
 <colgroup>
