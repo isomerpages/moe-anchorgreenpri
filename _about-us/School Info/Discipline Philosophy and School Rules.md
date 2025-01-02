@@ -19,5 +19,4 @@ At the core of the framework, the balance symbolises equilibrium and fairness, s
 <details class="isomer-details">
 <summary><h4>• Types of Minor and Major Offences</h4>
 </summary>
-
 </details>
