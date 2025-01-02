@@ -28,7 +28,7 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 	
 <details>
 <summary><p style="font-size:30px; color:green; display:inline">Our School Rules</p>
-</summary><div data-type="detailsContent" class="isomer-details-content">
+</summary><div data-type="detailsContent" class="isomer-details-content"><br>
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
 • Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
@@ -38,9 +38,7 @@ Students are expected to:<br>
 • Handle all school equipment and property with care.<br>
 • Keep the classrooms and school premises clean<br>
 • Observe safety guidelines and behave in a safe manner<br><br>
-
-<strong>2. Attendance and Punctuality</strong><br>
-• Daily attendance is compulsory.<br>
+<strong>2. Attendance and Punctuality</strong><br>• Daily attendance is compulsory.<br>
 • Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.<br>
 • Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.<br>
 • A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.<br>
@@ -51,13 +49,11 @@ Students are expected to:<br>
 • Students are to participate and be punctual for school and all designated school activities.<br>
 • Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless the absence is due to valid reason(s) (e.g. Medical Leave).<br>
 • Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
-	
 <strong>3. Assembly/Pledge Taking	</strong><br>
 • Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.<br>
 • All students are required to sing the school song.<br>
 • Students are to observe all the commands for assembly without fidgeting.<br>
 • It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
-	
 <strong>4. Classroom Conduct</strong><br>
 • Students are required to stand and greet the teachers before and after lessons.<br>
 • No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class.<br>
@@ -150,15 +146,12 @@ or accessories of any kind to school for uniformity and safety reasons
 </tr>
 </tbody>
 </table><br>
-
-<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br><br>
+<strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
 • Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
-
-<strong>7. Possession of Weapons</strong><br><br>
+<strong>7. Possession of Weapons</strong><br>
 • All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
 • All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
-
-<strong>8. Mobile Phone/Smart Watches Policy</strong><br><br>
+<strong>8. Mobile Phone/Smart Watches Policy</strong><br>
 • The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
 • Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
 • Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
