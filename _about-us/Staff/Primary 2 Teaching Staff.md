@@ -105,12 +105,12 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jessica Cahyadi</span><br></td>
-    <td class="tg-fskk"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span><br></td>
+    <td class="tg-fskk"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mrs Sri<br>(Thilakavathy D/O Govindasamy)</span><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Ng Lai Muay</span><br></td>
     <td class="tg-rxka"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg:"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
