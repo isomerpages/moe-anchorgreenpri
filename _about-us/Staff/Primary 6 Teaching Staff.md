@@ -76,8 +76,8 @@ Primary 6 Teaching Staff
     <td class="tg-djmn"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mrs Olivia Lee<br>(Olivia Tan Sze Hui)</span><br></td>
-    <td class="tg-djmn"><a href="mailto:olivia_tan_sze_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">olivia_tan_sze_hui@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Karen Yeo Poh Cheng<br>(Mrs Karen Lee)</span><br></td>
+    <td class="tg-djmn"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Resilience</span></td>
