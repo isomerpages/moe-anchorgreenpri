@@ -46,7 +46,7 @@ Primary 6 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 iNtegrity</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mrs Jessica Yeow<br>(Mdm Jessica Ding Chooi Hui)</span></td>
-    <td class="tg-33ww"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mark_reutens@schools.gov.sg</span></a></td>
+    <td class="tg-33ww"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Bte Ismail</span><br></td>
