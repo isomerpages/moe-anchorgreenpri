@@ -81,8 +81,8 @@ Primary 6 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Resilience</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
-    <td class="tg-33ww"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Zen Ng Hui Wen</span><br></td>
+    <td class="tg-33ww"><a href="mailto:zen_ng_hui_wen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">zen_ng_hui_wen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Noraisha Bte Hamzah</span><br></td>
