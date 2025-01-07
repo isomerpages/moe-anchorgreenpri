@@ -87,21 +87,6 @@ Primary 6 Teaching Staff
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Noraisha Bte Hamzah</span><br></td>
     <td class="tg-g24l"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a><br></td>
-  </tr>
-	 <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Grace</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Aik Hwang Wendy</span><br></td>
-    <td class="tg-33ww"><a href="mailto:tan_aik_hwang_wendy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_aik_hwang_wendy@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Lee Chun Seng</span><br></td>
-    <td class="tg-g24l"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a><br></td>
-  </tr>
-<tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
-    <td class="tg-33ww"></td>
-  </tr>
-		
+  </tr>		
 </tbody>
 </table>
