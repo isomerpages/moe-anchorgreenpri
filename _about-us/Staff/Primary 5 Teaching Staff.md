@@ -89,8 +89,8 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mr Gordon Chua Koon Leng</span><br></td>
-    <td class="tg-agmf"><a href="mailto:gordon_chua_koon_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">gordon_chua_koon_leng@schools.gov.sg</span></a></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
+    <td class="tg-agmf"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a></td>
   </tr>
  	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
