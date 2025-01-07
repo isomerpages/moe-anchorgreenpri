@@ -39,58 +39,58 @@ Primary 5 Teaching Staff
 <tbody>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Agility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Lee Jierui Bernard</span><br></td>
-    <td class="tg-33ww"><a href="mailto:lee_jierui_bernard@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_jierui_bernard@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Risnawaty Baharudin</span><br></td>
+    <td class="tg-33ww"><a href="mailto:risnawaty_baharudin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">risnawaty_baharudin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
-    <td class="tg-g24l"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Neoh Wee Ling</span></td>
+    <td class="tg-g24l"><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mrs Jessica Yeow<br>(Jessica Ding Chooi Hui)</span></td>
-    <td class="tg-33ww"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Vincent Shanmugam</span></td>
+    <td class="tg-33ww"><a href="mailto:vincent_shanmugam@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vincent_shanmugam@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-3dle">Ms Anu Asohan</td>
-    <td class="tg-g24l"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a></td>
+    <td class="tg-3dle">Mr Lee Chun Seng</td>
+    <td class="tg-g24l"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a></td>
   </tr>
   
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Care</span></td>
-      <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Ang Swee Hong<br>(Mrs Chua)</span></td>
-    <td class="tg-33ww"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a><br></td>
+      <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Rafi Ahmad</span></td>
+    <td class="tg-33ww"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-   <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span></td>
-    <td class="tg-g24l"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a><br></td>
+   <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Kanaran Shanta Kumari</span></td>
+    <td class="tg-g24l"><a href="mailto:kanaran_shanta_kumari_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanaran_shanta_kumari_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Humility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span></td>
-    <td class="tg-djmn"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Aik Hwang Wendy</span></td>
+    <td class="tg-djmn"><a href="mailto:tan_aik_hwang_wendy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_aik_hwang_wendy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Nursyakila Masli</span></td>
-    <td class="tg-djmn"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju<br>(Ms Diane Chen)</span></td>
+    <td class="tg-djmn"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Optimism</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Bte Mustapha</span><br></td>
-    <td class="tg-djmn"><a href="mailto:siti_hazwani_mustapha@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Azna Abu Che</span><br></td>
+    <td class="tg-djmn"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
   </tr>
 	 <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Karen Yeo Poh Cheng<br>(Mrs Karen Lee)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Illiyana Bte Mohammad</span><br></td>
+    <td class="tg-33ww"><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Resilience</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Chia Cui Ling Emily</span></td>
-    <td class="tg-g24l"><a href="mailto:chia_cui_ling_emily@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_cui_ling_emily@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ng Jun Yan Nicholas</span></td>
+    <td class="tg-g24l"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chia Siew Lan</span><br></td>
-    <td class="tg-agmf"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
+    <td class="tg-agmf"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a></td>
   </tr>
  	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
