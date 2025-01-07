@@ -62,13 +62,14 @@ Primary 4 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:kanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span><br></td>
-    <td class="tg-g24l"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Ho Le Lian<br>(Mrs Amelia Pepito)
+</span><br></td>
+    <td class="tg-g24l"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Humility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Rafi Ahmad</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Vivienne Wee Mei Yin<br>(Mrs Vivienne Ong)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
