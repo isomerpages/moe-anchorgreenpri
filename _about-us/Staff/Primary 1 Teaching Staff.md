@@ -108,8 +108,9 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Innovation</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Sumaiyah Rashid</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_sumaiyah_rashid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_sumaiyah_rashid@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Thilakavathy D/O Govindasamy <br>(Mrs Sri) 
+</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
