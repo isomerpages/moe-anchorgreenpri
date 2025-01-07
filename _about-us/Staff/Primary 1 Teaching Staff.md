@@ -103,8 +103,8 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:evelyn_chua_sok_huang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">evelyn_chua_sok_huang@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span><br></td>
-    <td class="tg-fskk"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chen Zhen</span><br></td>
+    <td class="tg-fskk"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Innovation</span></td>
