@@ -52,8 +52,8 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:vincent_shanmugam@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vincent_shanmugam@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-3dle">Ms Anu Asohan</td>
-    <td class="tg-g24l"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a></td>
+    <td class="tg-3dle">Mr Lee Chun Seng</td>
+    <td class="tg-g24l"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a></td>
   </tr>
   
   <tr>
