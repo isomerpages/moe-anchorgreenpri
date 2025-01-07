@@ -40,16 +40,16 @@ Primary 3 Teaching Staff
     <td class="tg-33ww"><a href="mailto:ann_neo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ann_neo@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Humaira Mahmood</span></td>
+    <td class="tg-g24l"><a href="mailto:humaira_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">humaira_a@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 iNtegrity</span></td>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Tay Ling Ling</span></td>
     <td class="tg-g24l"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Jegendren Tanapal</span><br></td>
-    <td class="tg-33ww"><a href="mailto:jegendren_tanapal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jegendren_tanapal@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Tan Pei Shan</span><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr	Kay Wee Peng</span><br></td>
     <td class="tg-g24l"><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
