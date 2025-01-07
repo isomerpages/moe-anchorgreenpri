@@ -50,7 +50,7 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr	Kay Wee Peng</span><br></td>
-    <td class="tg-g24l"><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l"><a href="mailto:kay_wee_peng@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kay_wee_peng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
@@ -58,8 +58,9 @@ Primary 3 Teaching Staff
     <td class="tg-djmn"><a href="mailto:kanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Ho Le Lian<br>(Mrs Amelia Pepito)</span><br></td>
-    <td class="tg-djmn"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Poh Gim Siong
+</span><br></td>
+    <td class="tg-djmn"><a href="mailto:poh_gim_siong@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
