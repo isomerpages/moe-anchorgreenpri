@@ -43,8 +43,8 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:risnawaty_baharudin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">risnawaty_baharudin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
-    <td class="tg-g24l"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Neoh Wee Ling</span></td>
+    <td class="tg-g24l"><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 iNtegrity</span></td>
