@@ -64,12 +64,12 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Vivienne Wee Mei Yin</span><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Gordon Chua Koon Leng</span><br></td>
     <td class="tg-djmn"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Maslina Mohtar</span><br></td>
-    <td class="tg-djmn"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Jembu Krishnamurthy Nalini</span><br></td>
+    <td class="tg-djmn"><a href="mailto:jembu_krishnamurthy_nalini@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jembu_krishnamurthy_nalini@schools.gov.sg</span></a><br></td>
   </tr>
  
   <tr>
