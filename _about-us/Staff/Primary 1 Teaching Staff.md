@@ -45,16 +45,16 @@ Primary 1 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Agility</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Jessica Cahyadi</span><br></td>
-    <td class="tg-33ww"><a href="mailto:nurheryani_mudzakir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg </span></a><br></td>
+    <td class="tg-33ww"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff Mohd Yatim</span><br></td>
-    <td class="tg-g24l"><a href="mailto:tan_li_leng_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har <br>(Mrs Ada Loy)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chia Cui Ling Emily</span><br></td>
+    <td class="tg-33ww"><a href="mailto:chia_cui_ling_emily@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_cui_ling_emily@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Syazwani Shaibani</span><br></td>
