@@ -77,8 +77,8 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:loh_siang_choo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loh_siang_choo@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Tan Yu Ting</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Optimism</span></td>
