@@ -68,8 +68,8 @@ Primary 2 Teaching Staff
     <td class="tg-33ww"><a href="mailto:sheryl_eng_chin_chin@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Goh Kim Chuan Ivy</span><br></td>
-    <td class="tg-fskk"><a href="mailto:goh_kim_chuan_ivy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">goh_kim_chuan_ivy@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span><br></td>
+    <td class="tg-fskk"><a href="mailto:nurfarhana_omar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Humility</span></td>
