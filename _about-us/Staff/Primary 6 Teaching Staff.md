@@ -54,8 +54,8 @@ Primary 6 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Vincent Shanmugam</span></td>
-    <td class="tg-33ww"><a href="mailto:vincent_shanmugam@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vincent_shanmugam@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span></td>
+    <td class="tg-33ww"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Neoh Wee Ling</span></td>
