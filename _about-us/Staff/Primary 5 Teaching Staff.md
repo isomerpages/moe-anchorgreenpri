@@ -71,8 +71,8 @@ Primary 5 Teaching Staff
     <td class="tg-djmn"><a href="mailto:tan_aik_hwang_wendy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_aik_hwang_wendy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Nursyakila Masli</span></td>
-    <td class="tg-djmn"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju<br>(Ms Diane Chen)</span></td>
+    <td class="tg-djmn"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Optimism</span></td>
