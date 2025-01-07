@@ -95,13 +95,14 @@ Primary 2 Teaching Staff
     <td class="tg-agmf"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
-    <td class="tg-fskk"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">murlis_sani@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chin Sze Wei</span><br></td>
+    <td class="tg-fskk"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span><br></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chen Zhen</span><br></td>
-    <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
+</span><br></td>
+    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jessica Cahyadi</span><br></td>
