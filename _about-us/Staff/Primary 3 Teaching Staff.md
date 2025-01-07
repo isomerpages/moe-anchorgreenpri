@@ -74,7 +74,7 @@ Primary 3 Teaching Staff
  
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Optimism</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Polly Yun Poo Lai<br>(Mrs Polly Steven Goh)</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Shairah Sulaiman </span></td>
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a></td>
   </tr>
   <tr>
