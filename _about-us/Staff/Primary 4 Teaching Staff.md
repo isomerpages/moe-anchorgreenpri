@@ -48,7 +48,7 @@ Primary 4 Teaching Staff
     <td class="tg-33ww"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Azna Abu Che</span><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Jegendren S/O Tanapal</span><br></td>
     <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
   </tr>
 <tr>
