@@ -61,9 +61,10 @@ Kindergarten Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Basil<br> (AM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Binte Mohamad Pauzi</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg </a></span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin<br>
+(Ms. Hailey)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen </span></td>
