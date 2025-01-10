@@ -67,7 +67,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen </span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
   </tr>
  <tr>
