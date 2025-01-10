@@ -46,7 +46,7 @@ Kindergarten Teachers
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-rk1q{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-bnp4{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
