@@ -43,7 +43,7 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Christopher Koh</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Sech Wee</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administrative)</span><br></td>
   </tr>
   <tr>
