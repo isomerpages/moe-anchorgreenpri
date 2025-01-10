@@ -29,7 +29,7 @@ MK Staff
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Suffi Leonardi</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Centre Head</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:lau_yin_siong_winnie@schools.gov.sg">suffi_leonardi@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:suffi_leonardi@schools.gov.sg">suffi_leonardi@schools.gov.sg</a></span></td>
   </tr>
 	<tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar</span></td>
@@ -64,31 +64,31 @@ Kindergarten Teachers
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin<br>
 (Ms. Hailey)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">zhang_yonghong@schools.gov.sg</a></span></td>
   </tr>
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Misra<br>(Ms. Natalia)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:herna_natalia_misra@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>(Yali Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Pandan</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Seah Ai Ping<br>(Ms. Grace)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">seah_ai_ping@schools.gov.sg </a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:seah_ai_ping@schools.gov.sg">seah_ai_ping@schools.gov.sg </a></span></td>
  </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>
 (Yali Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">liu_yali@schools.gov.sg </a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 			
  <tr>
