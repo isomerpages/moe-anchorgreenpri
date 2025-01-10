@@ -43,7 +43,7 @@ Key Personnel
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Christopher Koh</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Sech Wee</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administrative)</span><br></td>
   </tr>
   <tr>
@@ -74,11 +74,6 @@ Science</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chua_yu_gek@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_yu_gek@schools.gov.sg</span></a></td>
   </tr>
 	 <tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chin Weng Kit Kelvin</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Character and Citizenship Education</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chin_weng_kit_kelvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_weng_kit_kelvin@schools.gov.sg</span></a></td>
-  </tr>	
-	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Hariani Salleh</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Information and Communication Technology</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a></td>
@@ -107,11 +102,6 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Kalyani S Ramasamy <br>(Mrs Vara)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Upper Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:kalyani_s_ramasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kalyani_s_ramasamy@schools.gov.sg</span></a></td>
-  </tr>
-	<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Hazwani Mustapha</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Science</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_hazwani_mustapha@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_hazwani_mustapha@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span><br></td>
