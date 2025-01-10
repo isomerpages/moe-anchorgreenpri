@@ -104,26 +104,26 @@ Kindergarten Teachers
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">K2 Basil </span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar<br>(Ms. Nora)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
   </tr>		 
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Mohamad Pauzi<br>(Ms. Nadhirah)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling
 <br>(Su Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:shabreen_begham_shaik_liyakatali@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lantana</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Chia Kah Yee<br>(Ms. Christine)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">chia_kah_yee_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:chia_kah_yee_a@schools.gov.sg">chia_kah_yee_a@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari<br>(Cikgu Ju)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:shabreen_begham_shaik_liyakatali@schools.gov.sg">juliana_binte_johari@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</a></span></td>
 	</tr><tr></tr>
 </tbody>
 </table>
