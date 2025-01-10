@@ -74,11 +74,6 @@ Science</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chua_yu_gek@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_yu_gek@schools.gov.sg</span></a></td>
   </tr>
 	 <tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chin Weng Kit Kelvin</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Character and Citizenship Education</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chin_weng_kit_kelvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_weng_kit_kelvin@schools.gov.sg</span></a></td>
-  </tr>	
-	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Hariani Salleh</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Information and Communication Technology</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a></td>
