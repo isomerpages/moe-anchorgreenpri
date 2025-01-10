@@ -102,14 +102,11 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2  Ixora</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Tan Hwee Shin Clarie</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">tan_hwee_shin_clarie@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">K2 Basil </span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar<br>(Ms. Nora)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:tan_hwee_shin_clarie@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
   </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali</span></td>
-		 <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
-  </tr>
+  
 			 
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Rosemary</span></td>
