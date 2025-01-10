@@ -71,13 +71,13 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
   </tr>
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Lemongrass (AM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hidayah Binte Yahya</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">hidayah_binte_yahya@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Misra<br>(Ms. Natalia)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hidayah_binte_yahya@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">M. Tania</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg </a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>(Yali Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
