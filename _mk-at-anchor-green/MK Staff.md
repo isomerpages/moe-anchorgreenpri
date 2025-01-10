@@ -81,23 +81,25 @@ Kindergarten Teachers
   </tr>
 			 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1  Basil &amp; Lemongrass (PM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">M. Tania</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Pandan</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Seah Ai Ping<br>(Ms. Grace)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">seah_ai_ping@schools.gov.sg </a></span></td>
  </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen </span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>
+(Yali Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">liu_yali@schools.gov.sg </a></span></td>
   </tr>
 			
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Hibiscus (AM &amp; PM)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Rosemary</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">M Tania<br>
+(Ms. Tania)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara Abdul Hakkim<br>(Ms. Sabeen)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2  Ixora</span></td>
