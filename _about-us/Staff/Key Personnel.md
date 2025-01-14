@@ -44,7 +44,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Sech Wee</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administrative)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administration)</span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>
