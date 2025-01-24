@@ -100,13 +100,13 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span><br></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
-</span><br></td>
-    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span><br></td>
     <td class="tg-fskk"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+   <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
+</span><br></td>
+    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
