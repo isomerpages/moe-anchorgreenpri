@@ -63,13 +63,13 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Sheryl Eng Chin Chin
-</span><br></td>
-    <td class="tg-33ww"><a href="mailto:sheryl_eng_chin_chin@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@moe.edu.sg</span></a></td>
+     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span><br></td>
+    <td class="tg-fskk"><a href="mailto:nurfarhana_omar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurfarhana Binte Omar</span><br></td>
-    <td class="tg-fskk"><a href="mailto:nurfarhana_omar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurfarhana_omar@schools.gov.sg</span></a><br></td>
+   <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Sheryl Eng Chin Chin
+</span><br></td>
+    <td class="tg-33ww"><a href="mailto:sheryl_eng_chin_chin@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Humility</span></td>
@@ -100,22 +100,22 @@ Primary 2 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span><br></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
-</span><br></td>
-    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span><br></td>
     <td class="tg-fskk"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Ng Lai Muay</span><br></td>
-    <td class="tg-rxka"><a href="mailto:ng_lai_muay_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_lai_muay_a@moe.edu.sg</span></a><br></td>
+   <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
+</span><br></td>
+    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
+    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span></td>
     <td class="tg-rxka"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Ng Lai Muay</span><br></td>
+    <td class="tg-rxka"><a href="mailto:ng_lai_muay_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_lai_muay_a@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
