@@ -61,7 +61,7 @@ description: ""
 					<td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self">Canteen Menu</a>
 					</td>
             <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/2025-book-lists/" target="_self">Book Lists</a></td>
-            <td valign="middle" align="center"><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank"><br>Sexuality Education Opt-Out Form
+            <td valign="middle" align="center"><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank">Sexuality Education Opt-Out Form
 </a>
 					</td>
         </tr>
