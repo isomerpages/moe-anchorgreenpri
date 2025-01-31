@@ -51,7 +51,8 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td></td>
+					<td><a href="your landing page url"><img style="width:50%" height="auto" width="100%" src="/images/Resources/Logo/MOE%20Kindergarten.jpg"><br>MOE Kindergarten
+</a></td>
             <td></td>
             <td></td>
         </tr>
