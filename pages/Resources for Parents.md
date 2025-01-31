@@ -51,7 +51,7 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self">MOE Kindergarten</a>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%">MOE Kindergarten</a>
 					</td>
             <td><a href="https://www.anchorgreenpri.moe.edu.sg//useful-links/resources-for-parents/school-vendors/" target="_self">School Vendors</a></td>
             <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Student Care Information</a>
