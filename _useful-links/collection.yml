@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Resources for Parents/.keep
-      - Resources for Parents/Resources for Parents.md
       - School Vendors.md
       - Student Care Information.md
       - Canteen Menu/.keep
