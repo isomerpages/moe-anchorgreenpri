@@ -28,7 +28,7 @@ Parents and Guardians can have a deeper understanding of the school's programmes
 
 ### Group Personal Accident Insurance
 
-The school’s group insurer for 2024 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
+The school’s group insurer for 2025 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
 
 
 ### Keeping Singapore Dengue-Free
