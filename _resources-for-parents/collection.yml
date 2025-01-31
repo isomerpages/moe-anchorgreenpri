@@ -1,5 +1,4 @@
 collections:
   resources-for-parents:
     output: true
-    order:
-      - 2025 Book Lists.md
+    order: []
