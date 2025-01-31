@@ -51,17 +51,17 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td valign="middle" align="center"><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_blank"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
+					<td style="text-align: center; vertical-align: middle;"><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_blank"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
 					</td>
-            <td valign="middle" align="center"><a href="https://www.koobits.com/" target="_blank"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
-            <td valign="middle" align="center"><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank"><img src="/images/Resources/Logo/AGPS_OPAC.jpg" style="width:100%"><br>OPAC</a>
+            <td style="text-align: center; vertical-align: middle;"><a href="https://www.koobits.com/" target="_blank"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
+            <td style="text-align: center; vertical-align: middle;"><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank"><img src="/images/Resources/Logo/AGPS_OPAC.jpg" style="width:100%"><br>OPAC</a>
 					</td>
         </tr>
     <tr>
-					<td valign="middle" align="center"><a href="https://www.ezhishi.com/" target="_blank"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
+					<td style="text-align: center; vertical-align: middle;"><a href="https://www.ezhishi.com/" target="_blank"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
 <br></a>
 					</td>
-            <td valign="middle" align="center"><a href="https://www.myon.com.sg/index.html" target="_blank"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyOn</a></td>
+            <td style="text-align: center; vertical-align: middle;"><a href="https://www.myon.com.sg/index.html" target="_blank"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyON</a></td>
             <td>
 					</td>
         </tr>
