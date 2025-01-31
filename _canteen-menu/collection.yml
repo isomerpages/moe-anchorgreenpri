@@ -2,4 +2,5 @@ collections:
   canteen-menu:
     output: true
     order:
+      - "Stall No 2: Chinese Rice Food Stall.md"
       - "Stall No 1: Cold Drinks & Fruits Stall.md"
