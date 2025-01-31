@@ -53,7 +53,7 @@ description: ""
         <tr>
 					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/school-vendors/" target="_self"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
+            <td><a href="https://www.koobits.com/" target="_self"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
             <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/student-care-information/" target="_self">OPAC</a>
 					</td>
         </tr>
