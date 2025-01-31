@@ -67,7 +67,7 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
   <tr>
     <td class="tg-7yig" rowspan="3">Growing Years</td>
     <td class="tg-7yig">The Changes in Me <br>(60 min)</td>
-    <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.  <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+    <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.  <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 	
 </td>
     <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 6</span></td>
