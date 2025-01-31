@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Focus
 
-The [CCE] Department is committed to nurturing Anchorlites who are Agile Learners and Gracious citizens.
+The CCE Department is committed to nurturing Anchorlites who are Agile Learners and Gracious citizens.
 
 #### Objectives
 
