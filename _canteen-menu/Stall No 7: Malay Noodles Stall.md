@@ -1,8 +1,7 @@
 ---
 title: "Stall No 7: Malay Noodles Stall"
-permalink: /resources/canteen-menu/stall-no-7-malay-noodles-stall/
+permalink: /useful-links/resources-for-parents/canteen-menu/stall-no-7-malay-noodles-stall/
 description: ""
-third_nav_title: Canteen Menu
 variant: markdown
 ---
 Stall No. 7: Malay Noodles Stall

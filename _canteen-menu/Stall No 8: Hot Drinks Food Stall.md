@@ -1,8 +1,7 @@
 ---
 title: "Stall No 8: Hot Drinks Food Stall"
-permalink: /resources/canteen-menu/stall-no-8-hot-drinks-food-stall/
+permalink: /useful-links/resources-for-parents/canteen-menu/stall-no-8-hot-drinks-food-stall/
 description: ""
-third_nav_title: Canteen Menu
 variant: markdown
 ---
 Stall No. 8: Hot Drinks Food Stall

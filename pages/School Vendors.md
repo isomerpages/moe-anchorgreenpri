@@ -1,6 +1,6 @@
 ---
 title: School Vendors
-permalink: /resources/school-vendors/
+permalink: /useful-links/resources-for-parents/school-vendors/
 description: ""
 variant: markdown
 ---

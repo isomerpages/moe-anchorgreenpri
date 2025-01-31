@@ -1,6 +1,6 @@
 ---
 title: 2025 Book Lists
-permalink: /resources/2025-book-lists/
+permalink: /useful-links/resources-for-parents/2025-book-lists/
 description: ""
 variant: markdown
 ---

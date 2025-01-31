@@ -1,6 +1,6 @@
 ---
 title: Student Care Information
-permalink: /resources/student-care-information/
+permalink: /useful-links/resources-for-parents/student-care-information/
 description: ""
 variant: markdown
 ---

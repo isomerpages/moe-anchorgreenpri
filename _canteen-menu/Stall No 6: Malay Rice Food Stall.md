@@ -1,8 +1,7 @@
 ---
 title: "Stall No 6: Malay Rice Food Stall"
-permalink: /resources/canteen-menu/stall-no-6-malay-rice-food-stall/
+permalink: /useful-links/resources-for-parents/canteen-menu/stall-no-6-malay-rice-food-stall/
 description: ""
-third_nav_title: Canteen Menu
 variant: markdown
 ---
 Stall No. 6: Malay Rice Food Stall

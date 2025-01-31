@@ -1,9 +1,8 @@
 ---
 title: "Stall No 4: Japanese & Korean Stall"
-permalink: /resources/canteen-menu/stall-no-4-japanese-korean-stall/
+permalink: /useful-links/resources-for-parents/canteen-menu/stall-no-4-japanese-korean-stall/
 description: ""
 variant: markdown
-third_nav_title: Canteen Menu
 ---
 Stall No. 4: Japanese &amp; Korean Stall
 ======================

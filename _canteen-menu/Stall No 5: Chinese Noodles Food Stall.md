@@ -1,8 +1,7 @@
 ---
 title: "Stall No 5: Chinese Noodles Food Stall"
-permalink: /resources/canteen-menu/stall-no-5-chinese-noodles-food-stall/
+permalink: /useful-links/resources-for-parents/canteen-menu/stall-no-5-chinese-noodles-food-stall/
 description: ""
-third_nav_title: Canteen Menu
 variant: markdown
 ---
 Stall No. 5: Chinese Noodles Food Stall
