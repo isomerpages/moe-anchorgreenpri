@@ -61,15 +61,15 @@ description: ""
 					<td><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self"><br>Canteen Menu<br></a>
 					</td>
             <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/2025-book-lists/" target="_self"><br>Book Lists</a></td>
-            <td><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_self"><br>Sexuality Education Opt-Out Form<br><br>
+            <td><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank"><br>Sexuality Education Opt-Out Form<br><br>
 </a>
 					</td>
         </tr>
  <tr>
-					<td><a href="https://pg.moe.edu.sg/" target="_self"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%"><br>Parent Gateway</a>
+					<td><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%"><br>Parent Gateway</a>
 					</td>
-            <td><a href="https://www.schoolbag.edu.sg/" target="_self"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%"><br>SchoolBag</a></td>
-            <td><a href="https://www.pacificbookstores.com/" target="_self"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%"><br>Pacific Bookstore</a>
+            <td><a href="https://www.schoolbag.edu.sg/" target="_blank"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%"><br>SchoolBag</a></td>
+            <td><a href="https://www.pacificbookstores.com/" target="_blank"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%"><br>Pacific Bookstore</a>
 					</td>
         </tr>
     </tbody>
