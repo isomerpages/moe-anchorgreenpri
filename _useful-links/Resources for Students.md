@@ -61,7 +61,7 @@ description: ""
 					<td><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
 <br></a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/2025-book-lists/" target="_self"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyOn</a></td>
+            <td><a href="https://www.myon.com.sg/index.html" target="_self"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyOn</a></td>
             <td>
 					</td>
         </tr>
