@@ -51,10 +51,10 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_blank"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
+					<td valign="middle" align="center"><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_blank"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
 					</td>
-            <td><a href="https://www.koobits.com/" target="_blank"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
-            <td><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">OPAC</a>
+            <td valign="middle" align="center"><a href="https://www.koobits.com/" target="_blank"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
+            <td valign="middle" align="center"><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>OPAC</a>
 					</td>
         </tr>
     <tr>
