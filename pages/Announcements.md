@@ -6,35 +6,18 @@ variant: markdown
 ---
 Announcements
 =============
-
-### Change of Student Care Centre (SCC) Operator in Anchor Green Primary School
-
-Dear Parents of Students in Anchor Green Primary School Student Care Centre (SCC)
-
-QSF- The Enablers has been our SCC operator since 2022.  The current contract with the company will expire on 31 December 2024.
-
-In accordance with the government’s financial protocol and guidelines, the school has appointed Little Professors Learning Centre Pte Ltd as the new SCC operator from 1 January 2025. 
-
-We would like to take this opportunity to extend our appreciation to QSF- The Enablers for the years of partnership and welcome Little Professors Learning Centre Pte Ltd.
-
-For any queries, please contact Little Professors at 81574130 or email: <a href="mailto:anchorgreen@littleprofessors.com.sg">anchorgreen@littleprofessors.com.sg</a>
-
-
-
-
-### Introduction to AGPS
-
-Parents and Guardians can have a deeper understanding of the school's programmes and facilities by watching the following video - <a href="https://www.facebook.com/anchorgreenps/videos/298317394871952" target="_blank">AGPS Corporate Video</a>. 
+### 2025 MOE Kindergarten (MK) Open House
+MK@Anchor Green is having our MK Open House on Saturday, 8 February 2025. Find out more at the <a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/open-house/" target="_self">MK Open house! </a>
 
 ### Group Personal Accident Insurance
+The school’s group insurer for 2025 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
 
-The school’s group insurer for 2024 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
-
+### Introduction to AGPS
+Parents and Guardians can have a deeper understanding of the school's programmes and facilities by watching the following video - <a href="https://www.facebook.com/anchorgreenps/videos/298317394871952" target="_blank">AGPS Corporate Video</a>. 
 
 ### Keeping Singapore Dengue-Free
 
-Dear Parents/ Guardians,
-
+Dear Parents/ Guardians,<br>
 In our national efforts to keep Singapore Dengue free, pls ensure stagnant water is removed by<br>
 a)&nbsp; Turning the pail  
 b)&nbsp; Tipping the vase  
