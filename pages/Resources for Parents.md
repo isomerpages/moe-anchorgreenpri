@@ -66,7 +66,7 @@ description: ""
 					</td>
         </tr>
  <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%">Parent Gateway</a>
+					<td><a href="https://pg.moe.edu.sg/" target="_self"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%">Parent Gateway</a>
 					</td>
             <td><a href="https://www.schoolbag.edu.sg/" target="_self"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%">SchoolBag</a></td>
             <td><a href="https://www.pacificbookstores.com/" target="_self"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%">Pacific Bookstore</a>
