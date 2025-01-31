@@ -28,9 +28,9 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
   
 
-**Overview of Anchor Green Primary School’s  Sexuality Education Programme for 2024**
+**Overview of Anchor Green Primary School’s  Sexuality Education Programme for 2025**
 
-4.&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>for more information on the scope of Sexuality Education in the school curriculum.
+4.&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click  <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:<br>a.&nbsp;Science<br>b.&nbsp;Character and Citizenship Education (CCE)
 
@@ -38,9 +38,9 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 6\.&nbsp;The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
-7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. 
+7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks
 
-**At Anchor Green Primary School, the following Sexuality Education lessons will be taught in 2024:**
+**At Anchor Green Primary School, the following Sexuality Education lessons will be taught in 2025:**
 
 #### Primary 5
 
@@ -58,8 +58,8 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 <thead>
   <tr>
     <th class="tg-px6y">UNIT</th>
-    <th class="tg-px6y">LESSONS / DURATION</th>
-    <th class="tg-px6y">LESSON OBJECTIVES</th>
+    <th class="tg-px6y">LESSONS TITLE / DURATION</th>
+    <th class="tg-px6y">LESSON OVERVIEW</th>
     <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
@@ -67,10 +67,10 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
   <tr>
     <td class="tg-7yig" rowspan="3">Growing Years</td>
     <td class="tg-7yig">The Changes in Me <br>(60 min)</td>
-    <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+    <td class="tg-ktyi">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.  <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 	
 </td>
-    <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 9</span></td>
+    <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 6</span></td>
 	</tr>
  <tr>
     <td class="tg-7yig">Did You Know? <br>(60 min)</td>
