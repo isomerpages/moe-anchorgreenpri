@@ -51,7 +51,7 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%">MOE Kindergarten</a>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%"><br>MOE Kindergarten</a>
 					</td>
             <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
             <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/student-care-information/" target="_self"><br>Student Care Information</a>
@@ -66,10 +66,10 @@ description: ""
 					</td>
         </tr>
  <tr>
-					<td><a href="https://pg.moe.edu.sg/" target="_self"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%">Parent Gateway</a>
+					<td><a href="https://pg.moe.edu.sg/" target="_self"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%"><br>Parent Gateway</a>
 					</td>
-            <td><a href="https://www.schoolbag.edu.sg/" target="_self"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%">SchoolBag</a></td>
-            <td><a href="https://www.pacificbookstores.com/" target="_self"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%">Pacific Bookstore</a>
+            <td><a href="https://www.schoolbag.edu.sg/" target="_self"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%"><br>SchoolBag</a></td>
+            <td><a href="https://www.pacificbookstores.com/" target="_self"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%"><br>Pacific Bookstore</a>
 					</td>
         </tr>
     </tbody>
