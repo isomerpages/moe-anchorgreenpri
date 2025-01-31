@@ -60,8 +60,8 @@ description: ""
     <tr>
 					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Canteen Menu<br></a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Book Lists</a></td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Sexuality Education Opt-Out Form<br><br>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg//useful-links/resources-for-parents/2025-book-lists/" target="_self"><br>Book Lists</a></td>
+            <td><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_self"><br>Sexuality Education Opt-Out Form<br><br>
 </a>
 					</td>
         </tr>
