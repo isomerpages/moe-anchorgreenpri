@@ -58,7 +58,7 @@ description: ""
 					</td>
         </tr>
     <tr>
-					<td valign="middle" align="center"><a href="/useful-links/resources-for-parents/canteen-menu/" target="_self">Canteen Menu</a>
+					<td valign="middle" align="center"><a href="/useful-links/resources-for-parents/canteen-menu/stall-no-1-cold-drinks-fruits-stall/" target="_self">Canteen Menu</a>
 					</td>
             <td valign="middle" align="center"><a href="/useful-links/resources-for-parents/2025-book-lists/" target="_self">Book Lists</a></td>
             <td valign="middle" align="center"><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank">Sexuality Education Opt-Out Form
