@@ -51,20 +51,26 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><img style="width:50%" height="auto" width="100%" src="/images/Resources/Logo/MOE%20Kindergarten.jpg"><br>MOE Kindergarten
-</a></td>
-            <td></td>
-            <td></td>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">MOE Kindergarten</a>
+					</td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">School Vendors</a></td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Student Care Information</a>
+					</td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+    <tr>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Canteen Menu</a>
+					</td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Book Lists</a></td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Sexuality Education Opt-Out Form
+</a>
+					</td>
         </tr>
-			<tr>
-            <td></td>
-            <td></td>
-            <td></td>
+ <tr>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">MOE Kindergarten</a>
+					</td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">School Vendors</a></td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Student Care Information</a>
+					</td>
         </tr>
     </tbody>
 </table></div>
