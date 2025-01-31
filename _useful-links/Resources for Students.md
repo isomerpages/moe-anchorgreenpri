@@ -58,7 +58,7 @@ description: ""
 					</td>
         </tr>
     <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
+					<td><a href="https://www.ezhishi.com/" target="_self"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
 <br></a>
 					</td>
             <td><a href="https://www.myon.com.sg/index.html" target="_self"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyOn</a></td>
