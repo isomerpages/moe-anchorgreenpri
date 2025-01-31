@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Resources for Parents.md
       - Resources for Parents/.keep
       - School Vendors.md
       - Student Care Information.md
