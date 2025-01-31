@@ -51,7 +51,7 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
+					<td><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_self"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
 					</td>
             <td><a href="https://www.koobits.com/" target="_self"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
             <td><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_self">OPAC</a>
