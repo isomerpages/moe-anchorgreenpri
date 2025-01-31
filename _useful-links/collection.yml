@@ -1,5 +1,5 @@
 collections:
-  resources:
+  useful-links:
     output: true
     order:
       - Resources for Parents/.keep
