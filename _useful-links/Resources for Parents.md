@@ -51,16 +51,16 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%"><br>MOE Kindergarten</a>
+					<td valign="middle" align="center"><a href="h/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%"><br>MOE Kindergarten</a>
 					</td>
-            <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
-            <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/student-care-information/" target="_self"><br>Student Care Information</a>
+            <td valign="middle" align="center"><a href="/useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
+            <td valign="middle" align="center"><a href="/useful-links/resources-for-parents/student-care-information/" target="_self"><br>Student Care Information</a>
 					</td>
         </tr>
     <tr>
-					<td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self">Canteen Menu</a>
+					<td valign="middle" align="center"><a href="/useful-links/resources-for-parents/canteen-menu/" target="_self">Canteen Menu</a>
 					</td>
-            <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/2025-book-lists/" target="_self">Book Lists</a></td>
+            <td valign="middle" align="center"><a href="/useful-links/resources-for-parents/2025-book-lists/" target="_self">Book Lists</a></td>
             <td valign="middle" align="center"><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank">Sexuality Education Opt-Out Form
 </a>
 					</td>
