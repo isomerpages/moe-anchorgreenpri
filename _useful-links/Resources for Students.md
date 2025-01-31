@@ -22,7 +22,7 @@ description: ""
 
 .table_component caption {
     caption-side: top;
-    text-align: left;
+    text-align: center;
 }
 
 .table_component th {
