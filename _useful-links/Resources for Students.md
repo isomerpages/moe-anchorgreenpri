@@ -51,17 +51,17 @@ description: ""
     </thead>
     <tbody>
         <tr>
-					<td><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_self"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
+					<td><a href="https://vle.learning.moe.edu.sg/login&quot;" target="_blank"><img src="/images/Resources/Logo/SLS.png" style="width:40%"><br>SLS</a>
 					</td>
-            <td><a href="https://www.koobits.com/" target="_self"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
-            <td><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_self">OPAC</a>
+            <td><a href="https://www.koobits.com/" target="_blank"><img src="/images/Resources/Logo/Koobits.jpg" style="width:80%"><br>Koobits</a></td>
+            <td><a href="https://schoolibrary.moe.edu.sg/anchorgreenpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank">OPAC</a>
 					</td>
         </tr>
     <tr>
-					<td><a href="https://www.ezhishi.com/" target="_self"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
+					<td><a href="https://www.ezhishi.com/" target="_blank"><img src="/images/Resources/Logo/eZhishi.jpg" style="width:80%"><br>E-Zhishi
 <br></a>
 					</td>
-            <td><a href="https://www.myon.com.sg/index.html" target="_self"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyOn</a></td>
+            <td><a href="https://www.myon.com.sg/index.html" target="_blank"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyOn</a></td>
             <td>
 					</td>
         </tr>
