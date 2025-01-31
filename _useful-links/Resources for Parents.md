@@ -53,23 +53,23 @@ description: ""
         <tr>
 					<td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%"><br>MOE Kindergarten</a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/student-care-information/" target="_self"><br>Student Care Information</a>
+            <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
+            <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/student-care-information/" target="_self"><br>Student Care Information</a>
 					</td>
         </tr>
     <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self"><br>Canteen Menu<br></a>
+					<td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/canteen-menu/" target="_self">Canteen Menu</a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/2025-book-lists/" target="_self"><br>Book Lists</a></td>
-            <td><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank"><br>Sexuality Education Opt-Out Form<br><br>
+            <td valign="middle" align="center"><a href="https://www.anchorgreenpri.moe.edu.sg/useful-links/resources-for-parents/2025-book-lists/" target="_self">Book Lists</a></td>
+            <td valign="middle" align="center"><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank"><br>Sexuality Education Opt-Out Form
 </a>
 					</td>
         </tr>
  <tr>
-					<td><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%"><br>Parent Gateway</a>
+					<td valign="middle" align="center"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%"><br>Parent Gateway</a>
 					</td>
-            <td><a href="https://www.schoolbag.edu.sg/" target="_blank"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%"><br>SchoolBag</a></td>
-            <td><a href="https://www.pacificbookstores.com/" target="_blank"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%"><br>Pacific Bookstore</a>
+            <td valign="middle" align="center"><a href="https://www.schoolbag.edu.sg/" target="_blank"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%"><br>SchoolBag</a></td>
+            <td valign="middle" align="center"><a href="https://www.pacificbookstores.com/" target="_blank"><br><img src="/images/Resources/Logo/Pacific%20Bookstore.jpg" style="width:80%"><br>Pacific Bookstore</a>
 					</td>
         </tr>
     </tbody>
