@@ -53,23 +53,23 @@ description: ""
         <tr>
 					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%">MOE Kindergarten</a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg//useful-links/resources-for-parents/school-vendors/" target="_self">School Vendors</a></td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Student Care Information</a>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg//useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Student Care Information</a>
 					</td>
         </tr>
     <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Canteen Menu</a>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Canteen Menu<br></a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Book Lists</a></td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Sexuality Education Opt-Out Form
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Book Lists</a></td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br>Sexuality Education Opt-Out Form<br><br>
 </a>
 					</td>
         </tr>
  <tr>
-					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">MOE Kindergarten</a>
+					<td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%">Parent Gateway</a>
 					</td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">School Vendors</a></td>
-            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self">Student Care Information</a>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><br><img src="/images/Resources/Logo/SchoolBag.png" style="width:80%">SchoolBag</a></td>
+            <td><a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/&quot;" target="_self"><img src="/images/Resources/Logo/Pacific%20%Bookstore.jpg" style="width:80%">Pacific Bookstore</a>
 					</td>
         </tr>
     </tbody>
