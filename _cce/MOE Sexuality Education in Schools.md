@@ -106,8 +106,8 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 <thead>
   <tr>
     <th class="tg-c9ql">UNIT</th>
-    <th class="tg-px6y">LESSONS / DURATION</th>
-    <th class="tg-px6y">LESSON OBJECTIVES</th>
+    <th class="tg-px6y">LESSON TITLE / DURATION</th>
+    <th class="tg-px6y">LESSON OVERVIEW</th>
     <th class="tg-px6y">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
@@ -116,12 +116,12 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
     <td class="tg-7yig" rowspan="2">Growing Years</td>
     <td class="tg-7yig">Are We More Than Friends?<br>Lesson 1<br>(60 min)</td>
     <td class="tg-ktyi">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-    <td class="tg-7yig">Term 1 Week 6</td>
+    <td class="tg-7yig">Term 1 Week 10</td>
   </tr>
   <tr>
     <td class="tg-7yig">Are We More Than Friends?<br>Lesson 2<br>(60 min)</td>
     <td class="tg-ktyi">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-    <td class="tg-7yig"><span style="background-color:initial">Term 1 Week 10</span></td></tr><tr></tr>
+    <td class="tg-7yig"><span style="background-color:initial">Term 2 Week 5</span></td></tr><tr></tr>
 </tbody>
 </table>
 
@@ -129,6 +129,6 @@ You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" target="_
 
 8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/For%20Parents/MOE_Sexuality_Education_in_Schools_Parent_Opt_Out_Form_2024.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 01/02/2024.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/For%20Parents/MOE_Sexuality_Education_in_Schools_Parent_Opt_Out_Form_2024.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 07/02/2024.
 
 10\. Parents can contact the school at 68861356 or anchorgreen_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
