@@ -16,4 +16,4 @@ description: ""
 </div>
 <p></p>
 <br>
-<a href="/files/MK/MKOH_2025_for_MKAG_WEBSITE.pdf" target="_blank">MK@Anhcor Green Open House 2025 Slide</a>
+<b><a href="/files/MK/MKOH_2025_for_MKAG_WEBSITE.pdf" target="_blank">MK@Anhcor Green Open House 2025 Slide</a></b>
