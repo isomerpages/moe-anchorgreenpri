@@ -104,6 +104,11 @@ Science</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:kalyani_s_ramasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kalyani_s_ramasamy@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Shairah Sulaiman</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Assistant Year Head<br>Middle Primary</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shairah_sulaiman@schools.gov.sg</span></a></td>
+  </tr>
+	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Student Leadership</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a></td>
