@@ -15,5 +15,5 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Main/MK_Anchor_Green_Open_House_2025_01.jpg">
 </div>
 <p></p>
-
+<br>
 <a href="/files/MK/MKOH_2025_for_MKAG_WEBSITE.pdf" target="_blank">MK@Anhcor Green Open House 2025 Slide</a>
