@@ -163,7 +163,7 @@ The AGPS Tamil Language Tamil Unit organizes Deepavali Celebration concert every
 
 **Chinese Language**<br>
  &nbsp;&nbsp;&nbsp;&nbsp; a. P1-P6 eZhishi (Online Chinese Magazine)知识网<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a target="_blank" href="https://www.ezhishi.net/Contents/">https://www.ezhishi.net/Contents/</a>
+&nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a target="_blank" href="https://www.ezhishi.net/">https://www.ezhishi.net/</a>
 
  &nbsp;&nbsp;&nbsp;&nbsp; b. P1-P6 Singapore News for Children早报（大拇指和小拇指）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Website:&nbsp;<a href="https://www.zbschools.sg/" target="_blank">https://www.zbschools.sg/</a>
