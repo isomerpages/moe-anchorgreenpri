@@ -54,13 +54,13 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Olivia Tan Sze Hui<br>(Mrs Olivia Lee)</span><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Poh Gim Siong</span><br></td>
     <td class="tg-djmn"><a href="mailto:olivia_tan_sze_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">olivia_tan_sze_hui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Poh Gim Siong
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Yeo Siew Ju
 </span><br></td>
-    <td class="tg-djmn"><a href="mailto:poh_gim_siong_a@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">poh_gim_siong_a@moe.edu.sg</span></a><br></td>
+    <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
