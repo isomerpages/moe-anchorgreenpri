@@ -32,4 +32,4 @@ Anchor Green Primary School has a student care centre, which caters specially to
 *   Email:&nbsp;[anchorgreen@littleprofessors.com.sg](mailto:anchorgreen@littleprofessors.com.sg)
 
 For more details about Little Professor @ AGPS, please refer to this 
-<a href="/files/Resources/Student%20Care/Little%20Professors_AGPS_Updated.pdf" target="_blank">link.</a>
+<a href="/files/Resources/Student%20Care/Little_Professors_AGPS_Updated.pdf" target="_blank">link.</a>
