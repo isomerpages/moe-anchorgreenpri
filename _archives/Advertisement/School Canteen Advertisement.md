@@ -15,9 +15,10 @@ School Canteen Advertisement
 <th align="left">Requirements</th>
 </tr>
 <tr>
-<td align="left">Malay Noodles Stall </td>
-<td align="left">10 May 2024 </td>
-<td align="left">Halal</td>
+<td align="left">•	Others (Halal)</td>
+<td align="left">21 March 2025 </td>
+<td align="left">· Asia Cuisine (Japanese) <br>· Indian Cuisine (Vegetarian, Prata, Briyani)
+</td>
 </tr>
 </tbody></table>
 
