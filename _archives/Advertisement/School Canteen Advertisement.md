@@ -48,17 +48,14 @@ School Canteen Advertisement
 
 *   Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 *   Able to provide good service, good variety and quality food with reasonable prices determined in consultation with the school.
-*   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">(see link)</a>.
+*   Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">(see link)</a>.
 *   Able to maintain high standard of food safety and personal hygiene.
 *   Healthy and fit to operate the stall.
-*   Must be in personal attendance at the stall during operating hours.
-*   Shall not provide disposables for dine-in meals in the canteen.
-*   Prior experience in running a school canteen stall is an added advantage.
 
 #### Applicants should preferably fulfil the following criteria:
 
-*   Successful applicant and stall assistant(s) must possess the Workforce Skills Qualification (WSQ) Food Safety Course Level 1.
+*   Successful applicants and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.
 *   Possess catering experience or experience operating in a school environment.
-*   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). They may apply the License from GoBusiness website.
+*   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)
 
 _Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense._
