@@ -49,18 +49,8 @@ Application Procedure<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Email: anchorgreen_ps@moe.edu.sg<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Contact Person: Mr James Leong / MPs Jeal Leow<br><br>
 How to get there?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Nearest MRT: Seng Kang MRT <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Bus number: 372 , 110
-
-Interested applicants must meet the following criteria:<br>
-•	Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.<br>
-•	Able to provide good service and quality food with prices determined in consultation with the school.<br>
-•	Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link)<br>
-•	Able to maintain high standard of food safety and personal hygiene.<br>
-•	Healthy and fit to operate the stall.<br>
-
-Applicants should preferably fulfill the following criteria:
-•	Successful applicants and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.
-•	Possess catering experience or experience operating in a school environment.
-•	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)
-
-Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Committee at the applicant’s own expense
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Nearest MRT: Seng Kang MRT <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Bus number: 372 , 110<br><br>Interested applicants must meet the following criteria: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Able to provide good service and quality food with prices determined in consultation with the school.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Able to maintain high standard of food safety and personal hygiene.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Healthy and fit to operate the stall.<br><br> Applicants should preferably fulfill the following criteria:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Successful applicants and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Possess catering experience or experience operating in a school environment.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)<br><br>
+<i>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Committee at the applicant’s own expense</i>
