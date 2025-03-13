@@ -47,18 +47,16 @@ Application Procedure<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Address: Anchor Green Primary School, 31 Anchorvale Drive S(544969)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Contact No: 68861356<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Email: anchorgreen_ps@moe.edu.sg<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Contact Person: Mr James Leong / MPs Jeal Leow<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Contact Person: Mr James Leong / MPs Jeal Leow<br><br>
 How to get there?<br>
-•	Nearest MRT: Seng Kang MRT
-•	Bus number: 372 , 110
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Nearest MRT: Seng Kang MRT <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Bus number: 372 , 110
 
-Interested applicants must meet the following criteria:
-•	Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-•	Able to provide good service and quality food with prices determined in consultation with the school.
-•	Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link)
-•	Able to maintain high standard of food safety and personal hygiene.
-•	Healthy and fit to operate the stall.
+Interested applicants must meet the following criteria:<br>
+•	Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.<br>
+•	Able to provide good service and quality food with prices determined in consultation with the school.<br>
+•	Able to provide cooked food that meets the health/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link)<br>
+•	Able to maintain high standard of food safety and personal hygiene.<br>
+•	Healthy and fit to operate the stall.<br>
 
 Applicants should preferably fulfill the following criteria:
 •	Successful applicants and stall assistant(s) must possess the WSQ basic Food Hygiene Certificate.
