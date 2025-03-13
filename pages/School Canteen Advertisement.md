@@ -6,12 +6,37 @@ description: ""
 ---
 ### **Call for Canteen Vendor Applications – Anchor Green Primary School**
 
-   Are you passionate about providing nutritious and delicious meals to young minds? Anchor Green Primary School is seeking dedicated and innovative canteen vendors to join our vibrant school community!
-Type of Stall	Closing Date	Requirements
-•	Others (Halal)
- 	21 March 2025	·         Asia Cuisine (Japanese)
-·         Indian Cuisine (Vegetarian, Prata, Briyani)
- 
+Are you passionate about providing nutritious and delicious meals to young minds? Anchor Green Primary School is seeking dedicated and innovative canteen vendors to join our vibrant school community!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fskk{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-lb3e{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Type of Stall</th>
+    <th class="tg-1h0n">Closing Date</th>
+    <th class="tg-1h0n">Requirement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">•	 Others (Halal)</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">21 March 2025</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">•	 Asia Cuisine (Japanese)<br>• Indian Cuisine (Vegetarian, Prata, Briyani)
+</span></td>
+  </tr>
+  
+</tbody>
+</table>
  
 Application Procedure
 1.	Download and complete the application form. You may also request for a hardcopy from the School’s General Office
