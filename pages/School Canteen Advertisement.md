@@ -37,21 +37,19 @@ Are you passionate about providing nutritious and delicious meals to young minds
   
 </tbody>
 </table>
- 
-Application Procedure
-1.	Download and complete the application form. You may also request for a hardcopy from the School’s General Office
-Application for Canteen Stall in Existing School
-2.	Attach the following documents together with the application form:
-•	Photocopy of the NRIC (front and back)
-•	List of proposed menu and pricing for all items
-•	Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
-3.	Submit the completed application form and documents by closing date via email OR to the School’s General Office
-•	Address: Anchor Green Primary School, 31 Anchorvale Drive S(544969)
-•	Contact No: 68861356
-•	Email: anchorgreen_ps@moe.edu.sg
-•	Contact Person: Mr James Leong / MPs Jeal Leow
+Application Procedure<br><br>
+&nbsp;&nbsp;&nbsp; 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office<br><br>
+&nbsp;&nbsp;&nbsp; 2. Attach the following documents together with the application form:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Photocopy of the NRIC (front and back)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	List of proposed menu and pricing for all items<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.<br><br>
+&nbsp;&nbsp;&nbsp;3.	Submit the completed application form and documents by closing date via email OR to the School’s General Office<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Address: Anchor Green Primary School, 31 Anchorvale Drive S(544969)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Contact No: 68861356<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Email: anchorgreen_ps@moe.edu.sg<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Contact Person: Mr James Leong / MPs Jeal Leow<br>
 
-How to get there?
+How to get there?<br>
 •	Nearest MRT: Seng Kang MRT
 •	Bus number: 372 , 110
 
