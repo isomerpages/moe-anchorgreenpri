@@ -38,7 +38,7 @@ Are you passionate about providing nutritious and delicious meals to young minds
 </tbody>
 </table>
 Application Procedure<br><br>
-&nbsp;&nbsp;&nbsp; 1. Download and complete the <a href="/files/Booklist/2025/AGPS_P1_Booklist_2025.pdf" target="_blank">application form</a>. You may also request for a hardcopy from the School’s General Office.<br><br>
+&nbsp;&nbsp;&nbsp; 1. Download and complete the <a href="/files/Resources/Canteen/Application_for_Canteen_Stall_in_Existing_School.pdf" target="_blank">application form</a>. You may also request for a hardcopy from the School’s General Office.<br><br>
 &nbsp;&nbsp;&nbsp; 2. Attach the following documents together with the application form:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	Photocopy of the NRIC (front and back)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •	List of proposed menu and pricing for all items<br>
