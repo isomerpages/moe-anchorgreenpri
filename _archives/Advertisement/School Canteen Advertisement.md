@@ -30,11 +30,12 @@ School Canteen Advertisement
 2.  Attached the following documents together with the application form:
     *   Photocopy of the NRIC (front and back)
     *   List of proposed menu and pricing for all items
-    *   Photocopy of Workforce Skills Qualification (WSQ) Food Safety Course Level 1 of Applicant and Assistant (if any)
+    *   Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
 3.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
     *   Address: Anchor Green Primary School 31 Anchorvale Drive Singapore 544969
+    *   Contact No: 68861356
     *   Email:&nbsp; <a href="mailto: anchorgreen_ps@moe.edu.sg">anchorgreen_ps@moe.edu.sg</a>
-    *   Contact Person: Mdm Jeal Leow / Mdm Grace Sim
+    *   Contact Person: Mr James Leong / Mdm Jeal Leow
 
 #### How to get there?
 
