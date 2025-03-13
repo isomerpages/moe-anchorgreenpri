@@ -25,7 +25,7 @@ School Canteen Advertisement
 #### Application Procedure
 
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.  
-<a href="https://www.anchorgreenpri.moe.edu.sg/files/Resources/Canteen/application%20form%20for%20canteen%20stall.pdf" target="_blank">Application Form</a> 
+<a href="https://www.anchorgreenpri.moe.edu.sg/files/Resources/Canteen/Application_for_Canteen_Stall_in_Existing_School.pdf" target="_blank">Application Form</a> 
     
 2.  Attached the following documents together with the application form:
     *   Photocopy of the NRIC (front and back)
