@@ -73,7 +73,7 @@ description: ""
 					</td>
         </tr>
 	 <tr>
-					<td style="text-align: center; vertical-align: middle;"><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Resources/Logo/Parents_Gateway.png" style="width:40%"><br>Group Personal Accident (GPA) Insurance Plan for Students</a>
+					<td style="text-align: center; vertical-align: middle;"><br><a href="https://pg.moe.edu.sg/" target="_blank"><img src="/images/Resources/Logo/Income_Insurance.png" style="width:80%">Group Personal Accident (GPA) Insurance Plan for Students</a>
 					</td>
             <td style="text-align: center; vertical-align: middle;"></td>
             <td style="text-align: center; vertical-align: middle;">
