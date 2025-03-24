@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - Advertisement/.keep
       - Backup/Parents Gateway.md
       - Backup/Student Learning Space (SLS).md
       - Backup/Digital Literacy Programme.md
