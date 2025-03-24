@@ -85,11 +85,11 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
     <td class="tg-569y">10.30 a.m. to 11.00 a.m.</td>
   </tr>
   <tr>
-    <td class="tg-735f">P3 &amp; P6</td>
+    <td class="tg-735f">P4 &amp; P6</td>
     <td class="tg-735f">11.00 a.m. to 11.30 a.m.</td>
   </tr>
 	  <tr>
-    <td class="tg-735f">P4 &amp; P5</td>
+    <td class="tg-735f">P3 &amp; P5</td>
     <td class="tg-735f">9.00 a.m. to 9.30 a.m.</td>
   </tr>
  
@@ -114,17 +114,20 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
     <th class="tg-51ln">Levels</th>
     <th class="tg-51ln">Day</th>
     <th class="tg-51ln">Time</th>
+		 <th class="tg-51ln">Remarks</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vhpo">P3  &amp; P6</td>
+    <td class="tg-vhpo">P4  &amp; P6</td>
     <td class="tg-vhpo" rowspan="2">Thursday</td>
     <td class="tg-vhpo">1.30 p.m. to 2.00 p.m.</td>
+		<td class="tg-vhpo"></td>
   </tr>
   <tr>
-    <td class="tg-v8f3">P4 &amp; P5</td>
+    <td class="tg-v8f3">P3 &amp; P5</td>
     <td class="tg-v8f3">1.00 p.m. to 1.30 p.m.</td>
+		<td class="tg-v8f3">P3 will go for lunch <br> at 12 p.m. in Term 2 due to <br>Swimsafer Programme</td>
   </tr>
 </tbody>
 </table>
