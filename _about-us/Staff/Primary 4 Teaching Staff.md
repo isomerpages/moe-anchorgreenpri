@@ -43,11 +43,7 @@ Primary 4 Teaching Staff
     <td class="tg-g24l"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">huang_qin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">4 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Insani</span><br></td>
-    <td class="tg-33ww"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 iNtegrity</span></td>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Jegendren S/O Tanapal</span><br></td>
     <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:jegendren_tanapal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jegendren_tanapal@schools.gov.sg</span></a><br></td>
   </tr>
@@ -86,13 +82,17 @@ Primary 4 Teaching Staff
     <td class="tg-g24l"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thangavel_divya@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Resilience</span></td>
+    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">4 Resilience</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Loy Qiu Yi</span><br></td>
     <td class="tg-33ww"><a href="mailto:loy_qiu_yi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loy_qiu_yi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz Jelaludin</span></td>
     <td class="tg-g24l"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Insani</span></td>
+    <td class="tg-g24l"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>

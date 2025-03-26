@@ -53,12 +53,12 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chia Cui Ling Emily</span><br></td>
-    <td class="tg-33ww"><a href="mailto:chia_cui_ling_emily@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_cui_ling_emily@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span><br></td>
+    <td class="tg-33ww"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span><br></td>
-    <td class="tg-g24l"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Yap Seok Wee Tania</span><br></td>
+    <td class="tg-g24l"><a href="mailto:"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Care</span></td>
@@ -67,7 +67,7 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Annie Lim</span><br></td>
-    <td class="tg-33ww"><a href="mailto:lim_annie@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_annie@moe.edu.sg</span></a><br></td>
+    <td class="tg-33ww"><a href="mailto:annie_lim@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">annie_lim@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Humility</span></td>

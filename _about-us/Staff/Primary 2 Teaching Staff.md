@@ -69,7 +69,7 @@ Primary 2 Teaching Staff
   <tr>
    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Sheryl Eng Chin Chin
 </span><br></td>
-    <td class="tg-33ww"><a href="mailto:sheryl_eng_chin_chin@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@moe.edu.sg</span></a></td>
+    <td class="tg-33ww"><a href="mailto:sheryl_eng_chin_chin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Humility</span></td>
@@ -106,7 +106,7 @@ Primary 2 Teaching Staff
   <tr>
    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
 </span><br></td>
-    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@moe.edu.sg</span></a><br></td>
+    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
