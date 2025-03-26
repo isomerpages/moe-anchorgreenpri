@@ -67,7 +67,7 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Annie Lim</span><br></td>
-    <td class="tg-33ww"><a href="mailto:lim_annie@moe.edu.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_annie@moe.edu.sg</span></a><br></td>
+    <td class="tg-33ww"><a href="mailto:annie_lim@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">annie_lim@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Humility</span></td>
