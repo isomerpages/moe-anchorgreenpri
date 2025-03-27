@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ### Call for Canteen Vendor Applications – Anchor Green Primary School
-
+Are you passionate about providing nutritious and delicious meals to young minds? Anchor Green Primary School is seeking dedicated and innovative canteen vendors to join our vibrant school community!
 <table>
 <tbody>
 <tr>
@@ -14,9 +14,9 @@ description: ""
 <th align="left">Requirements</th>
 </tr>
 <tr>
-<td align="left">•	Others (Halal)</td>
-<td align="left">21 March 2025 </td>
-<td align="left">· Asia Cuisine (Japanese) <br>· Indian Cuisine (Vegetarian, Prata, Briyani)
+	<td align="left">•	Others (Halal/<font color="red">Non Halal)</font></td>
+	<td align="left"><font color="red">21 March 2025 </font></td>
+	<td align="left"><font color="red">· Asia Cuisine (Japanese/Korean)</font><br>· Indian Cuisine (Vegetarian, Prata, Briyani)
 </td>
 </tr>
 </tbody></table>
@@ -24,7 +24,7 @@ description: ""
 #### Application Procedure
 
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.  
-<a href="https://www.anchorgreenpri.moe.edu.sg/files/Resources/Canteen/Application_for_Canteen_Stall_in_Existing_School.pdf" target="_blank">Application Form</a> 
+<a href="https://www.anchorgreenpri.moe.edu.sg/files/Resources/Canteen/Application_for_Canteen_Stall_in_Existing_School.pdf" target="_blank">Application for Canteen Stall in Existing School</a> 
     
 2.  Attached the following documents together with the application form:
     *   Photocopy of the NRIC (front and back)
@@ -38,10 +38,8 @@ description: ""
 
 #### How to get there?
 
-*   Nearest MRT: NE16 Sengkang , 10 minutes walk to the school
-*   Bus number  
-    110, 372, 671 – Blk 313B Bus stop number: 67361  
-    110, 372, 671 - Block 306CP Bus stop number: 67369
+*   Nearest MRT: Seng Kang MRT
+*   Bus number: 372 , 110
 
 #### Interested applicants must meet the following criteria:
 
