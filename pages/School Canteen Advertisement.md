@@ -14,9 +14,9 @@ description: ""
 <th align="left">Requirements</th>
 </tr>
 <tr>
-<td align="left">•	Others (Halal)</td>
-<td align="left">21 March 2025 </td>
-<td align="left">· Asia Cuisine (Japanese) <br>· Indian Cuisine (Vegetarian, Prata, Briyani)
+	<td align="left">•	Others (Halal/<p style="color:red">Non Halal)</p></td>
+	<td align="left"><p style="color:red">21 March 2025 </p></td>
+	<td align="left"><p style="color:red">· Asia Cuisine (Japanese/Korean)</p><br>· Indian Cuisine (Vegetarian, Prata, Briyani)
 </td>
 </tr>
 </tbody></table>
