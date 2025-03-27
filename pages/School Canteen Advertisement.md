@@ -16,7 +16,7 @@ description: ""
 <tr>
 	<td align="left">•	Others (Halal/<p style="color:red">Non Halal)</p></td>
 	<td align="left"><p style="color:red">21 March 2025 </p></td>
-	<td align="left"><p style="color:red">· Asia Cuisine (Japanese/Korean)</p><br>· Indian Cuisine (Vegetarian, Prata, Briyani)
+	<td align="left"><p style="color:red">· Asia Cuisine (Japanese/Korean)</p>· Indian Cuisine (Vegetarian, Prata, Briyani)
 </td>
 </tr>
 </tbody></table>
