@@ -58,7 +58,7 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Tania Yap</span><br></td>
-    <td class="tg-g24l"><a href="mailto:"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
+    <td class="tg-g24l"><a href="mailto:yap_seok_wee_tania@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yap_seok_wee_tania@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Care</span></td>
