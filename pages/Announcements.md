@@ -7,7 +7,7 @@ variant: markdown
 Announcements
 =============
 ### 2025 AGPS Open House
-<br>
+
 <div class="row">
   <div class="column">
     <img style="width:100%" src="/images/Announcements/2025_AGPS_Open_House_1.png">
