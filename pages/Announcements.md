@@ -8,7 +8,17 @@ Announcements
 =============
 ### 2025 AGPS Open House
 
-
+<div class="row">
+  <div class="column">
+    <img style="width:100%" src="/images/Announcements/2025_AGPS_Open_House_1.png">
+  </div>
+	<div class="column">
+    &nbsp;
+  </div>
+  <div class="column">
+    <img style="width:100%" src="/images/Announcements/2025_AGPS_Open_House_2.png">
+</div>
+</div>
 
 ### Group Personal Accident Insurance
 The school’s group insurer for 2025 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
