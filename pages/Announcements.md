@@ -6,8 +6,9 @@ variant: markdown
 ---
 Announcements
 =============
-### 2025 MOE Kindergarten (MK) Open House
-MK@Anchor Green is having our MK Open House on Saturday, 8 February 2025. Find out more at the <a href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/open-house/" target="_self">MK Open house! </a>
+### 2025 AGPS Open House
+
+
 
 ### Group Personal Accident Insurance
 The school’s group insurer for 2025 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
