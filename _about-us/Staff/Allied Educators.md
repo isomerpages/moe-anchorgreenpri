@@ -40,6 +40,16 @@ Allied Educators
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Special Educational Needs Officer</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ching_zai_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ching_zai_ting@schools.gov.sg</span></a></td>
   </tr>
+<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sim Ruijing Rachel</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Special Educational Needs Officer</span></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:sim_ruijing_rachel@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">sim_ruijing_rachel@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Julizza Binte Jumahat </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Special Educational Needs Officer</span><br></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:julizza_jumahat@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">julizza_jumahat@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ong Boon Sze Clare</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior School Counsellor</span><br></td>
