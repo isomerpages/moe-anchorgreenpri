@@ -75,7 +75,7 @@ description: ""
 	 <tr>
 					<td style="text-align: center; vertical-align: middle;"><br><a href="/files/Resources/Insurance/Income_Insurance_Product_Fact_Sheet_Year_2025.pdf" target="_blank"><img src="/images/Resources/Logo/Income_Insurance.png" style="width:80%">Group Personal Accident (GPA) Insurance Plan for Students</a>
 					</td>
-            <td style="text-align: center; vertical-align: middle;"><br><a href="/files/Resources/Insurance/Income_Insurance_Product_Fact_Sheet_Year_2025.pdf" target="_blank"><img src="/images/Resources/Logo/Income_OrangeAid.png" style="width:60%">Income Family Micro-Insurance Scheme </a></td>
+            <td style="text-align: center; vertical-align: middle;"><br><a href="/files/Resources/Insurance/Briefing_on_IFMIS_2025.pdf" target="_blank"><img src="/images/Resources/Logo/Income_OrangeAid.png" style="width:60%">Income Family Micro-Insurance Scheme </a></td>
             <td style="text-align: center; vertical-align: middle;">
 					</td>
         </tr>
