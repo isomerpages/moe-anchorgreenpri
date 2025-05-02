@@ -62,7 +62,7 @@ description: ""
 <br></a>
 					</td>
             <td style="text-align: center; vertical-align: middle;"><a href="https://www.myon.com.sg/index.html" target="_blank"><img src="/images/Resources/Logo/myON.jpg" style="width:80%"><br>MyON</a></td>
-            <td>
+			<td style="text-align: center; vertical-align: middle;"><a href="/useful-links/resources-for-students/home-based-learning/" target="_self"><h1>HBL</h1>Home-based Learning</a>
 					</td>
         </tr>
     </tbody>
