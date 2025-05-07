@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h3>Home-based Learning</h3>
-<p style="font-size:18px; color:green; display:inline">1. Class Timetable</p>
+<p style="font-size:20px; color:green; display:inline">1. Class Timetable</p>
 <details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 1</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
@@ -76,11 +76,11 @@ description: ""
 <a href="/files/HBL/Timetable/6R_HBL_Timetable_2025.pdf" target="_blank">6 Resilience</a><br>
 </div></details><br>
 	
-<p style="font-size:18px; color:green; display:inline">2. Student Guide to SLS</p>
+<p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
 <a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
 <a href="/files/HBL/a%20students'%20guide%20to%20using%20sls%20for    %20hbl.pdf" target="_blank">A Student's Guide to Using SLS for HBL</a>
 <br>
-<p style="font-size:18px; color:green; display:inline">3. Point of Contact</p>
+<p style="font-size:20px; color:green; display:inline">3. Point of Contact</p>
 For issues with MIMS or SLS account:<br>
 1. Francis Locanas - <a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">locanas_francis_gutierrez@schools.gov.sg
 </span></a><br>
