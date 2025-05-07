@@ -7,7 +7,7 @@ description: ""
 <h3>Home-based Learning</h3>
 <p style="font-size:20px; color:green; display:inline">1. Class Timetable</p>
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 2</p>
+<summary><p style="font-size:15px; color:black; display:inline">Primary 1</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/1A_HBL_Timetable_2025__Cleared_.pdf" target="_blank">1 Agility</a><br>
 <a href="/files/HBL/Timetable/1N_HBL_Timetable_2025__Cleared_.pdf" target="_blank">1 iNtegrity</a><br>
