@@ -7,7 +7,7 @@ description: ""
 <h3>Home-based Learning</h3>
 <p style="font-size:20px; color:green; display:inline">1. Class Timetable</p>
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 1</p>
+<summary><p style="font-size:18px; color:black; display:inline">Primary 1</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/1A_HBL_Timetable_2025.pdf" target="_blank">1 Agility</a><br>
 <a href="/files/HBL/Timetable/1N_HBL_Timetable_2025.pdf" target="_blank">1 iNtegrity</a><br>
@@ -20,7 +20,7 @@ description: ""
 </div></details>
 	
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 2</p>
+<summary><p style="font-size:18px; color:black; display:inline">Primary 2</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/2A_HBL_Timetable_2025.pdf" target="_blank">2 Agility</a><br>
 <a href="/files/HBL/Timetable/2N_HBL_Timetable_2025.pdf" target="_blank">2 iNtegrity</a><br>
@@ -33,7 +33,7 @@ description: ""
 </div></details>
 
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 3</p>
+<summary><p style="font-size:18px; color:black; display:inline">Primary 3</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/3A_HBL_Timetable_2025.pdf" target="_blank">3 Agility</a><br>
 <a href="/files/HBL/Timetable/3N_HBL_Timetable_2025.pdf" target="_blank">3 iNtegrity</a><br>
@@ -44,7 +44,7 @@ description: ""
 </div></details>
 
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 4</p>
+<summary><p style="font-size:18px; color:black; display:inline">Primary 4</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/4A_HBL_Timetable_2025.pdf" target="_blank">4 Agility</a><br>
 <a href="/files/HBL/Timetable/4N_HBL_Timetable_2025.pdf" target="_blank">4 iNtegrity</a><br>
@@ -55,7 +55,7 @@ description: ""
 </div></details>
 
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 5</p>
+<summary><p style="font-size:18px; color:black; display:inline">Primary 5</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/5A_HBL_Timetable_2025.pdf" target="_blank">5 Agility</a><br>
 <a href="/files/HBL/Timetable/5N_HBL_Timetable_2025.pdf" target="_blank">5 iNtegrity</a><br>
@@ -66,7 +66,7 @@ description: ""
 </div></details>
 
 <details>
-<summary><p style="font-size:15px; color:black; display:inline">Primary 6</p>
+<summary><p style="font-size:18px; color:black; display:inline">Primary 6</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/6A_HBL_Timetable_2025.pdf" target="_blank">6 Agility</a><br>
 <a href="/files/HBL/Timetable/6N_HBL_Timetable_2025.pdf" target="_blank">6 iNtegrity</a><br>
