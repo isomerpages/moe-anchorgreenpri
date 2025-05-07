@@ -14,7 +14,7 @@ Primary 1<br><br>
 <details>
 <summary><p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
 </summary><div data-type="detailsContent" class="isomer-details-content"><br>1. 
-	<a href="/files/Booklist/2025/AGPS_P1_Booklist_2025.pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
+	<a href="/files/HBL/AGPS_P1_Booklist_2025.pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
 	<br></div></details><br>
 	
 <details>
