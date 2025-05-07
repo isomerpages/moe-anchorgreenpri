@@ -74,7 +74,7 @@ description: ""
 <a href="/files/HBL/Timetable/6H_HBL_Timetable_2025.pdf" target="_blank">6 Humility</a><br>
 <a href="/files/HBL/Timetable/6O_HBL_Timetable_2025.pdf" target="_blank">6 Optimism</a><br>
 <a href="/files/HBL/Timetable/6R_HBL_Timetable_2025.pdf" target="_blank">6 Resilience</a><br>
-</div></details><br>
+</div></details>
 	
 <p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
 <a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
