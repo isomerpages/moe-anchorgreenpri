@@ -13,7 +13,7 @@ Primary 1<br><br>
 	
 <details>
 <summary><p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content"><br>1. 
 	<a href="/files/Booklist/2025/AGPS_P1_Booklist_2025.pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
 	<br></div></details><br>
 	
@@ -21,8 +21,8 @@ Primary 1<br><br>
 <summary><p style="font-size:20px; color:green; display:inline">3. Point of Contact</p>
 </summary><div data-type="detailsContent" class="isomer-details-content"><br>
 	For issues with MIMS or SLS account:<br><br>
-	Francis Locanas - <a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">locanas_francis_gutierrez@schools.gov.sg
+	1. Francis Locanas - <a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">locanas_francis_gutierrez@schools.gov.sg
 </span></a><br>
-	Hariani Salleh  - <a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a>
+	2. Hariani Salleh  - <a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a>
 <br>
 </div></details>
