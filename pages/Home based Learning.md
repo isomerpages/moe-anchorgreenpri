@@ -14,8 +14,8 @@ Primary 1<br><br>
 <details>
 <summary><p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
 </summary><div data-type="detailsContent" class="isomer-details-content"><br>1. 
-	<a href="/files/HBL/briefing slides for_students (pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>2. 
-<a href="/files/HBL/a students' guide to using sls for hbl.pdf" target="_blank">A Student's Guide to Using SLS for HBL</a>
+	<a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>2. 
+<a href="/files/HBL/a%20students'%20guide%20to%20using%20sls%20for    %20hbl.pdf" target="_blank">A Student's Guide to Using SLS for HBL</a>
 	<br></div></details><br>
 	
 <details>
