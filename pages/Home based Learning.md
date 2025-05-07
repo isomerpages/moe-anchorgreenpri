@@ -7,12 +7,12 @@ description: ""
 <h3>Home-based Learning</h3>
 <p style="font-size:20px; color:green; display:inline">1. Class Timetable</p>
 <br>
-Primary 1<br>
-Primary 2<br>
-Primary 3<br>
-Primary 4<br>
-Primary 5<br>
-Primary 6<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 4<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 6<br><br>
 	
 <p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a>
