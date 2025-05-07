@@ -6,9 +6,9 @@ description: ""
 ---
 <h3>Home-based Learning</h3>
 <p style="font-size:18px; color:green; display:inline">1. Class Timetable</p>
-<details>
+&lt;<details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 1</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/1A_HBL_Timetable_2025.pdf" target="_blank">1 Agility</a><br>
 <a href="/files/HBL/Timetable/1N_HBL_Timetable_2025.pdf" target="_blank">1 iNtegrity</a><br>
 <a href="/files/HBL/Timetable/1C_HBL_Timetable_2025.pdf" target="_blank">1 Care</a><br>
@@ -21,7 +21,7 @@ description: ""
 	
 <details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 2</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/2A_HBL_Timetable_2025.pdf" target="_blank">2 Agility</a><br>
 <a href="/files/HBL/Timetable/2N_HBL_Timetable_2025.pdf" target="_blank">2 iNtegrity</a><br>
 <a href="/files/HBL/Timetable/2C_HBL_Timetable_2025.pdf" target="_blank">2 Care</a><br>
@@ -34,7 +34,7 @@ description: ""
 
 <details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 3</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/3A_HBL_Timetable_2025.pdf" target="_blank">3 Agility</a><br>
 <a href="/files/HBL/Timetable/3N_HBL_Timetable_2025.pdf" target="_blank">3 iNtegrity</a><br>
 <a href="/files/HBL/Timetable/3C_HBL_Timetable_2025.pdf" target="_blank">3 Care</a><br>
@@ -45,7 +45,7 @@ description: ""
 
 <details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 4</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/4A_HBL_Timetable_2025.pdf" target="_blank">4 Agility</a><br>
 <a href="/files/HBL/Timetable/4N_HBL_Timetable_2025.pdf" target="_blank">4 iNtegrity</a><br>
 <a href="/files/HBL/Timetable/4C_HBL_Timetable_2025.pdf" target="_blank">4 Care</a><br>
@@ -56,7 +56,7 @@ description: ""
 
 <details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 5</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/5A_HBL_Timetable_2025.pdf" target="_blank">5 Agility</a><br>
 <a href="/files/HBL/Timetable/5N_HBL_Timetable_2025.pdf" target="_blank">5 iNtegrity</a><br>
 <a href="/files/HBL/Timetable/5C_HBL_Timetable_2025.pdf" target="_blank">5 Care</a><br>
@@ -67,7 +67,7 @@ description: ""
 
 <details>
 <summary><p style="font-size:15px; color:black; display:inline">Primary 6</p>
-</summary><div data-type="detailsContent" class="isomer-details-content"><br>
+</summary><div data-type="detailsContent" class="isomer-details-content">
 <a href="/files/HBL/Timetable/6A_HBL_Timetable_2025.pdf" target="_blank">6 Agility</a><br>
 <a href="/files/HBL/Timetable/6N_HBL_Timetable_2025.pdf" target="_blank">6 iNtegrity</a><br>
 <a href="/files/HBL/Timetable/6C_HBL_Timetable_2025.pdf" target="_blank">6 Care</a><br>
