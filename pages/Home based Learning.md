@@ -19,7 +19,8 @@ Primary 1<br><br>
 <details>
 <summary><p style="font-size:20px; color:green; display:inline">3. Point of Contact</p>
 </summary><div data-type="detailsContent" class="isomer-details-content">
-	Francis Locanas - locanas_frac
+	For issues with MIMS or SLS account:<br><br>
+	Francis Locanas - locanas_frac<br>
 	Hariani Salleh  - 
 <br>
 </div></details>
