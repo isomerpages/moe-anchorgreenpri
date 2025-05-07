@@ -12,7 +12,7 @@ description: ""
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 3<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 4<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 6<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 6<br><br>
 	
 <p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
 
