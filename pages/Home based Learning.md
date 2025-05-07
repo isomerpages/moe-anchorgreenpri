@@ -15,12 +15,12 @@ Primary 5<br>
 Primary 6<br><br>
 	
 <p style="font-size:20px; color:green; display:inline">2. Student Guide to SLS</p>
-<br>1. <a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a>
-<br>2. <a href="/files/HBL/a%20students'%20guide%20to%20using%20sls%20for    %20hbl.pdf" target="_blank">A Student's Guide to Using SLS for HBL</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. <a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. <a href="/files/HBL/a%20students'%20guide%20to%20using%20sls%20for    %20hbl.pdf" target="_blank">A Student's Guide to Using SLS for HBL</a>
 <br><br>
 <p style="font-size:20px; color:green; display:inline">3. Point of Contact</p>
-<br>For issues with MIMS or SLS account:<br>
-1. Francis Locanas - <a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">locanas_francis_gutierrez@schools.gov.sg
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For issues with MIMS or SLS account:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Francis Locanas - <a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">locanas_francis_gutierrez@schools.gov.sg
 </span></a><br>
-2. Hariani Salleh  - <a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hariani Salleh  - <a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a>
 <br>
