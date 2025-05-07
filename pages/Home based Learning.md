@@ -22,5 +22,5 @@ description: ""
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For issues with MIMS or SLS account:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Francis Locanas - <a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">locanas_francis_gutierrez@schools.gov.sg
 </span></a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hariani Salleh  - <a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hariani Salleh  - <a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a>
 <br>
