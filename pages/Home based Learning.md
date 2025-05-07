@@ -6,7 +6,6 @@ description: ""
 ---
 <h3>Home-based Learning</h3>
 <p style="font-size:18px; color:green; display:inline">1. Class Timetable</p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 1<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 3<br>
