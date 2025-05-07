@@ -4,7 +4,7 @@ permalink: /useful-links/resources-for-students/home-based-learning/
 variant: markdown
 description: ""
 ---
-<h3>Discipline Philosophy and School Rules</h3><br>
+<h3>Home-based Learning</h3><br>
 <details>
 <summary><p style="font-size:20px; color:green; display:inline">1. Class Timetable</p>
 </summary><div data-type="detailsContent" class="isomer-details-content"><br>
