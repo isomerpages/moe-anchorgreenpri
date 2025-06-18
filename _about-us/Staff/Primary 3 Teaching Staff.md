@@ -78,8 +78,9 @@ Primary 3 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shairah_sulaiman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Nursyakila Masli</span><br></td>
-    <td class="tg-djmn"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Tan Meng Kwang Alvin</span><br></td>
+    <td class="tg-djmn"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg
+</span></a></td>
   </tr><tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Resilience</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br> (Mrs Juliana Tan)</span><br></td>
