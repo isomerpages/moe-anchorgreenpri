@@ -46,11 +46,6 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-lb3e"><a href="mailto:locanas_francis_gutierrez@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">locanas_francis_gutierrez@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sim Kuay Geok</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Administrative Executive</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:sim_kuay_geok@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">sim_kuay_geok@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Gan Siew Han</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Administrative Executive (MK)</span><br></td>
     <td class="tg-lb3e"><a href="mailto:gan_siew_han@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">gan_siew_han@schools.gov.sg</span></a><br></td>
@@ -59,6 +54,11 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nuraisyah Omar</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Administrative Executive</span><br></td>
     <td class="tg-lb3e"><a href="mailto:nuraisyah_omar@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nuraisyah_omar@schools.gov.sg</span></a><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sim Kuay Geok</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Administrative Executive</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:sim_kuay_geok@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">sim_kuay_geok@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ang Guek Huay</span><br></td>
@@ -75,13 +75,7 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
-	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Serene Ong Swee Choo</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
-    <td class="tg-fskk"></td>
-  </tr>
-	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jenny Cheng Lay Ho</span><br></td>
+  <tr><td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jenny Cheng Lay Ho</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
@@ -90,13 +84,19 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
-	<tr>
+		<tr>
+	</tr><tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ong Ah Tow</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
+    <td class="tg-fskk"></td>
+  </tr>
+		<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Patricia Phang Kheng</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
 	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ong Ah Tow</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Serene Ong Swee Choo</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
   </tr>
