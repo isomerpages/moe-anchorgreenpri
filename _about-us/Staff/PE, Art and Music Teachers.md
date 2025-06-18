@@ -33,15 +33,15 @@ Art
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
     <td class="tg-fskk"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Yu Ting</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
-  </tr>
 		<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Nur Illiyana Bte Mohammad</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a></td>
+  </tr>
+ <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Yu Ting</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
@@ -78,15 +78,15 @@ Music
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music</span><br></td>
     <td class="tg-fskk"><a href="mailto:chua_yu_gek@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_yu_gek@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music</span></td>
-    <td class="tg-fskk"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Jessica Ding Chooi Hui</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music</span></td>
     <td class="tg-fskk"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Music</span></td>
+    <td class="tg-fskk"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
