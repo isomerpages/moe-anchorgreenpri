@@ -129,7 +129,18 @@ Physical Education
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-lb3e"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg
 </span></a><br></td>
-  </tr><tr>
+  </tr>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+  </tr>
+	<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Karen Yeo Poh Cheng <br>(Mrs Karen Lee)</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-lb3e"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a></td>
@@ -140,24 +151,14 @@ Physical Education
     <td class="tg-lb3e"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
+    <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-fskk"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a></td>
-  </tr>
-	  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
