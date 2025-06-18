@@ -49,18 +49,18 @@ Primary 3 Teaching Staff
     <td class="tg-g24l"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr	Kay Wee Peng</span><br></td>
-    <td class="tg-g24l"><a href="mailto:kay_wee_peng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kay_wee_peng@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-g24l"><a href="mailto:kay_wee_peng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Poh Gim Siong</span><br></td>
-    <td class="tg-djmn"><a href="mailto:poh_gim_siong_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">poh_gim_siong_a@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Yeo Siew Ju</span><br></td>
+    <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Yeo Siew Ju
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">
 </span><br></td>
-    <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
@@ -78,17 +78,18 @@ Primary 3 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shairah_sulaiman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Nursyakila Masli</span><br></td>
-    <td class="tg-djmn"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Tan Meng Kwang Alvin</span><br></td>
+    <td class="tg-djmn"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg
+</span></a></td>
   </tr><tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Resilience</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br> (Mrs Juliana Tan)</span><br></td>
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">teo_yen_yen@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss Tricia Chong Mei
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">
 </span><br></td>
-    <td class="tg-djmn"><a href="mailto:tricia_chong_mei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tricia_chong_mei@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><a href="mailto:tricia_chong_mei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
   </tr>
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
