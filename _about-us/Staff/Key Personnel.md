@@ -53,11 +53,6 @@ Key Personnel
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">vinitha_nair@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>English Language</span><br></td>
-    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Gek Moi</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br> Mother Tongue Languages</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A"> ang_gek_moi@schools.gov.sg</span></a><br></td>
@@ -83,6 +78,12 @@ Science</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education &amp; Co-Curricular Activities</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a></td>
   </tr> 
+<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Meng Kwang Alvin</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>
+Physical Education</span><br></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg</span></a><br></td>
+  </tr>
 	<tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Toh Xuying Geraldine<br>(Mrs Kong)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department<br>Mathematics</span><br></td>
