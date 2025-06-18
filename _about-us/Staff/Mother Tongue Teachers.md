@@ -182,6 +182,10 @@ Tamil Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span></td>
     <td class="tg-fskk"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
+ <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm James Jeyajosepine Arulraj</span></td>
+    <td class="tg-fskk"><a href="mailto:james_jeyajosepine_arulraj@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">james_jeyajosepine_arulraj@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
 	 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jembu Krishnamurthy Nalini</span></td>
     <td class="tg-fskk"><a href="mailto:jembu_krishnamurthy_nalini@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jembu_krishnamurthy_nalini@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
