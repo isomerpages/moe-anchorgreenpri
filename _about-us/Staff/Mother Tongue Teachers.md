@@ -87,6 +87,10 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-fskk"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
+ <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Yap Seok Wee Tania</span></td>
+    <td class="tg-fskk"><a href="mailto:yap_seok_wee_tania@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yap_seok_wee_tania@schools.gov.sg</span></a></td>
+  </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
