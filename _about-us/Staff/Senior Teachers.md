@@ -30,23 +30,10 @@ Senior Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ngoh Hwee Suan<br>  
-(Mrs Audrey Cheng)</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Senior Teacher<br>
-(Mathematics)</span></td>
-    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:ngoh_hwee_suan@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">ngoh_hwee_suan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mark Reutens</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Character and Citizenship Education)</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mark_reutens@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Bte Ismail</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Art)</span><br></td>
-    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohamad Firuz
@@ -62,30 +49,30 @@ Jelaludin</span><br></td>
 (Physical Education)</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
   </tr>
+ <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm&nbsp;Noraisha Bte Hamzah</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Science)</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Bte Ismail</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
+(Art)</span><br></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Teo Yen Yen<br>
 (Mrs Juliana Tan)</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Learning Needs HAL)</span><br></td>
     <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:teo_yen_yen@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">teo_yen_yen@schools.gov.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sun Yahui</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Chinese Language)</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sun_yahui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sun_yahui@schools.gov.sg</span></a></td>
-  </tr>
 	  <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Vasundhara Reddy</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
 (Tamil Language)</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a></td>
-  </tr>
-	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm&nbsp;Noraisha Bte Hamzah</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Senior Teacher<br>
-(Science)</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
