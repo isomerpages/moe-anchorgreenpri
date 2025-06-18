@@ -49,8 +49,8 @@ Primary 2 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:nurheryani_mudzakir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurheryani_mudzakir@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Lim Wan Lin Veronica</span><br></td>
-    <td class="tg-g24l"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm James Jeyajosepine Arulraj</span><br></td>
+    <td class="tg-g24l"><a href="mailto:james_jeyajosepine_arulraj@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">james_jeyajosepine_arulraj@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 iNtegrity</span></td>
