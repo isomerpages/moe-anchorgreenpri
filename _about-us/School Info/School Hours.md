@@ -63,10 +63,8 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tznj{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-51ln{background-color:#009901;border-color:#ffccc9;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-735f{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:center;vertical-align:top}
-.tg .tg-569y{background-color:#efefef;border-color:#ffccc9;color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
