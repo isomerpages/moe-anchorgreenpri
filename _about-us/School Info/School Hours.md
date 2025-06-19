@@ -12,7 +12,7 @@ Students who arrive before 7.00am must report to ISH Level 1 and they must have 
 From 7.10 a.m. onwards students are to proceed to their classroom using the correct route and staircase. They are to carry out Wipe Down Routine, wash their hands upon arrival in the classroom and to continue with Silent Reading in the classroom. 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
+.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:1;}
 .tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
