@@ -88,7 +88,6 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
     <th class="tg-51ln">Levels</th>
     <th class="tg-51ln">Day</th>
     <th class="tg-51ln">Time</th>
-		 <th class="tg-51ln">Remarks</th>
   </tr>
 </thead>
 <tbody>
@@ -96,13 +95,11 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
     <td class="tg-735f">P4  &amp; P6</td>
     <td class="tg-735f">Thursday</td>
     <td class="tg-735f">1.30 p.m. to 2.00 p.m.</td>
-		<td class="tg-735f"></td>
   </tr>
   <tr>
     <td class="tg-735f">P3 &amp; P5</td>
 		<td class="tg-735f">Thursday</td>
     <td class="tg-735f">1.00 p.m. to 1.30 p.m.</td>
-		<td class="tg-735f">P3 will go for lunch <br> at 12 p.m. in Term 2 due to <br>Swimsafer Programme</td>
   </tr>
 </tbody>
 </table>
