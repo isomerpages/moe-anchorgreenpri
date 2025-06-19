@@ -23,12 +23,12 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dqvt">Days</th>
-    <th class="tg-dqvt">Monday </th>
-    <th class="tg-dqvt">Tuesday</th>
-    <th class="tg-dqvt">Wednesday</th>
-    <th class="tg-dqvt">Thursday</th>
-    <th class="tg-dqvt">Friday</th>
+    <th class="tg-51ln">Days</th>
+    <th class="tg-51ln">Monday </th>
+    <th class="tg-51ln">Tuesday</th>
+    <th class="tg-51ln">Wednesday</th>
+    <th class="tg-51ln">Thursday</th>
+    <th class="tg-51ln">Friday</th>
   </tr>
 </thead>
 <tbody>
