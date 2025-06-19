@@ -152,32 +152,32 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2oxp" rowspan="2">1</td>
-    <td class="tg-mu5c">Monday, Tuesday, Wednesday and Friday</td>
-    <td class="tg-2oxp">6.30 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.</td>
-    <td class="tg-2oxp">Closed</td>
+    <td class="tg-735f" rowspan="2">1</td>
+    <td class="tg-735f">Monday, Tuesday, Wednesday and Friday</td>
+    <td class="tg-735f">6.30 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.</td>
+    <td class="tg-735f">Closed</td>
   </tr>
   <tr>
-    <td class="tg-984z">Thursday (CCA for P3 to P6)</td>
-    <td class="tg-pe7e">6.30 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.<br>4.00 p.m. to 4.30 p.m.</td>
-    <td class="tg-tdcm">Closed</td>
+    <td class="tg-735f">Thursday (CCA for P3 to P6)</td>
+    <td class="tg-735f">6.30 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.<br>4.00 p.m. to 4.30 p.m.</td>
+    <td class="tg-735f">Closed</td>
   </tr>
   <tr>
-    <td class="tg-2oxp" rowspan="2">3</td>
-    <td class="tg-mu5c">Monday, Tuesday, Wednesday and Friday</td>
-    <td class="tg-ilhf">7.00 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.</td>
-    <td class="tg-2oxp">Closed</td>
+    <td class="tg-735f" rowspan="2">3</td>
+    <td class="tg-735f">Monday, Tuesday, Wednesday and Friday</td>
+    <td class="tg-735f">7.00 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.</td>
+    <td class="tg-735f">Closed</td>
   </tr>
   <tr>
-    <td class="tg-9jf1">Thursday (CCA for P3 to P6)</td>
-    <td class="tg-pe7e">7.00 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.<br>4.00 p.m. to 4.30 p.m.</td>
-    <td class="tg-tdcm">Closed</td>
+    <td class="tg-735f">Thursday (CCA for P3 to P6)</td>
+    <td class="tg-735f">7.00 a.m. to 7.30 a.m.<br>1.20 p.m. to 2.00 p.m.<br>4.00 p.m. to 4.30 p.m.</td>
+    <td class="tg-735f">Closed</td>
   </tr>
   <tr>
-    <td class="tg-2oxp">A</td>
-    <td class="tg-mu5c">Monday to Friday</td>
-    <td class="tg-ilhf">6.30 a.m. to 7.30 a.m.</td>
-    <td class="tg-2oxp"></td>
+    <td class="tg-735f">A</td>
+    <td class="tg-735f">Monday to Friday</td>
+    <td class="tg-735f">6.30 a.m. to 7.30 a.m.</td>
+    <td class="tg-735f"></td>
   </tr>
 </tbody>
 </table>
