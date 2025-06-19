@@ -41,10 +41,10 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
     <td class="tg-735f" colspan="5">1.30 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-slyw">Dismissal Time*<br>(P3 to P6)</td>
-    <td class="tg-2oxp" colspan="3">1.30 p.m.</td>
-    <td class="tg-2oxp">4.00 p.m.<br>(CCA Day)</td>
-    <td class="tg-8wy3">1.30 p.m.</td>
+    <td class="tg-735f">Dismissal Time*<br>(P3 to P6)</td>
+    <td class="tg-735f" colspan="3">1.30 p.m.</td>
+    <td class="tg-735f">4.00 p.m.<br>(CCA Day)</td>
+    <td class="tg-735f">1.30 p.m.</td>
   </tr>
 </tbody>
 </table>
