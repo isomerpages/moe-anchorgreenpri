@@ -33,12 +33,12 @@ From 7.10 a.m. onwards students are to proceed to their classroom using the corr
 </thead>
 <tbody>
   <tr>
-    <td class="tg-slyw">Reporting Time</td>
-    <td class="tg-2oxp" colspan="5">By 7.30 a.m. for <span style="font-weight:bold">ALL</span></td>
+    <td class="tg-735f">Reporting Time</td>
+    <td class="tg-735f" colspan="5">By 7.30 a.m. for <span style="font-weight:bold">ALL</span></td>
   </tr>
   <tr>
-    <td class="tg-idd5">Dismissal Time<br>(P1 &amp; P2)</td>
-    <td class="tg-tdcm" colspan="5">1.30 p.m.</td>
+    <td class="tg-735f">Dismissal Time<br>(P1 &amp; P2)</td>
+    <td class="tg-735f" colspan="5">1.30 p.m.</td>
   </tr>
   <tr>
     <td class="tg-slyw">Dismissal Time*<br>(P3 to P6)</td>
