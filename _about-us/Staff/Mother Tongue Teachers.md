@@ -78,11 +78,7 @@ Chinese Language Teachers
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Pei Shan</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Vivienne Wee Mei Yin <br>(Mrs Vivienne Ong) </span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a></td>
-  </tr>
+	</tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-fskk"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
