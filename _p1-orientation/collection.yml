@@ -2,5 +2,6 @@ collections:
   p1-orientation:
     output: true
     order:
+      - A Day in AGPS.md
       - AGPS Corporate Video.md
       - Arrival and Dismissal Points.md
