@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Parents Gateway.md
-      - Backup/Student Learning Space (SLS).md
       - Backup/.keep
