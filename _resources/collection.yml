@@ -1,5 +1,5 @@
 collections:
-  archives:
+  resources:
     output: true
     order:
       - Backup/Parents Gateway.md
