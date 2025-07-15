@@ -2,4 +2,5 @@ collections:
   p1-orientation:
     output: true
     order:
+      - AGPS Corporate Video.md
       - Arrival and Dismissal Points.md
