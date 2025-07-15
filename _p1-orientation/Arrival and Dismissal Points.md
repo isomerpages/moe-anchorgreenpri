@@ -1,8 +1,8 @@
 ---
 title: Arrival and Dismissal Points
-permalink: /resources/p1-orientation-2023/arrival-and-dismissal-points/
+permalink: /useful-links/resources-for-parents/p1-orientation/arrival-and-dismissal-points/
 description: ""
-third_nav_title: P1 Orientation 2025
+variant: tiptap
 ---
 Arrival and Dismissal Points
 ==============================

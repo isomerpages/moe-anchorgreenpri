@@ -1,0 +1,6 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Parents Gateway.md
+      - Student Learning Space (SLS).md

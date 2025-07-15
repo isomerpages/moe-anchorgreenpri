@@ -1,0 +1,9 @@
+collections:
+  p1-orientation:
+    output: true
+    order:
+      - P1 Orientation (Info for 2025 Cohort).md
+      - "Parent Kit: Starting Your Primary 1 Journey.md"
+      - A Day in AGPS.md
+      - AGPS Corporate Video.md
+      - Arrival and Dismissal Points.md

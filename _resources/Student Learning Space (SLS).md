@@ -2,7 +2,7 @@
 title: Student Learning Space (SLS)
 permalink: /resources/student-learning-space-sls/
 description: ""
-third_nav_title: Backup
+variant: tiptap
 ---
 Student Learning Space (SLS)
 ============================

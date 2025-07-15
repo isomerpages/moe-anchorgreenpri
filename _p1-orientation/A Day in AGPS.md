@@ -1,8 +1,8 @@
 ---
 title: A Day in AGPS
-permalink: /resources/p1-orientation-2023/a-day-in-agps/
+permalink: /useful-links/resources-for-parents/p1-orientation/a-day-in-agps/
 description: ""
-third_nav_title: P1 Orientation 2025
+variant: tiptap
 ---
 A Day in AGPS 
 ==============================

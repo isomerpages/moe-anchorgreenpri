@@ -1,8 +1,7 @@
 ---
 title: AGPS Corporate Video
-permalink: /resources/p1-orientation-2023/agps-corporate-video/
+permalink: /useful-links/resources-for-parents/p1-orientation/agps-corporate-video/
 description: ""
-third_nav_title: P1 Orientation 2025
 variant: markdown
 ---
 AGPS Corporate Video
