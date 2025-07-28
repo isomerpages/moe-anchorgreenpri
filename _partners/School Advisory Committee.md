@@ -20,7 +20,7 @@ School Advisory Committee
 </tr>
 <tr>
 </tr><tr><td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:100%">Dr Roy Goh<br>Treasurer</td>
-<td align="center"><img src="/images/Partners/SAC/Mr_Wesley_Cheong___Honorary_Secretary.jpg" style="width:97%">Mr Wesley Cheong<br>Honorary Secretary</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Wesley_Cheong___Honorary_Secretary.jpg" style="width:100%">Mr Wesley Cheong<br>Honorary Secretary</td>
 </tr>
 <tr>
 <td align="center"><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:100%">Mr Raymond Chua<br>Member</td>
