@@ -17,8 +17,14 @@ School Advisory Committee
 <td></td>
 </tr>
 <tr>
-</tr><tr><td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:100%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
-<td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:100%">Dr Roy Goh<br>Treasurer</td>
+</tr><tr>
+<td></td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:100%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
+<td></td>
+</tr>
+<tr>
+</tr><tr><td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:100%">Dr Roy Goh<br>Treasurer</td>
+<td align="center"></td>
 <td align="center"><img src="/images/Partners/SAC/Mr_Wesley_Cheong___Honorary_Secretary.jpg" style="width:97%">Mr Wesley Cheong<br>Honorary Secretary</td>
 </tr>
 <tr>
