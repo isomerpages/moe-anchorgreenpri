@@ -12,14 +12,14 @@ School Advisory Committee
 <table style="text-align: center;">
 <tbody>
 <tr>
-<td style="width:15%" align="center"></td>
-<td align="center"><img src="/images/Partners/SAC/Mr_T_Mogan___Chairman.jpg" style="width:50%">Mr T Mogan <br> Chairman</td>
-<td style="width:15%" align="center"></td>
+<td style="width:25%" align="center"></td>
+<td align="center"><img src="/images/Partners/SAC/Mr_T_Mogan___Chairman.jpg" style="width:100%">Mr T Mogan <br> Chairman</td>
+<td style="width:25%" align="center"></td>
 </tr>
 <tr>
-<td style="width:15%" align="center"></td>
-<td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:50%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
-<td style="width:15%" align="center"></td>
+<td style="width:25%" align="center"></td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Ong_Tiong_Wee___Vice___Chairman.jpg" style="width:100%">Mr Ong Tiong Wee <br>Vice - Chairman</td>
+<td style="width:25%" align="center"></td>
 </tr>
 <tr>
 </tr>
