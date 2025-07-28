@@ -26,16 +26,16 @@ School Advisory Committee
 </tbody></table>
 <table style="text-align: center;">
 <tbody>
-<tr><td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:50%">Dr Roy Goh<br>Treasurer</td>
-<td style="text-align:" align="center"><img src="/images/Partners/SAC/Mr_Wesley_Cheong___Honorary_Secretary.jpg" style="width:50%">Mr Wesley Cheong<br>Honorary Secretary</td>
+<tr><td align="center"><img src="/images/Partners/SAC/Dr_Roy_Goh___Treasurer.jpg" style="width:45%">Dr Roy Goh<br>Treasurer</td>
+<td style="text-align:" align="center"><img src="/images/Partners/SAC/Mr_Wesley_Cheong___Honorary_Secretary.jpg" style="width:45%">Mr Wesley Cheong<br>Honorary Secretary</td>
 </tr>
 <tr>
-<td align="center"><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:50%">Mr Raymond Chua<br>Member</td>
-<td align="center"><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:50%">Mr Teo Chiang Chai<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Raymond_Chua___Member.jpg" style="width:45%">Mr Raymond Chua<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Teo_Chiang_Chai___Member.jpg" style="width:45%">Mr Teo Chiang Chai<br>Member</td>
 </tr>
 <tr>
-<td align="center"><img src="/images/Partners/SAC/Mdm_Tang_Ling___Member.jpg" style="width:50%">Mdm Tang Ling<br>Member</td>
-<td align="center"><img src="/images/Partners/SAC/Mr_Ridzuan_Ismail___Member.jpg" style="width:50%">Mr Ridzuan Ismail<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Mdm_Tang_Ling___Member.jpg" style="width:45%">Mdm Tang Ling<br>Member</td>
+<td align="center"><img src="/images/Partners/SAC/Mr_Ridzuan_Ismail___Member.jpg" style="width:45%">Mr Ridzuan Ismail<br>Member</td>
 </tr><tr>
 </tr>
 </tbody></table>
