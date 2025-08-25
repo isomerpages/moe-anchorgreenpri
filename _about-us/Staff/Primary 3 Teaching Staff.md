@@ -58,9 +58,9 @@ Primary 3 Teaching Staff
     <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Wong Hui Li Victoria
 </span><br></td>
-    <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
+    <td class="tg-djmn"><a href="mailto:wong_hui_li_victoria_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_hui_li_victoria_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
