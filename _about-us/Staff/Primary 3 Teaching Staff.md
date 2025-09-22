@@ -50,7 +50,7 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Woo Tai Kum</span><br></td>
-    <td class="tg-g24l"><a href="mailto:seah_chern_mei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">seah_chern_mei@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l"><a href="mailto:"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
