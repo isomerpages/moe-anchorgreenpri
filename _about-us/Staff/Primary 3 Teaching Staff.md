@@ -49,8 +49,8 @@ Primary 3 Teaching Staff
     <td class="tg-g24l"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Joyce Seah Chern Mei </span><br></td>
-    <td class="tg-g24l"><a href="mailto:seah_chern_mei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">seah_chern_mei@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Woo Tai Kum</span><br></td>
+    <td class="tg-g24l"><a href="mailto:"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
@@ -78,8 +78,8 @@ Primary 3 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shairah_sulaiman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Tan Meng Kwang Alvin</span><br></td>
-    <td class="tg-djmn"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Woo Chan Fai </span><br></td>
+    <td class="tg-djmn"><a href="mailto:"><span style="font-weight:500;text-decoration:underline;color:#21088A">
 </span></a></td>
   </tr><tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Resilience</span></td>
