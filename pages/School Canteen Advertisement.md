@@ -15,7 +15,7 @@ Are you passionate about providing nutritious and delicious meals to young minds
 </tr>
 <tr>
 	<td align="left">•	Others (Halal/Non Halal)</td>
-	<td align="left"><font color="red">02 August 2025</font></td>
+	<td align="left"><font color="red">08 October 2025</font></td>
 	<td align="left">· Asia Cuisine (Japanese/Korean)<br>· Indian Cuisine (Vegetarian, Prata, Briyani)
 </td>
 </tr>
