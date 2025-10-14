@@ -2,7 +2,7 @@
 title: A Day in AGPS
 permalink: /useful-links/resources-for-parents/p1-orientation/a-day-in-agps/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 A Day in AGPS 
 ==============================

@@ -61,7 +61,7 @@ Kindergarten Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus</span></td>
+    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K1 Hibiscus</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin<br>
 (Ms. Hailey)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
@@ -70,14 +70,18 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">zhang_yonghong@schools.gov.sg</a></span></td>
   </tr>
+	<tr>
+    <td class="tg-pk3b"><span style="font-weight:normal">Ong Sze Sze<br>(Sze Sze Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:ong_sze_sze_a@schools.gov.sg">ong_sze_sze_a@schools.gov.sg </a></span></td>
+  </tr>
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Misra<br>(Ms. Natalia)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:herna_natalia_misra@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>(Yali Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Kamariah Khalid<br>(Cikgu Mariah)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:kamariah_khalid@schools.gov.sg">kamariah_khalid@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
@@ -101,11 +105,20 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara Abdul Hakkim<br>(Ms. Sabeen)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">K2 Basil </span></td>
+   <tr>
+    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K1 Basil</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar<br>(Ms. Nora)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
-  </tr>		 
+  </tr>
+  <tr>
+    <td class="tg-pk3b"><span style="font-weight:normal">Nur Atiqah Ridzwan<br>(Ms. Atiqah)
+</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
+  </tr>
+	<tr>
+    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen<br>(Wang Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg </a></span></td>
+  </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Mohamad Pauzi<br>(Ms. Nadhirah)</span></td>
@@ -118,8 +131,8 @@ Kindergarten Teachers
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lantana</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Chia Kah Yee<br>(Ms. Christine)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:chia_kah_yee_a@schools.gov.sg">chia_kah_yee_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Khalilah Diana Abdul Malek<br>(Ms. Khalilah)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari<br>(Cikgu Ju)</span></td>
