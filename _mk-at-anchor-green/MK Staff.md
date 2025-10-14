@@ -80,8 +80,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:herna_natalia_misra@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>(Yali Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Kamariah Khalid<br>(Cikgu Mariah)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:kamariah_khalid@schools.gov.sg">kamariah_khalid@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
