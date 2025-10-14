@@ -122,8 +122,8 @@ Kindergarten Teachers
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lantana</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Chia Kah Yee<br>(Ms. Christine)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:chia_kah_yee_a@schools.gov.sg">chia_kah_yee_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Khalilah Diana Abdul Malek<br>(Ms. Khalilah)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari<br>(Cikgu Ju)</span></td>
