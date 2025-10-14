@@ -7,7 +7,7 @@ variant: markdown
 <table style="font-size: 50px;">
 <tbody>
 <tr>
-	<th style="color:#70b031" valign="middle" align="left"><nobr>About MK</nobr></th>
+	<td style="color:#70b031" valign="middle" align="left"><nobr>About MK</nobr></td>
 <th align="left"><img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:50%"></th>
 </tr>
 </tbody></table>
