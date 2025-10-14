@@ -10,8 +10,8 @@ About MK
 <table>
 <tbody>
 <tr>
-<th align="left">About MK</th>
-<th align="left"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:100%"></th>
+	<th align="left"><nobr>About MK</nobr></th>
+<th align="left"><img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:50%"></th>
 </tr>
 </tbody></table>
 
