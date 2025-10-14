@@ -4,7 +4,7 @@ permalink: /mk-at-anchor-green/about-mk/
 description: ""
 variant: markdown
 ---
-<table style="font-size: 40px;">
+<table style="font-size: 50px;">
 <tbody>
 <tr>
 	<th style="color:#70b031" valign="middle" align="left"><nobr>About MK</nobr></th>
