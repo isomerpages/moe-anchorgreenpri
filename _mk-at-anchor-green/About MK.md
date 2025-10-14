@@ -11,7 +11,7 @@ About MK
 <tbody>
 <tr>
 <th align="left">About MK</th>
-<th align="left"></th>
+<th align="left"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:100%"></th>
 </tr>
 </tbody></table>
 
