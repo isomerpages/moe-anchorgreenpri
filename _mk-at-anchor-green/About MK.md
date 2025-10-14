@@ -7,11 +7,11 @@ variant: markdown
 About MK
 ========
 
-<table>
+<table style="font-size: 48px;">
 <tbody>
 <tr>
 	<th align="right"><nobr>About MK</nobr></th>
-<th align="left"><img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:50%"></th>
+<th align="left"><img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:100%"></th>
 </tr>
 </tbody></table>
 
