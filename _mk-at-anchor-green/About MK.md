@@ -4,15 +4,21 @@ permalink: /mk-at-anchor-green/about-mk/
 description: ""
 variant: markdown
 ---
-About MK
-========
-
+<table style="font-size: 50px;">
+<tbody>
+<tr>
+	<td style="color:#70b031" valign="middle" align="left"><nobr>About MK</nobr></td>
+<td style="width: 80%;" align="left"><img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:50%"></td>
+</tr>
+</tbody></table>
 MOE Kindergarten @ Anchor Green began its operations in January 2019. Sited at Anchor Green Primary School, it offers Kindergarten 1 and Kindergarten 2 programmes to Singapore Citizens and Permanent Residents. The MK@Anchor Green also has a Kindergarten Care (KCare) service that currently offers before school care to our enrolled MK children.
 
-For more information on MOE Kindergartens please visit the website at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>.
+For more information on MOE Kindergartens please visit the website at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>.<br>
 
-<img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%">
-
+Click the video below to find out more about MK Curriculum
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BduH-j2_J_o?si=UL7Gov8C7ArCsCAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div><br>
 Our MK collaborates with the following Early Years Centres:
 
 *   PCF Sparkletots Preschool @ Sengkang West Blk 303A
