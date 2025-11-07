@@ -60,7 +60,7 @@ description: ""
     <tr>
 					<td style="text-align: center; vertical-align: middle;"><a href="/useful-links/resources-for-parents/canteen-menu/stall-no-1-cold-drinks-fruits-stall/" target="_self">Canteen Menu</a>
 					</td>
-            <td style="text-align: center; vertical-align: middle;"><a href="/useful-links/resources-for-parents/2025-book-lists/" target="_self">Book Lists</a></td>
+            <td style="text-align: center; vertical-align: middle;"><a href="/useful-links/resources-for-parents/2026-book-lists/" target="_self">Book Lists</a></td>
             <td style="text-align: center; vertical-align: middle;"><a href="https://form.gov.sg/679c7279dbe89599f5f6fba2" target="_blank">Sexuality Education Opt-Out Form
 </a>
 					</td>
