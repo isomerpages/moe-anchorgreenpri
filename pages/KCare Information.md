@@ -28,4 +28,4 @@ KCare Additional Subsidy is provided in addition to the basic subsidy. Please fo
 	
 **KCare Contact Information**
 * Contact number: **9457 3395**
-* Email Address: anchorgreen.kcare@littleprofessors.com.sg
+* Email Address: [anchorgreen.kcare@littleprofessors.com.sg](mailto:anchorgreen.kcare@littleprofessors.com.sg)
