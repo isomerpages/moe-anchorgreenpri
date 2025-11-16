@@ -35,4 +35,4 @@ Fax:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;63159825
 Email:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;[MK\_anchorgreen@moe.edu.sg](mailto:MK_anchorgreen@moe.edu.sg)  
 Address:&nbsp;&nbsp;31 Anchorvale Drive. Singapore 544969
 
-<a href="/mk-at-anchor-green/kcare-information/" target="_self"><br>**For KCare Information**</a>
+For KCare information please click <a href="/mk-at-anchor-green/kcare-information/" target="_self">here</a>
