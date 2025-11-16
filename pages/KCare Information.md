@@ -26,7 +26,7 @@ Little Professors Learning Centre Pte Ltd is the appointed KCare operator at the
 
 KCare Additional Subsidy is provided in addition to the basic subsidy. Please follow this link for more information: https://moe.gov.sg/preschool/moe-kindergarten/kindergarten-care*
 
-*KCare Contact Information*
+**KCare Contact Information**
 Contact number: 9457 3395
 Email Address: anchorgreen.kcare@littleprofessors.com.sg
 
