@@ -24,8 +24,8 @@ Little Professors Learning Centre Pte Ltd is the appointed KCare operator at the
 *   SC: $210 (Fee shown is after $150 basic subsidy)
 *   PR/Foreigner: $360
 
-KCare Additional Subsidy is provided in addition to the basic subsidy. Please follow this link for more information: https://moe.gov.sg/preschool/moe-kindergarten/kindergarten-care*
+KCare Additional Subsidy is provided in addition to the basic subsidy. Please follow this link for more information: <a href="https://moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" target="_blank">https://moe.gov.sg/preschool/moe-kindergarten/kindergarten-care
 
 **KCare Contact Information**
 * Contact number: **9457 3395**
-* Email Address: anchorgreen.kcare@littleprofessors.com.sg
+* Email Address: anchorgreen.kcare@littleprofessors.com.sg</a>
