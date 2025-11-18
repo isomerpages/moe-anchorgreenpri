@@ -9,7 +9,7 @@ variant: markdown
 <thead>
   <tr>
     <th><a rel="noopener noreferrer" href="/holistic-education/curriculum/english-language"><img height="300" width="400" alt="English" src="/images/Curriculum/Menu%20Grid/English.jpg">
-    </a></th><th><a rel="noopener noreferrer" href="/holistic-education/curriculum/mathematics"><img height="300" width="400" alt="Mathematics" src="/images/Curriculum/Menu%20Grid/Mathematics.jpg">
+    </a></th><th><a rel="noopener noreferrer" href="/holistic-education/curriculum/mathematics"><img height="300" width="400" alt="Mathematics" src="/images/Curriculum/Menu%20Grid/Math.jpg">
     </a></th><th><a rel="noopener noreferrer" href="/holistic-education/curriculum/science"><img height="300" width="400" alt="Science" src="/images/Curriculum/Menu%20Grid/Science.jpg">
 </a></th></tr></thead><tbody>
   <tr>
