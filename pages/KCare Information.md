@@ -16,8 +16,8 @@ Little Professors Learning Centre Pte Ltd is the appointed KCare operator at the
   
 **Centre Opening Hours**
 
-*   School Term: 12.30 p.m. to 7.00 p.m. (Monday to Friday)
-*   School Holiday: 7.30 a.m. to 7 p.m. (Monday to Friday)
+*   School Term: 12:30 p.m. to 7:00 p.m. (Monday to Friday)
+*   School Holiday: 7:00 a.m. to 7:00 p.m. (Monday to Friday)
   
 **KCare Fees**
 
