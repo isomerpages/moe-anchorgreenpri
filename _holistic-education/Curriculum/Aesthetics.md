@@ -86,4 +86,4 @@ Arts platforms that support to this end include Say It Art Loud!, Everyone Can P
 </table>
 
 **Useful Resources and Links:**<br>
- <a href="https://www.canva.com/design/DAGBuanFZmM/1Omuwi8FkPk_s3kODNyrLA/edit?utm_content=DAGBuanFZmM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_self">https://www.canva.com/</a>
+ <a href="https://www.canva.com/design/DAGBuanFZmM/1Omuwi8FkPk_s3kODNyrLA/edit?utm_content=DAGBuanFZmM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" target="_blank">https://www.canva.com/</a>
