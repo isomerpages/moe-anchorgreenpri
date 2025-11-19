@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Student Development Team/Overview of SDT.md
       - Student Development Team/.keep
       - Curriculum/.keep
       - Curriculum/Curriculum.md
