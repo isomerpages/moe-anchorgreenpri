@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Student Development Team
 ---
-## SEN & Counselling
+## SEN &amp; Counselling
 
 ### Overview of support provided by SEN and SCs
 
@@ -13,11 +13,11 @@ At Anchor Green Primary School, the **Special Educational Needs Officers (SENOs)
 
 In AGPS Student Support Services Team, it consists of these 3 support services:
 
-1)      the Learning and Behavioural provided by the Special Educational Needs Officers (SENOs),
+1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Learning and Behavioural provided by the Special Educational Needs Officers (SENOs),
 
-2)      Counselling Services provided by the school counsellors
+2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling Services provided by the school counsellors
 
-3)      Student Welfare provided by the Student Welfare officers\*(SWOs)
+3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Welfare provided by the Student Welfare officers\*(SWOs)
 
 * While our school does not have a dedicated SWO, a roving officer supports multiple schools by assisting students facing challenges and linking them to appropriate resources and support services.
 
@@ -28,3 +28,9 @@ If your child requires counselling support, there are several ways to make a ref
 3.  If your child is uncomfortable doing so, **parents can share their concerns** with the teacher or contact the school via email or phone.
 
 Teachers may also refer students for counselling if they observe that additional socio-emotional support may be needed. Once the Student Support Services team receives a referral, a school counsellor will be assigned to work with your child and will contact you to gather more information. If your child has any medical or mental health diagnoses, please provide the relevant documents to the teacher or counsellor to ensure better support.
+
+
+
+
+* SEN and SC Reps for the various level<br>
+**Allied Educators**<br>School Counsellor:<br>Primary 1,3,5: Mdm Ong Boon Sze Clare (Senior School Counsellor)<br>Primary 2,4,6: Mrs Kathy Tay (School Counsellor)<br><br>Special Education Needs Officer:<br>Lead Special Educational Needs Officer: Ms Seow Jin Bing Annabelle<br>Primary 1 and 3: Ms Ching Zai Ting&nbsp; ( Senior Special Educational Needs Officer)<br>Primary 2 and 5: Mdm Julizza Binte Jumahat (Special Educational Needs Officer)<br>Primary 4 and 6: Mdm Sim Ruijing Rachel (Special Educational Needs Officer)
