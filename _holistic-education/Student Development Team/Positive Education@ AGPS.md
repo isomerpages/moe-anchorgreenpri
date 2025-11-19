@@ -13,7 +13,7 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 
 **The P.R.O.S.P.E.R Framework is enacted in the following 7 domains:**
 
-<table><tbody><tr><td width="30%"><b>Domains</b></td><td width="70%"><b>PosEd in Action: Classroom and School-Wide Practices at AGPS</b></td></tr>
+<table><tbody><tr><td width="40%"><b>Domains</b></td><td width="60%"><b>PosEd in Action: Classroom and School-Wide Practices at AGPS</b></td></tr>
 	<tr><td><b>Encouraging Positivity</b><br>
 <i>We seek to nurture a caring and enabling environment where our Anchorlites cultivate positive emotions through practices that promote joy, graciousness, gratitude, a growth mindset and mindfulness.</i>
 </td><td>•  We adopt an Outward Mindset where we see others as people, consider and understand their needs, challenges and objectives, and work towards collective results (shared outcomes or goals).<br>
