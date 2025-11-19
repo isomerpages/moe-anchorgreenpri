@@ -17,7 +17,7 @@ Our key focus is to create a caring and enabling environment through Positive Ed
 
 1. Build a **caring and enabling school** where all students:  
 * Feel a **sense of belonging**, are able to forge **positive peer relationships** and **enjoy school**  
-* Are **engaged, motivated and empowered** to believe in themselves
+* Are **engaged, motivated and empowered** to believe in themselves 
 2. Create a **conducive and psychologically safe environment** to nurture learners who are resilient and exercise student agency. 
 3. Curate and implement curricula (Total Curriculum) **that promotes the well-being, learning (which includes 21CC development) of all students.** 
 4. Identify and provide **differentiated support and intervention for specific group(s) of students.  
