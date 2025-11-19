@@ -13,4 +13,4 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 
 **The P.R.O.S.P.E.R Framework is enacted in the following 7 domains:**
 
-<table><tbody><tr><td><b>Domains</b></td><td></td></tr></tbody></table>
+<table><tbody><tr><td><b>Domains</b></td><td><b>PosEd in Action: Classroom and School-Wide Practices at AGPS</b></td></tr></tbody></table>
