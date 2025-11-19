@@ -22,6 +22,5 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 <i>We believe that every Anchorlite is a peer supporter committed to building positive relationships. By using positive language and fostering a caring classroom culture, we ensure that every student feels safe, respected, supported and valued.</i></small>
 </td><td>•  We cultivate a positive teacher-student relationship (TSR) to improve students’ behaviour, academic success and mental well-being. (e.g. We conduct "Let’s CHAT" sessions, FTGP, Circle Time).<br>
 •	We use positive teacher language to communicate with our students, helping to create a supportive and respectful learning environment.<br>
-•	We promote a positive peer-student relationship (PSR) where students learn to build social skills and strong bonds between them (e.g. STYR, BTS and ETYR activities).
-
-</td></tr></tbody></table>
+•	We promote a positive peer-student relationship (PSR) where students learn to build social skills and strong bonds between them (e.g. STYR, BTS and ETYR activities).</td></tr>
+	</tbody></table>
