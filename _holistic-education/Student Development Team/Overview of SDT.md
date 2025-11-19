@@ -17,7 +17,6 @@ Our key focus is to create a caring and enabling environment through Positive Ed
 **Roles of the Student Development Team (SDT) in Schools**
 
 1. Build a **caring and enabling school** where all students:  
-  
 * Feel a **sense of belonging**, are able to forge **positive peer relationships** and **enjoy school**  
 * Are **engaged, motivated and empowered** to believe in themselves
 2. Create a **conducive and psychologically safe environment** to nurture learners who are resilient and exercise student agency. 
