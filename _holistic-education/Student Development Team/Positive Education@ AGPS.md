@@ -40,7 +40,7 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 •	We provide opportunities for students’ empowerment through student’s choice, voice and ownership of learning.<br>•	We enhance student learning experiences with the level signature programmes planned for each level linked to the 6G level cohort.
 </td></tr>
 <tr><td><small><b>Enhancing Engagement</b><br><i>We believe that students learn best when they are actively involved and take ownership of their own learning. We adopt the AGPS Total Curriculum Framework to increase our Anchorlites’ engagement and motivation.</i></small>
-</td><td>•  We build on our AGPS’s ‘Our Guiding Principles’ to lead our students see the importance of the things they do in life. <br>
-•	We provide opportunities for students’ empowerment through student’s choice, voice and ownership of learning.<br>•	We enhance student learning experiences with the level signature programmes planned for each level linked to the 6G level cohort.
+</td><td>•  We are committed to ongoing professional learning to customise learning and competently apply RICE and other pedagogies that develop Anchorlites’ 21st century competencies, engagement, motivation, and Habits of Mind, preparing them for the future.<br>
+•	We are committed to providing purposeful and timely feedback to guide Anchorlites in taking greater ownership of their learning progress.<br>•	We provide opportunities for quality student’s engagement amongst the school community. <br>•	We leverage on the various platforms to foster students’ engagement and school identity. 
 </td></tr>
 </tbody></table>
