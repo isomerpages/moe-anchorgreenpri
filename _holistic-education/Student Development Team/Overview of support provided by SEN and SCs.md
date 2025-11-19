@@ -18,7 +18,6 @@ In AGPS Student Support Services Team, it consists of these 3 support services:<
 If your child requires counselling support, there are several ways to make a referral:<br>1.  Your child may approach the **school counsellor** directly during recess or after school.<br>2.  They may also **inform their form teacher**.<br>3.  If your child is uncomfortable doing so, **parents can share their concerns** with the teacher or contact the school via email or phone.
 
 Teachers may also refer students for counselling if they observe that additional socio-emotional support may be needed. Once the Student Support Services team receives a referral, a school counsellor will be assigned to work with your child and will contact you to gather more information. If your child has any medical or mental health diagnoses, please provide the relevant documents to the teacher or counsellor to ensure better support.
-
 ![](/images/Curriculum/SDT/Support_and_Referral_Process.jpg)
 
 * SEN and SC Reps for the various level<br>
