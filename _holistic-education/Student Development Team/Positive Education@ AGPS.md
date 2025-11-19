@@ -23,4 +23,9 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 </td><td>•  We cultivate a positive teacher-student relationship (TSR) to improve students’ behaviour, academic success and mental well-being. (e.g. We conduct "Let’s CHAT" sessions, FTGP, Circle Time).<br>
 •	We use positive teacher language to communicate with our students, helping to create a supportive and respectful learning environment.<br>
 •	We promote a positive peer-student relationship (PSR) where students learn to build social skills and strong bonds between them (e.g. STYR, BTS and ETYR activities).</td></tr>
+	<tr><td><small><b>Facilitating Outcomes </b><br>
+<i>We encourage our Anchorlites to cultivate a growth mindset and pursue continual self‑improvement by setting meaningful performance and character goals.</i></small>
+</td><td>•  We teach our students the different aspects of Growth Mindset over the 6 years in their primary school experiences and provide them with opportunities to practise these mindsets.<br>
+•	We make data-informed decisions and apply appropriate strategies and approaches to support our students. <br>
+•	We explicitly teach goal-setting and time-management skills to our students.</td></tr>
 	</tbody></table>
