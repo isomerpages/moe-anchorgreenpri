@@ -9,8 +9,7 @@ third_nav_title: Student Development Team
 	
 The school’s **Student Development Team (SDT)** comprises the following officers:
 
-
-
+![](/images/Curriculum/SDT/SDT_officers.jpg)
 
 Our key focus is to create a caring and enabling environment through Positive Education at AGPS.
 
