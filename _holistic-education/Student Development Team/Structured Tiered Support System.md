@@ -6,3 +6,5 @@ description: ""
 third_nav_title: Student Development Team
 ---
 ## Structured Tiered Support System - Supporting Students with Additional Needs (SWAN)
+
+![](/images/Curriculum/SDT/Structured_Tiered.png)
