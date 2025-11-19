@@ -43,4 +43,8 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 </td><td>•  We are committed to ongoing professional learning to customise learning and competently apply RICE and other pedagogies that develop Anchorlites’ 21st century competencies, engagement, motivation, and Habits of Mind, preparing them for the future.<br>
 •	We are committed to providing purposeful and timely feedback to guide Anchorlites in taking greater ownership of their learning progress.<br>•	We provide opportunities for quality student’s engagement amongst the school community. <br>•	We leverage on the various platforms to foster students’ engagement and school identity. 
 </td></tr>
+<tr><td><small><b>Teaching Resilience</b><br><i>We want our Anchorlites to be resilient and optimistic when facing challenges of our rapidly changing and unpredictable world. We use a strength-based approach to build resilience in them.</i></small>
+</td><td>•  We leverage on the strength-based approach in building resilience in our students. <br>
+•	We use Resilience Learning Aid [RLA] as a strengths-based approach by guiding students to overcome challenges using their: Internal strengths, or the mindsets (I am) and skills (I can) and External strengths, or environment (I have)<br>•	We use the Resilience Strength Builder [RSB] conversation tool to facilitate resilience fostering conversations.
+</td></tr>
 </tbody></table>
