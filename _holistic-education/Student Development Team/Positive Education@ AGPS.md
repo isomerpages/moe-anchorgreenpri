@@ -35,4 +35,11 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 </td><td>•  We believe every Anchorlite has unique strengths and talents. We are committed to nurturing and maximising their full potential.<br>
 •	We provide a myriad of Student Development Experiences (SDEs) to enable them to discover and develop their strengths and talents. <br>
 </td></tr>
+<tr><td><small><b>Fostering a sense of
+Purpose
+</b><br>
+<i>We believe learning is most meaningful when students understand the purpose of the knowledge and experiences they acquire through their lessons and any learning experiences.</i></small>
+</td><td>•  We build on our AGPS’s ‘Our Guiding Principles’ to lead our students see the importance of the things they do in life. <br>
+•	We provide opportunities for students’ empowerment through student’s choice, voice and ownership of learning.<br>•	We enhance student learning experiences with the level signature programmes planned for each level linked to the 6G level cohort.
+</td></tr>
 </tbody></table>
