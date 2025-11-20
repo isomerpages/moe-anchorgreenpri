@@ -103,4 +103,10 @@ Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on t
 <img src="/images/Curriculum/SDT/PSL.jpg" style="width:100%">
 Peer Support Leaders at work — turning teamwork and friendship into action!
 
+<img src="/images/Curriculum/SDT/Grow_and_Glow.jpg" style="width:100%">
+Growing stronger and shining brighter with every activity in our 	Grow and Glow Programme!
+
 *   **Tier 3:** Individualized support (e.g., Counselling, Special Educational Needs support) to address specific student needs.
+
+<img src="/images/Curriculum/SDT/Safe_and_cosy_spaces.jpg" style="width:100%">
+Safe and cosy spaces for Anchorlites to receive support from our school counsellors and special educational needs officers.
