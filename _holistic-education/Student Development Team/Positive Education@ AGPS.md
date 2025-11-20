@@ -48,9 +48,8 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 •	We use Resilience Learning Aid [RLA] as a strengths-based approach by guiding students to overcome challenges using their: Internal strengths, or the mindsets (I am) and skills (I can) and External strengths, or environment (I have)<br>•	We use the Resilience Strength Builder [RSB] conversation tool to facilitate resilience fostering conversations.
 </td></tr>
 </tbody></table>
-
-
 **Key SDT Programmes by Level in Alignment with Cohort Theme**
+
 
 **Primary 1 – Growth**
 
