@@ -69,3 +69,8 @@ Health Hub: [https://www.healthhub.sg/programmes/parent-hub](https://www.healthh
 Common Sense: [https://www.commonsensemedia.org/](https://www.commonsensemedia.org/)<br>
 MOE Website: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)<br>
 CSA Singapore: [https://www.csa.gov.sg/information-for/parents-educators](https://www.csa.gov.sg/information-for/parents-educators)
+
+
+Our initiatives are delivered through a structured tiered support system:
+
+*   **Tier 1:** Whole-school initiatives (e.g., assembly programmes) benefiting all students.!
