@@ -112,7 +112,6 @@ In addition, the P3 students put graciousness into action through their particip
 P6 students receiving their potted plants with notes of encouragement.<br><br>
 <img src="/images/Curriculum/SDT/Food_from_the_heart.jpg" style="width:100%">
 Beautiful Artwork done by P3 students for the Food from the Heart Initiative
-<br><br>
 
 **Primary 4 – Gratitude**
 
