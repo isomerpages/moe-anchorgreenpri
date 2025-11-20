@@ -62,7 +62,6 @@ As part of this journey, your child/ward will be introduced to the concept of a 
 
 **Growth Mindset** represents how students believe that their abilities can be developed through effort, practice, and learning, rather than being fixed. It reflects their willingness to embrace challenges and learn from mistakes.
 
-![](/images/Curriculum/SDT/Growth_Mindset.jpg)
-
-![Caption: With effort, I can do it!](/images/Curriculum/SDT/Effort.jpg)
+<img src="/images/Curriculum/SDT/Growth_Mindset.jpg" style="width:100%">
+<img src="/images/Curriculum/SDT/Effort.jpg" style="width:100%">
 **With effort, I can do it!**
