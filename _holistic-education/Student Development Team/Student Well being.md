@@ -52,7 +52,12 @@ Students to
 * be a safe and responsible user of technology and maintain a positive online presence.<br>
 * be responsible for personal well-being in the cyberspace.
 
+<img src="/images/Curriculum/SDT/Safe.jpg" style="width:100%">
+
 **AGPS Cyber Wellness Message:** Teaching students essential digital literacy skills so they remain _Safe, Responsible, and Balanced_ online—protecting personal information, practicing respectful interactions, and balancing their online and offline lives.
+
+<img src="/images/Curriculum/SDT/Cyberwellness_Poster.jpg" style="width:80%">**AGPS Cyber Wellness Poster - Be Safe**<br>
+<img src="/images/Curriculum/SDT/Cyberwellness_Programme.jpg" style="width:80%">
 
 **AGPS Cyber Wellness Programme**
 
