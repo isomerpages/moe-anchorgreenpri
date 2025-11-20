@@ -28,20 +28,16 @@ We foster a supportive community through initiatives such as "Be a Buddy, Not a 
 
 This framework focuses on three core pillars:
 
-*   **Physical Health &amp; Well-Being**
-
+*   **Physical Health &amp; Well-Being**<br>
 Encouraging active lifestyles, promoting health awareness, providing nutritious meals, and instilling healthy routines both at home and in school.
 
-<img src="/images/Curriculum/SDT/Shape.jpg" style="width:100%">
-
-*   **Mental Health &amp; Resilience**
-
+<img src="/images/Curriculum/SDT/Shape.jpg" style="width:100%"><br>
+*   **Mental Health &amp; Resilience**<br>
 Recognizing emotional challenges as a natural part of growth, we equip students with the C.O.P.E.S. strategy (Calm down, Observe emotions, Positive thinking, Explore options, Seek support) to build resilience and mental wellness.
 
 <img src="/images/Curriculum/SDT/Copes.jpg" style="width:100%">
 
-*   **Cyber Wellness**
-
+*   **Cyber Wellness**<br>
 Cyber Wellness (CW) refers to the well-being of our students as they navigate cyberspace. It involves an understanding of the risks of harmful online behaviour, an awareness of how to protect oneself and other Internet users from such behaviour, and a recognition of the power of the Internet to benefit oneself and the community at large.
 
 MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.
