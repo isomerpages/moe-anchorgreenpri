@@ -65,10 +65,7 @@ AGPS Approach:
 
 **Useful Links**
 
-Health Hub: [https://www.healthhub.sg/programmes/parent-hub](https://www.healthhub.sg/programmes/parent-hub)
-
-Common Sense: [https://www.commonsensemedia.org/](https://www.commonsensemedia.org/)
-
-MOE Website: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
-
+Health Hub: [https://www.healthhub.sg/programmes/parent-hub](https://www.healthhub.sg/programmes/parent-hub)<br>
+Common Sense: [https://www.commonsensemedia.org/](https://www.commonsensemedia.org/)<br>
+MOE Website: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)<br>
 CSA Singapore: [https://www.csa.gov.sg/information-for/parents-educators](https://www.csa.gov.sg/information-for/parents-educators)
