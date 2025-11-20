@@ -74,3 +74,9 @@ CSA Singapore: [https://www.csa.gov.sg/information-for/parents-educators](https:
 Our initiatives are delivered through a structured tiered support system:
 
 *   **Tier 1:** Whole-school initiatives (e.g., assembly programmes) benefiting all students.!
+
+Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on taste of the challenges and strengths of persons with disabilities!
+
+*   **Tier 2:** Targeted programmes (e.g., Peer Support Leaders-led activities, Grow and Glow Programme) enhancing student connection and community.
+
+*   **Tier 3:** Individualized support (e.g., Counselling, Special Educational Needs support) to address specific student needs.
