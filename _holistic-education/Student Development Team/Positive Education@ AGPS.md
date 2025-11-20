@@ -50,7 +50,14 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 </tbody></table>
 
 **Key SDT Programmes by Level in Alignment with Cohort Theme**
-
+<table><tbody>
+<tr><td width="30%"><b>Programmes</b></td><td width="70%"><b>Description</b></td></tr>
+<tr><td><b>Start The Year Right (STYR)<br>Back to School(BTS)<br>End the Year Right (ETYR)
+</b></td><td>As we begin each school term with a rejuvenated start, these programmes serve as a whole-school initiative designed to help students begin each school term with a positive mindset. Conducted by Form Teachers during the first week of the term, the programme sets the tone for a purposeful and joyful learning experience ahead.<br><br>
+Through a series of interactive activities and class discussions, STYR, BTS and ETYR focus on building positive relationships, strengthening class identity, and encouraging students to reflect on their goals and values as a developmental milestone throughout the year. It also reinforces classroom routines and expectations in a supportive and inclusive way.<br><br>
+More importantly, opportunities are created for students to reconnect with their peers and teachers as well as to reignite their joy of learning. By intentionally starting each term and ending the year on a strong and hopeful note, we aim to cultivate a nurturing classroom environment where every child feels safe, motivated, and ready to thrive.<br><br><i><b>Start The Year Right (STYR)</b></i>
+</td></tr>
+</tbody></table>
 
 **Primary 1 – Growth**
 
