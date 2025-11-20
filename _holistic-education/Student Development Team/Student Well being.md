@@ -19,6 +19,13 @@ The framework is supported by the 4Cs:
 *   **Create** – Encouraging student voice, creativity, and expression.
 *   **Collaborate** – Partnering with stakeholders to sustain an enabling environment for all students.
 
-Peer Support and Anti-Bullying Initiatives
+##### Peer Support and Anti-Bullying Initiatives
 
 We foster a supportive community through initiatives such as "Be a Buddy, Not a Bully." Students are encouraged to adopt positive behaviors, recognize bullying, empathize, assist, comfort, and take appropriate action. The "Every Anchorlite is a Peer Supporter" initiative empowers students to cheer their peers, promote acceptance, respect, and speak up against bullying.
+
+This framework focuses on three core pillars:
+
+*   **Physical Health & Well-Being**
+
+Encouraging active lifestyles, promoting health awareness, providing nutritious meals, and instilling healthy routines both at home and in school.
+
