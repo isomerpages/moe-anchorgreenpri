@@ -82,9 +82,9 @@ As part of this journey, your child/ward will be introduced to the concept of a 
 
 <img src="/images/Curriculum/SDT/Growth_Mindset.jpg" style="width:100%"><br>
 <img src="/images/Curriculum/SDT/Effort.jpg" style="width:100%">
-**With effort, I can do it!**<br>
+With effort, I can do it!<br>
 <img src="/images/Curriculum/SDT/Challenge.jpg" style="width:100%">
-**Every challenge is a chance to grow.**
+Every challenge is a chance to grow.
 <br>
 **Primary 2 – Generosity**
 
@@ -96,4 +96,5 @@ This initiative not only helps to foster a love for reading but also reinforces 
 
 This focus on generosity has helped build a positive classroom culture and is developing our students into thoughtful communicators who are kind and generous in their interactions. We are proud of their efforts to make our school a more supportive and inclusive place for everyone.<br>
 <img src="/images/Curriculum/SDT/Kindness.jpg" style="width:100%">
-**Growing in kindness, one book at a time.**
+Growing in kindness, one book at a time.<br><br><img src="/images/Curriculum/SDT/Giving.jpg" style="width:100%">
+Small acts of giving, big moments of growth.
