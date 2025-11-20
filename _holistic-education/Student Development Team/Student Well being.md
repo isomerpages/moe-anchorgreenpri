@@ -26,13 +26,13 @@ We foster a supportive community through initiatives such as "Be a Buddy, Not a 
 <img src="/images/Curriculum/SDT/Be_a_buddy.jpg" style="width:100%">
 <img src="/images/Curriculum/SDT/Cheer.jpg" style="width:100%">
 
-
-
 This framework focuses on three core pillars:
 
 *   **Physical Health &amp; Well-Being**
 
 Encouraging active lifestyles, promoting health awareness, providing nutritious meals, and instilling healthy routines both at home and in school.
+
+<img src="/images/Curriculum/SDT/Shape.jpg" style="width:100%">
 
 *   **Mental Health &amp; Resilience**
 
