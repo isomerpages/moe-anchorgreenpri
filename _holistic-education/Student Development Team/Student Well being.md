@@ -46,3 +46,5 @@ Students to
   ·&nbsp;embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>
 · be a safe and responsible user of technology and maintain a positive online presence.<br>
 · be responsible for personal well-being in the cyberspace.
+
+**AGPS Cyber Wellness Message:** Teaching students essential digital literacy skills so they remain _Safe, Responsible, and Balanced_ online—protecting personal information, practicing respectful interactions, and balancing their online and offline lives.
