@@ -48,3 +48,21 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 •	We use Resilience Learning Aid [RLA] as a strengths-based approach by guiding students to overcome challenges using their: Internal strengths, or the mindsets (I am) and skills (I can) and External strengths, or environment (I have)<br>•	We use the Resilience Strength Builder [RSB] conversation tool to facilitate resilience fostering conversations.
 </td></tr>
 </tbody></table>
+
+
+**Key SDT Programmes by Level in Alignment with Cohort Theme**
+
+**Primary 1 – Growth**
+
+  
+The level theme for Primary 1 students is **Growth**. Growth focuses on cultivating a belief that abilities can be developed with effort and perseverance, rather than being fixed. Through this theme, we aim to help your child/ward embraces challenges as opportunities to learn and improve.
+
+As part of this journey, your child/ward will be introduced to the concept of a Growth Mindset and how it differs from a Fixed Mindset. Your child/ward will also learn the importance of trying new things, viewing mistakes as valuable learning experiences, and persevering through initial difficulties. To support this, we will teach them positive Growth Mindset language, empowering them to approach learning with confidence and resilience. This foundational mindset lays the groundwork for fostering resilience as they progress through their educational journey.  
+  
+
+**Growth Mindset** represents how students believe that their abilities can be developed through effort, practice, and learning, rather than being fixed. It reflects their willingness to embrace challenges and learn from mistakes.
+
+![](/images/Curriculum/SDT/Growth_Mindset.jpg)
+
+![Caption: With effort, I can do it!](/images/Curriculum/SDT/Effort.jpg)
+**With effort, I can do it!**
