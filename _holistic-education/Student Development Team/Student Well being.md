@@ -10,7 +10,7 @@ third_nav_title: Student Development Team
 
 At AGPS, student well-being is at the heart of what we do. Our framework is built on the belief that **“Every Anchorlite is a Peer Supporter”**, empowering every student to play an active role in creating a supportive and inclusive school environment.
 
-
+<img src="/images/Curriculum/SDT/Holistic_Student.jpg" style="width:60%">
 
 The framework is supported by the 4Cs:
 
