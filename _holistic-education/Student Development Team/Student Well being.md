@@ -32,3 +32,7 @@ Encouraging active lifestyles, promoting health awareness, providing nutritious 
 *   **Mental Health & Resilience**
 
 Recognizing emotional challenges as a natural part of growth, we equip students with the C.O.P.E.S. strategy (Calm down, Observe emotions, Positive thinking, Explore options, Seek support) to build resilience and mental wellness.
+
+*   **Cyber Wellness**
+
+Cyber Wellness (CW) refers to the well-being of our students as they navigate cyberspace. It involves an understanding of the risks of harmful online behaviour, an awareness of how to protect oneself and other Internet users from such behaviour, and a recognition of the power of the Internet to benefit oneself and the community at large.
