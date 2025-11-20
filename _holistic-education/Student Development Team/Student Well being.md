@@ -98,7 +98,7 @@ Our initiatives are delivered through a structured tiered support system:
 <img src="/images/Curriculum/SDT/Purple_Parade.jpg" style="width:100%">
 Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on taste of the challenges and strengths of persons with disabilities!
 
-*   **Tier 2:** Targeted programmes (e.g., Peer Support Leaders-led activities, Grow and Glow Programme) enhancing student connection and community.
+*   **Tier 2:** Targeted programmes (e.g., Peer Support Leaders-led activities, Grow and Glow Programme) enhancing student connection and community.<br><br>
 <div style="text-align: center;">
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F861688299715565%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe></div>
 
