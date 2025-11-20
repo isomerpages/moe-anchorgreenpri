@@ -72,7 +72,7 @@ AGPS Approach:
 * Termly Cyber Wellness assembly sharing sessions to equip students to educate students on cyber wellness activities
 
 * Class and/or recess activities to enable students to make informed decisions regarding cyber wellness matters
-
+<img src="/images/Curriculum/SDT/WSA.jpg" style="width:100%"><br>
 <div>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wVtr2f-Hbjc?si=1UNrSvYO5rBN3Quw" height="315" width="560"></iframe>
 </div>
