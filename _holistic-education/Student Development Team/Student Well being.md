@@ -83,6 +83,7 @@ Common Sense: [https://www.commonsensemedia.org/](https://www.commonsensemedia.o
 MOE Website: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)<br>
 CSA Singapore: [https://www.csa.gov.sg/information-for/parents-educators](https://www.csa.gov.sg/information-for/parents-educators)
 
+<img src="/images/Curriculum/SDT/STSS.jpg" style="width:100%">
 
 Our initiatives are delivered through a structured tiered support system:
 
