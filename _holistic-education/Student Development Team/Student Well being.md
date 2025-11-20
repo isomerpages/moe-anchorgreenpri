@@ -43,8 +43,22 @@ MOE uses the CW framework to develop the child’s instinct to protect and empow
 
 Students to
 
-  ·&nbsp;embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>
-· be a safe and responsible user of technology and maintain a positive online presence.<br>
-· be responsible for personal well-being in the cyberspace.
+* embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>
+* be a safe and responsible user of technology and maintain a positive online presence.<br>
+* be responsible for personal well-being in the cyberspace.
 
 **AGPS Cyber Wellness Message:** Teaching students essential digital literacy skills so they remain _Safe, Responsible, and Balanced_ online—protecting personal information, practicing respectful interactions, and balancing their online and offline lives.
+
+**AGPS Cyber Wellness Programme**
+
+Anchor Green Cyber Wellness programme aims to promote the positive well-being of our anchorlites as internet users, inculcates positive peer influence by harnessing technology for collaboration, learning and productivity.
+
+AGPS Approach:
+
+* A comprehensive and effective whole school approach to cyber wellness.
+
+* AGPS Digital Citizen Pledge for students to commit to safe and wholesome cyber wellness habits
+
+* Termly Cyber Wellness assembly sharing sessions to equip students to educate students on cyber wellness activities
+
+* Class and/or recess activities to enable students to make informed decisions regarding cyber wellness matters
