@@ -88,6 +88,8 @@ CSA Singapore: [https://www.csa.gov.sg/information-for/parents-educators](https:
 Our initiatives are delivered through a structured tiered support system:
 
 *   **Tier 1:** Whole-school initiatives (e.g., assembly programmes) benefiting all students.!
+*   
+<img src="/images/Curriculum/SDT/STYRP.jpg" style="width:100%">
 
 Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on taste of the challenges and strengths of persons with disabilities!
 
