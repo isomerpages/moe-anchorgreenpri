@@ -62,6 +62,20 @@ As part of this journey, your child/ward will be introduced to the concept of a 
 
 **Growth Mindset** represents how students believe that their abilities can be developed through effort, practice, and learning, rather than being fixed. It reflects their willingness to embrace challenges and learn from mistakes.
 
-<img src="/images/Curriculum/SDT/Growth_Mindset.jpg" style="width:100%">
+<img src="/images/Curriculum/SDT/Growth_Mindset.jpg" style="width:100%"><br>
 <img src="/images/Curriculum/SDT/Effort.jpg" style="width:100%">
-**With effort, I can do it!**
+**With effort, I can do it!**<br>
+<img src="/images/Curriculum/SDT/Challenge.jpg" style="width:100%">
+**Every challenge is a chance to grow.**
+<br>
+**Primary 2 – Generosity**
+
+The level theme for Primary 2 is **Generosity**. Our students have been making a conscious effort to create a caring and supportive school environment. By sharing kindness and giving affirmations, they are spreading positivity to those around them and making a meaningful difference in each other's lives.
+
+As part of our Primary 2 level theme on Generosity, students participated in a Mystery Book Exchange. By bringing in pre-loved books to swap with their peers, they discovered new stories while putting the values of giving and sharing into practice.
+
+This initiative not only helps to foster a love for reading but also reinforces the lessons of generosity learned in the classroom. Students were so excited to find new stories and give their old books a new home. It was a great way to show them how important it is to be thoughtful and generous members of our school community.
+
+This focus on generosity has helped build a positive classroom culture and is developing our students into thoughtful communicators who are kind and generous in their interactions. We are proud of their efforts to make our school a more supportive and inclusive place for everyone.<br>
+<img src="/images/Curriculum/SDT/Kindness.jpg" style="width:100%">
+**Growing in kindness, one book at a time.**
