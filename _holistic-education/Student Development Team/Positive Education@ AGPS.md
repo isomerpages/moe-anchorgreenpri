@@ -109,4 +109,13 @@ Each Primary 3 class will be paired with a corresponding Primary 6 class to cult
 
 In addition, the P3 students put graciousness into action through their participation in the _Food from the Heart_ donation drive. They contributed beautiful and creative artwork to raise awareness for the cause, and the EE Champions led a morning assembly presentation to share this message with the school. This hands-on project allowed students to deepen their understanding of graciousness by working together with their peers and teachers on a meaningful community effort.
 <img src="/images/Curriculum/SDT/Encouragement.jpg" style="width:100%">
-P6 students receiving their potted plants with notes of encouragement.
+P6 students receiving their potted plants with notes of encouragement.<br><br>
+<img src="/images/Curriculum/SDT/Food_from_the_heart.jpg" style="width:100%">
+Beautiful Artwork done by P3 students for the Food from the Heart Initiative
+<br><br>
+
+**Primary 4 – Gratitude**
+
+The level theme for Primary 4 is **Gratitude**. We hope through our various programmes and activities planned, our Anchorlites will be able to develop in them a sense of gratitude towards others, show their appreciation and thanks to those who supported them in their journey of learning. represents how students learn to express appreciation and recognize the contributions of others. It reflects their ability to foster respect, empathy, and positive relationships in their daily interactions.
+
+Students deepen their understanding of gratitude through level programmes and everyday classroom experiences. Alongside creating heartfelt thank-you tokens for transport staff as part of SBS Transit’s CARE Kindness Month—reflecting on everyday heroes and expressing appreciation, they also engage in classroom discussions, circle time reflections, and activities that encourage them to recognise and appreciate the people and things they are grateful for in their daily lives. These combined experiences help nurture a genuine attitude of thankfulness and kindness.
