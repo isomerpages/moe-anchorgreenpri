@@ -95,7 +95,7 @@ Our initiatives are delivered through a structured tiered support system:
 
 <img src="/images/Curriculum/SDT/Emotions.jpg" style="width:100%">Discovering emotions in an engaging recess-time activity
 
-
+<img src="/images/Curriculum/SDT/Purple_Parade.jpg" style="width:100%">
 Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on taste of the challenges and strengths of persons with disabilities!
 
 *   **Tier 2:** Targeted programmes (e.g., Peer Support Leaders-led activities, Grow and Glow Programme) enhancing student connection and community.
