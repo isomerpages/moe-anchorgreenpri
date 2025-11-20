@@ -97,4 +97,14 @@ This initiative not only helps to foster a love for reading but also reinforces 
 This focus on generosity has helped build a positive classroom culture and is developing our students into thoughtful communicators who are kind and generous in their interactions. We are proud of their efforts to make our school a more supportive and inclusive place for everyone.<br>
 <img src="/images/Curriculum/SDT/Kindness.jpg" style="width:100%">
 Growing in kindness, one book at a time.<br><br><img src="/images/Curriculum/SDT/Giving.jpg" style="width:100%">
-Small acts of giving, big moments of growth.
+Small acts of giving, big moments of growth.<br><br>
+
+**Primary 3 – Graciousness**
+
+The level theme for Primary 3 is **Graciousness**. We hope that through our various programmes and activities planned, our Anchorlites will be able to instill in them the sense of empathy towards others, show act of kindness and improve their emotional well-being.
+
+As part of the level focus, the Primary 3 students participated in Growing Graciousness**:** P3 to P6 Plant Gifting Initiative. This level-wide initiative aims to nurture graciousness in Primary 3 students while promoting environmental responsibility and fostering inter-level bonds within the school community.
+
+Each Primary 3 class will be paired with a corresponding Primary 6 class to cultivate a meaningful act of giving. As a culminating gesture of graciousness, Primary 3 students will write short notes of encouragement or appreciation for their paired Primary 6 students. Through this initiative, students embody the school’s ANCHOR values while fostering a culture of **graciousness, care, and inter-level appreciation**.
+
+In addition, the P3 students put graciousness into action through their participation in the _Food from the Heart_ donation drive. They contributed beautiful and creative artwork to raise awareness for the cause, and the EE Champions led a morning assembly presentation to share this message with the school. This hands-on project allowed students to deepen their understanding of graciousness by working together with their peers and teachers on a meaningful community effort.
