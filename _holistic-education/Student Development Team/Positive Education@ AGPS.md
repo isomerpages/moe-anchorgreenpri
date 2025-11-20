@@ -68,7 +68,7 @@ More importantly, opportunities are created for students to reconnect with their
 
 Teachers are also equipped with the Resilience Strength Builder \[RSB\] conversation tool to facilitate resilience-fostering conversations. Through structured classroom lessons (FTGP, CCE-MTL), Student Development Experiences (e.g., Camp, CCA), and daily interactions with teachers, students are taught how to tap into these strengths. Whether it’s learning to stay calm during conflicts, celebrating small wins, or identifying trusted adults they can talk to, every child is equipped with the tools to face life’s ups and downs with courage and confidence.
 
-By fostering resilience and optimism, we help our students grow into self-assured individuals who believe in themselves, take initiative, and know they have a supportive network to rely on.</td></tr>
+By fostering resilience and optimism, we help our students grow into self-assured individuals who believe in themselves, take initiative, and know they have a supportive network to rely on.<br><br></td></tr>
 </tbody></table>
 
 **Primary 1 – Growth**
