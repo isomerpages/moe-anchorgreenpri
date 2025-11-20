@@ -29,3 +29,6 @@ This framework focuses on three core pillars:
 
 Encouraging active lifestyles, promoting health awareness, providing nutritious meals, and instilling healthy routines both at home and in school.
 
+*   **Mental Health & Resilience**
+
+Recognizing emotional challenges as a natural part of growth, we equip students with the C.O.P.E.S. strategy (Calm down, Observe emotions, Positive thinking, Explore options, Seek support) to build resilience and mental wellness.
