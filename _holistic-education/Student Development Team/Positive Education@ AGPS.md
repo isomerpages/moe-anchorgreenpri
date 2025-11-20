@@ -58,7 +58,7 @@ Through a series of interactive activities and class discussions, STYR, BTS and 
 More importantly, opportunities are created for students to reconnect with their peers and teachers as well as to reignite their joy of learning. By intentionally starting each term and ending the year on a strong and hopeful note, we aim to cultivate a nurturing classroom environment where every child feels safe, motivated, and ready to thrive.<br><br><i><b>Start The Year Right (STYR)</b></i><br><br>
 <img src="/images/Curriculum/SDT/STYR.jpg" style="width:100%">Our young Anchorlites developing life skills<br><br><i><b>Back to School (BTS)</b></i><br><br>
 <img src="/images/Curriculum/SDT/BTS.jpg" style="width:100%">Team-building activity to develop collaborative skills<br><br><i><b>End The Year Right (ETYR)</b></i><br><br>
-<img src="/images/Curriculum/SDT/STYR.jpg" style="width:100%">Our young Anchorlites developing life skills<br><br><i><b>Back to School (BTS)</b></i><br><br><img src="/images/Curriculum/SDT/STYR.jpg" style="width:100%">Ending the year with autographs and words of encoruagement<br><br>
+<img src="/images/Curriculum/SDT/STYR.jpg" style="width:100%">Our young Anchorlites developing life skills<br><br><i><b>Back to School (BTS)</b></i><br><br><img src="/images/Curriculum/SDT/ETYR.jpg" style="width:100%">Ending the year with autographs and words of encoruagement<br><br>
 </td></tr>
 </tbody></table>
 
