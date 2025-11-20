@@ -88,8 +88,13 @@ CSA Singapore: [https://www.csa.gov.sg/information-for/parents-educators](https:
 Our initiatives are delivered through a structured tiered support system:
 
 *   **Tier 1:** Whole-school initiatives (e.g., assembly programmes) benefiting all students.!
-*   
-<img src="/images/Curriculum/SDT/STYRP.jpg" style="width:100%">
+   
+<img src="/images/Curriculum/SDT/STYRP.jpg" style="width:100%">Anchorlites bonding together at the Class Cohort games during our Start the Year Right Programme.
+
+<img src="/images/Curriculum/SDT/Mental_Health.jpg" style="width:100%">Anchorlites learning about mental health in our assembly talk.
+
+<img src="/images/Curriculum/SDT/Emotions.jpg" style="width:100%">Discovering emotions in an engaging recess-time activity
+
 
 Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on taste of the challenges and strengths of persons with disabilities!
 
