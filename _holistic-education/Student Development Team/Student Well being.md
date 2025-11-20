@@ -100,4 +100,7 @@ Purple Parade: Anchorlites trying out wheelchair sports and getting a hands-on t
 
 *   **Tier 2:** Targeted programmes (e.g., Peer Support Leaders-led activities, Grow and Glow Programme) enhancing student connection and community.
 
+<img src="/images/Curriculum/SDT/PSL.jpg" style="width:100%">
+Peer Support Leaders at work — turning teamwork and friendship into action!
+
 *   **Tier 3:** Individualized support (e.g., Counselling, Special Educational Needs support) to address specific student needs.
