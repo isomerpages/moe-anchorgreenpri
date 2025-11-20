@@ -63,6 +63,10 @@ AGPS Approach:
 
 * Class and/or recess activities to enable students to make informed decisions regarding cyber wellness matters
 
+<div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wVtr2f-Hbjc?si=1UNrSvYO5rBN3Quw" height="315" width="560"></iframe>
+</div>
+
 **Useful Links**
 
 Health Hub: [https://www.healthhub.sg/programmes/parent-hub](https://www.healthhub.sg/programmes/parent-hub)<br>
