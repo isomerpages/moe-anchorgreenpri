@@ -23,6 +23,11 @@ The framework is supported by the 4Cs:
 
 We foster a supportive community through initiatives such as "Be a Buddy, Not a Bully." Students are encouraged to adopt positive behaviors, recognize bullying, empathize, assist, comfort, and take appropriate action. The "Every Anchorlite is a Peer Supporter" initiative empowers students to cheer their peers, promote acceptance, respect, and speak up against bullying.
 
+<img src="/images/Curriculum/SDT/Be_a_buddy.jpg" style="width:100%">
+<img src="/images/Curriculum/SDT/Cheer.jpg" style="width:100%">
+
+
+
 This framework focuses on three core pillars:
 
 *   **Physical Health &amp; Well-Being**
