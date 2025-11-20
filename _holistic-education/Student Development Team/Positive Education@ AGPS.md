@@ -129,4 +129,4 @@ A key opportunity to practise grit is the Primary 5 Integrated Project Work (IPW
 
 The students also took part in the Learning for Success Workshop. They learned to set SMART goals, apply effective time management techniques, and strengthen their critical thinking skills to make informed decisions. Through interactive team-building activities, students also enhanced their communication, trust, and collaboration with their peers.
 
-Together, these experiences equip students with the mindset and skills to persevere, adapt, and succeed in the face of challenges.
+Together, these experiences equip students with the mindset and skills to persevere, adapt, and succeed in the face of challenges.<br><br><img src="/images/Curriculum/SDT/Grit.jpg" style="width:100%">P5 students showed great grit throughout their IPW journey, persevering as a team to create this impressive final product.<br><br><img src="/images/Curriculum/SDT/Catapult.jpg" style="width:100%">Building a catapult to promote team-building during P5 camp.
