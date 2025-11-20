@@ -108,3 +108,5 @@ As part of the level focus, the Primary 3 students participated in Growing Graci
 Each Primary 3 class will be paired with a corresponding Primary 6 class to cultivate a meaningful act of giving. As a culminating gesture of graciousness, Primary 3 students will write short notes of encouragement or appreciation for their paired Primary 6 students. Through this initiative, students embody the school’s ANCHOR values while fostering a culture of **graciousness, care, and inter-level appreciation**.
 
 In addition, the P3 students put graciousness into action through their participation in the _Food from the Heart_ donation drive. They contributed beautiful and creative artwork to raise awareness for the cause, and the EE Champions led a morning assembly presentation to share this message with the school. This hands-on project allowed students to deepen their understanding of graciousness by working together with their peers and teachers on a meaningful community effort.
+<img src="/images/Curriculum/SDT/Encouragement.jpg" style="width:100%">
+P6 students receiving their potted plants with notes of encouragement.
