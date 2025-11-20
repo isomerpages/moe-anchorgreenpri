@@ -119,4 +119,14 @@ The level theme for Primary 4 is **Gratitude**. We hope through our various prog
 
 Students deepen their understanding of gratitude through level programmes and everyday classroom experiences. Alongside creating heartfelt thank-you tokens for transport staff as part of SBS Transit’s CARE Kindness Month—reflecting on everyday heroes and expressing appreciation, they also engage in classroom discussions, circle time reflections, and activities that encourage them to recognise and appreciate the people and things they are grateful for in their daily lives. These combined experiences help nurture a genuine attitude of thankfulness and kindness.<br><br>
 <img src="/images/Curriculum/SDT/SBST.jpg" style="width:100%">As part of our Positive Education approach and the P4 theme of Gratitude, the P4 students created heartfelt artwork which was presented to SBS Transit staff — a meaningful gesture to thank our everyday heroes.<br><br>
-<img src="/images/Curriculum/SDT/Crafting.jpg" style="width:100%">Crafting and piecing their artwork 
+<img src="/images/Curriculum/SDT/Crafting.jpg" style="width:100%">Crafting and piecing their artwork
+
+**Primary 5 – Grit**
+
+The level theme for Primary 5 students is **Grit.** Grit represents how students develop passion, determination, perseverance, and a never-give-up attitude. It reflects their ability to face challenges with resilience, stay focused on their goals, and persist through difficulties to achieve success.
+
+A key opportunity to practise grit is the Primary 5 Integrated Project Work (IPW), where students collaborate to solve real-life problems, requiring sustained effort and effective teamwork. Similarly, the Primary 5 Outdoor Adventure Camp provides a structured platform to intentionally strengthen resilience. Guided by the Resilience Learning Aid, teachers facilitate conversations and activities that enhance students’ determination and their ability to persist despite difficulties.
+
+The students also took part in the Learning for Success Workshop. They learned to set SMART goals, apply effective time management techniques, and strengthen their critical thinking skills to make informed decisions. Through interactive team-building activities, students also enhanced their communication, trust, and collaboration with their peers.
+
+Together, these experiences equip students with the mindset and skills to persevere, adapt, and succeed in the face of challenges.
