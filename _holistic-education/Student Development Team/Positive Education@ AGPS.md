@@ -71,9 +71,8 @@ Teachers are also equipped with the Resilience Strength Builder \[RSB\] conversa
 By fostering resilience and optimism, we help our students grow into self-assured individuals who believe in themselves, take initiative, and know they have a supportive network to rely on.<br><br><img src="/images/Curriculum/SDT/Circle_Time.jpg" style="width:100%">Circle Time: Our Primary 3 Anchorlites participated in a Strength-Based Resilience Building Workshop, designed to help them recognise their inner light—and use it to shine through life’s challenges.<br><br><img src="/images/Curriculum/SDT/I_Can_Games.jpg" style="width:100%">‘I Am, I Can, I Have’ games</td></tr>
 </tbody></table>
 
-**Primary 1 – Growth**
-
-  
+**Key SDT Programmes by Level in Alignment with Cohort Theme**<br><br>
+**Primary 1 – Growth**<br><br>
 The level theme for Primary 1 students is **Growth**. Growth focuses on cultivating a belief that abilities can be developed with effort and perseverance, rather than being fixed. Through this theme, we aim to help your child/ward embraces challenges as opportunities to learn and improve.
 
 As part of this journey, your child/ward will be introduced to the concept of a Growth Mindset and how it differs from a Fixed Mindset. Your child/ward will also learn the importance of trying new things, viewing mistakes as valuable learning experiences, and persevering through initial difficulties. To support this, we will teach them positive Growth Mindset language, empowering them to approach learning with confidence and resilience. This foundational mindset lays the groundwork for fostering resilience as they progress through their educational journey.  
