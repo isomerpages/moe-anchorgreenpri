@@ -7,7 +7,7 @@ third_nav_title: Student Development Team
 ---
 ## Positive Education (P.R.O.S.P.E.R) 
 
-<table><tbody><tr><td><img src="/images/Curriculum/SDT/Teacher_Facing.jpg" style="width:100%"><i><small>PROSPER Framework for Staff </small></i></td><td><img src="/images/Curriculum/SDT/Student_Facing.jpg" style="width:100%"><i><small>PROSPER Framework for Anchorlites</small></i></td></tr><tr></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Curriculum/SDT/Teacher_Facing.jpg" style="width:100%"><i>PROSPER Framework for Staff</i></td><td><img src="/images/Curriculum/SDT/Student_Facing.jpg" style="width:100%"><i>PROSPER Framework for Anchorlites</i></td></tr><tr></tr></tbody></table>
 
 In line with the school’s vision to develop Agile Learners and Gracious Citizens, the school has adopted Positive Education (PosEd) as a school-wide approach to enhance our students’ well-being and learning. We are guided by the P.R.O.S.P.E.R. Framework, developed by Noble &amp; McGrath, in our implementation. 
 
