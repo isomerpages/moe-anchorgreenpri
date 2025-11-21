@@ -51,7 +51,7 @@ PosEd is a prominent feature in our school’s policies and daily practices. Our
 </td></tr>
 </tbody></table>
 
-**Key Programmes in SDT to promote Positive Education **
+<b>Key Programmes in SDT to promote Positive Education </b>
 <table><tbody>
 <tr><td width="30%"><b>Programmes</b></td><td width="70%"><b>Description</b></td></tr>
 <tr><td><b>Start The Year Right (STYR)<br><br>Back to School(BTS)<br><br>End the Year Right (ETYR)
