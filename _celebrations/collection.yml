@@ -1,5 +1,4 @@
 collections:
   celebrations:
     output: true
-    order:
-      - Arif Budiman Teacher Award.md
+    order: []
