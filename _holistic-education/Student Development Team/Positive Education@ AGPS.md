@@ -89,7 +89,7 @@ As part of this journey, your child/ward will be introduced to the concept of a 
 With effort, I can do it!<br>
 <img src="/images/Curriculum/SDT/Challenge.jpg" style="width:100%">
 Every challenge is a chance to grow.
-<br>
+<br><br>
 **Primary 2 – Generosity**
 
 The level theme for Primary 2 is **Generosity**. Our students have been making a conscious effort to create a caring and supportive school environment. By sharing kindness and giving affirmations, they are spreading positivity to those around them and making a meaningful difference in each other's lives.
