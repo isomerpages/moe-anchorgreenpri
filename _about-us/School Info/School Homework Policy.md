@@ -7,15 +7,14 @@ variant: markdown
 ---
 School Homework Policy
 ======================
-Homework is defined as schoolwork or assignment a pupil must complete after school curriculum hours. 
 
-Generally, teachers assign homework to pupils to:
+<b>Homework refers to any learning activity in curricular subjects that school requires students to complete outside of curriculum time, regardless of the mode of delivery (i.e. pen-and-paper, virtual/ online).</b>  
 
-*   reinforce what has been taught in class;
-*   consolidate their learning;
-*   provide further practice to deepen understanding;
-*   prepare them for next day learning, e.g. pre-reading a chapter; or
-*   use as part of the formative assessment, i.e. homework is used to gather feedback about pupils’ learning and serves to inform teacher on the necessary follow-up actions needed.
+<b>Examples of homework</b>
+* Pen and paper assignments (e.g. practice questions, essays, etc.)
+* e-learning assignments (e.g. SLS lessons, recording of oral practices, etc.)
+* Flipped classroom learning (e.g. watching assigned video, online lesson resources, etc)
+* Alternative assessments (e.g. project work, performance task, etc.)
 
 **No Written Weekend Homework for P1 – P3 pupils**
 
