@@ -24,6 +24,73 @@ School Homework Policy
 •	consolidate learning<br>
 •	<b>gather feedback about students’ learning and serves to inform teachers on the necessary follow-up action</b><br>
 
+<b>The table below shows the approximate daily and weekend homework duration for students and serves as a guide only.</b>
+
+<table cellspacing="0" cellpadding="6" border="1">
+  <tbody><tr>
+    <th colspan="4"><strong>Daily/ Weekly Homework Guide</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Homework /Level</strong></td>
+    <td><strong>Pri 1 to Pri 2</strong></td>
+    <td><strong>Pri 3 to Pri 4</strong></td>
+    <td><strong>Pri 5 to Pri 6</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Daily Homework</strong></td>
+    <td>Maximum of 1 hour per day</td>
+    <td>Maximum of 1 hour 20 mins per day</td>
+    <td>Maximum of 1 hour 45 mins per day</td>
+  </tr>
+  <tr>
+    <td><strong>Daily Screen-Use Limit for Homework<br>(included within weekly homework guidelines)</strong></td>
+    <td>&lt; 0.5 hours</td>
+    <td>&lt; 1 hour</td>
+    <td>&lt; 1.5 hours</td>
+  </tr>
+  <tr>
+    <td><strong>Weekend</strong></td>
+    <td>No homework</td>
+    <td>Maximum 1 hr 20 mins<br>(Pri 3: No homework)</td>
+    <td>Maximum 2 hours</td>
+  </tr>
+  <tr>
+    <td><strong>Weekly Homework</strong></td>
+    <td>&lt; 5 hours per week</td>
+    <td>&lt; 8 hours per week</td>
+    <td>&lt; 11 hours per week</td>
+  </tr>
+  <tr>
+    <td><strong>Festive holiday</strong></td>
+    <td colspan="3">No homework assigned.</td>
+  </tr>
+  <tr>
+    <td><strong>School holidays</strong></td>
+    <td colspan="3">
+      <strong><u>For non-graduating Cohorts</u></strong><br>
+      Mar &amp; Sep breaks: No assignment of homework except book review (EL/MTL).<br>
+      Jun &amp; Dec breaks: Homework assignments should not be more than 50% of the daily load given during school week.<br>
+      <table cellspacing="0" cellpadding="4" border="1">
+        <tbody><tr>
+          <td><strong>P1-P2</strong><br>Maximum 2.5 hours</td>
+          <td><strong>P3-P4</strong><br>Maximum 4 hours</td>
+          <td><strong>P5</strong><br>Maximum 5.5 hours</td>
+        </tr>
+      </tbody></table>
+      <br>
+      <strong><u>For graduating cohorts</u></strong><br>
+      Homework assignments should not be more than 50% of daily load given during school week.<br>
+      <table cellspacing="0" cellpadding="4" border="1">
+        <tbody><tr>
+          <td><strong>P6</strong><br>Maximum 5.5 hours</td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+
 
 
 
