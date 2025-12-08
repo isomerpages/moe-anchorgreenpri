@@ -68,7 +68,7 @@ School Homework Policy
     <td><strong>School holidays</strong></td>
     <td colspan="3">
       <strong><u>For non-graduating Cohorts</u></strong><br>
-      Mar &amp; Sep breaks: No assignment of homework except book review (EL/MTL).<br>
+      Mar &amp; Sep breaks: No assignment of homework except book review (EL/MTL).<br><br>
       Jun &amp; Dec breaks: Homework assignments should not be more than 50% of the daily load given during school week.<br>
       <table cellspacing="0" cellpadding="4" border="1">
         <tbody><tr>
@@ -88,11 +88,6 @@ School Homework Policy
     </td>
   </tr>
 </tbody></table>
-
-
-
-
-
 
 <b>Non-Submission and/or Non-Completion of Homework</b>
 
