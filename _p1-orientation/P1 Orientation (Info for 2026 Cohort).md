@@ -4,4 +4,4 @@ permalink: /useful-links/resources-for-parents/p1-orientation/info-for-2026-coho
 description: ""
 variant: markdown
 ---
-<a href="/files/For%20Parents/2025_P1_Orientation_Handbook.pdf" target="_blank">P1 Orientation (Info for 2025 Cohort)</a>
+<a href="/files/For%20Parents/P1_Orientation_Booklet_for_2026_Cohort.pdf" target="_blank">P1 Orientation (Info for 2026 Cohort)</a>
