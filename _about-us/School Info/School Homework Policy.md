@@ -24,3 +24,11 @@ School Homework Policy
 •	consolidate learning<br>
 •	<b>gather feedback about students’ learning and serves to inform teachers on the necessary follow-up action</b><br>
 
+
+
+
+<b>Non-Submission and/or Non-Completion of Homework</b>
+
+• Teachers will work with students to find out the reasons for any non-submission  and/or non-completion of homework. Where necessary, teachers will contact the parent or legal guardian to inform them and seek their support. Please note that repeated non-submission of homework may be considered a minor offence.
+
+• If the child/ward is medically excused from school for an extended period, appropriate arrangements will be made to support the student with homework and other academic needs.
