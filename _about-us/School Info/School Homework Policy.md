@@ -37,8 +37,7 @@ School Homework Policy
 
 <b>Parents/guardians and learners all play an important role in ensuring that homework serves its intended purposes.</b>
 
-<b>Parents/guardians</b> are to:
-
+<b>Parents/guardians</b> are to:<br><br>
 •	create a home environment conducive for studying and completion of homework, with good light and space for studying<br>
 •	set a regular schedule for completing homework for each day that is not interrupted by family plans, school activities or television time<br>
 •	check Student Handbook for the daily list of homework assignments so that both the parents and the child can monitor progress on work<br>
@@ -47,12 +46,10 @@ School Homework Policy
 •	be mindful of the stresses arising from school homework and out-of-school activities, and help your children prioritise their time among these activities<br>
 •	work in partnership with our teachers to support your child’s learning and development.<br>
 
-<b>Students</b> are to:
-
+<b>Students</b> are to:<br><br>
 •	refer to the homework whiteboard in the classroom for homework assignments<br>
 •	record the homework assignments in the Student Handbook<br>
 •	seek clarification on the homework given before going back home<br>
 •	ensure that homework assignments are brought home to be completed and not left in school<br>
 •	manage time well to ensure that homework is completed and submitted on time <br>
 •	give his/her best effort in completing the homework.<br>
-
