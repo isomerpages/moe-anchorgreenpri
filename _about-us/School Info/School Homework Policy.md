@@ -16,6 +16,11 @@ School Homework Policy
 * Flipped classroom learning (e.g. watching assigned video, online lesson resources, etc)
 * Alternative assessments (e.g. project work, performance task, etc.)
 
-**No Written Weekend Homework for P1 – P3 pupils**
+<b>Purpose of Homework</b>
+* Homework is used to:<br>
+•	reinforce what has been taught in class<br>
+•	<b>provide practice to check for understanding deepen understanding</b><br>
+•	prepare for next day learning, e.g. pre-reading chapter<br>
+•	consolidate learning<br>
+•	<b>gather feedback about students’ learning and serves to inform teachers on the necessary follow-up action</b><br>
 
-There will be no written weekend homework for all P1 to P3 pupils. The dual objectives are to allow our pupils to enjoy their weekends with their family and afford them the space and time for parents to think of innovative ways to teach and engage their children.
