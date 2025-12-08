@@ -7,7 +7,7 @@ third_nav_title: Student Development Team
 ---
 ## SEN &amp; Counselling
 
-### Overview of support provided by SEN and SCs
+### Overview of support provided by SENOs and SCs
 
 At Anchor Green Primary School, the **Special Educational Needs Officers (SENOs)** work closely with teachers, parents, external professionals, and students to coordinate tailored learning support for pupils with special educational needs, ensuring they receive the appropriate academic, social, and emotional support. Complementing this, the **School Counsellors (SCs)** provide a safe and supportive environment for students to share their challenges and work through social, emotional, behavioural, and mental health issues. They equip students with strategies to manage their emotions, cope with difficulties, and make positive choices, promoting overall well-being and personal growth.
 
