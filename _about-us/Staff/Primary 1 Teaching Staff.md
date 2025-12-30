@@ -63,8 +63,8 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Care</span></td>
-     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Goh Kim Chuan Ivy</span><br></td>
-    <td class="tg-fskk"><a href="mailto:goh_kim_chuan_ivy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">goh_kim_chuan_ivy@schools.gov.sg</span></a><br></td>
+     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurheryani Mudzakir</span><br></td>
+    <td class="tg-fskk"><a href="mailto:nurheryani_mudzakir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurheryani_mudzakir@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Annie Lim</span><br></td>
