@@ -105,15 +105,13 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Chen Zhen</span><br></td>
-    <td class="tg-fskk"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Lim Wan Lin Veronica</span><br></td>
+    <td class="tg-fskk"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Innovation</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mrs Sri<br>
-(Thilakavathy D/O Govindasamy)
-</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Jessica Ding Chooi Hui <br>(Mrs Jessica Yeow) </span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
