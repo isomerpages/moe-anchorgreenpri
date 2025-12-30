@@ -14,8 +14,8 @@ Stall No. 3: Halal Western Food Stall
 
 ![](/images/Resources/Canteen/Stall%203%20serving%20size.png)
 
-Main Meals
-------------
+### Main Meals
+
 
 <table style="border-collapse:collapse;width:100%;font-family:Prompt,sans-serif;font-size:16px;">
   <tbody><tr>
