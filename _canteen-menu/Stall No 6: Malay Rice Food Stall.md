@@ -57,6 +57,3 @@ Stall No. 6: Malay Rice Food Stall
     </tr>
   </tbody>
 </table>
-
-
-
