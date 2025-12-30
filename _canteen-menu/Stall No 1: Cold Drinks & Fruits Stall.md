@@ -7,7 +7,6 @@ variant: markdown
 Stall No. 1: Cold Drinks &amp; Fruits Stall
 ------------------------------------------
 
-
 ### Cup Drinks
 
 
