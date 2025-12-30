@@ -114,8 +114,9 @@ Primary 1 Teaching Staff
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
-    <td class="tg-fskk"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Huang Qin
+</span><br></td>
+    <td class="tg-fskk"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">huang_qin@schools.gov.sg</span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
