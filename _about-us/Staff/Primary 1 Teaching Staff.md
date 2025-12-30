@@ -95,8 +95,8 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:sheryl_eng_chin_chin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Wong Meng Yean</span><br></td>
-    <td class="tg-agmf"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Vasundharadevi V Reddy <br>(Mrs Reddy)</span><br></td>
+    <td class="tg-agmf"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="background-color:#FBFFFA">1 Grace</span><br></td>
