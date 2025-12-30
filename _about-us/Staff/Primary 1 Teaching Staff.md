@@ -81,8 +81,8 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Optimism</span></td>
-   <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Bte Ismail</span><br></td>
-    <td class="tg-fskk"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a><br></td>
+   <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Suelasteri Binte Samani</span><br></td>
+    <td class="tg-fskk"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Ms Chan Sin Lin
