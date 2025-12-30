@@ -17,57 +17,58 @@ Stall No. 3: Halal Western Food Stall
 Main Meals
 ------------
 
-<table class="menu-table">
-  <thead>
-    <tr>
-      <th>Set</th>
-      <th>Monday</th>
-      <th>Tuesday</th>
-      <th>Wednesday</th>
-      <th>Thursday</th>
-      <th>Friday</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>A</td>
-      <td>Chicken &amp; mashed / coleslaw</td>
-      <td>Fish &amp; mashed / coleslaw</td>
-      <td>Chicken &amp; mashed / coleslaw</td>
-      <td>Macaroni with Cheese</td>
-      <td>Spaghetti Aglio Olio</td>
-    </tr>
-    <tr>
-      <td>B</td>
-      <td>Spaghetti Bolognaise / Carbonara</td>
-      <td>Macaroni with Cheese</td>
-      <td>Spaghetti Bolognaise / Carbonara</td>
-      <td>Fish &amp; mashed / coleslaw</td>
-      <td>Chicken &amp; mashed / coleslaw</td>
-    </tr>
-    <tr>
-      <td>C</td>
-      <td>Mushroom Soup with Garlic Bread</td>
-      <td>Mushroom Soup with Garlic Bread</td>
-      <td>Mushroom Soup with Garlic Bread</td>
-      <td>Mushroom Soup with Garlic Bread</td>
-      <td>Mushroom Soup with Garlic Bread</td>
-    </tr>
-    <tr>
-      <td>D</td>
-      <td></td>
-      <td>Chicken / Fish Burger</td>
-      <td></td>
-      <td>Chicken Pizza</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>E</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Chicken / Fish Burger</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<table style="border-collapse:collapse;width:100%;font-family:Prompt,sans-serif;font-size:16px;">
+  <tbody><tr>
+    <th style="border:1px solid #2a2a2a;padding:6px;">Set</th>
+    <th style="border:1px solid #2a2a2a;padding:6px;">Monday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px;">Tuesday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px;">Wednesday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px;">Thursday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px;">Friday</th>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">A</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; mashed / coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Fish &amp; mashed / coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; mashed / coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Macaroni with Cheese</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Spaghetti Aglio Olio</td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">B</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Spaghetti Bolognaise / Carbonara</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Macaroni with Cheese</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Spaghetti Bolognaise / Carbonara</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Fish &amp; mashed / coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; mashed / coleslaw</td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">C</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Mushroom Soup with Garlic Bread</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Mushroom Soup with Garlic Bread</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Mushroom Soup with Garlic Bread</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Mushroom Soup with Garlic Bread</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Mushroom Soup with Garlic Bread</td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">D</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken / Fish Burger</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken Pizza</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">E</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken / Fish Burger</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;"></td>
+  </tr>
+</tbody></table>
