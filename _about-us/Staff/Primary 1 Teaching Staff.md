@@ -76,8 +76,8 @@ Primary 1 Teaching Staff
     <td class="tg-fskk"><a href="mailto:melissa_ang_shu_xian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">melissa_ang_shu_xian@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-   <td class="tg-4k5m"><span style="color:#222">Ms Deepa D/O Thanaseelan</span></td>
-    <td class="tg-agmf"><a href="mailto:deepa_thanaseelan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">deepa_thanaseelan@schools.gov.sg</span></a><br></td>
+   <td class="tg-4k5m"><span style="color:#222">Mdm	Loh Siang Choo</span></td>
+    <td class="tg-agmf"><a href="mailto:loh_siang_choo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loh_siang_choo@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Optimism</span></td>
