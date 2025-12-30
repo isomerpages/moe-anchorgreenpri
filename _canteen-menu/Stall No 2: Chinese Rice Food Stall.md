@@ -9,7 +9,7 @@ Stall No: 2 Chinese Rice Food Stall
 
 
 ### **Set Meal Concept:&nbsp;Rice + Vegetables + Meat + Fruit**
-### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
+### **Serving Sizes:&nbsp;Standard ($2.00)&nbsp;Premium ($2.50)**
 
 ![](/images/Resources/Canteen/Stall%202%20serving%20size.png)
 
