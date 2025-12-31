@@ -9,7 +9,7 @@ Stall No. 6: Malay Rice Food Stall
 
 #### **Set Meal Concept:&nbsp;Rice + Vegetables + Meat + Fruit**
 
-#### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
+#### **Serving Sizes:&nbsp;Standard ($2.00)&nbsp;&nbsp;&nbsp;&nbsp;Premium ($2.50)**
 
 ### Main Meals
 
