@@ -17,7 +17,7 @@ Stall No. 8: Hot Drinks Food Stall
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #2a2a2a; padding: 8px;">Coffee O<br>Tea O</td>
+      <td style="border: 1px solid #2a2a2a; padding: 8px;">Coffee O, Tea O</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">0.60</td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ Stall No. 8: Hot Drinks Food Stall
       <td style="border: 1px solid #2a2a2a; padding: 8px;">0.70</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #2a2a2a; padding: 8px;">Coffee with Milk<br>Tea with Milk</td>
+      <td style="border: 1px solid #2a2a2a; padding: 8px;">Coffee or Tea with Milk</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">0.80</td>
     </tr>
     <tr>
