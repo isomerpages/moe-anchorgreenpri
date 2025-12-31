@@ -9,11 +9,19 @@ Primary 1 Teaching Staff
 --------------------------
 <style type="text/css">
 .tg  {border-collapse: collapse; border-color: #aabcfe; border-spacing: 0;}
-.tg td, .tg th {border-style: solid; border-width: 1px; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; word-break: normal; text-align: center; vertical-align: middle;}
+.tg td, .tg th {
+  border-style: solid; 
+  border-width: 1px; 
+  font-family: Arial, sans-serif; 
+  font-size: 14px; 
+  padding: 10px 5px; 
+  word-break: normal; 
+  text-align: center; 
+  vertical-align: middle;
+}
 .tg td {background-color: #FBFFFA; color: #222;}
 .tg th {background-color: #22A114; color: #FBFFFA; font-weight: bold;}
 .tg .tg-bold-underline {font-weight: bold; text-decoration: underline; color: #21088A;}
-.tg .tg-subheader {background-color: #97E3BD; font-weight: bold; text-decoration: underline; color: #21088A;}
 </style>
 <table class="tg">
   <thead>
@@ -89,13 +97,12 @@ Primary 1 Teaching Staff
     </tr>
     <tr>
       <td rowspan="2">1 Innovation</td>
-      <td>Mdm Jessica Ding Chooi Hui <br>(Mrs Jessica Yeow)</td>
+      <td>Mdm Jessica Ding Chooi Hui (Mrs Jessica Yeow)</td>
       <td><a class="tg-bold-underline" href="mailto:jessica_ding_chooi_hui@schools.gov.sg">jessica_ding_chooi_hui@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td>Mdm Huang Qin</td>
-      <td><a class="tg-bold-underline" href="mailto:huang_qin@schools.gov.sg">huang_qin@schools.gov.sg</a></td><td>
-    </td></tr>
-	<tr><td></td><td></td><td></td></tr>
+      <td><a class="tg-bold-underline" href="mailto:huang_qin@schools.gov.sg">huang_qin@schools.gov.sg</a></td>
+    </tr>
   </tbody>
 </table>
