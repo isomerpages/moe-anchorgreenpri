@@ -10,7 +10,7 @@ Stall No. 4: Japanese &amp; Korean Stall
 
 #### **Set Meal Concept:&nbsp;Rice + Vegetables + Meat + Fruit**
 
-#### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;&nbsp;&nbsp;Large ($2.50)**
+#### **Serving Sizes:&nbsp;Standard ($2.00)&nbsp;&nbsp;&nbsp;Premium ($2.50)**
 
 ### Main Meals
 
@@ -35,18 +35,21 @@ Stall No. 4: Japanese &amp; Korean Stall
     <tr>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">B</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Chicken Teriyaki Don</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Yakitori Rice</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Chicken Teriyaki Don</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fried Rice</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fried Udon</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
     </tr>
     <tr>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">C</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Yakitori Rice</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Sushi Maki</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Chawamushi</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Sushi Maki</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Yakitori Rice</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Omurice</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Omurice</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Sushi Roll</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Omurice</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Onigiri</td>
+    </tr>
+		  <tr>
+      <td colspan="6" style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;"><b>Sides	Chawamushi/ Tamagoyaki - $0.80</b></td>
     </tr>
   </tbody>
 </table>
