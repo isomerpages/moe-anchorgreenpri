@@ -17,12 +17,12 @@ Stall No. 7: Malay Noodles Stall
 <table style="border-collapse: collapse; width: 100%; font-family: 'Prompt', sans-serif; font-size: 16px; text-align: center;">
   <thead>
     <tr>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Set</th>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Monday</th>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Tuesday</th>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Wednesday</th>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Thursday</th>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Friday</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Set</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Monday</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Tuesday</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Wednesday</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Thursday</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Friday</th>
     </tr>
   </thead>
   <tbody>
@@ -38,7 +38,7 @@ Stall No. 7: Malay Noodles Stall
       <td style="border: 1px solid #2a2a2a; padding: 8px;">B</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">Fishball Soup</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">Mee Rebus</td>
-      <td style="border: 1px solid #2a2a2a; padding: 8px;">Mee Siam</td>
+      <td style="border: 1px solid #2a2a2a; padding: 8px;">Tom Yam</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">Mee Soto</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">Mee Laksa</td>
     </tr>
