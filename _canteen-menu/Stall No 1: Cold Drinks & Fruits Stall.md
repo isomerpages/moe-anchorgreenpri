@@ -20,8 +20,7 @@ Stall No. 1: Cold Drinks &amp; Fruits Stall
   <tr>
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Cup Ice Milo
     </td>
-    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">
-      0.70
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">0.70
     </td>
   </tr>
 </tbody></table>
