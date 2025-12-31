@@ -40,8 +40,8 @@ Stall No. 8: Hot Drinks Food Stall
 <table style="border-collapse: collapse; width: 100%; font-family: 'Prompt', sans-serif; font-size: 16px; text-align: center;">
   <thead>
     <tr>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Name / Type</th>
-      <th style="border: 1px solid #2a2a2a; padding: 8px;">Price ($)</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Name / Type</th>
+      <th style="border: 1px solid #2a2a2a; padding: 8px; text-align: center;">Price ($)</th>
     </tr>
   </thead>
   <tbody>
