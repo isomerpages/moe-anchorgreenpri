@@ -114,7 +114,7 @@ Stall No. 8: Hot Drinks Food Stall
       <td style="border: 1px solid #2a2a2a; padding: 8px;">1.20</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #2a2a2a; padding: 8px;">Cereal w/out Milk</td>
+      <td style="border: 1px solid #2a2a2a; padding: 8px;">Cereal without Milk</td>
       <td style="border: 1px solid #2a2a2a; padding: 8px;">1.00</td>
     </tr>
   </tbody>
