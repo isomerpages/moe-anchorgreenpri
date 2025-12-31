@@ -29,8 +29,8 @@ Stall No. 3: Halal Western Food Stall
 
   <tr>
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">A</td>
-    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; mashed / coleslaw</td>
-    <td style="border:1px solid #2a2a2a;padding:6px;">Fish &amp; mashed / coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; Mashed / Coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Fish &amp; Mashed / Coleslaw</td>
     <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; mashed / coleslaw</td>
     <td style="border:1px solid #2a2a2a;padding:6px;">Macaroni with Cheese</td>
     <td style="border:1px solid #2a2a2a;padding:6px;">Spaghetti Aglio Olio</td>
@@ -41,8 +41,8 @@ Stall No. 3: Halal Western Food Stall
     <td style="border:1px solid #2a2a2a;padding:6px;">Spaghetti Bolognaise / Carbonara</td>
     <td style="border:1px solid #2a2a2a;padding:6px;">Macaroni with Cheese</td>
     <td style="border:1px solid #2a2a2a;padding:6px;">Spaghetti Bolognaise / Carbonara</td>
-    <td style="border:1px solid #2a2a2a;padding:6px;">Fish &amp; mashed / coleslaw</td>
-    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; mashed / coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Fish &amp; Mashed / Coleslaw</td>
+    <td style="border:1px solid #2a2a2a;padding:6px;">Chicken &amp; Mashed / Coleslaw</td>
   </tr>
 
   <tr>
