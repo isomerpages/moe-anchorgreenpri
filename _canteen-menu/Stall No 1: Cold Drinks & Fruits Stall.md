@@ -12,17 +12,13 @@ Stall No. 1: Cold Drinks &amp; Fruits Stall
 
 <table style="border-collapse:collapse;font-family:Prompt,sans-serif;font-size:16px;">
   <tbody><tr>
-    <th style="border:1px solid #2a2a2a;padding:6px;text-align:center;">
-      Name / Type
+    <th style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Name / Type
     </th>
-    <th style="border:1px solid #2a2a2a;padding:6px;text-align:center;">
-      Price ($)
+    <th style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Price ($)
     </th>
   </tr>
-
   <tr>
-    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">
-      Ice Milo
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Cup Ice Milo
     </td>
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">
       0.70
