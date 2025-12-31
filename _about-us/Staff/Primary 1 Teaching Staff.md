@@ -21,12 +21,13 @@ Primary 1 Teaching Staff
 }
 .tg td {background-color: #FBFFFA; color: #222;}
 .tg th {background-color: #22A114; color: #FBFFFA; font-weight: bold;}
+.tg .tg-ehgc{background-color:#22A114;border-color:#ffccc9;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-bold-underline {font-weight: bold; text-decoration: underline; color: #21088A;}
 </style>
 <table class="tg">
   <thead>
     <tr>
-      <th>Class</th>
+      <th class="ehgc">Class</th>
       <th>Form Teacher</th>
       <th>Email Address</th>
     </tr>
