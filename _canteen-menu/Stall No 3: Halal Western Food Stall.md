@@ -12,7 +12,6 @@ Stall No. 3: Halal Western Food Stall
 
 #### **Serving Sizes:&nbsp;Standard ($2.00)&nbsp;&nbsp;&nbsp;&nbsp;Premium ($2.50)**
 
-![](/images/Resources/Canteen/Stall%203%20serving%20size.png)
 
 ### Main Meals
 
