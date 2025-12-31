@@ -8,117 +8,93 @@ variant: markdown
 Primary 1 Teaching Staff
 --------------------------
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
-.tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#b9c9fe;border-color:#aabcfe;border-style:solid;border-width:1px;color:#039;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c8an{background-color:#97E3BD;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-g24l{background-color:#FBFFFA;border-color:inherit;color:#21088A;font-weight:bold;text-align:center;
-  text-decoration:underline;vertical-align:top}
-.tg .tg-ug26{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-4k5m{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ble8{background-color:#97E3BD;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-fskk{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-ehgc{background-color:#22A114;border-color:#ffccc9;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-djmn{background-color:#FBFFFA;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-33ww{background-color:#FBFFFA;border-color:inherit;color:#21088A;font-weight:bold;text-align:center;
-  text-decoration:underline;vertical-align:top}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-rxka{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-agmf{background-color:#FBFFFA;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg  {border-collapse: collapse; border-color: #aabcfe; border-spacing: 0;}
+.tg td, .tg th {border-style: solid; border-width: 1px; font-family: Arial, sans-serif; font-size: 14px; padding: 10px 5px; word-break: normal; text-align: center; vertical-align: middle;}
+.tg td {background-color: #FBFFFA; color: #222;}
+.tg th {background-color: #22A114; color: #FBFFFA; font-weight: bold;}
+.tg .tg-bold-underline {font-weight: bold; text-decoration: underline; color: #21088A;}
+.tg .tg-subheader {background-color: #97E3BD; font-weight: bold; text-decoration: underline; color: #21088A;}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ehgc">Class</th>
-    <th class="tg-ehgc">Form Teacher</th>
-    <th class="tg-ehgc">Email Address</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Agility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Kanageswary D/O Danabalan</span><br></td>
-    <td class="tg-33ww"><a href="mailto:jkanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Liao Yi-Ling Allison</span><br></td>
-    <td class="tg-g24l"><a href="mailto:liao_yi_ling_allison@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liao_yi_ling_allison@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Huimin<br>
-(Ms Bethany Wang)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Tan Yu Ting</span><br></td>
-    <td class="tg-g24l"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Care</span></td>
-     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nurheryani Mudzakir</span><br></td>
-    <td class="tg-fskk"><a href="mailto:nurheryani_mudzakir@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nurheryani_mudzakir@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-   <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Chia Siew Lan</span><br></td>
-    <td class="tg-33ww"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Humility</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Melissa Ang Shu Xian</span></td>
-    <td class="tg-fskk"><a href="mailto:melissa_ang_shu_xian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">melissa_ang_shu_xian@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-   <td class="tg-4k5m"><span style="color:#222">Mdm	Loh Siang Choo</span></td>
-    <td class="tg-agmf"><a href="mailto:loh_siang_choo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">loh_siang_choo@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Optimism</span></td>
-   <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Suelasteri Binte Samani</span><br></td>
-    <td class="tg-fskk"><a href="mailto:suelasteri_samani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">suelasteri_samani@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-   <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Chin Sze Wei
-</span><br></td>
-    <td class="tg-agmf" style="text-align: center; vertical-align: middle;"><a href="mailto:chin_sze_wei@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chin_sze_wei@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Resilience</span></td>
-     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Sheryl Eng Chin Chin</span><br></td>
-    <td class="tg-fskk"><a href="mailto:sheryl_eng_chin_chin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sheryl_eng_chin_chin@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Vasundharadevi V Reddy <br>(Mrs Reddy)</span><br></td>
-    <td class="tg-agmf"><a href="mailto:vasundharadevi_v_reddy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vasundharadevi_v_reddy@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rxka" rowspan="2"><span style="background-color:#FBFFFA">1 Grace</span><br></td>
-   <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Fan Chui Har <br>(Mrs Ada Loy)
-</span><br></td>
-    <td class="tg-fskk"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Lim Wan Lin Veronica</span><br></td>
-    <td class="tg-fskk"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Innovation</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Jessica Ding Chooi Hui <br>(Mrs Jessica Yeow) </span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Huang Qin
-</span><br></td>
-    <td class="tg-fskk"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">huang_qin@schools.gov.sg</span></a></td>
-  </tr>
-		<tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
-    <td class="tg-agmf"><br></td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Class</th>
+      <th>Form Teacher</th>
+      <th>Email Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">1 Agility</td>
+      <td>Mdm Kanageswary D/O Danabalan</td>
+      <td><a class="tg-bold-underline" href="mailto:jkanageswary_danabalan@schools.gov.sg">kanageswary_danabalan@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Ms Liao Yi-Ling Allison</td>
+      <td><a class="tg-bold-underline" href="mailto:liao_yi_ling_allison@schools.gov.sg">liao_yi_ling_allison@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 iNtegrity</td>
+      <td>Ms Wang Huimin (Ms Bethany Wang)</td>
+      <td><a class="tg-bold-underline" href="mailto:wang_huimin@schools.gov.sg">wang_huimin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Ms Tan Yu Ting</td>
+      <td><a class="tg-bold-underline" href="mailto:tan_yu_ting@schools.gov.sg">tan_yu_ting@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 Care</td>
+      <td>Mdm Nurheryani Mudzakir</td>
+      <td><a class="tg-bold-underline" href="mailto:nurheryani_mudzakir@schools.gov.sg">nurheryani_mudzakir@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Ms Chia Siew Lan</td>
+      <td><a class="tg-bold-underline" href="mailto:chia_siew_lan@schools.gov.sg">chia_siew_lan@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 Humility</td>
+      <td>Mdm Melissa Ang Shu Xian</td>
+      <td><a class="tg-bold-underline" href="mailto:melissa_ang_shu_xian@schools.gov.sg">melissa_ang_shu_xian@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Mdm Loh Siang Choo</td>
+      <td><a class="tg-bold-underline" href="mailto:loh_siang_choo@schools.gov.sg">loh_siang_choo@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 Optimism</td>
+      <td>Mdm Suelasteri Binte Samani</td>
+      <td><a class="tg-bold-underline" href="mailto:suelasteri_samani@schools.gov.sg">suelasteri_samani@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Mdm Chin Sze Wei</td>
+      <td><a class="tg-bold-underline" href="mailto:chin_sze_wei@schools.gov.sg">chin_sze_wei@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 Resilience</td>
+      <td>Mdm Sheryl Eng Chin Chin</td>
+      <td><a class="tg-bold-underline" href="mailto:sheryl_eng_chin_chin@schools.gov.sg">sheryl_eng_chin_chin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Mdm Vasundharadevi V Reddy (Mrs Reddy)</td>
+      <td><a class="tg-bold-underline" href="mailto:vasundharadevi_v_reddy@schools.gov.sg">vasundharadevi_v_reddy@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 Grace</td>
+      <td>Mdm Fan Chui Har (Mrs Ada Loy)</td>
+      <td><a class="tg-bold-underline" href="mailto:fan_chui_har@schools.gov.sg">fan_chui_har@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Mdm Lim Wan Lin Veronica</td>
+      <td><a class="tg-bold-underline" href="mailto:lim_wan_lin_veronica@schools.gov.sg">lim_wan_lin_veronica@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2">1 Innovation</td>
+      <td>Mdm Jessica Ding Chooi Hui <br>(Mrs Jessica Yeow)</td>
+      <td><a class="tg-bold-underline" href="mailto:jessica_ding_chooi_hui@schools.gov.sg">jessica_ding_chooi_hui@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Mdm Huang Qin</td>
+      <td><a class="tg-bold-underline" href="mailto:huang_qin@schools.gov.sg">huang_qin@schools.gov.sg</a></td><td>
+    </td></tr>
+  </tbody>
 </table>
