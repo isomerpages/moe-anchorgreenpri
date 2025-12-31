@@ -52,7 +52,7 @@ Stall No. 6: Malay Rice Food Stall
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Tom Yum Chicken Set</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Prata with Curry</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Curry Chicken Set</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Curry Chicken Set</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Stir Fried Chicken Set</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Japanese Curry Chicken Set</td>
     </tr>
   </tbody>
