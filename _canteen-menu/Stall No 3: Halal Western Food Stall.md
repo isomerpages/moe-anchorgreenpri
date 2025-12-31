@@ -17,14 +17,14 @@ Stall No. 3: Halal Western Food Stall
 ### Main Meals
 
 
-<table style="border-collapse:collapse;width:100%;font-family:Prompt,sans-serif;font-size:16px;">
+<table style="border-collapse:collapse;width:100%;font-family:Prompt,sans-serif;font-size:16px; text-align: center;">
   <tbody><tr>
-    <th style="border:1px solid #2a2a2a;padding:6px;">Set</th>
-    <th style="border:1px solid #2a2a2a;padding:6px;">Monday</th>
-    <th style="border:1px solid #2a2a2a;padding:6px;">Tuesday</th>
-    <th style="border:1px solid #2a2a2a;padding:6px;">Wednesday</th>
-    <th style="border:1px solid #2a2a2a;padding:6px;">Thursday</th>
-    <th style="border:1px solid #2a2a2a;padding:6px;">Friday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px; text-align: center;">Set</th>
+    <th style="border:1px solid #2a2a2a;padding:6px; text-align: center;">Monday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px; text-align: center;">Tuesday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px; text-align: center;">Wednesday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px; text-align: center;">Thursday</th>
+    <th style="border:1px solid #2a2a2a;padding:6px; text-align: center;">Friday</th>
   </tr>
 
   <tr>
