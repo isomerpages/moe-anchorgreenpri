@@ -96,5 +96,6 @@ Primary 1 Teaching Staff
       <td>Mdm Huang Qin</td>
       <td><a class="tg-bold-underline" href="mailto:huang_qin@schools.gov.sg">huang_qin@schools.gov.sg</a></td><td>
     </td></tr>
+	<tr><td></td><td></td><td></td></tr>
   </tbody>
 </table>
