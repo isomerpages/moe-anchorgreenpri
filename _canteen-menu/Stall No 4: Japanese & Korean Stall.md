@@ -26,15 +26,15 @@ Stall No. 4: Japanese &amp; Korean Stall
     </tr>
     <tr>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">A</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fried Rice</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Dry</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Japanese Curry Don</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Japanese Curry Don</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Japanese Curry Don</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Japanese Curry Don</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Japanese Curry Don</td>
     </tr>
     <tr>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">B</td>
-      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fried Rice</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Udon Soup</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Chicken Teriyaki Don</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Yakitori Rice</td>
       <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Chicken Teriyaki Don</td>
