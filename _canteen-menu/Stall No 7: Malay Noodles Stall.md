@@ -10,7 +10,7 @@ Stall No. 7: Malay Noodles Stall
 
 #### **Seat Meal Concept:&nbsp;Noodles&nbsp;+ Vegetables + Meat + Fruit**
 
-#### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;&nbsp;&nbsp;&nbsp;Large ($2.50)**
+#### **Serving Sizes:&nbsp;Standard ($2.00)&nbsp;&nbsp;&nbsp;&nbsp;Premium ($2.50)**
 
 ### Main Meals
 
