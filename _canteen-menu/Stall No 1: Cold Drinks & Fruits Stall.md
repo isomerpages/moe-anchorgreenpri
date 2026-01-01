@@ -43,17 +43,17 @@ Stall No. 1: Cold Drinks &amp; Fruits Stall
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">0.80</td>
   </tr>
   <tr>
-    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Magnolia White Milk (200 ml)
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Magnolia White Milk
     </td>
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">0.70</td>
   </tr>
   <tr>
-    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Magnolia Chocolate Milk (200 ml)
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Magnolia Chocolate Milk
     </td>
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">1.30</td>
   </tr>
   <tr>
-    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Magnolia Strawberry Milk (200 ml)
+    <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">Magnolia Strawberry Milk 
     </td>
     <td style="border:1px solid #2a2a2a;padding:6px;text-align:center;">1.30</td>
   </tr>
