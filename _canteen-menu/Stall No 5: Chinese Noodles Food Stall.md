@@ -5,15 +5,47 @@ description: ""
 variant: markdown
 ---
 Stall No. 5: Chinese Noodles Food Stall
-======================
+---------------------------------------
 
-### **Set Meal Concept:&nbsp;Noodles + Vegetables + Meat + Fruit**
+#### **Set Meal Concept:&nbsp;Noodles + Vegetables + Meat + Fruit**
 
-### **Serving Sizes:&nbsp;Medium ($2.00)&nbsp;Large ($2.50)**
+#### **Serving Sizes:&nbsp;Standard ($2.00)&nbsp;&nbsp;&nbsp;&nbsp;Premium ($2.50)**
 
-![](/images/Resources/Canteen/Stall%205%20serving%20size.png)
+### Main Meals
 
-Main Meals
--------------
-
-<table class="iveo_table ives_tab_dark" width="0" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 232.9px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Set</span></b></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42); width: 208px;"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Monday to Friday</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">A</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Fishball Noodles Soup</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">B</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Tom Yum Noodles</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">C</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Chicken Noodles</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">D</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Laksa</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">E</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Fried Bee Hoon</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">F</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Fried Maggi Mee</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">G</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(42, 42, 42);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Prompt, sans-serif; font-size: 16px; font-weight: normal;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Prawn Noodles</span></p></td></tr></tbody></table>
+<table style="border: 1px solid #2A2A2A; border-collapse: collapse; font-family: Prompt, sans-serif; font-size: 16px; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;"><b>Set</b></td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;"><b>Monday to Friday</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">A</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fishball Noodles Soup</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">B</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Tom Yum Noodles</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">C</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Chicken Noodles</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">D</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Laksa</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">E</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fried Bee Hoon</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">F</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Fried Maggi Mee</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">G</td>
+      <td style="border: 1px solid #2A2A2A; text-align: center; padding: 2px;">Prawn Noodles</td>
+    </tr>
+  </tbody>
+</table>
