@@ -50,13 +50,14 @@ Primary 2 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr	Muhammad Yusoff Bin Mohd Yatim</span><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Yusoff Bin Mohd Yatim</span><br></td>
     <td class="tg-g24l"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Fan Chui Har <br>(Mrs Ada Loy)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:fan_chui_har@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">fan_chui_har@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Sumaiyah Bte Rashid
+</span><br></td>
+    <td class="tg-33ww"><a href="mailto:siti_sumaiyah_rashid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_sumaiyah_rashid@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Syazwani Shaibani</span></td>
