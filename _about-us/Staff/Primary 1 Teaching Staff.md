@@ -41,21 +41,22 @@ Primary 1 Teaching Staff
 <tbody>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Agility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Jessica Cahyadi</span><br></td>
-    <td class="tg-33ww"><a href="mailto:jessica_cahyadi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_cahyadi@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Kanageswary D/O Danabalan</span><br></td>
+    <td class="tg-33ww"><a href="mailto:kanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff Mohd Yatim</span><br></td>
-    <td class="tg-g24l"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Liao Yi-Ling Allison</span><br></td>
+    <td class="tg-g24l"><a href="mailto:liao_yi_ling_allison@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liao_yi_ling_allison@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Nur Diyanah Amani Binte Abd Razak</span><br></td>
-    <td class="tg-33ww"><a href="mailto:nur_diyanah_amani_abd@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_diyanah_amani_abd@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Huimin<br>
+(Ms Bethany Wang)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Sumaiyah Binte Rashid</span><br></td>
-    <td class="tg-g24l"><a href="mailto:siti_sumaiyah_rashid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_sumaiyah_rashid@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Tan Yu Ting</span><br></td>
+    <td class="tg-g24l"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Care</span></td>
