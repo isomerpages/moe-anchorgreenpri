@@ -6,10 +6,7 @@ third_nav_title: Staff
 variant: markdown
 ---
 Primary 2 Teaching Staff
-========================
-
-<br>
-
+======================
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
 .tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
