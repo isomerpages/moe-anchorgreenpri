@@ -100,11 +100,15 @@ Primary 2 Teaching Staff
     <td class="tg-fskk"><a href="mailto:wong_meng_yean@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_meng_yean@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Grace</span><br></td>
+    <td class="tg-rxka" rowspan="3"><span style="color:#222;background-color:#FBFFFA">2 Grace</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Chua Sok Huang Evelyn</span><br></td>
     <td class="tg-fskk"><a href="mailto:evelyn_chua_sok_huang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">evelyn_chua_sok_huang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
+   <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Chen Zhen</span><br></td>
+    <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
+  </tr>
+	 <tr>
    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Chen Zhen</span><br></td>
     <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
   </tr>
