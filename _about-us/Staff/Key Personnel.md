@@ -34,7 +34,7 @@ Key Personnel
     <td class="tg-lb3e" rowspan="4" style="text-align: center; vertical-align: middle;"><a href="mailto:anchorgreenps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_school_leaders@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Au Yard Wah</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
   </tr>
   <tr>
