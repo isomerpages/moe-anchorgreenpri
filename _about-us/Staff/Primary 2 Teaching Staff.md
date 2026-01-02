@@ -105,18 +105,17 @@ Primary 2 Teaching Staff
     <td class="tg-fskk"><a href="mailto:evelyn_chua_sok_huang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">evelyn_chua_sok_huang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-   <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari D/O Kuhanesan
-</span><br></td>
-    <td class="tg-agmf"><a href="mailto:kuganeswari_kuhanesan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@schools.gov.sg</span></a><br></td>
+   <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Chen Zhen</span><br></td>
+    <td class="tg-agmf"><a href="mailto:chen_zhen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_zhen@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Innovation</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Teck Khoon Nicholas</span></td>
-    <td class="tg-rxka"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Thilakavathy D/O Govindasamy <br>(Mrs Sri)</span></td>
+    <td class="tg-rxka"><a href="mailto:thilakavathy_govindasamy@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">thilakavathy_govindasamy@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Tan Chiu Lin Rannessa </span><br></td>
-    <td class="tg-rxka"><a href="mailto:tan_chiu_lin_rannessa@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_chiu_lin_rannessa@schools.gov.sg</span></a><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Miss	Pang Yen Ping Angelyn </span><br></td>
+    <td class="tg-rxka"><a href="mailto:pang_yen_ping_angelyn@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_yen_ping_angelyn@schools.gov.sg</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
