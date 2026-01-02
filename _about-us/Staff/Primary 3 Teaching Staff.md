@@ -42,8 +42,7 @@ Primary 3 Teaching Staff
     <td class="tg-g24l"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thangavel_divya@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ong Shu Ying
-</span></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Ong Shu Ying<br>(Mrs Leong)</span></td>
     <td class="tg-g24l"><a href="mailto:ong_shu_ying@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ong_shu_ying@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
@@ -71,8 +70,8 @@ Primary 3 Teaching Staff
     <td class="tg-djmn"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Jembu Krishnamurthy Nalini</span><br></td>
-    <td class="tg-djmn"><a href="mailto:jembu_krishnamurthy_nalini@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jembu_krishnamurthy_nalini@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Ang Swee Hong<br> (Mrs Chua)</span><br></td>
+    <td class="tg-djmn"><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a><br></td>
   </tr>
  
   <tr>
