@@ -52,18 +52,18 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:zen_ng_hui_wen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">zen_ng_hui_wen@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-3dle">Mr Lee Chun Seng</td>
-    <td class="tg-g24l"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a></td>
+    <td class="tg-3dle">Mdm	Maslina Bte Mohtar</td>
+    <td class="tg-g24l"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a></td>
   </tr>
   
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Care</span></td>
-      <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Mohamed Rafi Ahmad</span></td>
-    <td class="tg-33ww"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
+      <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr	Mohamad Firuz Bin Jelaludin</span></td>
+    <td class="tg-33ww"><a href="mailto:mohamad_firuz_jelaludin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamad_firuz_jelaludin@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-   <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Kanaran Shanta Kumari</span></td>
-    <td class="tg-g24l"><a href="mailto:kanaran_shanta_kumari_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanaran_shanta_kumari_c@schools.gov.sg</span></a><br></td>
+   <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Pang Sheau Wei</span></td>
+    <td class="tg-g24l"><a href="mailto:pang_sheau_wei_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">pang_sheau_wei_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Humility</span></td>
