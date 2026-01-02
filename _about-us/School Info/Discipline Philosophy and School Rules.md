@@ -87,14 +87,14 @@ Students are expected to:<br>
 <td rowspan="1" colspan="1">
 <strong><u>Fringe</u></strong>
 <br>- Fringe must be neat and kept above the eyebrows (for both and girls)
-<br>- Long fringe must be pinned up (for girls)
+<br>- To pin up long fringe (for girls)
 <br><strong><u>Length</u></strong>
 <br>- Long hair (below the collar) must be tied up and plaited neatly (for
-girls)
+girls) in a ponytail or bun.
 <br>- Hair must be kept short and neat (for boys)
 <br>- Fanciful hairstyle is not allowed
 <br><strong><u>Facial Hair</u></strong>
-<br>- Facial hair such as moustache and beard not allowed
+<br>- All male students must be clean-shaven at all times. Moustache and beard are not allowed.
 <br><strong><u>Grooming</u></strong>
 <br>- Hair must not be tinted or dyed (for girls)
 <br>- Hair must not be tinted, dyed or spiked (for boys)
@@ -117,12 +117,12 @@ T-Shirt.
 <br>- Socks should be above ankle length
 <br><strong><u>Shoes </u></strong>
 <br>- Black canvas shoes.
-<br>- No sports shoes except on CCA days after Curriculum hours or when pupil
-is participating in competitions
+<br>- No sports shoes except on CCA days after Curriculum hours or when student
+is participating in competition.
 <br>- Slip-ons are not allowed
 <br><strong><u>Name Tag</u></strong>
 <br>- Name tag should be ironed / sewn on the left side of the school uniform
-and PE T-shirt and above the school logo
+and PE T-shirt.
 </td>
 </tr>
 <tr>
