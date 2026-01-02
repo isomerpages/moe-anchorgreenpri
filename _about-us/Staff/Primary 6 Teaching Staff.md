@@ -47,8 +47,8 @@ Primary 6 Teaching Staff
     <td class="tg-33ww"><a href="mailto:vincent_shanmugam@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vincent_shanmugam@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span><br></td>
-    <td class="tg-djmn"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr	Lee Chun Seng</span><br></td>
+    <td class="tg-djmn"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Care</span></td>
