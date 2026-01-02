@@ -80,7 +80,7 @@ Primary 3 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Woo Chan Fai </span><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Serene Yap Huiyun</span><br></td>
     <td class="tg-djmn"><a href="mailto:"><span style="font-weight:500;text-decoration:underline;color:#21088A">
 </span></a></td>
   </tr><tr>
