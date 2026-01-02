@@ -90,7 +90,7 @@ Primary 5 Teaching Staff
     <td class="tg-g24l"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm Chan May Leng</span><br></td>
+    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Wong Yee Chi Canny</span><br></td>
     <td class="tg-agmf"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a></td>
   </tr>
  	<tr>
