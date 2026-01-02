@@ -69,26 +69,26 @@ Primary 6 Teaching Staff
     <td class="tg-33ww"><a href="mailto:tan_aik_hwang_wendy@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_aik_hwang_wendy@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA"> Mr Mark Reutens</span></td>
-    <td class="tg-g24l"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mark_reutens@schools.gov.sg </span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Chen Szu Ju <br> (Ms Diane Chen)</span></td>
+    <td class="tg-g24l"><a href="mailto:chen_szu_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chen_szu_ju@schools.gov.sg </span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Optimism</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Noraisha Bte Hamzah</span><br></td>
-    <td class="tg-djmn"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Azna Bte Abu Che</span><br></td>
+    <td class="tg-djmn"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Karen Yeo Poh Cheng<br>(Mrs Karen Lee)</span><br></td>
-    <td class="tg-djmn"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Nursyakila Bte Masli</span><br></td>
+    <td class="tg-djmn"><a href="mailto:siti_nursyakila_masli@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_nursyakila_masli@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Resilience</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Zen Ng Hui Wen</span><br></td>
-    <td class="tg-33ww"><a href="mailto:zen_ng_hui_wen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">zen_ng_hui_wen@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Ng Jun Yan Nicholas</span><br></td>
+    <td class="tg-33ww"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Chia Siew Lan</span><br></td>
-    <td class="tg-g24l"><a href="mailto:chia_siew_lan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chia_siew_lan@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Chan May Leng</span><br></td>
+    <td class="tg-g24l"><a href="mailto:chan_may_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chan_may_leng@schools.gov.sg</span></a><br></td>
 	</tr><tr></tr>		
 </tbody>
 </table>
