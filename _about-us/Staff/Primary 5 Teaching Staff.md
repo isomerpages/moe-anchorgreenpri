@@ -85,7 +85,8 @@ Primary 5 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Resilience</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ng Jun Yan Nicholas</span></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Karen Yeo Poh Cheng <br>(Mrs Karen Lee)
+</span></td>
     <td class="tg-g24l"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a></td>
   </tr>
   <tr>
