@@ -57,7 +57,7 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Yeo Siew Ju</span><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari d/o Kuhanesan</span><br></td>
     <td class="tg-djmn"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a></td>
   </tr>
   <tr>
