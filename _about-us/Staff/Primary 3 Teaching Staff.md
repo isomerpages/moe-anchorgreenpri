@@ -6,11 +6,7 @@ third_nav_title: Staff
 variant: markdown
 ---
 Primary 3 Teaching Staff
-========================
-
-<br>
-
-
+--------------------------
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
 .tg td{background-color:#e8edff;border-color:#aabcfe;border-style:solid;border-width:1px;color:#669;
@@ -36,8 +32,9 @@ Primary 3 Teaching Staff
 <tbody>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Agility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Neo Ann</span><br></td>
-    <td class="tg-33ww"><a href="mailto:ann_neo@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ann_neo@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Hazelee Binte Asfar
+</span><br></td>
+    <td class="tg-33ww"><a href="mailto:hazelee_asfar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hazelee_asfar@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Humaira Mahmood</span></td>
