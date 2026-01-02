@@ -31,38 +31,40 @@ Our school-wide discipline approach focuses on Prevention, Intervention, and Res
 </summary><div data-type="detailsContent" class="isomer-details-content"><br>
 <strong>1. General Conduct</strong><br>
 Students are expected to:<br>
-• Exhibit the <strong> A.N.C.H.O.R.</strong> values - Agility, iNtegrity, Care, Humility, Optimism and Resilience<br>
-• Be polite and well-behaved in and outside of school.<br>
-• Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
-• Move quietly in an orderly manner when moving around the school.<br>
-• Handle all school equipment and property with care.<br>
-• Keep the classrooms and school premises clean<br>
-• Observe safety guidelines and behave in a safe manner<br><br>
-<strong>2. Attendance and Punctuality</strong><br>• Daily attendance is compulsory.<br>
-• Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.<br>
-• Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.<br>
-• A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.<br>
-• An automated message will be sent to the student’s parent/guardian should a student be absent from school and if the student’s parent/guardian has not updated the school on the student’s absence.<br>
-• Please contact the school’s General Office, as soon as possible, upon receiving the message to update the school on the reason for your child’s/ward’s absence and provide the relevant supporting document (e.g. MC) when your child/ward returns to school.<br>
-• Students are to report at the assembly venue for flag raising by 7.20 am.<br>
-• Students who arrive at the assembly area after 7.30am will be marked as ‘Late’.<br>
-• Students are to participate and be punctual for school and all designated school activities.<br>
-• Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless the absence is due to valid reason(s) (e.g. Medical Leave).<br>
-• Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
+	•	Exhibit the<strong> A.N.C.H.O.R </strong>values - Agility, iNtegrity, Care, Humility, Optimism and Resilience.<br>
+•	Be polite and well-behaved at all times in and outside of school.<br>
+•	Greet all members of Anchor Green Primary School community – teachers, non-teaching staff, parents and visitors politely.<br>
+•	Move quietly and in an orderly manner when moving around the school.<br>
+•	Handle all school equipment and property with care.<br>
+•	Keep the classrooms and school premises clean at all times.<br>
+•	Observe safety at all times.<br><br>
+<strong>2. Attendance and Punctuality</strong><br>
+•	Daily attendance is compulsory.<br>
+•	Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form Teacher of your child’s absence.<br>
+•	Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with valid supporting document.<br>
+•	A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted via PG to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments.<br>
+•	An automated message will be sent via SMS and PG to the student’s parent/guardian should a student be absent from school.<br>
+•	Please upload relevant supporting documents (e.g. MC) or update reason for your child’s/ward’s absence via PG.<br>
+•	Students are to report at the assembly venue for flag raising by 7.20am.<br>
+•	Students who arrive at the assembly area after 7.30am will be marked as ‘Late’.<br>
+•	Students are to participate and be punctual for school and all designated school activities.<br>
+•	Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless, the absence is due to valid reason(s) (e.g. Medical Leave).<br>
+•	Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
 <strong>3. Assembly/Pledge Taking	</strong><br>
-• Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.<br>
-• All students are required to sing the school song.<br>
-• Students are to observe all the commands for assembly without fidgeting.<br>
-• It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
+•	Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will recite the Pledge with their right fist placed over their heart.<br>
+•	All students are required to sing the school song.<br>
+•	Students are to observe all the commands for assembly without fidgeting.<br>
+•	It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
 <strong>4. Classroom Conduct</strong><br>
-• Students are required to stand and greet the teachers before and after lessons.<br>
-• No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class.<br>
-• All students will proceed to the canteen during recess.  They are not to stay in the classroom.<br>
-• Students will require the teacher’s permission before stepping out of the classroom.<br><br>
+•	Students are required to stand and greet the teachers before and after lessons.<br>
+•	No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.<br>
+•	No student is to remain in the classroom during recess.<br>
+•	No student is to leave the classroom without the teacher’s permission.<br><br>
 <strong>5. Attire and Appearance</strong><br>
-• Students should be properly and neatly attired.  They must wear the prescribed school uniform and no modification to the uniform is allowed.<br>
-• Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
-• Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
+•	Students should be properly and neatly attired at all times. Students are to wear the prescribed school uniform and no modification to the uniform is allowed.<br>
+•	Sweaters (only blue or black) may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
+•	Students are allowed to wear their PE attire to school on days where they have PE lessons and/or Co-Curricular Activities. (Refer to the page 9 of the student’s handbook for the examples.)
+<br><br>
 <strong>School Uniform</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
@@ -85,14 +87,14 @@ Students are expected to:<br>
 <td rowspan="1" colspan="1">
 <strong><u>Fringe</u></strong>
 <br>- Fringe must be neat and kept above the eyebrows (for both and girls)
-<br>- Long fringe must be pinned up (for girls)
+<br>- To pin up long fringe (for girls)
 <br><strong><u>Length</u></strong>
 <br>- Long hair (below the collar) must be tied up and plaited neatly (for
-girls)
+girls) in a ponytail or bun.
 <br>- Hair must be kept short and neat (for boys)
 <br>- Fanciful hairstyle is not allowed
 <br><strong><u>Facial Hair</u></strong>
-<br>- Facial hair such as moustache and beard not allowed
+<br>- All male students must be clean-shaven at all times. Moustache and beard are not allowed.
 <br><strong><u>Grooming</u></strong>
 <br>- Hair must not be tinted or dyed (for girls)
 <br>- Hair must not be tinted, dyed or spiked (for boys)
@@ -115,12 +117,12 @@ T-Shirt.
 <br>- Socks should be above ankle length
 <br><strong><u>Shoes </u></strong>
 <br>- Black canvas shoes.
-<br>- No sports shoes except on CCA days after Curriculum hours or when pupil
-is participating in competitions
+<br>- No sports shoes except on CCA days after Curriculum hours or when student
+is participating in competition.
 <br>- Slip-ons are not allowed
 <br><strong><u>Name Tag</u></strong>
 <br>- Name tag should be ironed / sewn on the left side of the school uniform
-and PE T-shirt and above the school logo
+and PE T-shirt.
 </td>
 </tr>
 <tr>
@@ -147,15 +149,18 @@ or accessories of any kind to school for uniformity and safety reasons
 </tbody>
 </table><br>
 <strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
-• Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
+•	No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school through the Year Head and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.<br><br>
 <strong>7. Possession of Weapons</strong><br>
-• All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
-• All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
+•	Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.<br>
+•	All sharp edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
 <strong>8. Mobile Phone/Smart Watches Policy</strong><br>
-• The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
-• Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
-• Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
-• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.
+• The school does not encourage students to bring mobile phones to school.<br>
+•	For the safety and security of all students, smart watches are not allowed in school. Students are encouraged to wear a standard wristwatch.<br>
+•	Smart watches with non-telecommunication features, e.g., POSB Smart Buddy Watch which allows contactless payment, are permitted.<br>
+•	Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
+•	Students are not allowed to use their mobile phones during school hours, including recess, CCAs, and after-school programmes (e.g supplementary, enrichment, or remedial lessons).<br>
+•	If necessary, students are only allowed to use smartphones in designated areas after school hours (near Gate 1 and Gate 3) solely for communicating with parents or caretakers.<br>
+•	Students’ mobile phones may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravene the above rule.<br>
 </div></div></div></details><br>
 	
 <details>
