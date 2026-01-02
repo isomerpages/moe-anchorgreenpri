@@ -6,9 +6,7 @@ third_nav_title: Staff
 variant: markdown
 ---
 Primary 4 Teaching Staff
-========================
-
-<br>
+--------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aabcfe;border-spacing:0;}
