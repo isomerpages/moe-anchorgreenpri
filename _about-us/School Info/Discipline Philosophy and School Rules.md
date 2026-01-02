@@ -60,9 +60,10 @@ Students are expected to:<br>
 • All students will proceed to the canteen during recess.  They are not to stay in the classroom.<br>
 • Students will require the teacher’s permission before stepping out of the classroom.<br><br>
 <strong>5. Attire and Appearance</strong><br>
-• Students should be properly and neatly attired.  They must wear the prescribed school uniform and no modification to the uniform is allowed.<br>
-• Sweaters may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
-• Students are allowed to wear their PE attire on days they have PE lessons and/or Co-Curricular Activities. (Refer to page 9 of the student’s diary for the examples.)<br><br>
+•	Students should be properly and neatly attired at all times. Students are to wear the prescribed school uniform and no modification to the uniform is allowed.<br>
+•	Sweaters (only blue or black) may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
+•	Students are allowed to wear their PE attire to school on days where they have PE lessons and/or Co-Curricular Activities. (Refer to the page 9 of the student’s handbook for the examples.)
+<br><br>
 <strong>School Uniform</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="School Uniform" src="/images/Discipline/School_Uniform.jpg">
