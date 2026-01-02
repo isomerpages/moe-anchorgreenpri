@@ -67,8 +67,9 @@ Primary 4 Teaching Staff
     <td class="tg-g24l"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-   <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Vivienne Wee Mei Yin<br>(Mrs Vivienne Ong)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:vivienne_wee_mei_yin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">vivienne_wee_mei_yin@schools.gov.sg</span></a><br></td>
+   <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Jembu Krishnamurthy Nalini
+</span><br></td>
+    <td class="tg-33ww"><a href="mailto:jembu_krishnamurthy_nalini@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jembu_krishnamurthy_nalini@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Optimism</span></td>
