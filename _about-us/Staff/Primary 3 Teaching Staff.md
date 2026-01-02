@@ -51,7 +51,7 @@ Primary 3 Teaching Staff
     <td class="tg-g24l"><a href="mailto:mohamed_insani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_insani@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Tan Lei Feng </span><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Nur Syazwani Binte Shaibani</span><br></td>
     <td class="tg-g24l"><a href="mailto:tan_lei_feng_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_lei_feng_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
