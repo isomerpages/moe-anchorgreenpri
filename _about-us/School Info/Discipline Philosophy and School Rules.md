@@ -55,10 +55,10 @@ Students are expected to:<br>
 • Students are to observe all the commands for assembly without fidgeting.<br>
 • It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
 <strong>4. Classroom Conduct</strong><br>
-• Students are required to stand and greet the teachers before and after lessons.<br>
-• No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class.<br>
-• All students will proceed to the canteen during recess.  They are not to stay in the classroom.<br>
-• Students will require the teacher’s permission before stepping out of the classroom.<br><br>
+•	Students are required to stand and greet the teachers before and after lessons.<br>
+•	No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.<br>
+•	No student is to remain in the classroom during recess.<br>
+•	No student is to leave the classroom without the teacher’s permission.<br><br>
 <strong>5. Attire and Appearance</strong><br>
 •	Students should be properly and neatly attired at all times. Students are to wear the prescribed school uniform and no modification to the uniform is allowed.<br>
 •	Sweaters (only blue or black) may be worn only when the weather is cold (e.g. on rainy days in the morning). Should there be extenuating circumstances, the school can consider the request on a case-by-case basis.<br>
