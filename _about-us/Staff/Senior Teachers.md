@@ -6,8 +6,7 @@ third_nav_title: Staff
 variant: markdown
 ---
 Senior Teachers
-==================
-<br>
+-----------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
