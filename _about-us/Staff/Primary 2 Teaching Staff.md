@@ -57,8 +57,8 @@ Primary 2 Teaching Staff
     <td class="tg-33ww"><a href="mailto:siti_sumaiyah_rashid@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_sumaiyah_rashid@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA"></span></td>
-    <td class="tg-rxka"><a href="mailto:nur_syazwani_shaibani@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Quek Hock Chye</span></td>
+    <td class="tg-rxka"><a href="mailto:quek_hock_chye_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">quek_hock_chye_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">2 Care</span></td>
