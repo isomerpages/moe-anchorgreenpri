@@ -38,17 +38,18 @@ Students are expected to:<br>
 • Handle all school equipment and property with care.<br>
 • Keep the classrooms and school premises clean<br>
 • Observe safety guidelines and behave in a safe manner<br><br>
-<strong>2. Attendance and Punctuality</strong><br>• Daily attendance is compulsory.<br>
-• Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form teacher of your child’s absence.<br>
-• Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with a valid supporting document.<br>
-• A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments, when he/she returns to school.<br>
-• An automated message will be sent to the student’s parent/guardian should a student be absent from school and if the student’s parent/guardian has not updated the school on the student’s absence.<br>
-• Please contact the school’s General Office, as soon as possible, upon receiving the message to update the school on the reason for your child’s/ward’s absence and provide the relevant supporting document (e.g. MC) when your child/ward returns to school.<br>
-• Students are to report at the assembly venue for flag raising by 7.20 am.<br>
-• Students who arrive at the assembly area after 7.30am will be marked as ‘Late’.<br>
-• Students are to participate and be punctual for school and all designated school activities.<br>
-• Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless the absence is due to valid reason(s) (e.g. Medical Leave).<br>
-• Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
+<strong>2. Attendance and Punctuality</strong><br>
+•	Daily attendance is compulsory.<br>
+•	Please do not send your child to school if he/she is unwell and please call the school to inform his/her Form Teacher of your child’s absence.<br>
+•	Absenteeism must be covered by a Medical Certificate from a doctor OR a letter with valid supporting document.<br>
+•	A valid Medical Certificate, from a clinic registered with the Singapore Medical Council, must be submitted via PG to your child’s/ward’s Form Teacher if he/she has missed any scheduled assessments.<br>
+•	An automated message will be sent via SMS and PG to the student’s parent/guardian should a student be absent from school.<br>
+•	Please upload relevant supporting documents (e.g. MC) or update reason for your child’s/ward’s absence via PG.<br>
+•	Students are to report at the assembly venue for flag raising by 7.20am.<br>
+•	Students who arrive at the assembly area after 7.30am will be marked as ‘Late’.<br>
+•	Students are to participate and be punctual for school and all designated school activities.<br>
+•	Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless, the absence is due to valid reason(s) (e.g. Medical Leave).<br>
+•	Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
 <strong>3. Assembly/Pledge Taking	</strong><br>
 •	Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will recite the Pledge with their right fist placed over their heart.<br>
 •	All students are required to sing the school song.<br>
