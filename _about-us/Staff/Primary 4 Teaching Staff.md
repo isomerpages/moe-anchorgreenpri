@@ -56,9 +56,9 @@ Primary 4 Teaching Staff
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:jegendren_tanapal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jegendren_tanapal@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Ho Le Lian<br>(Mrs Amelia Pepito)
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss	Yeo Siew Ju
 </span><br></td>
-    <td class="tg-g24l"><a href="mailto:ho_le_lian@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ho_le_lian@schools.gov.sg</span></a><br></td>
+    <td class="tg-g24l"><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Humility</span></td>
