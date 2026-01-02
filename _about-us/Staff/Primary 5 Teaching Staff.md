@@ -76,8 +76,8 @@ Primary 5 Teaching Staff
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Optimism</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Azna Abu Che</span><br></td>
-    <td class="tg-djmn"><a href="mailto:azna_abu_che@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">azna_abu_che@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Noraisha Bte Hamzah</span><br></td>
+    <td class="tg-djmn"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a><br></td>
   </tr>
 	 <tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Illiyana Bte Mohammad</span><br></td>
