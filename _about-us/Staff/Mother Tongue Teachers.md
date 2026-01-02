@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: markdown
 ---
 Chinese Language Teachers
-=========================
+-----------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -97,7 +97,7 @@ Chinese Language Teachers
 </table>
 
 Malay Language Teachers
-=======================
+---------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -150,7 +150,7 @@ Malay Language Teachers
 </table>
 
 Tamil Language Teachers
-=======================
+---------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
