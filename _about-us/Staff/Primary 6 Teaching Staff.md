@@ -51,13 +51,17 @@ Primary 6 Teaching Staff
     <td class="tg-djmn"><a href="mailto:lee_chun_seng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_chun_seng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Care</span></td>
+    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">6 Care</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr	Reutens Mark Francis</span></td>
     <td class="tg-33ww"><a href="mailto:mark_reutens@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mark_reutens@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss	Kanaran Shanta Kumari</span></td>
     <td class="tg-g24l"><a href="mailto:kanaran_shanta_kumari_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanaran_shanta_kumari_c@schools.gov.sg</span></a></td>
+  </tr>
+<tr>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr	Tan Wen Yann</span></td>
+    <td class="tg-g24l"><a href="mailto:tan_wen_yann@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_wen_yann@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">6 Humility</span></td>
