@@ -73,8 +73,9 @@ Primary 4 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Optimism</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Polly Yun Poo Lai <br>(Mrs Polly Steven Goh)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:polly_yun_poo_lai@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">polly_yun_poo_lai@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms	Shairah Sulaiman
+</span><br></td>
+    <td class="tg-33ww"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shairah_sulaiman@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Thangavel Divya</span></td>
