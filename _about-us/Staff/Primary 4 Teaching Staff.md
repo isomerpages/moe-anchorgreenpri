@@ -32,7 +32,7 @@ Primary 4 Teaching Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">4 Agility</span></td>
+    <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Agility</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr	Mohamed Rafi Bin Ahmad</span></td>
     <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:mohamed_rafi_ahmad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohamed_rafi_ahmad@schools.gov.sg</span></a><br></td>
   </tr>
@@ -40,14 +40,10 @@ Primary 4 Teaching Staff
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Nur Humaira Binte Mahmood </span><br></td>
     <td class="tg-g24l"><a href="mailto:humaira_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">humaira_a@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss Tay Ling Ling</span><br></td>
-    <td class="tg-g24l"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 iNtegrity</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Jegendren S/O Tanapal</span><br></td>
-    <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:jegendren_tanapal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jegendren_tanapal@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss Tay Ling Ling</span><br></td>
+    <td class="tg-g24l" style="text-align: center; vertical-align: middle;"><a href="mailto:tay_ling_ling_c@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tay_ling_ling_c@schools.gov.sg</span></a><br></td>
   </tr>
 <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss Tan Pei Shan
@@ -56,8 +52,8 @@ Primary 4 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">4 Care</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Kanageswary D/O Danabalan</span></td>
-    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:kanageswary_danabalan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kanageswary_danabalan@schools.gov.sg</span></a></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Jegendren S/O Tanapal</span></td>
+    <td class="tg-33ww" style="text-align: center; vertical-align: middle;"><a href="mailto:jegendren_tanapal@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jegendren_tanapal@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Ho Le Lian<br>(Mrs Amelia Pepito)
