@@ -50,10 +50,10 @@ Students are expected to:<br>
 • Students must complete the full school term. Prolonged and frequent absence from school will hamper a child’s learning and development. In addition, this may have an impact on his/her Holistic Development Profile (HDP) Report unless the absence is due to valid reason(s) (e.g. Medical Leave).<br>
 • Students’ Holistic Development Profile (HDP) and Conduct Grade (CG) report will also be affected should he/ she not adhere to the above-mentioned rules relating to attendance and punctuality.<br><br>
 <strong>3. Assembly/Pledge Taking	</strong><br>
-• Students who are Singapore Citizens must sing the National Anthem and recite the Pledge. Students will recite the Pledge with their right fist over their heart.<br>
-• All students are required to sing the school song.<br>
-• Students are to observe all the commands for assembly without fidgeting.<br>
-• It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
+•	Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will recite the Pledge with their right fist placed over their heart.<br>
+•	All students are required to sing the school song.<br>
+•	Students are to observe all the commands for assembly without fidgeting.<br>
+•	It is mandatory for all students to uphold the integrity of the flag raising ceremony.<br><br>
 <strong>4. Classroom Conduct</strong><br>
 •	Students are required to stand and greet the teachers before and after lessons.<br>
 •	No food and sweet drinks are to be consumed in the classroom except during the prescribed snack time. Only plain water is allowed to be consumed in class outside of the prescribed snack time.<br>
