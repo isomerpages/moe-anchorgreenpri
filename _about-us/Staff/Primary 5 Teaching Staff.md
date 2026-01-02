@@ -80,12 +80,12 @@ Primary 5 Teaching Staff
     <td class="tg-djmn"><a href="mailto:noraisha_hamzah_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">noraisha_hamzah_a@schools.gov.sg</span></a><br></td>
   </tr>
 	 <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Illiyana Bte Mohammad</span><br></td>
-    <td class="tg-33ww"><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Karen Yeo Poh Cheng <br>(Mrs Karen Lee)</span><br></td>
+    <td class="tg-33ww"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Resilience</span></td>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Karen Yeo Poh Cheng <br>(Mrs Karen Lee)
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Vivienne Wee Mei Yin <br>(Mrs Vivienne Ong)
 </span></td>
     <td class="tg-g24l"><a href="mailto:ng_jun_yan_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ng_jun_yan_nicholas@schools.gov.sg</span></a></td>
   </tr>
