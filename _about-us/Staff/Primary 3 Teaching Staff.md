@@ -37,8 +37,9 @@ Primary 3 Teaching Staff
     <td class="tg-33ww"><a href="mailto:hazelee_asfar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hazelee_asfar@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Nur Humaira Mahmood</span></td>
-    <td class="tg-g24l"><a href="mailto:humaira_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">humaira_a@schools.gov.sg</span></a><br></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm	Thangavel Divya
+</span></td>
+    <td class="tg-g24l"><a href="mailto:thangavel_divya@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">thangavel_divya@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 iNtegrity</span></td>
