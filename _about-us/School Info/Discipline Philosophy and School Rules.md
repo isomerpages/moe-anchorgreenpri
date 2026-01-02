@@ -152,10 +152,13 @@ or accessories of any kind to school for uniformity and safety reasons
 • All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
 • All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
 <strong>8. Mobile Phone/Smart Watches Policy</strong><br>
-• The school does not encourage students to bring mobile phones and/or smart devices (e.g. smart wrist watches – with the ability to communicate, capture and/or record images or sounds) to school.<br>
-• Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
-• Students are not allowed to use their mobile phones and/or smart devices (e.g. smart wrist watches) in school.<br>
-• Students’ mobile phones and/or smart devices (e.g. smart wrist watches) may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravened the above rule.
+• The school does not encourage students to bring mobile phones to school.<br>
+•	For the safety and security of all students, smart watches are not allowed in school. Students are encouraged to wear a standard wristwatch.<br>
+•	Smart watches with non-telecommunication features, e.g., POSB Smart Buddy Watch which allows contactless payment, are permitted.<br>
+•	Parents who would like their child to carry a mobile phone must take personal responsibility. The school will not be responsible for any loss or damage to the mobile phones or smart watches.<br>
+•	Students are not allowed to use their mobile phones during school hours, including recess, CCAs, and after-school programmes (e.g supplementary, enrichment, or remedial lessons).<br>
+•	If necessary, students are only allowed to use smartphones in designated areas after school hours (near Gate 1 and Gate 3) solely for communicating with parents or caretakers.<br>
+•	Students’ mobile phones may be confiscated as a disciplinary measure and/or for the purpose of investigation if students contravene the above rule.<br>
 </div></div></div></details><br>
 	
 <details>
