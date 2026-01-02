@@ -67,8 +67,8 @@ Primary 3 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Humility</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr Gordon Chua Koon Leng</span><br></td>
-    <td class="tg-djmn"><a href="mailto:gordon_chua_koon_leng@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">gordon_chua_koon_leng@schools.gov.sg</span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr	Muhammad Fahmy Bin Abdul Rahman</span><br></td>
+    <td class="tg-djmn"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Jembu Krishnamurthy Nalini</span><br></td>
