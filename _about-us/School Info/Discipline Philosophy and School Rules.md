@@ -147,10 +147,10 @@ or accessories of any kind to school for uniformity and safety reasons
 </tbody>
 </table><br>
 <strong>6. Permission to leave school/country during Curriculum/Term Time</strong><br>
-• Students must refrain from travelling or leaving the country during the school term. For urgent cases, written permission must be sought from the school and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacations.<br><br>
+•	No student is allowed to leave the country during the school term. For urgent cases, written permission must be sought from the school through the Year Head and is subjected to approval by the School Leaders. Parents are to check the school calendar before planning their vacation and purchasing the plane tickets.<br><br>
 <strong>7. Possession of Weapons</strong><br>
-• All students are not to bring any form of weapons or weapon-like items to school. Possession of and bringing of such items are strictly prohibited.<br>
-• All sharp-edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
+•	Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.<br>
+•	All sharp edged and pointed objects such as scissors, pen-knives, cutting blades, paper cutters, including weapon-like toys such as toy guns, toy knives etc. are strictly prohibited.<br><br>
 <strong>8. Mobile Phone/Smart Watches Policy</strong><br>
 • The school does not encourage students to bring mobile phones to school.<br>
 •	For the safety and security of all students, smart watches are not allowed in school. Students are encouraged to wear a standard wristwatch.<br>
