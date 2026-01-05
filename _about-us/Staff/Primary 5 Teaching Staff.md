@@ -71,7 +71,7 @@ Primary 5 Teaching Staff
     <td class="tg-djmn"><a href="mailto:tan_teck_khoon_nicholas@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_teck_khoon_nicholas@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Zacharias Irene Hilda</span></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Zacharias Irene Hilda<br>(Mrs Irene Gomez)</span></td>
     <td class="tg-djmn"><a href="mailto:zacharias_irene_hilda@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">zacharias_irene_hilda@schools.gov.sg</span></a></td>
   </tr>
   <tr>
