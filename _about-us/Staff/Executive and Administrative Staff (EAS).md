@@ -77,6 +77,11 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-fskk"></td>
   </tr>
 	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Kang Ting Seng</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
+    <td class="tg-fskk"></td>
+  </tr>
+		<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mun Weng Fong</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>
