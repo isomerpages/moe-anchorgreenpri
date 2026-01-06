@@ -74,7 +74,7 @@ Science</span><br></td>
   </tr>
 	 <tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Chee Liang Nicholas</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education &amp; Co-Curricular Activities</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Character and Citizenship Education</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chua_chee_liang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_chee_liang@schools.gov.sg</span></a></td>
   </tr> 
 <tr>
