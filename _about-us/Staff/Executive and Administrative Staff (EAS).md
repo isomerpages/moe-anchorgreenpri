@@ -53,9 +53,9 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-lb3e"><a href="mailto:nuraisyah_omar@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nuraisyah_omar@schools.gov.sg</span></a><br></td>
   </tr>
 	  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Sim Kuay Geok</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Administrative Executive</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:sim_kuay_geok@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">sim_kuay_geok@schools.gov.sg</span></a><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Oh Lay Kien </span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">AED (Admin)</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:tee_lay_kien@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">tee_lay_kien@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ang Guek Huay</span><br></td>
@@ -77,6 +77,11 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-fskk"></td>
   </tr>
 	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Kang Ting Seng</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
+    <td class="tg-fskk"></td>
+  </tr>
+		<tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mun Weng Fong</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
     <td class="tg-fskk"></td>

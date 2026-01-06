@@ -83,10 +83,6 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Wong Yee Chi Canny</span></td>
     <td class="tg-fskk"><a href="mailto:wong_yee_chi_canny@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wong_yee_chi_canny@schools.gov.sg</span></a></td>
   </tr>
- <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Yap Seok Wee Tania</span></td>
-    <td class="tg-fskk"><a href="mailto:yap_seok_wee_tania@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yap_seok_wee_tania@schools.gov.sg</span></a></td>
-  </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
@@ -177,10 +173,6 @@ Tamil Language Teachers
 		 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Anu Asohan</span></td>
     <td class="tg-fskk"><a href="mailto:anu_asohan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">anu_asohan@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
-  </tr>
- <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm James Jeyajosepine Arulraj</span></td>
-    <td class="tg-fskk"><a href="mailto:james_jeyajosepine_arulraj@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">james_jeyajosepine_arulraj@schools.gov.sg</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
 	 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Jembu Krishnamurthy Nalini</span></td>
