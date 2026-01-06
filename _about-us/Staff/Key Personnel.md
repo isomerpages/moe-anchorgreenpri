@@ -73,9 +73,9 @@ Science</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:hariani_salleh@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">hariani_salleh@schools.gov.sg</span></a></td>
   </tr>
 	 <tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Sharul Hisham Ishak</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Chee Liang Nicholas</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>Physical Education &amp; Co-Curricular Activities</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:sharul_hisham_ishak@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">sharul_hisham_ishak@schools.gov.sg</span></a></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:chua_chee_liang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_chee_liang@schools.gov.sg</span></a></td>
   </tr> 
 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Tan Meng Kwang Alvin</span><br></td>
