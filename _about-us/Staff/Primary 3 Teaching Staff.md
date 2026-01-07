@@ -57,7 +57,7 @@ Primary 3 Teaching Staff
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">3 Care</span></td>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm	Kuganeswari d/o Kuhanesan</span><br></td>
-    <td class="tg-djmn"><a href="mailto:kuganeswari_kuhanesan@schols.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@schols.gov.sg</span></a></td>
+    <td class="tg-djmn"><a href="mailto:kuganeswari_kuhanesan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">kuganeswari_kuhanesan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Miss	Loy Qiu Yi
