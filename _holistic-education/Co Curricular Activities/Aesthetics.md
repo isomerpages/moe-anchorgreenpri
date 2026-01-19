@@ -28,21 +28,6 @@ Our weekly training sessions at AGPS Drama Club offer a transformative learning 
 </div>
 </details>
 <details class="isomer-details">
-<summary><h4>Festive Drums</h4></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-Festive Drums CCA was established in 2012. Over the years, the CCA has undergone changes in instructors and members, but what has remained constant is the dedication of its members and teachers. We foster a spirit of cooperation, perseverance, and excellence in students through rigorous rehearsals and performances. The teachers-in-charge and CCA instructors work closely to develop our students to their fullest potential, refining their drumming and performance skills. A festive drummer can anticipate opportunities to perform both within the school and in public, contributing to the community by participating in various events such as the Sengkang West Family Day in 2019 and Arts Outreach @ Seng Kang Community Hospital in 2023. Through our CCA, students also cultivate self-discipline, self-confidence, and a passion for drumming and the performing arts.<br><br><strong>Events taking part in :</strong><br>
-Prize Award Ceremony<br><br><img style="width: 100%" height="auto" width="100%" alt="Chinese New Year Celebration Concert" src="/images/CCA/Aesthetics/Festive%20Drums/Chinese_New_Year_Celebration_Concert.jpg">Chinese New Year Celebration Concert
-<table>
-<tbody><tr>
-<td><img src="/images/CCA/Aesthetics/Festive%20Drums/ASEANS_Delegates_welcome_performance.jpg" style="width:100%">ASEAN Delegates welcome performance.</td>
-<td><img src="/images/CCA/Aesthetics/Festive%20Drums/AG15.jpg" style="width:100%">AG15</td>
-</tr>
-</tbody></table>
-<img style="width: 100%" height="auto" width="100%" alt="Arts Outreach @ SKCH" src="/images/CCA/Aesthetics/Festive%20Drums/Arts_Outreach___SKCH.jpg">Arts Outreach @ SKCH
-<br><br>
-</div>
-</details>
-<details class="isomer-details">
 <summary><h4>Guzheng</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 The Guzheng Ensemble which started in 2009 continues to remain strong with passionate members. This CCA aims to cultivate students’ interest and passion for the Chinese culture and values through the learning of this traditional Chinese music instrument. Our CCA recruits members who have an interest in learning, regardless of gender and race.
