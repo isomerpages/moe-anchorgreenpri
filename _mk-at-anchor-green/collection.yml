@@ -2,6 +2,7 @@ collections:
   mk-at-anchor-green:
     output: true
     order:
+      - MK Open House 2026.md
       - About MK.md
       - MK Staff.md
       - MK Activities/2025.md
