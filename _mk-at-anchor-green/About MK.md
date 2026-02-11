@@ -4,6 +4,19 @@ permalink: /mk-at-anchor-green/about-mk/
 description: ""
 variant: markdown
 ---
+<style>
+.blinking {
+  font-weight: bold;
+  font-size: 20px;
+  color: purple;
+  animation: blink 1s step-start infinite;}
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
+
 <table style="border-collapse: collapse; border: none; width: 100%; height: 100px;">
   <tbody><tr>
     <td style="border: none; padding: 0; text-align: center; vertical-align: middle;">
@@ -11,7 +24,7 @@ variant: markdown
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 25px; font-weight: bold;"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MK Open House 2026
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 30px; font-weight: bold;"><br><p class="blinking">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MK Open House 2026</p>
     </td>
   </tr>
 </tbody></table>
