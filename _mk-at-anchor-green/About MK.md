@@ -11,12 +11,10 @@ variant: markdown
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><br><p style="font-family: sans-serif; font-weight: bold; font-size: 20px; color: #00CC00;">
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><br><p style="font-family: sans-serif; font-weight: bold; font-size: 25px; color: #00CC00;">
   Click 
-<a style="color: #00CC00; text-decoration: underline;" href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/">
-     here
-  </a> 
-  to find out more about MK Open House 2026
+<a style="color: #00CC00; text-decoration: underline;" href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/about-mk/">here
+  </a>to find out more about MK Open House 2026
 </p>
     </td>
   </tr>
