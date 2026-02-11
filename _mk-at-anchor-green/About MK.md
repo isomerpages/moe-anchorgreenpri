@@ -24,7 +24,7 @@ variant: markdown
     </td>
   </tr>
   <tr>
-    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><br><p class="blinking">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MK Open House 2026</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click here to find out more
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><p class="blinking">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MK Open House 2026</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click here to find out more
     </td>
   </tr>
 </tbody></table>
