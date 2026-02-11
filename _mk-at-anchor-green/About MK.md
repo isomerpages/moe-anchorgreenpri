@@ -4,7 +4,18 @@ permalink: /mk-at-anchor-green/about-mk/
 description: ""
 variant: markdown
 ---
-<img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:40%">
+<table style="border-collapse: collapse; border: none; width: 100%; height: 100px;">
+  <tbody><tr>
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle;">
+        <img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:40%">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 25px; font-weight: bold;"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MK Open House 2026
+    </td>
+  </tr>
+</tbody></table>
+
 
 About MK 
 ========
