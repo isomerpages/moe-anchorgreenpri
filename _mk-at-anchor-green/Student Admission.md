@@ -17,12 +17,6 @@ Parent who wish to enrol their child in MK@ Anchor Green after the K1 registrati
 </div>
 <br>
 
-<iframe id="iframe" src="https://form.gov.sg/684bb71e9a59280cdc719e3d" style="width: 100%; height: 500px"></iframe>
+<iframe frameborder="0" height="600" width="100%" src="https://form.gov.sg/684bb71e9a59280cdc719e3d?param1=value1&amp;hideheader=true">
+</iframe>
 
-<div style="font-family: Sans-Serif;
-    font-size: 12px;
-    color: #999;
-    opacity: 0.5;
-    padding-top: 5px;">
-  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
-</div>
