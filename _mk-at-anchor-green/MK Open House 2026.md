@@ -12,7 +12,7 @@ description: ""
   </tr>
   <tr>
     <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><br>
-<p style="font-family: sans-serif; font-weight: bold; font-size: 18px; color: #00CC00;">
+<p style="font-family: sans-serif; font-weight: bold; font-size: 20px; color: #00CC00;">
  Registration begins from Monday, 23rd March 2026 to Tuesday, 31st March 2026<br>
 You can register your child in our MK if he/she is born in 2022
 </p>
