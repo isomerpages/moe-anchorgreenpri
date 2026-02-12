@@ -8,3 +8,18 @@ description: ""
 
 **Registration begins from Monday, 23rd March 2026 to Tuesday, 31st March 2026<br>
 You can register your child in our MK if he/she is born in 2022**
+
+
+<table style="border-collapse: collapse; border: none; width: 100%; height: 100px;">
+  <tbody><tr>
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle;">
+        <img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:40%">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><br>Registration begins from Monday, 23rd March 2026 to Tuesday, 31st March 2026<br>
+You can register your child in our MK if he/she is born in 2022
+<p></p>
+    </td>
+  </tr>
+</tbody></table>
