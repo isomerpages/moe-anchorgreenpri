@@ -4,13 +4,25 @@ permalink: /mk-at-anchor-green/about-mk/
 description: ""
 variant: markdown
 ---
-<table style="font-size: 50px;">
-<tbody>
-<tr>
-	<td style="color:#70b031" valign="middle" align="left"><nobr>About MK</nobr></td>
-<td style="width: 80%;" align="left"><img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:50%"></td>
-</tr>
+<table style="border-collapse: collapse; border: none; width: 100%; height: 100px;">
+  <tbody><tr>
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle;">
+        <img src="/images/MK/Main/MK_AnchorGreen.jpg" style="width:40%">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 0; text-align: center; vertical-align: middle; font-size: 20px; font-weight: bold;"><br><p style="font-family: sans-serif; font-weight: bold; font-size: 25px; color: #00CC00;">
+  Click 
+<a style="color: #00CC00; text-decoration: underline;" href="https://www.anchorgreenpri.moe.edu.sg/mk-at-anchor-green/mk-open-house-2026/">here
+  </a>to find out more about MK Open House 2026
+</p>
+    </td>
+  </tr>
 </tbody></table>
+
+About MK 
+========
+
 MOE Kindergarten @ Anchor Green began its operations in January 2019. Sited at Anchor Green Primary School, it offers Kindergarten 1 and Kindergarten 2 programmes to Singapore Citizens and Permanent Residents. The MK@Anchor Green also has a Kindergarten Care (KCare) service that currently offers before school care to our enrolled MK children.
 
 For more information on MOE Kindergartens please visit the website at <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>.<br>
