@@ -54,7 +54,7 @@ description: ""
 					<td style="text-align: center; vertical-align: middle;"><a href="/mk-at-anchor-green/about-mk/" target="_self"><img src="/images/MK/Main/MOE%20Kindergarten2.jpg" style="width:40%"><br>MOE Kindergarten</a>
 					</td>
             <td style="text-align: center; vertical-align: middle;"><a href="/useful-links/resources-for-parents/school-vendors/" target="_self"><br>School Vendors</a></td>
-            <td style="text-align: center; vertical-align: middle;"><a href="/useful-links/resources-for-parents/student-care-information/" target="_self"><br>Student Care Information</a>
+            <td style="text-align: center; vertical-align: middle;">
 					</td>
         </tr>
     <tr>
