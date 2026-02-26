@@ -61,7 +61,7 @@ Kindergarten Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K1 Hibiscus</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin<br>
 (Ms. Hailey)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
@@ -70,10 +70,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">zhang_yonghong@schools.gov.sg</a></span></td>
   </tr>
-	<tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Ong Sze Sze<br>(Sze Sze Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:ong_sze_sze_a@schools.gov.sg">ong_sze_sze_a@schools.gov.sg </a></span></td>
-  </tr>
+
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Misra<br>(Ms. Natalia)</span></td>
