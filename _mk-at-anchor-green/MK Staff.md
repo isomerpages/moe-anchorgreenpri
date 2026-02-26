@@ -135,8 +135,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Juliana Binte Johari<br>(Cikgu Ju)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:juliana_binte_johari@schools.gov.sg">juliana_binte_johari@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:"></a></span></td>
 	</tr><tr></tr>
 </tbody>
 </table>
