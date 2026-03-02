@@ -94,14 +94,14 @@ Kindergarten Teachers
  <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Wisdom</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Binte Mohamad Pauzi <br>(Ms Nadhirah)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara Abdul Hakkim<br>(Ms. Sabeen)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Tengku Azian Nurul Ain Binte Tengku Azmansah <br>(Ms Nurul)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
    <tr>
-    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K1 Basil</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Basil</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar<br>(Ms. Nora)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
   </tr>
@@ -109,10 +109,6 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal">Nur Atiqah Ridzwan<br>(Ms. Atiqah)
 </span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
-  </tr>
-	<tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen<br>(Wang Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg </a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass</span></td>
