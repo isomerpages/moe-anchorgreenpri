@@ -86,9 +86,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:seah_ai_ping@schools.gov.sg">seah_ai_ping@schools.gov.sg </a></span></td>
  </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>
-(Yali Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling<br> (Su Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
   </tr>
 			
  <tr>
