@@ -117,8 +117,8 @@ Kindergarten Teachers
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Honesty</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Mohamad Pauzi<br>(Ms. Nadhirah)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">M Tania <br>(Ms Tania)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling
