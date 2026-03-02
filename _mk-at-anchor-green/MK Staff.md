@@ -101,8 +101,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
    <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Basil</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar<br>(Ms. Nora)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Courage</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin <br>(Ms Hailey)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Honesty</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Mohamad Pauzi<br>(Ms. Nadhirah)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg</a></span></td>
   </tr>
@@ -121,7 +121,7 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lantana</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Respect</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Khalilah Diana Abdul Malek<br>(Ms. Khalilah)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
