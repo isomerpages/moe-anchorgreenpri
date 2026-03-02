@@ -71,8 +71,8 @@ Kindergarten Teachers
   </tr>
 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Misra<br>(Ms. Natalia)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Kindness</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Binte Misra <br>(Ms Natalia)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:herna_natalia_misra@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
