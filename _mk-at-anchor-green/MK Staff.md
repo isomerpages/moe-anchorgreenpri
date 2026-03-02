@@ -101,14 +101,19 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
    <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Courage</span></td>
+    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K2 Courage</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin <br>(Ms Hailey)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Nur Atiqah Ridzwan<br>(Ms. Atiqah)
+    <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)
 </span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
+  </tr>
+ <tr>
+    <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)
+</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Honesty</span></td>
