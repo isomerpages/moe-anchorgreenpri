@@ -76,13 +76,13 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:herna_natalia_misra@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Kamariah Khalid<br>(Cikgu Mariah)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:kamariah_khalid@schools.gov.sg">kamariah_khalid@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali <br>(Yali Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Pandan</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Seah Ai Ping<br>(Ms. Grace)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Patience</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Seah Ai Ping<br>(Ms Grace)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:seah_ai_ping@schools.gov.sg">seah_ai_ping@schools.gov.sg </a></span></td>
  </tr>
   <tr>
@@ -92,9 +92,8 @@ Kindergarten Teachers
   </tr>
 			
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Rosemary</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">M Tania<br>
-(Ms. Tania)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Wisdom</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Binte Mohamad Pauzi <br>(Ms Nadhirah)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
   </tr>
   <tr>
