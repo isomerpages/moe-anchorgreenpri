@@ -120,9 +120,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling
-<br>(Su Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen <br>(Wang Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_A@schools.gov.sg">wang_wen_A@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Respect</span></td>
@@ -130,8 +129,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal"></span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:"></a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Teoh Lee Ching (Ms Cindy)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:teoh_lee_ching@schools.gov.sg">teoh_lee_ching@schools.gov.sg</a></span></td>
 	</tr><tr></tr>
 </tbody>
 </table>
