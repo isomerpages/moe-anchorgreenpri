@@ -66,8 +66,8 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">zhang_yonghong@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara D/O Abdul Hakkim <br>(Ms Sabeen)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
 
  <tr>
