@@ -61,79 +61,76 @@ Kindergarten Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Hibiscus</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin<br>
-(Ms. Hailey)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Creative</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Nur Atiqah Binte Ridzwan<br>(Ms Atiqah)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">zhang_yonghong@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara D/O Abdul Hakkim <br>(Ms Sabeen)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
   </tr>
 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Ixora</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Misra<br>(Ms. Natalia)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Kindness</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Herna Natalia Binte Misra <br>(Ms Natalia)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:herna_natalia_misra@schools.gov.sg">herna_natalia_misra@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Kamariah Khalid<br>(Cikgu Mariah)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:kamariah_khalid@schools.gov.sg">kamariah_khalid@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali <br>(Yali Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
   </tr>
 			 
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Pandan</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Seah Ai Ping<br>(Ms. Grace)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Patience</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Seah Ai Ping<br>(Ms Grace)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:seah_ai_ping@schools.gov.sg">seah_ai_ping@schools.gov.sg </a></span></td>
  </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Liu Yali<br>
-(Yali Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:liu_yali@schools.gov.sg">liu_yali@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling<br> (Su Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
   </tr>
 			
  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Rosemary</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">M Tania<br>
-(Ms. Tania)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara Abdul Hakkim<br>(Ms. Sabeen)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
-  </tr>
-   <tr>
-    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K1 Basil</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Norazlinah Anwar<br>(Ms. Nora)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:norazlinah_anwar@schools.gov.sg">norazlinah_anwar@schools.gov.sg</a></span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Nur Atiqah Ridzwan<br>(Ms. Atiqah)
-</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
-  </tr>
-	<tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen<br>(Wang Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg </a></span></td>
-  </tr>
-  <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lemongrass</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Mohamad Pauzi<br>(Ms. Nadhirah)</span></td>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K1 Wisdom</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Nadhirah Binte Mohamad Pauzi <br>(Ms Nadhirah)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nadhirah_mohamad_pauzi@schools.gov.sg">nadhirah_mohamad_pauzi@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Soh Ai Ling
-<br>(Su Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:soh_ai_ling_a@schools.gov.sg">soh_ai_ling_a@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Tengku Azian Nurul Ain Binte Tengku Azmansah <br>(Ms Nurul)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
+  </tr>
+   <tr>
+    <td class="tg-pk3b" rowspan="3"><span style="font-weight:normal">K2 Courage</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Hoo Yin Huin <br>(Ms Hailey)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:hoo_yin_huin@schools.gov.sg">hoo_yin_huin@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Lantana</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Zhang Yonghong<br>(Zhang Laoshi)
+</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:zhang_yonghong@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
+  </tr>
+ <tr>
+    <td class="tg-pk3b"><span style="font-weight:normal">Xu Qiuli <br>(Xu Laoshi)
+</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:xu_qiuli@schools.gov.sg">xu_qiuli@schools.gov.sg</a></span></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Honesty</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">M Tania <br>(Ms Tania)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:m_tania@schools.gov.sg">m_tania@schools.gov.sg</a></span></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen <br>(Wang Laoshi)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_A@schools.gov.sg">wang_wen_A@schools.gov.sg</a></span></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Respect</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal">Khalilah Diana Abdul Malek<br>(Ms. Khalilah)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal"></span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:"></a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Teoh Lee Ching (Ms Cindy)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:teoh_lee_ching@schools.gov.sg">teoh_lee_ching@schools.gov.sg</a></span></td>
 	</tr><tr></tr>
 </tbody>
 </table>
