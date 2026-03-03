@@ -125,7 +125,7 @@ Kindergarten Teachers
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Respect</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal">Khalilah Diana Abdul Malek<br>(Ms. Khalilah)</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Khalilah Diana Abdul Malek<br>(Ms Khalilah)</span></td>
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:khalilah_dianah_abdul_malek@schools.gov.sg">khalilah_dianah_abdul_malek@schools.gov.sg</a></span></td>
   </tr>
   <tr>
