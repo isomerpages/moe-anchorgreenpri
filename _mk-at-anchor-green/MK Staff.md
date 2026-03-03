@@ -121,7 +121,7 @@ Kindergarten Teachers
   </tr>
   <tr>
     <td class="tg-pk3b"><span style="font-weight:normal">Wang Wen <br>(Wang Laoshi)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_A@schools.gov.sg">wang_wen_A@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:wang_wen_a@schools.gov.sg">wang_wen_a@schools.gov.sg</a></span></td>
   </tr>
   <tr>
     <td class="tg-pk3b" rowspan="2"><span style="font-weight:normal">K2 Respect</span></td>
