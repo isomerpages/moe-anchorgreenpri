@@ -3,25 +3,24 @@ title: Principal's Message
 permalink: /about-us/school-info/principals-message/
 description: ""
 third_nav_title: School Info
+variant: markdown
 ---
 Principal's Message
 ===================
 
-<img src="/images/School%20Info/Wesley%20Cheong.jpg"  
-style="width:55%">
+<img src="/images/School%20Info/Wesley%20Cheong.jpg" style="width:55%">
 
-Spend some time at Anchor Green, and you'll notice how deeply we care for our students. We believe **All** our children hold **Great** potential to make **Positive** impact on **Society**.
+Spend some time at Anchor Green, and you’ll notice how deeply we care for our students. We believe that All our students hold Great potential to make a Positive impact on Society.
 
-Our name well epitomizes our passion - a school **Anchored** in our nation's **Green** movement. Our Applied Learning Programme (ALP), **Empowering Learners** to be **Environmental Activists** (ELEA), empowers every Anchorlite to take ownership. They connect their 3As - (Attitudes, Awareness, Actions) to creatively solve authentic issues to care for the environment. In recognition of our contributions towards sustainability and building a resilient future, we were awarded the President's Award for the Environment, a pinnacle accolade, in 2017.
+Our name well epitomises our passion — a school anchored in our nation’s Green movement. Our Applied Learning Programme (ALP) provides rich opportunities for Anchorlites to learn meaningfully through real-world contexts. Through guided inquiry, hands-on experiences and purposeful action, our students develop awareness, skills and attitudes to care for the environment and contribute responsibly to a sustainable future. In recognition of our efforts in sustainability education and environmental stewardship, Anchor Green was honoured with the President’s Award for the Environment in 2017.
 
-Our Anchorlites enjoy rich learning experiences across 4 AGPS Domains - **Aesthetic, coGnitive, Physical, Socio-moral Emotional**. We desire that each child discovers and develops his or her unique blend of interests and aptitudes, and thrive as gracious contributors to the community. To illustrate, our **Aspire, Grow Passion, Serve through the ARTS** Learning for Life Programme (LLP) leverages a holistic Arts Education to build character and strong mastery of fundamentals. 
+At Anchor Green, learning extends well beyond the classroom. Our Anchorlites grow in the **i-AGPS domains — Innovation, Aesthetics, coGnitive, Physical, and Socio-moral Emotional**. With Innovation as key, we intentionally nurture curiosity and creativity in our Anchorlites. From asking thoughtful questions to exploring ideas and learning from mistakes, our students grow in confidence as they work collaboratively and turn learning into meaningful action — dispositions that prepare them well for a rapidly changing world.
 
-We value our strong partnerships. They expand learning beyond the classroom and even beyond Singapore. We invite all our parents to join the [Parents Support Group](/partners/parent-support-group-psg), as we endeavour to bring out the best in every child together.
+From the early years in Primary 1, our teachers intentionally guide Anchorlites through age‑appropriate, hands‑on learning experiences. We build strong foundations for learning, while nurturing confidence and steadily developing the skills needed for children to take on more complex challenges as they grow.
 
-We invite you to join us, hoist Anchor, and set sail on an exciting journey of discovery and learning. Together, we **Aspire**, **Grow** and **Serve**!
+We desire that each child discovers and develops his or her unique blend of interests and strengths, and thrives as a gracious contributor to the community through learning experiences across our curriculum, co‑curriculum and student development programmes. We value strong partnerships with parents and the wider community. Through our [Parents Support Group](/partners/parent-support-group-psg) and school activities, we work closely with families to bring out the best in every child.
 
-  
+We invite you to join us, hoist Anchor, and set sail on an exciting journey of discovery and learning. Together, we Aspire, Grow and Serve.
 
-**Mr. Wesley Cheong** 
-
-**Principal**
+**Mr. Wesley Cheong**<br>
+Principal
