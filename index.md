@@ -15,4 +15,11 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar
+  - infobar:
+      title: Open House 2026
+      subtitle: Anchor Green Primary School
+      id: infobar
+      description: 2 July 2026, 2.30pm – 4.30pm
+      button: CLICK for details
+      url: https://www.anchorgreenpri.moe.edu.sg/announcements/
 ---
