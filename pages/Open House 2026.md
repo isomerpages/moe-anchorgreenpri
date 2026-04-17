@@ -13,7 +13,7 @@ Our Open House will provide opportunities to:<br>
 
 Open House Details<br>
 Date: 2 July 2026<br>
-Time: 2.30pm – 4.30pm <i>(Registration starts at 2.00pm)</i>
+Time: 2.30pm – 4.00pm <i>(Registration starts at 2.00pm)</i>
 
 Due to limited capacity, each family may register up to 2 adults (excluding the child).
 
