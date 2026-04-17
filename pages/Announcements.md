@@ -22,7 +22,7 @@ Due to limited capacity, each family may register up to 2 adults (excluding the 
 Please register via the QR code on the poster. Registration will close on 29 May 2026 at 5.00pm.<br>
 We look forward to welcoming you and your child to Anchor Green Primary School!
 
-<img src="/images/Announcements/2026_AGPS_OH_1.jpg" style="display:inline-block; width:300px;">&nbsp;&nbsp;&nbsp; <img src="/images/Announcements/2026_AGPS_OH_2.jpg" style="display:inline-block; width:300px;">
+<img src="/images/Announcements/2026_AGPS_OH_1.jpg" style="display:inline-block; width:400px;">&nbsp;&nbsp;&nbsp; <img src="/images/Announcements/2026_AGPS_OH_2.jpg" style="display:inline-block; width:400px;">
 
 
 
