@@ -22,7 +22,7 @@ Due to limited capacity, each family may register up to 2 adults (excluding the 
 Please register via the QR code on the poster. Registration will close on 29 May 2026 at 5.00pm.<br>
 We look forward to welcoming you and your child to Anchor Green Primary School!
 
-
+![AGPS Open House 2026](/images/Announcements/2026_AGPS_OH_1.jpg) 
 
 ### Group Personal Accident Insurance
 The school’s group insurer for 2026 is Income Insurance Limited. Every pupil is covered for mishaps that may occur during school activities and or co-curricular activities both in and out of the school. &nbsp;Details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited’s website at&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" target="_blank">Group Personal Accident Insurance for Students</a>. The User Guide can be access through&nbsp;<a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf" target="_blank">Student GPA User Guide - Parent</a>.
