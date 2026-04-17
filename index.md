@@ -21,5 +21,5 @@ sections:
       id: infobar
       description: 2 July 2026, 2.30pm – 4.00pm
       button: CLICK for details
-      url: https://www.anchorgreenpri.moe.edu.sg/announcements/
+      url: https://anchorgreenpri.moe.edu.sg/open-house-2026/
 ---
