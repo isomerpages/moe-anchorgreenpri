@@ -7,7 +7,7 @@ description: ""
 <h3>Home-based Learning</h3>
 
 <p style="font-size:20px; color:green; display:inline">1. Student Guide to SLS</p><br>
-<a href="/files/HBL/briefing%20slides%20for%20students%20(pre-hbl).pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
+<a href="/files/HBL/briefing_slides_for_students_pre_hbl_2026.pdf" target="_blank">Briefing Slides for Students (Pre-HBL)</a><br>
 <a href="/files/HBL/a_students_guide_to_using_sls_for_hbl.pdf" target="_blank">A Student's Guide to Using SLS for HBL</a>
 <br><br>
 <p style="font-size:20px; color:green; display:inline">2. Points of Contact</p><br>
