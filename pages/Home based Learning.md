@@ -8,7 +8,7 @@ description: ""
 
 <p style="font-size:20px; color:green; display:inline">1. Student Guide to SLS</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.google.com/gview?url=https://www.anchorgreenpri.moe.edu.sg/files/HBL/briefing_slides_for_students_pre_hbl_2026.pdf&amp;embedded=true" target="_blank">Briefing Slides for Students (Pre-HBL)</a></p><a href="https://docs.google.com/gview?url=https://www.anchorgreenpri.moe.edu.sg/files/HBL/briefing_slides_for_students_pre_hbl_2026.pdf&amp;embedded=true" target="_blank">
-</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.google.com/gview?url=https://www.anchorgreenpri.moe.edu.sg/files/HBL/a_students_guide_to_hbl_2026.pdf&amp;embedded=true" target="_blank">A Student's Guide to Using SLS for HBL
 </a>
 <br><br>
