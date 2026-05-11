@@ -124,11 +124,6 @@ Physical Education
     <td class="tg-lb3e"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg
 </span></a><br></td>
   </tr>
-	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Muhammad Fahmy Abdul Rahman</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:muhammad_fahmy_abdul_rahman@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">muhammad_fahmy_abdul_rahman@schools.gov.sg</span></a><br></td>
-  </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Murlis Sani</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
