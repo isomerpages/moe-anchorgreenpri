@@ -23,7 +23,7 @@ Website: [https://learningstudioeducare.com/contact-us/](https://learningstudioe
 
 📚Learning Studio Educare<br>
 📞Tell: 88779001<br>
-📧 Email: agps.scc@learningstudioeducare.com<br>
+📧 Email: [agps.scc@learningstudioeducare.com](mailto:agps.scc@learningstudioeducare.com)<br>
 
 ⏰Operating Hours<br>
 School Term: 1.30pm – 7pm<br>
