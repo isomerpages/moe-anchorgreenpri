@@ -1,6 +1,6 @@
 ---
 title: Student Care Services
-permalink: /student-care-services/
+permalink: /useful-links/resources-for-parents/student-care-services/
 variant: markdown
 description: ""
 ---
