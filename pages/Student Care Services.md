@@ -8,7 +8,7 @@ description: ""
 
 📚Learning Studio Educare <br>
 📞Tell: 86882524 <br>
-📧 Email: agps.kc@learningstudioeducare.com 
+📧 Email: [agps.kc@learningstudioeducare.com](mailto:agps.kc@learningstudioeducare.com)<br> 
 
 ⏰Operation Hours<br>
 School Term : 10:00am - 7pm<br>
