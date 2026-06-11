@@ -29,6 +29,5 @@ Website: [https://learningstudioeducare.com/contact-us/](https://learningstudioe
 School Term: 1.30pm – 7pm<br>
 School Holiday: 7.30am – 7pm<br>
 
-Please click the link to view more about the services provided.
-
+Please click the link to view more about the services provided.<br>
 Website: [https://learningstudioeducare.com/contact-us/](https://learningstudioeducare.com/contact-us/)
