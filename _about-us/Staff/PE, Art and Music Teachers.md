@@ -125,14 +125,20 @@ Physical Education
     <td class="tg-lb3e"><a href="mailto:murlis_sani@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">murlis_sani@schools.gov.sg</span></a><br></td>
   </tr>
 	<tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Karen Yeo Poh Cheng <br>(Mrs Karen Lee)</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr	Jodel Chow Zuliang 
+</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
-    <td class="tg-lb3e"><a href="mailto:karen_yeo_poh_cheng@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">karen_yeo_poh_cheng@schools.gov.sg</span></a></td>
+    <td class="tg-lb3e"><a href="mailto:jodel_chow_zuliang@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">jodel_chow_zuliang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Mohd Yusoff</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
     <td class="tg-lb3e"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Miss	Nur Fariesha Bte Mohd Rafi</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Physical Education</span><br></td>
+    <td class="tg-lb3e"><a href="mailto:nur_fariesha_mohd_rafi@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">nur_fariesha_mohd_rafi@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Pang Yen Ping Angelyn</span><br></td>
