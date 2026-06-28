@@ -67,6 +67,11 @@ Executive &amp; Administrative Staff (EAS)
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Corporate Support Staff</span><br></td>
     <td class="tg-fskk"><a href="mailto:natasha_hamdan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">natasha_hamdan@schools.gov.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Noorisyqi Binte Mohamed</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Adjunct Corporate Support Officer</span><br></td>
+    <td class="tg-fskk"><a href="mailto:natasha_hamdan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
+  </tr>
 	 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Irene Lee Fong Meng</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Operations Support Staff</span><br></td>
