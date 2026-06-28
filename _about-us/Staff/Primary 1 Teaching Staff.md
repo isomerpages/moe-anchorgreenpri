@@ -50,13 +50,12 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 iNtegrity</span></td>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Ms Wang Huimin<br>
-(Ms Bethany Wang)</span><br></td>
-    <td class="tg-33ww"><a href="mailto:wang_huimin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">wang_huimin@schools.gov.sg</span></a><br></td>
+   <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Tan Yu Ting</span><br></td>
+    <td class="tg-g24l"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Ms Tan Yu Ting</span><br></td>
-    <td class="tg-g24l"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
+    <td class="tg-g24l"><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Care</span></td>
@@ -107,13 +106,14 @@ Primary 1 Teaching Staff
   </tr>
   <tr>
     <td class="tg-rxka" rowspan="2"><span style="color:#222;background-color:#FBFFFA">1 Innovation</span></td>
-    <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA">Mdm	Jessica Ding Chooi Hui <br>(Mrs Jessica Yeow) </span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:jessica_ding_chooi_hui@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jessica_ding_chooi_hui@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Huang Qin
+      <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm	Huang Qin
 </span><br></td>
     <td class="tg-fskk"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">huang_qin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">
+</span><br></td>
+    <td class="tg-fskk"><a href="mailto:huang_qin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
