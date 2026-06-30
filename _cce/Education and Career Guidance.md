@@ -12,7 +12,7 @@ The Education and Career Guidance (ECG) framework empowers students to explore o
 
 **Upper Primary (P4–P6)** focuses on the Hand approach, where students engage in experiential learning. Through project-based tasks, collaboration and hands-on experiences, they develop practical skills such as communication, teamwork and problem-solving. Students apply their learning to real-world contexts, strengthening their readiness for future pathways and the world of work.<br>
 
-<img src="/images/Curriculum/CCE/Be_Yourself_Day.jpg" style="width:100%"><br>
+<img src="/images/Curriculum/CCE/Student_ECG_Journey.jpg" style="width:100%"><br>
 **P1–P2<br>
 Be Yourself Day**<br>
 In conjunction with _A.G. STARS_, our Primary 1 and 2 students celebrate _Be Yourself Day_ by expressing their dreams through career-themed outfits that reflect their aspirations.
