@@ -28,3 +28,7 @@ This session bridges learning between the classroom and the professional world b
 **P4 Discover Your Sparkle &amp; ECG on the MOVE**<br>
 Every child has unique talents waiting to shine, and our Discover Your Sparkle programme helps Primary 4 students uncover their strengths and interests. Through hobby exploration, inspiring teacher stories, thoughtful class discussions and visits from guest speakers, students embark on a journey of self-discovery. They learn to appreciate what makes them unique while considering how their passions may connect to future possibilities, building confidence and a love of lifelong learning.
 <img src="/images/Curriculum/CCE/Discover_Your_Sparkle.jpg" style="width:100%"><br>
+
+**ECG On the Move**<br>
+An interactive travelling exhibit is brought in to increase students’ awareness of their interests and sense of purpose, and to strengthen their hope and motivation to pursue their aspirations. Through thoughtfully designed activities, students learn more about their skills and strengths, and are guided to make connections between their strengths and a wider range of career interests.
+<img src="/images/Curriculum/CCE/Discover_Your_Sparkle.jpg" style="width:100%"><br>
