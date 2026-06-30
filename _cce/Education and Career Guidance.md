@@ -49,3 +49,6 @@ The journey begins with authentic dialogue. We invite a diverse range of profess
 Moving from conversation to observation, students embark on a one-day industry learning journey. By visiting workplaces, students gain firsthand exposure to specific sectors, discover how modern industries operate and learn about the different roles within them.
 <img src="/images/Curriculum/CCE/Industry_Immersion.jpg" style="width:100%"><br>
 
+**Stage 3: The Learning Festival (Student-Led Teaching)**<br>
+The programme culminates in our vibrant two-day Learning Festival, where students become the experts. Building on their research and industry insights, our P6 stars take on the role of teachers. Through creative poster displays and engaging presentations, they share their learning with the school community.
+<img src="/images/Curriculum/CCE/The_Learning_Festival.jpg" style="width:100%"><br>
