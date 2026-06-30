@@ -31,4 +31,4 @@ Every child has unique talents waiting to shine, and our Discover Your Sparkle p
 
 **ECG On the Move**<br>
 An interactive travelling exhibit is brought in to increase students’ awareness of their interests and sense of purpose, and to strengthen their hope and motivation to pursue their aspirations. Through thoughtfully designed activities, students learn more about their skills and strengths, and are guided to make connections between their strengths and a wider range of career interests.
-<img src="/images/Curriculum/CCE/Discover_Your_Sparkle.jpg" style="width:100%"><br>
+<img src="/images/Curriculum/CCE/ECG_On_the_Move.jpg" style="width:100%"><br>
