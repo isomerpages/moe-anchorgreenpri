@@ -36,3 +36,4 @@ An interactive travelling exhibit is brought in to increase students’ awarenes
 **P5–P6<br>
 Discovering My Purpose and Exploring Opportunities**<br>
 Students learn about different career pathways and education options through the SkillsFuture Portal. They also explore secondary school options and learn how to make informed choices about their future. Along the way, they build confidence in decision-making and develop resilience when faced with challenges. Students practise these skills through guided conversations with parents and ECG coaches, and use tools such as the MOE SchoolFinder to research and plan their educational pathways.
+<img src="/images/Curriculum/CCE/Discovering_My_Purpose.jpg" style="width:100%"><br>
