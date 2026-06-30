@@ -43,4 +43,4 @@ Our signature **A.G. STARS** programme bridges learning between the classroom an
 
 **Stage 1: Inspiring Voices (Career Conversations)**
 The journey begins with authentic dialogue. We invite a diverse range of professionals—including journalists, legal experts and police officers—to share their career stories. We also take great pride in welcoming back our alumni, who provide relatable insights into life after primary school. These sessions help students visualise the various educational pathways and opportunities that await them beyond Anchor Green.
-<img src="/images/Curriculum/CCE/ Inspiring_Voices.jpg" style="width:100%"><br>
+<img src="/images/Curriculum/CCE/Inspiring_Voices.jpg" style="width:100%"><br>
