@@ -10,8 +10,9 @@ The Education and Career Guidance (ECG) framework empowers students to explore o
 
 **Lower Primary (P1–P3)** introduces foundational elements through the Head and Heart approaches. The Head component exposes students to diverse career possibilities, helping them identify interests and strengths while developing critical thinking. The **Heart** component focuses on self-awareness and social development, guiding students to recognise their strengths, values and goals, while fostering empathy and reflection.
 
-**Upper Primary (P4–P6)** focuses on the Hand approach, where students engage in experiential learning. Through project-based tasks, collaboration and hands-on experiences, they develop practical skills such as communication, teamwork and problem-solving. Students apply their learning to real-world contexts, strengthening their readiness for future pathways and the world of work.
+**Upper Primary (P4–P6)** focuses on the Hand approach, where students engage in experiential learning. Through project-based tasks, collaboration and hands-on experiences, they develop practical skills such as communication, teamwork and problem-solving. Students apply their learning to real-world contexts, strengthening their readiness for future pathways and the world of work.<br>
 
+<img src="/images/Curriculum/CCE/Be_Yourself_Day.jpg" style="width:100%"><br>
 **P1–P2<br>
 Be Yourself Day**<br>
 In conjunction with _A.G. STARS_, our Primary 1 and 2 students celebrate _Be Yourself Day_ by expressing their dreams through career-themed outfits that reflect their aspirations.
@@ -26,3 +27,4 @@ This session bridges learning between the classroom and the professional world b
 
 **P4 Discover Your Sparkle &amp; ECG on the MOVE**<br>
 Every child has unique talents waiting to shine, and our Discover Your Sparkle programme helps Primary 4 students uncover their strengths and interests. Through hobby exploration, inspiring teacher stories, thoughtful class discussions and visits from guest speakers, students embark on a journey of self-discovery. They learn to appreciate what makes them unique while considering how their passions may connect to future possibilities, building confidence and a love of lifelong learning.
+<img src="/images/Curriculum/CCE/Discover_Your_Sparkle.jpg" style="width:100%"><br>
