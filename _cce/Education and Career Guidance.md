@@ -37,3 +37,10 @@ An interactive travelling exhibit is brought in to increase students’ awarenes
 Discovering My Purpose and Exploring Opportunities**<br>
 Students learn about different career pathways and education options through the SkillsFuture Portal. They also explore secondary school options and learn how to make informed choices about their future. Along the way, they build confidence in decision-making and develop resilience when faced with challenges. Students practise these skills through guided conversations with parents and ECG coaches, and use tools such as the MOE SchoolFinder to research and plan their educational pathways.
 <img src="/images/Curriculum/CCE/Discovering_My_Purpose.jpg" style="width:100%"><br>
+
+**A.G. STARS: Discovering My Purpose, Exploring Opportunities, Staying Relevant**<br>
+Our signature **A.G. STARS** programme bridges learning between the classroom and the real world. Our Primary 6 students embark on a comprehensive three-stage journey of self-discovery and professional exploration.<br>
+
+**Stage 1: Inspiring Voices (Career Conversations)**
+The journey begins with authentic dialogue. We invite a diverse range of professionals—including journalists, legal experts and police officers—to share their career stories. We also take great pride in welcoming back our alumni, who provide relatable insights into life after primary school. These sessions help students visualise the various educational pathways and opportunities that await them beyond Anchor Green.
+<img src="/images/Curriculum/CCE/ Inspiring_Voices.jpg" style="width:100%"><br>
