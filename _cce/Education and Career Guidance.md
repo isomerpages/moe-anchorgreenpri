@@ -22,3 +22,4 @@ Students design their costumes using recycled or reusable materials, making the 
 **P3–P4<br>
 Heart-to-Heart: Inspiring Young Aspirations**
 This session bridges learning between the classroom and the professional world by allowing students to hear firsthand career journeys from our parent volunteers. During our career exploration day, parents visit Primary 3 classrooms to share their work experiences and inspire young minds. Students then take their curiosity home by interviewing their own parents about their careers and discovering the stories behind different professions. This meaningful exchange broadens students’ understanding of career possibilities while strengthening family bonds and developing important communication skills. Through these conversations, students learn valuable lessons about hard work, perseverance and the importance of education in achieving their dreams.
+<img src="/images/Curriculum/CCE/Be_Yourself_Day.jpg" style="width:100%"><br>
