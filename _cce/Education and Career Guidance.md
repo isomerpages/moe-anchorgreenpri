@@ -41,7 +41,11 @@ Students learn about different career pathways and education options through the
 **A.G. STARS: Discovering My Purpose, Exploring Opportunities, Staying Relevant**<br>
 Our signature **A.G. STARS** programme bridges learning between the classroom and the real world. Our Primary 6 students embark on a comprehensive three-stage journey of self-discovery and professional exploration.<br>
 
-**Stage 1: Inspiring Voices (Career Conversations)**
+**Stage 1: Inspiring Voices (Career Conversations)**<br>
 The journey begins with authentic dialogue. We invite a diverse range of professionals—including journalists, legal experts and police officers—to share their career stories. We also take great pride in welcoming back our alumni, who provide relatable insights into life after primary school. These sessions help students visualise the various educational pathways and opportunities that await them beyond Anchor Green.
 <img src="/images/Curriculum/CCE/Inspiring_Voices.jpg" style="width:100%"><br>
+
+**Stage 2: Industry Immersion (Learning Journeys)**<br>
+Moving from conversation to observation, students embark on a one-day industry learning journey. By visiting workplaces, students gain firsthand exposure to specific sectors, discover how modern industries operate and learn about the different roles within them.
+<img src="/images/Curriculum/CCE/Industry_Immersion.jpg" style="width:100%"><br>
 
