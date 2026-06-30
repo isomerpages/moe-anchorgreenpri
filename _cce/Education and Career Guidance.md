@@ -32,3 +32,7 @@ Every child has unique talents waiting to shine, and our Discover Your Sparkle p
 **ECG On the Move**<br>
 An interactive travelling exhibit is brought in to increase students’ awareness of their interests and sense of purpose, and to strengthen their hope and motivation to pursue their aspirations. Through thoughtfully designed activities, students learn more about their skills and strengths, and are guided to make connections between their strengths and a wider range of career interests.
 <img src="/images/Curriculum/CCE/ECG_On_the_Move.jpg" style="width:100%"><br>
+
+**P5–P6<br>
+Discovering My Purpose and Exploring Opportunities**<br>
+Students learn about different career pathways and education options through the SkillsFuture Portal. They also explore secondary school options and learn how to make informed choices about their future. Along the way, they build confidence in decision-making and develop resilience when faced with challenges. Students practise these skills through guided conversations with parents and ECG coaches, and use tools such as the MOE SchoolFinder to research and plan their educational pathways.
