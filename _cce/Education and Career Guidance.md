@@ -18,3 +18,4 @@ The Education and Career Guidance (ECG) framework empowers students to explore o
 In conjunction with _A.G. STARS_, our Primary 1 and 2 students celebrate _Be Yourself Day_ by expressing their dreams through career-themed outfits that reflect their aspirations.
 
 Students design their costumes using recycled or reusable materials, making the celebration both meaningful and eco-friendly. It is a joyful showcase of imagination and ambition, as our Anchorlites proudly share their dreams, celebrate their individuality and embrace their limitless potential.
+<img src="/images/Curriculum/CCE/ECG_Logo.jpg" style="width:100%">
