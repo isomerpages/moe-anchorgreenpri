@@ -39,3 +39,5 @@ Our department employs a variety of teaching methods including explicit teaching
 #### [Student Leadership](/holistic-education/curriculum/character-and-citizenship-education/student-leadership)
 
 #### [Cyberwellness](/holistic-education/curriculum/character-and-citizenship-education/cyberwellness)
+
+#### [Education and Career Guidance ](holistic-education/curriculum/character-and-citizenship-education/education-and-career-guidance)
