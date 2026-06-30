@@ -4,3 +4,4 @@ permalink: /holistic-education/curriculum/character-and-citizenship-education/ed
 variant: markdown
 description: ""
 ---
+<img src="/images/Curriculum/CCE/ECG Logo.jpg" style="width:80%">
