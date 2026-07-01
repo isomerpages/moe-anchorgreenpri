@@ -66,8 +66,9 @@ Kindergarten Teachers
     <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:nur_atiqah_ridzwan@schools.gov.sg">nur_atiqah_ridzwan@schools.gov.sg</a></span></td>
   </tr>
   <tr>
-    <td class="tg-pk3b"><span style="font-weight:normal">Sabeen Sara D/O Abdul Hakkim <br>(Ms Sabeen)</span></td>
-    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:sabeen_sara_abdul_hakkim@schools.gov.sg">sabeen_sara_abdul_hakkim@schools.gov.sg</a></span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal">Selvaraj Ramya<br>(Ms Ramya)
+</span></td>
+    <td class="tg-pk3b"><span style="font-weight:normal"><a href="mailto:selvaraj_ramya@schools.gov.sg">selvaraj_ramya@schools.gov.sg</a></span></td>
   </tr>
 
  <tr>
