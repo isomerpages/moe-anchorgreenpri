@@ -58,6 +58,11 @@ Allied Educators
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Counsellor</span><br></td>
 	</tr>
 	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Oh Sock Hoon </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Student Welfare Officer</span></td>
+    <td class="tg-lb3e" style="text-align: center; vertical-align: middle;"><a href="mailto:Oh_Sock_Hoon@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">oh_sock_hoon@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
     <td class="tg-agmf"><br></td>
