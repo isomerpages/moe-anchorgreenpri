@@ -90,9 +90,8 @@ Primary 3 Teaching Staff
     <td class="tg-djmn"><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_pei_shan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">
-</span><br></td>
-    <td class="tg-djmn"><a href="mailto:tan_pei_shan@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a></td>
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mdm Khairunnisa Binte Jalil</span><br></td>
+    <td class="tg-djmn"><a href="mailto:khairunnisa_jalil@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">khairunnisa_jalil@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
