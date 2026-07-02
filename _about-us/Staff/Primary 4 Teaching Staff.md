@@ -89,9 +89,9 @@ Primary 4 Teaching Staff
     <td class="tg-33ww"><a href="mailto:lee_jierui_bernard@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lee_jierui_bernard@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr	Tan Meng Kwang Alvin
+    <td class="tg-ug26"><span style="color:#222;background-color:#FBFFFA">Mr Jodel Chow Zuliang
 </span></td>
-    <td class="tg-g24l"><a href="mailto:tan_meng_kwang_alvin@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_meng_kwang_alvin@schools.gov.sg</span></a></td>
+    <td class="tg-g24l"><a href="mailto:jodel_chow_zuliang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">jodel_chow_zuliang@schools.gov.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span></td>
