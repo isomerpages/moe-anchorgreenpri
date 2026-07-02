@@ -30,8 +30,16 @@ Chinese Language Teachers
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Gek Moi </span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:ang_gek_moi@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_gek_moi@schools.gov.sg</span></a></td>
   </tr>
+		<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Miss Neoh Wee Ling</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:neoh_wee_ling@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">neoh_wee_ling@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Swee Hong</span></td>
+	</tr><tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Chua Chee Liang  </span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:chua_chee_liang@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">chua_chee_liang@schools.gov.sg</span></a></td>
+  </tr>
+    <tr><td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Swee Hong</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:ang_swee_hong@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ang_swee_hong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -70,6 +78,10 @@ Chinese Language Teachers
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Liao Yi-Ling Allison</span></td>
     <td class="tg-fskk"><a href="mailto:liao_yi_ling_allison@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">liao_yi_ling_allison@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Lim Wan Lin Veronica</span></td>
+    <td class="tg-fskk"><a href="mailto:lim_wan_lin_veronica@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_wan_lin_veronica@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Loh Siang Choo</span></td>
