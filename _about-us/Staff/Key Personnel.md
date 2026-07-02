@@ -89,6 +89,12 @@ Physical Education</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:toh_xuying_geraldine@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">toh_xuying_geraldine@schools.gov.sg</span></a></td>
   </tr>
 	<tr> 
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>English</span><br></td>
+    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a></td>
+  </tr>
+		<tr> 
+	</tr><tr> 
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Siti Farhaana Mohammad</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Year Head<br>Lower Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:siti_farhaana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siti_farhaana_mohammad@schools.gov.sg</span></a></td>
@@ -113,13 +119,7 @@ Physical Education</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Assistant Year Head<br>Middle Primary</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:shairah_sulaiman@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">shairah_sulaiman@schools.gov.sg</span></a></td>
   </tr>
-	<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Marie Ho Mei Ling</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Student Leadership</span><br></td>
-    <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:marie_ho@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">marie_ho@schools.gov.sg</span></a></td>
-  </tr>
-		<tr> 
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Maslina Mohtar</span><br></td>
+    <tr><td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Maslina Mohtar</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Subject Head<br>Discipline</span><br></td>
     <td class="tg-fskk" style="text-align: center; vertical-align: middle;"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a></td>
   </tr>
