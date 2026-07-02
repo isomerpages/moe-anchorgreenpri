@@ -26,7 +26,11 @@ Art
   </tr>
 </thead>
 <tbody>
-  
+   <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Ismail</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
+    <td class="tg-fskk"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a><br></td>
+  </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Ismail</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
@@ -38,6 +42,11 @@ Art
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:illiyana_mohammad@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">illiyana_mohammad@schools.gov.sg</span></a></td>
   </tr>
  <tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Yu Ting</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Yu Ting</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
