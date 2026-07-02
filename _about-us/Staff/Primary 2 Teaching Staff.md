@@ -46,8 +46,8 @@ Primary 2 Teaching Staff
     <td class="tg-g24l"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">mohd_yusoff@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA"></span><br></td>
-    <td class="tg-g24l"><a href="mailto:mohd_yusoff@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A"></span></a><br></td>
+    <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mdm Siak Yim Peng</span><br></td>
+    <td class="tg-g24l"><a href="mailto:siak_yim_peng_a@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">siak_yim_peng_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-djmn" rowspan="3"><span style="color:#222;background-color:#FBFFFA">2 iNtegrity</span></td>
