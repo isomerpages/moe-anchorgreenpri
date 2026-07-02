@@ -26,11 +26,6 @@ Art
   </tr>
 </thead>
 <tbody>
-   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Ismail</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
-    <td class="tg-fskk"><a href="mailto:nur_martina_ismail@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">nur_martina_ismail@schools.gov.sg</span></a><br></td>
-  </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Nur Martina Ismail</span><br></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
@@ -47,9 +42,15 @@ Art
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Ms Tan Yu Ting</span></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Miss Yeo Siew Ju</span></td>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:tan_yu_ting@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">tan_yu_ting@schools.gov.sg</span></a></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> </span><a href="mailto:yeo_siew_ju@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">yeo_siew_ju@schools.gov.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Ong Shu Ying<br>
+(Mrs Leong)</span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Art</span><br></td>
+    <td class="tg-fskk"><a href="mailto:ong_shu_ying@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">ong_shu_ying@schools.gov.sg</span></a><br></td>
   </tr>
 		<tr>
     <td class="tg-rxka"><span style="color:#222;background-color:#FBFFFA"></span></td>
