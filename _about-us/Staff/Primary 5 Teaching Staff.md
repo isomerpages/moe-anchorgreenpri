@@ -52,10 +52,9 @@ Primary 5 Teaching Staff
     <td class="tg-33ww"><a href="mailto:zen_ng_hui_wen@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">zen_ng_hui_wen@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-3dle">Mdm	Maslina Bte Mohtar</td>
-    <td class="tg-g24l"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">maslina_mohtar@schools.gov.sg</span></a></td>
+    <td class="tg-3dle">Miss Lim Jie Ying Jamie</td>
+    <td class="tg-g24l"><a href="mailto:maslina_mohtar@schools.gov.sg"><span style="font-weight:500;text-decoration:underline;color:#21088A">lim_jie_ying_jamie@schools.gov.sg</span></a></td>
   </tr>
-  
   <tr>
     <td class="tg-ug26" rowspan="2"><span style="color:#222;background-color:#FBFFFA">5 Care</span></td>
       <td class="tg-djmn"><span style="color:#222;background-color:#FBFFFA">Mr	Mohamad Firuz Bin Jelaludin</span></td>
