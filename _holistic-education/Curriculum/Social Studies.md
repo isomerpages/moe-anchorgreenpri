@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum
 variant: markdown
 ---
-****Social Studies
+Social Studies
 ==============
 ##### Nurturing Informed, Concerned and Participative Citizens
 
@@ -84,7 +84,22 @@ All Anchorlites participate in authentic learning journeys that bring Social Stu
 
 ![](/images/Curriculum/Social%20Studies/The_Buddha_Relic_Temple_along_Kreta_Ayer_Heritage_Centre_Trail.jpg)
 
+**Primary 5- Indian Heritage Centre**
+
 ![](/images/Curriculum/Social%20Studies/Indian_Heritage_Centre_at_Little_India.jpg)
+
+**Primary 6 – Asian Civilisations Museum**
 
 ![](/images/Curriculum/Social%20Studies/The_Asian_Civilisation_Museum_at_Empress_Place.jpg)
 
+**Through these Learning Journeys, students:**<br>
+a)	Explore Singapore’s multicultural heritage<br>
+b)	Appreciate diverse communities<br>
+c)	Connect classroom learning to real-world experiences<br>
+d)	Develop a stronger sense of identity, belonging and citizenship
+
+**Developing 21st Century Competencies**<br>
+-	Civic Literacy, Global Awareness &amp; Cross-Cultural Skills<br>
+-	Critical and Inventive Thinking<br>
+-	Communication, Collaboration and Information Skills<br>
+-	Social &amp; Emotional Competencies<br>
