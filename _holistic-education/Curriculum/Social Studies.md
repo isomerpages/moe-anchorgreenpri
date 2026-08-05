@@ -3,92 +3,103 @@ title: Social Studies
 permalink: /holistic-education/curriculum/social-studies/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Social Studies
 ==============
+##### Nurturing Informed, Concerned and Participative Citizens
+
+At the heart of the Singapore Social Studies Curriculum is the preparation of students to become **informed, concerned and participative citizens.**
+![](/images/Curriculum/Social%20Studies/Student_as_Informed__Concerned_and_Participative_Citizens.jpg)
+At Anchor Green Primary School, Social Studies helps our Anchorlites better understand themselves, Singapore and the interconnected world in which they live. Through the study of people, places, events and issues, students learn to appreciate the diversity and complexities of the human experience and consider how they can contribute positively to society.
+Social Studies supports our school vision of developing **Agile Learners and Gracious Citizens**, as well as our desired Student Outcomes of **Critical Thinkers, Respectful Collaborators, Resilient Explorers and Responsible Contributors.**
+![](/images/Curriculum/Social%20Studies/Developing_Our_AGPS_Student_Outcomes.jpg)<br>
+##### Our Aims
+Through Social Studies, we seek to develop students who:
+
+**Are Curious and Informed**<br>
+Students inquire into issues related to themselves, Singapore, the region and the wider world. They develop the knowledge needed to understand how people, places and events are interconnected.
+
+**Think Critically and Reflectively**<br>
+Students examine information and evidence, ask meaningful questions, consider different perspectives and reflect on their own thinking before arriving at well-reasoned conclusions.
+
+**Demonstrate Empathy and Respect**<br>
+Students learn to appreciate diverse experiences, cultures and viewpoints. They develop empathy and show respect when listening to and engaging with others.
+
+**Make Responsible Decisions**<br>
+Students consider the impact of their choices on others, the community and the environment, enabling them to make thoughtful and responsible decisions.
+
+**Contribute Actively**<br>
+Students are encouraged to apply their learning and take meaningful action within their school, community and society.
+
+##### What Our Students Learn
+The Primary Social Studies syllabus is organised into three broad clusters of study. Students progressively expand their understanding from themselves and their immediate surroundings to Singapore, Southeast Asia and the wider world.
 
 
-### Vision
+|Level | Area of Study | Inquiry Focus |
+| -------- | -------- | -------- |
+|**Primary 1**| Knowing Myself, Others and My Surroundings|	Who am I in relation to the people and places around me?|
+|**Primary 2**| Coming Together as a Nation| What unites the people in Singapore as a nation?|
+|**Primary 3**| Understanding Singapore’s Environment and Challenges| What is Singapore’s environment like and how do we overcome the challenges we face?|
+|**Primary 4**| Understanding Our Past| How is life in Singapore today shaped by what happened in the past?|
+|**Primary 5**| Understanding Singapore’s Development as a Nation| How has Singapore developed as a nation since its independence?|
+|         | Understanding Southeast Asia’s Diversity and Interconnectedness| What makes up Southeast Asia and how are the countries interconnected?|
+|**Primary 6**| Understanding the Features and Legacies of Civilisations| How are the legacies of civilisations seen in our lives today?|
 
-To nurture pupils as informed, concerned and participative citizens who make informed decisions for the benefit of nation and community
 
-  
+Through these areas of study, students deepen their appreciation of:
+* their identity and relationships with others; 
+* Singapore’s heritage, diversity and development; 
+* the relationship between people and the environment; 
+* Singapore’s connections with Southeast Asia and the world; and 
+* how the past continues to influence our lives today. 
 
-### Objectives
+##### How Our Students Learn
 
-At AGPS, we seek to:
+![](/images/Curriculum/Social%20Studies/How_students_learn_social_studies.jpg)
 
-*   Ignite pupils’ curiosity and inquire into real-world, global issues that concerns Singapore;
-*   Develop pupils’ critical and reflective thinking skills and to appreciate multiple perspectives; and
-*   Nurture pupils’ dispositions to show concern for the world they live in and demonstrates empathy in their relationships with others
+**Assessment for Learning**<br><br>
+Assessment is used to support students’ learning and provide them with opportunities to demonstrate their understanding in different ways.<br><br>
+Students may be assessed through:
+* class discussions and learning activities; 
+* individual and collaborative performance tasks; 
+* interpretation of sources and evidence; 
+* presentations and written responses; 
+* individual reflections; and 
+* regular checks of their knowledge, skills and understanding. 
 
-  
+Performance tasks may include both **group work and individual reflection**, enabling students to demonstrate collaboration while also expressing their personal understanding and learning
 
-### Pedagogical Approach
 
-Inquiry approach is the pedagogy adopted for the implementation of the Social Studies syllabus. It provides pupils with learning experiences that are engaging and relevant to them as well as equipping pupils with the knowledge, skills and values that would enable them to succeed at becoming effective citizens, professionals and leaders in the 21st century. Through inquiry-based learning, pupils are involved in investigating, inquiring and reflection so that they will better understand the inter-connectedness of the knowledge gained and application in the real world.
+**Our Key Programmes**
 
-  
+All Anchorlites participate in authentic learning journeys that bring Social Studies concepts to life through exploration, discovery and reflection.
 
-### Key Programmes
 
-Anchorlites embark on National Education (NE) learning journeys to contextualize their learning experience in an authentic real-world setting. They experience hands-on exploration in a focused area of study, thus being engaged in multi-sensory modes and make connections to the topic being studied. 
+**Primary 3 – Geylang Serai Heritage Gallery**
 
-The NE Learning Journeys at the different levels are listed in the table below:
+![](/images/Curriculum/Social%20Studies/Geylang_Serai_Heritage_Gallery.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rk1q{background-color:#22A114;border-color:inherit;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rk1q"><span style="color:#FBFFFA;background-color:#22A114">Level</span></th>
-    <th class="tg-xn89"><span style="color:#FBFFFA;background-color:#22A114">NE Learning Experience</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Primary Four</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Singapore River</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Primary Five</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Little India</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Primary Six</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Kampong Glam</span></td>
-  </tr>
-</tbody>
-</table>
+**Primary 4 – Kreta Ayer Heritage Centre**
 
-P4 to P6 Learning Journeys
---------------------------
+![](/images/Curriculum/Social%20Studies/The_Buddha_Relic_Temple_along_Kreta_Ayer_Heritage_Centre_Trail.jpg)
 
-<img src="/images/Curriculum/Social%20Studies/P4%20to%20P6%20Learning%20Journeys.jpg"  
-style="width:80%">
+**Primary 5- Indian Heritage Centre**
 
-Social Studies Lessons
-----------------------
+![](/images/Curriculum/Social%20Studies/Indian_Heritage_Centre_at_Little_India.jpg)
 
-<img src="/images/Curriculum/Social%20Studies/Collaborative%20discussion%20on%20a%20given%20topic.jpg"  
-style="width:80%">
+**Primary 6 – Asian Civilisations Museum**
 
-Engaged in collaborative discussion on a given topic
+![](/images/Curriculum/Social%20Studies/The_Asian_Civilisation_Museum_at_Empress_Place.jpg)
 
-<img src="/images/Curriculum/Social%20Studies/Map%20reading%20time.jpg"  
-style="width:80%">
+**Through these Learning Journeys, students:**<br>
+a)	Explore Singapore’s multicultural heritage<br>
+b)	Appreciate diverse communities<br>
+c)	Connect classroom learning to real-world experiences<br>
+d)	Develop a stronger sense of identity, belonging and citizenship
 
-Map reading time!
-
-<img src="/images/Curriculum/Social%20Studies/Sequenced%20the%20timeline%20for%20Ancient%20Civilisation.jpg"  
-style="width:80%">
-
-We sequenced the timeline for Ancient Civilisation!
+**Developing 21st Century Competencies**<br>
+-	Civic Literacy, Global Awareness &amp; Cross-Cultural Skills<br>
+-	Critical and Inventive Thinking<br>
+-	Communication, Collaboration and Information Skills<br>
+-	Social &amp; Emotional Competencies<br>
