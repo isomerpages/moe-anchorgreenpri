@@ -46,3 +46,15 @@ The Primary Social Studies syllabus is organised into three broad clusters of st
 |         | Understanding Southeast Asia’s Diversity and Interconnectedness| What makes up Southeast Asia and how are the countries interconnected?|
 |**Primary 6**| Understanding the Features and Legacies of Civilisations| How are the legacies of civilisations seen in our lives today?|
 
+
+Through these areas of study, students deepen their appreciation of:
+* their identity and relationships with others; 
+* Singapore’s heritage, diversity and development; 
+* the relationship between people and the environment; 
+* Singapore’s connections with Southeast Asia and the world; and 
+* how the past continues to influence our lives today. 
+
+##### How Our Students Learn
+
+![](/images/Curriculum/Social%20Studies/How_students_learn_social_studies.jpg)
+
