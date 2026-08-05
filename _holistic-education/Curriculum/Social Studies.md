@@ -58,3 +58,33 @@ Through these areas of study, students deepen their appreciation of:
 
 ![](/images/Curriculum/Social%20Studies/How_students_learn_social_studies.jpg)
 
+**Assessment for Learning**<br><br>
+Assessment is used to support students’ learning and provide them with opportunities to demonstrate their understanding in different ways.<br><br>
+Students may be assessed through:
+* class discussions and learning activities; 
+* individual and collaborative performance tasks; 
+* interpretation of sources and evidence; 
+* presentations and written responses; 
+* individual reflections; and 
+* regular checks of their knowledge, skills and understanding. 
+
+Performance tasks may include both **group work and individual reflection**, enabling students to demonstrate collaboration while also expressing their personal understanding and learning
+
+
+**Our Key Programmes**
+
+All Anchorlites participate in authentic learning journeys that bring Social Studies concepts to life through exploration, discovery and reflection.
+
+
+**Primary 3 – Geylang Serai Heritage Gallery**
+
+![](/images/Curriculum/Social%20Studies/Geylang_Serai_Heritage_Gallery.jpg)
+
+**Primary 4 – Kreta Ayer Heritage Centre**
+
+![](/images/Curriculum/Social%20Studies/The_Buddha_Relic_Temple_along_Kreta_Ayer_Heritage_Centre_Trail.jpg)
+
+![](/images/Curriculum/Social%20Studies/Indian_Heritage_Centre_at_Little_India.jpg)
+
+![](/images/Curriculum/Social%20Studies/The_Asian_Civilisation_Museum_at_Empress_Place.jpg)
+
