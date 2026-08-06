@@ -15,7 +15,7 @@ School Term : 10:00am - 7pm<br>
 School Holiday: 7am - 7pm
 
 Please click the link to view more about the services provided.<br>
-KCare@AGPS: <a href="/files/SC/KCare_Cover_Slides.pdf" target="_blank">Kcare cover slides</a><br>
+KCare@AGPS: <a href="/files/SC/kcare_cover_slides.pdf" target="_blank">Kcare cover slides</a><br>
 Website: <a href="https://learningstudioeducare.com/contact-us/" target="_blank">https://learningstudioeducare.com/contact-us/</a>
 
 <br>
@@ -31,5 +31,5 @@ School Term: 1.30pm – 7pm<br>
 School Holiday: 7.30am – 7pm<br>
 
 Please click the link to view more about the services provided.<br>
-KCare@AGPS: <a href="/files/SC/KCare_Cover_Slides.pdf" target="_blank">SCC cover slides</a><br>
+KCare@AGPS: <a href="/files/SC/scc_cover_slides.pdf" target="_blank">SCC cover slides</a><br>
 Website: <a href="https://learningstudioeducare.com/contact-us/" target="_blank">https://learningstudioeducare.com/contact-us/</a>
