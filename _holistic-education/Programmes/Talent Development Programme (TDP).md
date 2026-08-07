@@ -15,3 +15,22 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 
 **3Es Approach (Excite, Enrich and Excel)**
 ![](/images/Programmes/TDP/The_3E_s_Approach.jpg)
+
+Talent Development Programme @AGPS****
+
+<table cellpadding="8" cellspacing="0" border="1">
+    <tbody><tr>
+			<td><b>English Language</b><br><i> Reading Circles (RC)</i><br><br>Reading Circles (RC) exposes <b>Primary 4 to 6</b> students to a range of age-appropriate rich texts. Through collective inquiry, students cultivate an active and inquiring stance towards reading, while strengthening their imagination, perspective-taking and empathy.
+
+</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Row 2, Column 1</td>
+        <td>Row 2, Column 2</td>
+    </tr>
+    <tr>
+        <td>Row 3, Column 1</td>
+        <td>Row 3, Column 2</td>
+    </tr>
+</tbody></table>
