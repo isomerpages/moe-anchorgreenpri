@@ -31,7 +31,7 @@ Talent Development Programme @AGPS****
         <td style="width:50%;"><img src="/images/Programmes/TDP/Wits_and_Words.jpg" style="width:100%"></td>
     </tr>
     <tr>
-        <td>Row 3, Column 1</td>
-        <td>Row 3, Column 2</td>
+        <td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br></td>
+        <td>Row 3, Column 2   Integrated_Learning_Lessons</td>
     </tr>
 </tbody></table>
