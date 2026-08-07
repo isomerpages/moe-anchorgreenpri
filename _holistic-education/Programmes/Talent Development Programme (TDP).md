@@ -53,4 +53,7 @@ The Little Reporter Programme offers Primary 5 students hands-on experience in j
 <b>Aesthetics</b><br>
 <i>ArtCharts</i><br>
 ArtCharts is an AGPS Talent Development Programme that nurtures <b>Primary 3 to 6 </b>students with strong interest and aptitude in the visual arts. The programme develops confident, reflective and socially responsible young artists who contribute meaningfully to the school and wider community through the Arts.
-![](/images/Programmes/TDP/Aeshtetics.jpg)
+![](/images/Programmes/TDP/Aeshtetics.jpg)<br><br>
+<b>Physical Education</b><br>
+<i>Sports Talent </i><br>
+The AGPS Sports Talent Programme is part of MOE’s Revised PE and Sports Development Framework, which advocates a whole-school approach to developing Anchorlites through Sports and Outdoor Education. It provides a supportive environment for students to build a strong foundation for continual growth, promoting physical, social and emotional well-being. Anchorlites are given opportunities to develop fundamental motor skills, experience a range of sports, participate recreationally and pursue competitive pathways in areas of strength. <b>From Primary 3, students who demonstrate strong sporting talent and passion are identified by PE teachers through performance tasks and selected for sport-specific training in basketball, floorball or netball.</b>
