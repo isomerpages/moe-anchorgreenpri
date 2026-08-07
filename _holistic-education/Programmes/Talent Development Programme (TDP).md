@@ -28,7 +28,7 @@ Talent Development Programme @AGPS****
 			<td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br>The Wits &amp; Words Inter-School Debate Championship nurtures and challenges verbally talented Primary 5 students by strengthening their oral communication and reasoning skills. Through structured debates with peers from other schools, students learn to articulate ideas clearly, think critically and respond confidently under pressure.
 
 </td>
-        <td style="width:50%;"><img src="/images/Programmes/TDP/Reading_Circles.jpg" style="width:100%"></td>
+        <td style="width:50%;"><img src="/images/Programmes/TDP/Wits_and_Words.jpg" style="width:100%"></td>
     </tr>
     <tr>
         <td>Row 3, Column 1</td>
