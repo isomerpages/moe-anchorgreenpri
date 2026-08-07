@@ -12,4 +12,4 @@ For students with identified academic strengths and talents, the school provides
 
 For Primary 4 to 6 students, opportunities are provided across Languages, Mathematics and Science to support the balanced development of their academic strengths. Selected students may opt to participate in a Language TDP on Mondays and/or a Mathematics or Science TDP on Tuesdays. Each programme runs for one hour, from 3.00 p.m. to 4.00 p.m. Anchorlites with potential in arts may participate in Art Charts on Mondays from 3.00 p.m. to 5.00 p.m.
 
-
+**3Es Approach (Excite, Enrich and Excel)**
