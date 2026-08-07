@@ -18,7 +18,7 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 
 ##### Talent Development Programme @AGPS
 
-<table cellpadding="8" cellspacing="0" border="1">
+<table style="border-collapse: collapse; border: none;">
     <tbody><tr>
 			<td style="width:50%;"><img src="/images/Programmes/TDP/Reading_Circles.jpg" style="width:100%"></td><td style="width:50%;"><b>English Language</b><br><i> Reading Circles (RC)</i><br><br>Reading Circles (RC) exposes <b>Primary 4 to 6</b> students to a range of age-appropriate rich texts. Through collective inquiry, students cultivate an active and inquiring stance towards reading, while strengthening their imagination, perspective-taking and empathy.
 </td>
