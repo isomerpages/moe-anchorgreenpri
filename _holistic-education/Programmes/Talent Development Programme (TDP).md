@@ -14,3 +14,4 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 ![](/images/Programmes/TDP/Talent_Development_Programme_Logo.jpg)
 
 **3Es Approach (Excite, Enrich and Excel)**
+![](/images/Programmes/TDP/The_3E_s_Approach.jpg)
