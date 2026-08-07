@@ -31,7 +31,7 @@ Talent Development Programme @AGPS****
         <td style="width:50%;"><img src="/images/Programmes/TDP/Wits_and_Words.jpg" style="width:100%"></td>
     </tr>
     <tr>
-        <td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br></td>
+        <td style="width:50%;"><b>English Language</b><br><i>Integrated Learning Lessons (ILL)</i><br><br>Integrated Learning Lessons engage <b>Primary 4</b> students in meaningful, real-world learning by integrating knowledge and skills across subjects. Working collaboratively in groups, students research, discuss and explore selected themes or topics. Through this process, they develop communication, collaboration, critical thinking and information literacy skills, while nurturing empathy and a deeper appreciation of the world around them.</td>
         <td>Row 3, Column 2   Integrated_Learning_Lessons</td>
     </tr>
 </tbody></table>
