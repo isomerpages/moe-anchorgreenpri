@@ -27,9 +27,8 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 			<td style="width:50%;"><img src="/images/Programmes/TDP/Wits_and_Words.jpg" style="width:100%"></td><td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br>The Wits &amp; Words Inter-School Debate Championship nurtures and challenges verbally talented Primary 5 students by strengthening their oral communication and reasoning skills. Through structured debates with peers from other schools, students learn to articulate ideas clearly, think critically and respond confidently under pressure.
 </td>      
     </tr>
-    <tr>
+    <tr><td style="width:50%;"><img src="/images/Programmes/TDP/Integrated_Learning_Lessons.jpg" style="width:100%"></td>
         <td style="width:50%;"><b>English Language</b><br><i>Integrated Learning Lessons (ILL)</i><br><br>Integrated Learning Lessons engage <b>Primary 4</b> students in meaningful, real-world learning by integrating knowledge and skills across subjects. Working collaboratively in groups, students research, discuss and explore selected themes or topics. Through this process, they develop communication, collaboration, critical thinking and information literacy skills, while nurturing empathy and a deeper appreciation of the world around them.</td>
-        <td style="width:50%;"><img src="/images/Programmes/TDP/Integrated_Learning_Lessons.jpg" style="width:100%"></td>
     </tr>
 </tbody></table>
 
