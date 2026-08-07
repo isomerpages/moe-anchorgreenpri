@@ -20,14 +20,15 @@ Talent Development Programme @AGPS****
 
 <table cellpadding="8" cellspacing="0" border="1">
     <tbody><tr>
-			<td><b>English Language</b><br><i> Reading Circles (RC)</i><br><br>Reading Circles (RC) exposes <b>Primary 4 to 6</b> students to a range of age-appropriate rich texts. Through collective inquiry, students cultivate an active and inquiring stance towards reading, while strengthening their imagination, perspective-taking and empathy.
-
+			<td style="width:50%;"><b>English Language</b><br><i> Reading Circles (RC)</i><br><br>Reading Circles (RC) exposes <b>Primary 4 to 6</b> students to a range of age-appropriate rich texts. Through collective inquiry, students cultivate an active and inquiring stance towards reading, while strengthening their imagination, perspective-taking and empathy.
 </td>
-        <td></td>
+        <td style="width:50%;"><img src="/images/Programmes/TDP/Reading_Circles.jpg" style="width:100%"></td>
     </tr>
     <tr>
-        <td>Row 2, Column 1</td>
-        <td>Row 2, Column 2</td>
+			<td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br>The Wits &amp; Words Inter-School Debate Championship nurtures and challenges verbally talented Primary 5 students by strengthening their oral communication and reasoning skills. Through structured debates with peers from other schools, students learn to articulate ideas clearly, think critically and respond confidently under pressure.
+
+</td>
+        <td style="width:50%;"><img src="/images/Programmes/TDP/Reading_Circles.jpg" style="width:100%"></td>
     </tr>
     <tr>
         <td>Row 3, Column 1</td>
