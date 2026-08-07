@@ -33,10 +33,16 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 </tbody></table>
 
 <b>Mathematics</b><br>
-<i>Excellence 2000 (E2K) Math Programme</i><br><br>
+<i>Excellence 2000 (E2K) Math Programme</i><br>
 E2K Math modules deepen conceptual understanding and develop important 21CC, such as critical and inventive thinking and effective communication skills. Selected modules are customised and incorporated into our Primary 4 to 6 Mathematics curriculum.
-
 ![](/images/Programmes/TDP/Mathematics.jpg)
-
 <b>Mathematics</b><br>
-<i>Primary Math Olympiad</i><br><br>
+<i>Primary Math Olympiad</i><br>
+The Primary Math Olympiad provides an enriching platform for Primary 5 and 6 students who enjoy mathematical challenges. It exposes them to thought-provoking, non-routine problems beyond the regular curriculum, encouraging creative thinking, logical reasoning and perseverance.<br><br>
+<b>Science</b><br>
+<i>Excellence 2000 (E2K) Science Programme</i><br>
+The E2K Science Programme offers opportunities for Primary 4 to 6 students to engage in scientific investigations and deepen their understanding of advanced Science concepts through an inquiry approach. These rich learning experiences help students develop the habits, attitudes and dispositions of scientists. Students also strengthen important 21CC, such as critical thinking, inventive thinking and effective communication skills.
+![](/images/Programmes/TDP/Science.jpg)
+<b>Science</b><br>
+<i>Primary Science Olympiad</i><br>
+The Science Olympiad challenges Primary 5 and 6 students to deepen their understanding of scientific concepts through inquiry, problem-solving and hands-on application. It nurtures curiosity and higher-order thinking as students apply scientific knowledge creatively and collaboratively to tackle complex tasks, building a strong foundation for scientific thinking and innovation.
