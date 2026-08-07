@@ -20,15 +20,12 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 
 <table cellpadding="8" cellspacing="0" border="1">
     <tbody><tr>
-			<td style="width:50%;"><b>English Language</b><br><i> Reading Circles (RC)</i><br><br>Reading Circles (RC) exposes <b>Primary 4 to 6</b> students to a range of age-appropriate rich texts. Through collective inquiry, students cultivate an active and inquiring stance towards reading, while strengthening their imagination, perspective-taking and empathy.
+			<td style="width:50%;"><img src="/images/Programmes/TDP/Reading_Circles.jpg" style="width:100%"></td><td style="width:50%;"><b>English Language</b><br><i> Reading Circles (RC)</i><br><br>Reading Circles (RC) exposes <b>Primary 4 to 6</b> students to a range of age-appropriate rich texts. Through collective inquiry, students cultivate an active and inquiring stance towards reading, while strengthening their imagination, perspective-taking and empathy.
 </td>
-        <td style="width:50%;"><img src="/images/Programmes/TDP/Reading_Circles.jpg" style="width:100%"></td>
     </tr>
     <tr>
-			<td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br>The Wits &amp; Words Inter-School Debate Championship nurtures and challenges verbally talented Primary 5 students by strengthening their oral communication and reasoning skills. Through structured debates with peers from other schools, students learn to articulate ideas clearly, think critically and respond confidently under pressure.
-
-</td>
-        <td style="width:50%;"><img src="/images/Programmes/TDP/Wits_and_Words.jpg" style="width:100%"></td>
+			<td style="width:50%;"><img src="/images/Programmes/TDP/Wits_and_Words.jpg" style="width:100%"></td><td style="width:50%;"><b>English Language</b><br><i>Wits &amp; Words</i><br><br>The Wits &amp; Words Inter-School Debate Championship nurtures and challenges verbally talented Primary 5 students by strengthening their oral communication and reasoning skills. Through structured debates with peers from other schools, students learn to articulate ideas clearly, think critically and respond confidently under pressure.
+</td>      
     </tr>
     <tr>
         <td style="width:50%;"><b>English Language</b><br><i>Integrated Learning Lessons (ILL)</i><br><br>Integrated Learning Lessons engage <b>Primary 4</b> students in meaningful, real-world learning by integrating knowledge and skills across subjects. Working collaboratively in groups, students research, discuss and explore selected themes or topics. Through this process, they develop communication, collaboration, critical thinking and information literacy skills, while nurturing empathy and a deeper appreciation of the world around them.</td>
@@ -39,4 +36,3 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 <b>Mathematics</b><br>
 <i>Excellence 2000 (E2K) Math Programme</i><br><br>
 E2K Math modules deepen conceptual understanding and develop important 21CC, such as critical and inventive thinking and effective communication skills. Selected modules are customised and incorporated into our Primary 4 to 6 Mathematics curriculum.
-
