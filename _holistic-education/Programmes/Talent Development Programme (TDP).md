@@ -35,3 +35,8 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
         <td style="width:50%;"><img src="/images/Programmes/TDP/Integrated_Learning_Lessons.jpg" style="width:100%"></td>
     </tr>
 </tbody></table>
+
+<b>Mathematics</b><br>
+<i>Excellence 2000 (E2K) Math Programme</i><br><br>
+E2K Math modules deepen conceptual understanding and develop important 21CC, such as critical and inventive thinking and effective communication skills. Selected modules are customised and incorporated into our Primary 4 to 6 Mathematics curriculum.
+
