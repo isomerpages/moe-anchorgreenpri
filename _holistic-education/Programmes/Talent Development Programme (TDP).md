@@ -16,7 +16,7 @@ For Primary 4 to 6 students, opportunities are provided across Languages, Mathem
 **3Es Approach (Excite, Enrich and Excel)**
 ![](/images/Programmes/TDP/The_3E_s_Approach.jpg)
 
-<b>Talent Development Programme @AGPS</b>
+##### Talent Development Programme @AGPS
 
 <table cellpadding="8" cellspacing="0" border="1">
     <tbody><tr>
