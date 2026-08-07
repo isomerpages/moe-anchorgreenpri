@@ -45,4 +45,11 @@ The E2K Science Programme offers opportunities for Primary 4 to 6 students to en
 ![](/images/Programmes/TDP/Science.jpg)
 <b>Science</b><br>
 <i>Primary Science Olympiad</i><br>
-The Science Olympiad challenges Primary 5 and 6 students to deepen their understanding of scientific concepts through inquiry, problem-solving and hands-on application. It nurtures curiosity and higher-order thinking as students apply scientific knowledge creatively and collaboratively to tackle complex tasks, building a strong foundation for scientific thinking and innovation.
+The Science Olympiad challenges Primary 5 and 6 students to deepen their understanding of scientific concepts through inquiry, problem-solving and hands-on application. It nurtures curiosity and higher-order thinking as students apply scientific knowledge creatively and collaboratively to tackle complex tasks, building a strong foundation for scientific thinking and innovation.<br><br>
+<b>Mother Tongue Languages</b><br>
+<i>Little Reporter Programme</i><br>
+The Little Reporter Programme offers Primary 5 students hands-on experience in journalism through activities such as interviewing, filming, broadcasting and news writing. Students gain confidence in using their Mother Tongue Language to report on school events, while developing critical thinking, teamwork and communication skills.
+![](/images/Programmes/TDP/Mother_Tongue.jpg)<br><br>
+<b>Aesthetics</b><br>
+<i>ArtCharts</i><br>
+ArtCharts is an AGPS Talent Development Programme that nurtures <b>Primary 3 to 6 </b>students with strong interest and aptitude in the visual arts. The programme develops confident, reflective and socially responsible young artists who contribute meaningfully to the school and wider community through the Arts.
